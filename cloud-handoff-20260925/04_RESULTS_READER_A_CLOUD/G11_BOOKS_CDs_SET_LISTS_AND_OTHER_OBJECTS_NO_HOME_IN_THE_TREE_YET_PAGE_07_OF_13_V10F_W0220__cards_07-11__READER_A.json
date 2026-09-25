@@ -1,0 +1,62 @@
+[
+  {
+    "item_number": "1955",
+    "name_on_card": "Poems now Songs from PBT",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_220020.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Photo rotated 90°; cards on right side read top-to-bottom as 1-9-S-S (S=5) = 1955 in original left-to-right order",
+    "NAME": "OK", "NAME_NOTE": "Upper right sheet header reads 'poems now Songs From PBT:'; matches name_on_card 'Poems now Songs from PBT'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; rotated 90°; two sheets visible: left sheet lists 'Water flesh & bone / Dead Silence / Nature of Man / Overrated / TM / We're the ones / Rocking the wall / Fresco / Clean wipe to slate / What we share / Come for a Ride / Curves of Sorrow / One sip of Knife / Here and Now / Last Cup of Coffee / Blessing in disguise / Unity / Rainy day Sunshine / Worth the wait / Dead End / Right between the eyes / Little Bird / How Can you Live' with notes 'in the coming rain / Let Down / underrated'; right sheet lists 'Ythop / Angel / Good Morn / Unlove / Well organ / Sky light / Lonely clouds / Runion / Questions / Me Myself / Top MT.' with counts '1 / ocean 60 / 60 / 100 / Pandora / Always moving / Secrets from / Patching back'; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90°; document text runs vertically sideways in frame",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1750",
+    "name_on_card": "POEMS WITH NO HOME",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_170524.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Photo rotated 90°; cards on right side read top-to-bottom as 1-7-S-0 (S=5) = 1750 in original left-to-right order",
+    "NAME": "OK", "NAME_NOTE": "'POEMS WITH NO HOME' printed in large blue letters on center document; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; rotated 90°; center sheet 'POEMS WITH NO HOME' with category columns: VIOLENCE (titles including one redacted/blacked out, Clinical Depression, Corey Story, Cost of War blacked out, Getting Juiced, Snipers Song, Venus, Watering the Weeds), DEATH (Cop Asked the Witnesses, Oasis, Rest in Peace), GOD (Betrayal, Closer to God, Disciple of Dirt, Sunday Morning Sex, Tom's Psalm, Walking Paradox, Well Organized), DRUGS (Better Than It Seems, Climbing the Ladder, Light or White, Number One, Old Friends, Over Population); left sheet shows 'GETTING / PULLED' with 'UNDER RATED / Questions & Answers / Rain / Dying Day' list and poem excerpt; right area shows index categories in orange: CHOMSKIAN, INTERNAL Struggle, RELATIONSHIPS, LOVE, HEARTBREAK, DRUGS / ALCOHOL; lower section: INSPIRING, DEPRESSING, FUNNY, SOCIAL ISSUES with bottom partial '4'; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90°; document text runs vertically sideways in frame",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1845",
+    "name_on_card": "POETRY COMPETITION",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_203712.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards in vertical column on left read top-to-bottom as S-4-8-1; reversed for original left-to-right order = 1-8-4-S (S=5) = 1845",
+    "NAME": "OK", "NAME_NOTE": "Cover page reads 'POETRY COMPETITION / Tom Jensen / (978) 745-1496'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; cover page visible showing 'POETRY COMPETITION / Tom Jensen / (978) 745-1496'; typed_words describe a full submission letter beginning 'Dear Professors and poetry admirers, My name is Tom Jensen...' and portfolio of poems; cover content confirmed; poem contents in later photos",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1551",
+    "name_on_card": "Bahamas Postcard To Tom Jensen And Large Sports/Event Ticket Stub Collection",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_094759.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-S-1 left-to-right (horizontal row at top; S=5) = 1551",
+    "NAME": "FLAG", "NAME_NOTE": "Photo 1 shows the Eco Bahamas postcard cover (flamingo/parrot/terrapin photo, 'Eco Bahamas' text); postcard confirmed but ticket stub collection not visible in photo 1; full name_on_card 'Bahamas Postcard To Tom Jensen And Large Sports/Event Ticket Stub Collection' cannot be confirmed from photo 1 alone",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 5; Eco Bahamas postcard cover visible with flamingo, parrot, and terrapins matching typed_words 'POSTCARD (Eco-Bahamas, Greater Flamingo/Bahama Parrot/Terrapins)'; postcard details and message visible in later photos; ticket stub collection appears in later photos",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; postcard and card number text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1106",
+    "name_on_card": "31 ALBUMS book",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_185023.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Cards in vertical column on left; photo appears upright; reading bottom-to-top for left-to-right original order yields digits that do not clearly match 1106 — top card reads approximately '2', second '1', third '8' or '0', bottom '1'; cannot confirm all 4 digits spell 1106; typed_words not yet transcribed so cross-reference unavailable",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads '31 ALBUMS / 120 Songs Made So Far / With Lyrics For 300 More!'; matches name_on_card '31 ALBUMS book'",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 1; book cover '31 ALBUMS / 120 Songs Made So Far / With Lyrics For 300 More!' clearly visible on spiral-bound book with black-and-white collage of album/cassette images; typed_words field states 'Not typed up yet' — no transcription available for comparison",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
