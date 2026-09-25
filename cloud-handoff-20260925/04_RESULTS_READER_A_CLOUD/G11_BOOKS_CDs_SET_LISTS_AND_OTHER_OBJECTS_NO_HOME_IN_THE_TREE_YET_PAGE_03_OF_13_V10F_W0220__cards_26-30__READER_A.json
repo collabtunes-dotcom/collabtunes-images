@@ -1,0 +1,62 @@
+[
+  {
+    "item_number": "1580",
+    "name_on_card": "CD-R COLLECTION",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_185553.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-8-0 bottom-to-top (S=5) = 1580",
+    "NAME": "OK", "NAME_NOTE": "Memorex CD-R disc labeled 'A LIFETIME OF RHYME First Demo 4th Copy'; CD-R disc consistent with name_on_card 'CD-R COLLECTION'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1582",
+    "name_on_card": "CD-R COLLECTION",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_185632.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-8-2 bottom-to-top (S=5) = 1582",
+    "NAME": "OK", "NAME_NOTE": "Gold CD-R reads 'JustinJustice.com ReadTom.com 18 Songs'; CD-R disc consistent with name_on_card 'CD-R COLLECTION'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1585",
+    "name_on_card": "CD-R COLLECTION",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_185720.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-8-S left-to-right (S=5) = 1585",
+    "NAME": "OK", "NAME_NOTE": "Gold Memorex CD-R reads 'Tom's Top Twenty / ReadTom.com / 17'; CD-R disc consistent with name_on_card 'CD-R COLLECTION'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1587",
+    "name_on_card": "CD-R COLLECTION",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_191950.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-8-7 bottom-to-top (S=5) = 1587",
+    "NAME": "OK", "NAME_NOTE": "Gold Memorex CD-R reads 'Tom's Top Twenty / ReadTom.com / 19'; CD-R disc consistent with name_on_card 'CD-R COLLECTION'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1783",
+    "name_on_card": "DIVISION STAPLES CDR CIRCLED 2",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093656.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-8-3 bottom-to-top (vertical column) = 1783",
+    "NAME": "OK", "NAME_NOTE": "Staples CD-R reads 'DIVISION' with Tom Jensen business card and ReadTom.com label; matches 'DIVISION STAPLES CDR'",
+    "WORDS": "OK", "WORDS_NOTE": "Disc shows DIVISION; business card reads Tom Jensen Thinker Writer Poet Songwriter and Activist; READTOM.COM; 700 MB 52x speed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
