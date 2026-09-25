@@ -1,0 +1,246 @@
+[
+  {
+    "item_number": "1007",
+    "name_on_card": "Perhaps If this world expands and contracts",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_085527.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 0, 7 = 1007.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Perhaps If this world expands and contracts' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Perhaps If this world expands and contracts / Then in my next life I could be him / Perhaps if resurrection and reincarnation do exist / In my next life I could whip him' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined paper fully legible."
+  },
+  {
+    "item_number": "1008",
+    "name_on_card": "The only coke I keep is in the fridge",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_085541.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 0, 8 = 1008.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'The only coke I keep is in the fridge' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both lines visible: 'The only coke I keep is in the fridge / The only place I won't meet [struck] you is at the bridge' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn spiral lined paper fully legible."
+  },
+  {
+    "item_number": "1009",
+    "name_on_card": "You came in the door",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_085550.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 0, 9 = 1009.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'You came in the door' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'You came in the door / But you're going out the window / I hope you don't have a wife / Because she's gonna be a widow / I'll pull up the shades / Because your bed is made / Wait to hear the sound / Of you hitting the ground' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on crumpled torn lined paper fully legible."
+  },
+  {
+    "item_number": "1010",
+    "name_on_card": "If it's half as good as",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_085609.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 1, 0 = 1010.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'If it's half as good as' visible at top of paper plate, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Physical paper plate shows line 2 as 'Then I wouldn't play the last one' but typed_words reads 'Then I wouldn't play it any mind'. The text is on a crumpled paper plate and small, but 'the last one' is clearly different from 'it any mind'. Remaining lines are consistent with typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in blue ink on crumpled paper plate legible despite creases."
+  },
+  {
+    "item_number": "1011",
+    "name_on_card": "Finally at the top of the hill is where I'm standing",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_085631.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 1, 1 = 1011.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Finally at the top of the hill is where I'm standing' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full content visible: poem ('Finally at the top of the hill is where I'm standing / My life has found it's voice it's now demanding / That I stay the straight course and don't stray / My life has disobedience and my life has a key') plus math calculations (30.5, 24.0, 54.5 / 27.2 / 2)54.5 / 91% / 30)270 / 9 / 60)54.5 / 505 / 500) and grades in framed box (A- A- A- A-) - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible including math calculations and grades."
+  },
+  {
+    "item_number": "1012",
+    "name_on_card": "Stand by my side",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_085658.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_085703__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Pos1 shows four blocks 1, 0, 1, 2 = 1012. Pos2 (UPRIGHT file) also shows 1, 0, 1, 2 tiles visible on right side.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Stand by my side' visible in pos1, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full typed_words visible across two photos: Pos1 shows first copy of poem 'Stand by my side / Don't hide from the inevitable / For you can not hide / From the course they serve your table / Do not blink, do not cross your eyes / Be so sure of the future it will not be a surprise'. Pos2 (upright file) shows second copy of same poem - matching typed_words which contains the poem repeated twice with '---' separator.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Pos2 (UPRIGHT file, gems-0501-1000__20260819_085703__UPRIGHT.jpg) is still sideways/landscape - the upright correction did not resolve the orientation for this image. Pos1 is upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined spiral notebook paper fully legible in both photos."
+  },
+  {
+    "item_number": "1013",
+    "name_on_card": "I suppose i've found out why",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_093853.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/20260819_093901.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Pos1 shows four blocks 1, 0, 1, 3 = 1013. Pos2 also shows 1, 0, 1, 3.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I suppose I've found out why' visible in pos1, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full typed_words visible across two photos: Pos1 shows first section 'I suppose I've found out why / I put the most faith in material things / There's no reason [struck] to lie / They is just more reliable than people'. Pos2 shows second section 'Wouldn't you like to know / Exactly which way to go / But it isn't quite so / There are somethings we don't know' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on spiral lined paper fully legible in both photos. Pos1 also shows faint scheduling grid in left margin (illegible but not poem content)."
+  },
+  {
+    "item_number": "1014",
+    "name_on_card": "Rolling hills don't pay my bills",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_093955.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 1, 4 = 1014.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Rolling hills don't pay my bills' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both lines visible: 'Rolling hills don't pay my bills / Burn it, plow it, Knock it down' - matching typed_words 'Rolling hills don't pay my bills / Burn it, plow it, knock it down [?]'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper with torn right edge fully legible."
+  },
+  {
+    "item_number": "1015",
+    "name_on_card": "Random thoughts go pop, pop, pop",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094009.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 1, S=5 = 1015.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Random thoughts go pop, pop, pop' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both lines visible: 'Random thoughts go pop, pop, pop / Your mind starts roaming and just won't stop' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in cursive on torn spiral lined paper fully legible."
+  },
+  {
+    "item_number": "1016",
+    "name_on_card": "Finally the time has come...",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094023.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 1, 6 = 1016.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Finally the time has come...' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Physical sheet line 4 reads 'Your [struck word] can't hire this son - I will defeat you / military' where 'Your' begins the line and something is struck after it. Typed_words reads 'I can't hire this son - I will defeat your / military'. Physical starts the line with 'Your' while typed has 'I'; physical ends with 'defeat you' while typed has 'defeat your military'. These are word-level differences.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn lined paper fully legible."
+  }
+]
