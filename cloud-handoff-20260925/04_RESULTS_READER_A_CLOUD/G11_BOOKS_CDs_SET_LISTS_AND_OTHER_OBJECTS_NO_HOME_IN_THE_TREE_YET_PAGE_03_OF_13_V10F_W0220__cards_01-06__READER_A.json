@@ -1,0 +1,74 @@
+[
+  {
+    "item_number": "1782",
+    "name_on_card": "BRIANRAINSTORM SLEEVE BLUE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093639.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-8-2 bottom-to-top (vertical column) = 1782",
+    "NAME": "OK", "NAME_NOTE": "Blue CD sleeve shows 'BRIANRAINSTORM.COM'; sleeve is blue matching name",
+    "WORDS": "OK", "WORDS_NOTE": "Track listing text visible on insert around disc cutout",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1093",
+    "name_on_card": "BRIAN RAINSTORM'S SONG LYRIC BOOK red/yellow",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_114558.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Cards read 1-S-8-8 left-to-right (horizontal, S=5) = 1588; does not match item_number 1093",
+    "NAME": "OK", "NAME_NOTE": "Red/orange book cover reads 'BRIAN RAINSTORM'S SONG LYRIC BOOK (130 SONGS)'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1588",
+    "name_on_card": "BRIAN RAINSTORM'S SONG LYRIC BOOK red/yellow",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_192000.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-8-8 bottom-to-top (S=5) = 1588",
+    "NAME": "FLAG", "NAME_NOTE": "Photo shows a Sony CD-R disc labeled 'LADY Weaver'; does not match name_on_card 'BRIAN RAINSTORM'S SONG LYRIC BOOK red/yellow'",
+    "WORDS": "FLAG", "WORDS_NOTE": "Disc shows 'LADY Weaver'; typed_words say 'Not typed up yet' but photo content does not match item description of a song lyric book",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1889",
+    "name_on_card": "WEB CAM JAMS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_100021.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-8-8-9 bottom-to-top = 1889",
+    "NAME": "OK", "NAME_NOTE": "Globe drawing shows 'Web Cam Jams' text around it; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Sticky note reads 'Million dollar idea: FAKE Pot candles'; main document shows globe with WEB CAM JAMS text",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Main paper document is upside-down in photo; text on document reads inverted relative to viewer",
+    "READABLE": "OK", "READABLE_NOTE": "Content identifiable despite upside-down orientation"
+  },
+  {
+    "item_number": "1094",
+    "name_on_card": "Cassette wall/table collection",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_173543.jpg", "NUMBER": "FLAG", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Photo 1 shows cassettes laid flat on table; no number cards visible in this photo. Typed_words field (from a different photo 173408) notes cards read 1-5-6-9 = 1569, which does not match item_number 1094. Cannot confirm from photo 1",
+    "NAME": "OK", "NAME_NOTE": "Photo shows large collection of cassette tapes laid out on table; matches description 'Cassette wall/table collection'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 8; cassette labels partially visible including Great White, Paul McCartney, CSN&Y, Chicago, R.E.M., Bon Jovi, David Bowie, The Who, Rockin' Sixties",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Many cassettes in photo 1 are shown upside-down relative to their labels",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1659",
+    "name_on_card": "Cassette wall/table collection",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1500-1799-b__20260809_173637__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-5-9 bottom-to-top (vertical) = 1659; photo is UPRIGHT_FIXED version",
+    "NAME": "OK", "NAME_NOTE": "Photo shows rows of cassette tapes on shelves; matches 'Cassette wall/table collection'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 13; cassette spines visible including Bob Dylan Nashville Skyline, CSNY Live It Up, Pete Townshend Deep End, Neil Young, British Invasion, Van Morrison, Eric Clapton, Byrds Greatest Hits, Blood on the Tracks, The Who, Neil Young Crazy Horse, Led Zeppelin, Bob Dylan Biograph, Tom Petty, Aerosmith, CSN&Y, Steppenwolf, The Cars",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "UPRIGHT_FIXED version; cassette labels readable in correct orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
