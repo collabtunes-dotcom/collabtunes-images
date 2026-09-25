@@ -1,0 +1,74 @@
+[
+  {
+    "item_number": "1951",
+    "name_on_card": "Read Tom dot com Friends",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_215543.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Photo rotated 90°; 4 card squares visible in upper area of rotated photo (complex multi-sheet layout); digits appear consistent with 1-9-5-1 = 1951 in original left-to-right reading order",
+    "NAME": "OK", "NAME_NOTE": "Multiple sheets show 'READ TOM DOT COM' and 'FRIENDS / READ TOM DOT COM' box/list header with friend names; consistent with name_on_card 'Read Tom dot com Friends'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 9; rotated 90°; multiple sheets of paper visible with friend lists: 'Warsha / Holly / Jelas / Amy I / MA / MA'; 'Dec. 3rd Olga B-day'; 'DOT COM / Posse / karen Eng / la 1880 / solodallas / Sistalinda / d beasley 07 / DMaher 13 / Travelwithmusic / Alec loves gear music / Jesse guitar 07 / olivia thai / Scribbletunes / john denner / wizhack / eddie 629 / beazer 32 / tziras / Romain chapus / Bonneville Music / Chad jenkins music / deborah hodgson'; international friends list: 'Warsha E. - India / Holly - United Kingdom / Jelasings - germany / AMY DIAMOND - Sweden Germany / MASSEY - Italy / MARIE ALIX / coger max91 - FRANCE / DANIELA ANDRADE - CANADA / LAI YOUTTITHAM - CANADA / OLGA BOER - Netherlands'; 'FRIENDS / READ TOM DOT COM / LAI / MARYWIN / YC ORIG / CATRIEN / MANELI / DANIELA / HOLLY / Hilde / TIFF / TOM S / DYLAN / ALYSSA / OLGA / ROB / ROAMER / ROAMER' box visible; more contact info sheets; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90°; document text runs vertically sideways in frame",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1802",
+    "name_on_card": "ONLY THE BEST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1800-2045__20260816_184048__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-8-0-2 left-to-right (horizontal row at top of UPRIGHT_FIXED photo) = 1802",
+    "NAME": "OK", "NAME_NOTE": "Book cover shows 'ONLY THE BEST / poems & song / lyrics / by Tom Jensen / READTOM.COM'; name_on_card 'ONLY THE BEST' confirmed",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; UPRIGHT_FIXED version; book cover clearly shows 'ONLY THE BEST / poems & song / lyrics / by Tom Jensen / READTOM.COM' with three red roses on black background; consistent with typed_words description of cover and accompanying index pages",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: book cover and cards appear correctly oriented in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1803",
+    "name_on_card": "ONLY THE BEST poems & song lyrics",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_184145.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Photo rotated 90°; 4 card squares on left side of rotated photo read top-to-bottom as 3-0-8-1; reversed for original left-to-right order = 1-8-0-3 = 1803; typed_words confirm '[On the paper cards] 3 / 0 / 8 / 1' (top-to-bottom as visible in rotated photo)",
+    "NAME": "OK", "NAME_NOTE": "Book cover shows 'ONLY THE BEST / poems & song / lyrics / by Tom Jensen / READTOM.COM'; name_on_card 'ONLY THE BEST poems & song lyrics' confirmed",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; rotated 90°; book cover and index sheets visible; index categories legible above the sideways book: STATE OF THE WORLD (continued), CHOMSKIAN (continued), BE DIFFERENT (continued), LOVE NOT MEANT TO BE (continued), DEATH, DRUGS & ALCOHOL, INTERNAL STRUGGLE with page numbers; consistent with typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90°; book cover and index sheet text run vertically sideways in frame",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1806",
+    "name_on_card": "ONLY THE BEST poems & song lyrics",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_184303.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-8-0-6 left-to-right (horizontal row at top) = 1806; photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover shows 'ONLY THE BEST / poems & song / lyrics / by Tom Jensen / READTOM.COM'; name_on_card 'ONLY THE BEST poems & song lyrics' confirmed",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; from rotated-photos source but photo appears upright; book cover 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM' fully visible with three red roses; partial paper sheets visible on right side showing index page entries; consistent with typed_words index categories (STATE OF THE WORLD, POLITICAL, SOCIAL ISSUES, MISCELLANEOUS, CHOMSKIAN etc.)",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1592",
+    "name_on_card": "A PERFECT WORLD",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_114838.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-9-2 left-to-right (horizontal row at top; S=5) = 1592",
+    "NAME": "FLAG", "NAME_NOTE": "Photo 1 of 3 shows book cover 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; poem title 'A PERFECT WORLD' appears on an interior page not visible in photo 1; name_on_card cannot be confirmed from photo 1 alone",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; book cover visible: 'ONLY THE BEST / poems & song / lyrics / by Tom Jensen / READTOM.COM' with three red roses on black background; typed_words describe both the cover text and the interior poem 'A PERFECT WORLD'; cover portion of typed_words confirmed; poem text in later photos",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1721",
+    "name_on_card": "AMERICÆ nova Tabula.",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_122518.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-2-1 left-to-right (horizontal row at top) = 1721; photo appears upright despite rotated-photos source path",
+    "NAME": "FLAG", "NAME_NOTE": "Photo 1 of 4 shows notebook open to blank interior pages (orange inside back cover on left, cream-colored lined pages on right with some torn pages); decorative map cover with 'AMERICÆ nova Tabula.' is not visible in this photo",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 4; from rotated-photos source but photo appears upright; shows blank lined interior pages and inside back cover; cover text 'AMERICÆ nova Tabula.', 'EUROPE', 'OCEANUS ATLANTICUS', publisher/barcode information described in typed_words are not visible in photo 1; map cover content would appear on a different photo",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; notebook interior pages readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": "Interior pages visible and orientation correct; no text content on blank pages"
+  }
+]
