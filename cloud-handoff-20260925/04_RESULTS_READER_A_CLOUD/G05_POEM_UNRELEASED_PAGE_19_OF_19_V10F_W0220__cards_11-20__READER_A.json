@@ -1,0 +1,181 @@
+[
+  {
+    "item_number": "1077",
+    "name_on_card": "I woke up hungover and feeling depressed",
+    "photos_checked": [],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "No photos provided in input (photos array empty). Cannot verify number blocks.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No photos provided. Cannot verify name on physical item.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: No photos provided in input. Cannot verify any content against typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "No photos provided. Cannot assess orientation.",
+    "READABLE": "FLAG",
+    "READABLE_NOTE": "No photos provided. Cannot assess legibility."
+  },
+  {
+    "item_number": "1098",
+    "name_on_card": "I got a plan to get us through when we're down",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (651).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Three blocks visible showing 2, 2, 1 = 221. This does not match item_number 1098. The blocks show only 3 digits (221) while the expected number 1098 requires 4 digits.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I got a plan to get us through when we're down' visible on sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both lines visible: 'I got a plan to get us through when we're down / You trust in me I'll trust in you' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined paper fully legible."
+  },
+  {
+    "item_number": "1201",
+    "name_on_card": "Quantity vs. Quality",
+    "photos_checked": [],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "No photos provided in input (photos array empty). Cannot verify number blocks.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No photos provided. Cannot verify name on physical item.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: No photos provided in input. Cannot verify any content against typed_words. Note: typed_words content ('Quantity vs. Quality / She's got perfect plumage / Spread your legs I'll spread / my genes') is identical to card 1021 on page 18.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "No photos provided. Cannot assess orientation.",
+    "READABLE": "FLAG",
+    "READABLE_NOTE": "No photos provided. Cannot assess legibility."
+  },
+  {
+    "item_number": "1301",
+    "name_on_card": "This neverending state of chaos reigns",
+    "photos_checked": [],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "No photos provided in input (photos array empty). Cannot verify number blocks.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No photos provided. Cannot verify name on physical item.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: No photos provided in input. Cannot verify any content against typed_words. Note: typed_words content ('This neverending state of chaos reigns / We've got the water but we're fanning the flames / This land of ours is ripe with disease / And yet we're sending billions of dollars over seas') is identical to card 1031 on page 17.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "No photos provided. Cannot assess orientation.",
+    "READABLE": "FLAG",
+    "READABLE_NOTE": "No photos provided. Cannot assess legibility."
+  },
+  {
+    "item_number": "1501",
+    "name_on_card": "Nothing But trouble",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1500-1799-a/20260808_083333.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-1500-1799-a/20260808_083343.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-1500-1799-a/20260808_083339.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "All three photos show four blocks 1, S=5, 0, 1 = 1501.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "None of the three photos show 'Nothing But trouble'. Pos1 shows poem '~ My Love ~' signed '~ Rachel Dawn'; pos2 shows poem 'LOVE IS DEAD'; pos3 shows page 2 of the same notebook with 'Mow / Mow / Mow / Your Goat...' content. Card name 'Nothing But trouble' not visible in any photo.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: typed_words ('Nothing But trouble / You can go and pop your pills / Or you can go and lick your dollar bills / Something you know you shouldn't do / Either way trouble will come follow you') are not visible in any of the three photos. Pos1 shows '~ My Love ~' poem ('My love is like a red, red rose / Newly sprung in June...') by Rachel Dawn; pos2 shows 'LOVE IS DEAD' poem ('I can't etch it in the sketch...'); pos3 shows 'Mow / Mow / Mow / Your Goat / its gettin' too hairy for me / goat noises...'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "All three photos appear upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "All three photos are legible; content visible is clear though it does not match the expected typed_words."
+  },
+  {
+    "item_number": "1601",
+    "name_on_card": "Soulmates lost we no longer morn",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1500-1799-a/20260808_203606.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-1500-1799-b__20260810_091258__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Both photos show four blocks 1, 6, 0, 1 = 1601.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Neither photo shows 'Soulmates lost we no longer morn'. Pos1 shows a printed digital portrait artwork (bald man's face, no handwritten text); pos2 shows a handwritten letter signed 'Love Tom' to someone ('Huntress'), with no poem matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: typed_words ('Soulmates lost we no longer morn / Spirit alive has been reborn...') not visible in either photo. Pos1 is a printed portrait artwork with no readable poem text. Pos2 is a handwritten personal letter ('Sorry I was so violent in the beginning of this letter, I'm calming down...Go Red Sox. Bob Dylan Rocks...Love Tom') — not the typed poem.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Pos1 upright. Pos2 (UPRIGHT file) appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Pos1 artwork is clear. Pos2 handwritten letter is fully legible."
+  },
+  {
+    "item_number": "1648",
+    "name_on_card": "The last time I was on a plane I wrote a song",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1500-1799-a/20260808_213945.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-1500-1799-a/20260808_213955.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-1500-1799-a/20260808_214002.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 4,
+        "repo_path": "gems-1500-1799-a/20260808_214004.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "All four photos show four blocks 1, 6, 4, 8 = 1648.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'The last time I was on a plane I wrote a song' visible at top of pocket notebook in pos1, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full content visible across four photos: Pos1 shows small pocket notebook open to first page: 'The last time I was on a plane I wrote a song / Since then nothing's gone right / And yet time stays the same / It just keeps [scribble] marching on... / I blame myself / For time never / Chooses sides / Time never pretends / To be anyone's friend'. Pos2 shows later page of same notebook: 'Then next time take a left // This time follow the sun / Rather than go chasing the night'. Pos3 shows back pages of small pocket notebook (empty). Pos4 shows the separate black-and-white marbled Composition notebook (60 Sheets - 120 Pages, 4.5 IN x 3.5 IN). All content matches typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "All four photos appear upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in pencil in small pocket notebook fully legible across pos1 and pos2; Composition notebook cover text readable in pos4."
+  }
+]

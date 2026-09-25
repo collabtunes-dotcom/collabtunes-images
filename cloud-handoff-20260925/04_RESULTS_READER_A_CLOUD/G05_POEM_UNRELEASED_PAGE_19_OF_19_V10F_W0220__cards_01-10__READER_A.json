@@ -1,0 +1,224 @@
+[
+  {
+    "item_number": "1059",
+    "name_on_card": "Line em up",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095048.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, S=5, 9 = 1059.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'Line em up' visible in stylized cursive at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'I don't have to fake it / I know I'm gonna make it / What life deals I know I can take it / You want to come along for the ride? / You know where I reside / The line forms to the right / But right now there's no need to fight / You're first / Though it could be worse / There could be no line at all' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1060",
+    "name_on_card": "When I was a kid",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_095121__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 6, 0 = 1060.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'When I was a kid' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in two stanzas: 'When I was a kid / I was so sullen and sulky / Looking back now / I don't even know why // I've got good ones, bad ones / Happy ones, sad ones... / Just tell me the mood you're in' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input stated website shows this photo sideways and this is the turned copy. UPRIGHT file used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in two ink colors (black print and blue cursive) on three-hole punched lined paper fully legible."
+  },
+  {
+    "item_number": "1062",
+    "name_on_card": "I am not a macho man",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095139.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 6, 2 = 1062.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I am not a macho man' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'I am not a macho man / You know, I write poetry / I hang around with mostly women / Don't worry, it don't rub off on me / I am a guy / a real man's man / handy round the house / who can do it? / I can.' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on spiral-hole lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1063",
+    "name_on_card": "Sitting here",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095154.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 6, 3 = 1063.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Sitting here' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Physical line 6 reads 'It's a nice day to go out' (with 'go' clearly present) while typed_words reads 'It’s a nice day to out' (missing 'go'). All other lines match typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn spiral-hole lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1064",
+    "name_on_card": "9:30",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095209.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 6, 4 = 1064.",
+    "NAME": "OK",
+    "NAME_NOTE": "'9:30' and '21' visible at top right of sheet, matching card name '9:30'.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full content visible: '9:30 / 21 / My hand is but symbolic of a man who stands with fist / Imprisoned by his watch which hangs upon his wrist / The clock upon the wall dictates both time and fate / Inspired on a walk home from school. I was hurrying to be home by 9:30 to call my girlfriend' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1065",
+    "name_on_card": "I've been pondering",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095219.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 6, S=5 = 1065.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I've been pondering' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full content visible in blue ink: 'I've been pondering / I've been wondering / [crossed out: been wandering] / And / As / I've been pawning / I've been wandering / Ain't got nothing left to trade' - matching typed_words including '[crossed out text: been wandering]' notation.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in blue ink on torn spiral-hole lined paper fully legible including crossed-out line."
+  },
+  {
+    "item_number": "1068",
+    "name_on_card": "Out on the streets",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095309.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 6, 8 = 1068.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Out on the streets' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Four lines visible: 'Out on the streets / Raw and uncut / Still sticking out the suitcase / That was slammed half-shut' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined paper fully legible."
+  },
+  {
+    "item_number": "1069",
+    "name_on_card": "Im just warming up",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095317.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 6, 9 = 1069.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Im just warming up' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Physical line 4 reads 'To what I am and am not, what I can and can't re.' (ending in 're.' with a comma after 'not,') while typed_words reads 'To what I am and am not what I can and cant be.' (ending in 'be.' with no comma). The final word of the line appears to read 're.' not 'be.' in the physical handwriting, though the small size introduces some ambiguity. All other lines match typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn spiral-hole lined paper fully legible."
+  },
+  {
+    "item_number": "1070",
+    "name_on_card": "I don't want to be",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095347.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 7, 0 = 1070.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I don't want to be' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in pencil: 'I don't want to be / the man who follows / the legend / I want to be the / guy who follows / the guy who followed / the legend' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in pencil on spiral-hole lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1076",
+    "name_on_card": "You know you were drinking far too long",
+    "photos_checked": [],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "No photos provided in input (photos array empty). Cannot verify number blocks. typed_words notes 'NO CARD VISIBLE in this photo (folder number 1076 used as item number)'.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No photos provided. Cannot verify name on physical item.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: No photos provided in input. Cannot verify any content against typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "No photos provided. Cannot assess orientation.",
+    "READABLE": "FLAG",
+    "READABLE_NOTE": "No photos provided. Cannot assess legibility."
+  }
+]
