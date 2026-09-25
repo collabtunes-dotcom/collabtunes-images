@@ -1,0 +1,122 @@
+[
+  {
+    "item_number": "2036",
+    "name_on_card": "SET LIST FIVE (5)",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160051.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-3-6 bottom-to-top",
+    "NAME": "OK", "NAME_NOTE": "",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2035",
+    "name_on_card": "SET LIST FOUR (4)",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160118.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-3-5 bottom-to-top",
+    "NAME": "OK", "NAME_NOTE": "",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2045",
+    "name_on_card": "SET LIST ONE (1)",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160437.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-4-5 bottom-to-top; top card stylized but reads as 5",
+    "NAME": "OK", "NAME_NOTE": "",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2042",
+    "name_on_card": "SET LIST SEVEN",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160337.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-4-2 bottom-to-top",
+    "NAME": "OK", "NAME_NOTE": "",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2039",
+    "name_on_card": "SET LIST SEVENTEEN (17)",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160148.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-3-9 bottom-to-top",
+    "NAME": "OK", "NAME_NOTE": "",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2041",
+    "name_on_card": "SET LIST SIX (6)",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160310.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-4-1 bottom-to-top",
+    "NAME": "OK", "NAME_NOTE": "",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2044",
+    "name_on_card": "Where the dice and narrow",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160516.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-4-4 bottom-to-top",
+    "NAME": "FLAG", "NAME_NOTE": "Scroll reads 'SET LIST TWO (2)' at top; name_on_card 'Where the dice and narrow' does not appear to match visible scroll title",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2038",
+    "name_on_card": "Song list 5",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160215.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-3-8 bottom-to-top",
+    "NAME": "OK", "NAME_NOTE": "",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2037",
+    "name_on_card": "Song list 6",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160243.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-3-7 bottom-to-top",
+    "NAME": "OK", "NAME_NOTE": "",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1577",
+    "name_on_card": "A LIFETIME OF RHYME - FIRST DEMO CD-R",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1500-1799-b__20260823_115546__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-5-7-7 bottom-to-top; photo is upright portrait",
+    "NAME": "OK", "NAME_NOTE": "CD label reads 'A LIFETIME OF Rhyme / First Demo / First Copy'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
