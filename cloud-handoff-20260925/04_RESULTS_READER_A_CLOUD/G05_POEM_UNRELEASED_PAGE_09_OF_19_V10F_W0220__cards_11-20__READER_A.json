@@ -1,0 +1,246 @@
+[
+  {
+    "item_number": "864",
+    "name_on_card": "ALL IN",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_074416.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 8, 6, 4 = 864.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'ALL IN' is NOT visible on the physical sheet. The sheet begins directly with the poem 'The fog is fading' with no separate title heading.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'The fog is fading / Clouds burning up in the haze / What's left is being blown far away / Today just may end up being a good day / Maybe tonight... if the air feels right... / Together we'll go take a ride up to the hillside / and go star gazing' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "893",
+    "name_on_card": "B C D F G H J K L M N P Q R S T V W Y Z",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075210.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 8, 9, 3 = 893.",
+    "NAME": "OK",
+    "NAME_NOTE": "Consonant alphabet 'B C D F G H J K L M N P Q R S T V W Y Z' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'B C D F G H J K L M N P Q R S T V W Y Z / The Innocence of a child - I wish it was all around, / Cause lately I been feelin' that virtue can't be found. / When I stop and see their faces - I look into their eyes, / The innocence of a child - who hasn't yet learn to lie. / I dream I [crossed out] am Holden Caulfield and a Catcher in the Rye, / Yet I know they'll be corrupted thats when I start to sigh.' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "912",
+    "name_on_card": "*",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075724.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1081).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Both photos show blocks 9, 1, 2 = 912.",
+    "NAME": "OK",
+    "NAME_NOTE": "Asterisk '*' visible at top of left margin annotation column, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both photos show same poem. Left margin annotations: * A B A C C C. Main text: 'There's just so many damn people / In this world who just don't have a clue / This girl I met last week / Told me I was kinda cute / So I came back tonight to see her / But Now, I'm in the rear view mirror / [crossed out] And I'm wishing I was some place else / 'Cause [crossed out] she's two booths away / And she's sitting with someone else' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Both photos fully legible including crossed-out words."
+  },
+  {
+    "item_number": "923",
+    "name_on_card": "Time for another game",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_083009.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 2, 3 = 923.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Time for another game' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Time for another game / on another plane / Where all the pieces of the puzzle / Have again been rearranged / Down side UP [with left/right annotations] / [crossed out: upside down] a is now [crossed out: right side] left / Right is center, [crossed out: and] parallel is / perpendicular, Day is dawn and dawn / is night / Triangles are square and squares / are [crossed out: an] oblong and circular' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn lined paper legible including multiple crossed-out words."
+  },
+  {
+    "item_number": "926",
+    "name_on_card": "It's time to get my head back in the game",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_083113.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 2, 6 = 926.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'It's time to get my head back in the game' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Photo shows only the first section through 'Even I'm complaining...': 'It's time to get my head back in the game / I'm sick and tired of being sick and tired / of everybody's whining / Look [crossed out] and see how this has effected me / & Even I'm complaining...' - matching typed_words first section. Second section ('Turn all that negativity / Into positive energy...') and third section ('My heart palpitates / The hands of time move / yet still I wait') are NOT visible on this physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "945",
+    "name_on_card": "Here I stand with this familiar face",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_083716.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 4, 5 = 945.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Here I stand with this familiar face' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Photo shows only the second section after '---': 'Here I stand with this familiar face / staring back at me... / A woman who knows her roll [crossed out] / my [crossed out] place in society... / Gotta be pretty / Gotta be witty / Strong, yet sensitive and hind' - matching typed_words second section. First section ('Reality check / It's time to check - / Time to check your head again / Will you still be sitting / In that same old chair / On judgement day...') is NOT visible on this physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "957",
+    "name_on_card": "The truth about turtles",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084040.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 5, 7 = 957.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'The truth about turtles' is NOT visible on the physical sheet. The sheet begins directly with the poem 'I once knew this girl who was more than a friend' with no separate title heading.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'I once knew this girl who was more than a friend / Who's love for me was once so strong / we never believed it could ever [crossed out] end / I bought her a pet once our love was born / Gave her a jacket to keep her warm / Feelings so strong would never bend' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn lined paper fully legible."
+  },
+  {
+    "item_number": "964",
+    "name_on_card": "BROWNIES AND LOVE",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084241.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/20260819_084247.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Both photos show blocks 9, 6, 4 = 964.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'BROWNIES AND LOVE' is NOT visible on either photo. Photo 1 shows the handwritten poem starting with 'I wrote her off...' with no title. Photo 2 shows the Dodge Street Bar & Grill July 2003 music schedule flyer with no reference to card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both sections of typed_words visible across two photos. Photo 1 shows first section: 'I wrote her off and then she sent me a letter / I took some time off hoping my heart would feel better / I guess I'm still soft, as a silk sweater / I guess I was wrong in hoping my life would change with the weather / Will I let it get me down? / No, Never well actually all the time / Everytime I see the sun, the moon or almost anything at all,' - matching typed_words first section. Photo 2 shows the Dodge Street Bar & Grill July 2003 music schedule flyer matching typed_words second section (full calendar listing).",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Both photos fully legible. Photo 1 handwriting clear. Photo 2 printed flyer fully legible."
+  },
+  {
+    "item_number": "987",
+    "name_on_card": "FROM A DISTANCE",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084837.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 8, 7 = 987.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'FROM A DISTANCE' is NOT visible on the physical sheet. The sheet begins directly with the poem 'I've got a brand new method to my madness' with no separate title heading.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'I've got a brand new method to my madness / And very simply stated / This life I lead I hate it / Through all I have seen I have become so jaded / The only place I've left to look for help is inside / There's no one that I trust enough to be my guide / Thus I am a victim to [crossed out] what I've created / Become trapped in a time so antiquated' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn lined paper fully legible."
+  },
+  {
+    "item_number": "991",
+    "name_on_card": "They won once",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084935.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 9, 1 = 991.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'They won once' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'They won once / [crossed out] I'll have to beat 'em twice / [crossed out] can't [crossed out] control me / [crossed out] On rule my life : / Long [crossed out] ago I thought I found myself / [crossed out] ended up nearly I drowning myself / And still I don't know why / Once I used to climb high trees / [crossed out] now free of [crossed out] this disease / Yet I still believe... / That I can Fly !!!' with left margin containing upside-down text 'FLY I' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper legible including multiple crossed-out words and sideways margin text."
+  }
+]
