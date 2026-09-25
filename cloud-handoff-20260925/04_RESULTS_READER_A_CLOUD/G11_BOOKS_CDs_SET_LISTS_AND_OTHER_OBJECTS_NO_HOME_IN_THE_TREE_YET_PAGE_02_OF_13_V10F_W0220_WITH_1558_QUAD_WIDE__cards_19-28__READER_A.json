@@ -1,0 +1,122 @@
+[
+  {
+    "item_number": "1752",
+    "name_on_card": "BOOK THREE INDEX FINAL",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_170754.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-5-2 left-to-right (horizontal) = 1752",
+    "NAME": "OK", "NAME_NOTE": "Left document visible reads 'BOOK THREE INDEX FINAL'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; table of contents and setlist description visible",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2008",
+    "name_on_card": "MASTER FILE REFERENCE COLLABORHYTHM COLLABTUNES",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_154029.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-0-8 left-to-right (horizontal) = 2008",
+    "NAME": "OK", "NAME_NOTE": "Document header reads 'MASTER FILE REFERENCE COLLABORHYTHM COLLABTUNES'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 7; document content visible and heavily annotated",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1545",
+    "name_on_card": "Boston Globe Letter",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_093022.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-4-S (S=5) = 1545 left-to-right (horizontal)",
+    "NAME": "OK", "NAME_NOTE": "Letter shows 'The Boston Globe' letterhead dated Dec. 12, 2002",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1607",
+    "name_on_card": "Peddling w/ permit +",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_204025.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-0-7 left-to-right (horizontal) = 1607",
+    "NAME": "OK", "NAME_NOTE": "Document labeled 'Peddling w/ permit' with t-shirt designs and storefront diagram",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1774",
+    "name_on_card": "BRIANRAINSTORM SLEEVE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093411.jpg", "NUMBER": "FLAG", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Photo is sideways; cards visible in column read (bottom-to-top in upright orientation) 1, then a card that appears as 0 (possibly 7 drawn differently), 7, 4; if second card is 7 then 1-7-7-4 = 1774 (OK) but card appears as 0 not 7; cannot confirm",
+    "NAME": "OK", "NAME_NOTE": "CD sleeve shows 'BRIANRAINSTORM.COM' label",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo is sideways (rotated 90 degrees; listed as rotated-photos in input)",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1775",
+    "name_on_card": "BRIANRAINSTORM SLEEVE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260828_093508.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-7-S (S=5) = 1775 left-to-right (horizontal)",
+    "NAME": "OK", "NAME_NOTE": "CD sleeve shows 'BRIANRAINSTORM.COM'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1776",
+    "name_on_card": "BRIANRAINSTORM SLEEVE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093520.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Cards in vertical column bottom-to-top: 1, then a card ambiguous between 0 and 7, then 7, then 6; if second is 7 then 1-7-7-6 = 1776 (OK) but card looks more like 0; cannot confirm",
+    "NAME": "OK", "NAME_NOTE": "CD sleeve shows 'BRIANRAINSTORM.COM'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1777",
+    "name_on_card": "BRIANRAINSTORM SLEEVE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093535.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Cards in vertical column bottom-to-top: 1, then a card ambiguous between 0 and 7, then 7, then 7; if second is 7 then 1-7-7-7 = 1777 (OK) but card looks more like 0; cannot confirm",
+    "NAME": "OK", "NAME_NOTE": "CD sleeve shows 'BRIANRAINSTORM.COM'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1778",
+    "name_on_card": "BRIANRAINSTORM SLEEVE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093546.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-7-8 bottom-to-top (vertical column) = 1778",
+    "NAME": "OK", "NAME_NOTE": "CD sleeve shows 'BRIANRAINSTORM.COM'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1779",
+    "name_on_card": "BRIANRAINSTORM SLEEVE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093555.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-7-9 bottom-to-top (vertical column) = 1779",
+    "NAME": "OK", "NAME_NOTE": "CD sleeve shows 'BRIANRAINSTORM.COM'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]

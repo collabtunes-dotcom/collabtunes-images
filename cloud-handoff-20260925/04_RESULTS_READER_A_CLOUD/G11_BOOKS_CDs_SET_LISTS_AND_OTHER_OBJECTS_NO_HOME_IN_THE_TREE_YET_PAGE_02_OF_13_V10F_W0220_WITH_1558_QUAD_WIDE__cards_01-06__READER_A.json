@@ -1,0 +1,72 @@
+[
+  {
+    "item_number": "1578",
+    "name_on_card": "A LIFETIME OF RHYME - FIRST DEMO CD-R",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_185514.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-7-8 bottom-to-top; S used for 5 = 1578",
+    "NAME": "OK", "NAME_NOTE": "CD label reads 'A LIFETIME OF Rhyme CD-R First Demo Second Copy'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1579",
+    "name_on_card": "A LIFETIME OF RHYME - FIRST DEMO CD-R",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_185535.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-7-9 bottom-to-top; S used for 5 = 1579",
+    "NAME": "OK", "NAME_NOTE": "CD label reads 'A LIFETIME OF Rhyme First demo third copy'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1581",
+    "name_on_card": "A LIFETIME OF RHYME - FIRST DEMO CD-R",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_185611.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-8-1 bottom-to-top; S used for 5 = 1581",
+    "NAME": "OK", "NAME_NOTE": "CD label reads 'A LIFETIME OF RHYME First Demo 5th Copy'",
+    "WORDS": "OK", "WORDS_NOTE": "",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1561",
+    "name_on_card": "A Lifetime of Rhyme",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_105315.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-6-1 left-to-right (horizontal layout) = 1561",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'A LIFETIME OF RHYME - a different poem or song for every day of the year! by Tom Jensen'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 21; only cover checked",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1652",
+    "name_on_card": "BI ALBUM",
+    "photos_checked": [],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "No photos in this card entry; cannot verify number from photos",
+    "NAME": "FLAG", "NAME_NOTE": "No photos available to verify name",
+    "WORDS": "FLAG", "WORDS_NOTE": "No photos available",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "No photos available",
+    "READABLE": "FLAG", "READABLE_NOTE": "No photos available"
+  },
+  {
+    "item_number": "1602",
+    "name_on_card": "31 ALBUM",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_203720.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-0-2 left-to-right (horizontal layout) = 1602",
+    "NAME": "OK", "NAME_NOTE": "Document cover shows '31 ALBUM - 120 Songs Made So Far With Lyrics For 300 More!'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 5; only cover checked",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]

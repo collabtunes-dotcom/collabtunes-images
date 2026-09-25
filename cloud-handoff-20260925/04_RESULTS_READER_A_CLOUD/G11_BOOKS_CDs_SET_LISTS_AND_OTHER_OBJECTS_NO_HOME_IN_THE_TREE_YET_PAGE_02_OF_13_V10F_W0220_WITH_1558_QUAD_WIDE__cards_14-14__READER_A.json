@@ -1,0 +1,14 @@
+[
+  {
+    "item_number": "1558",
+    "name_on_card": "THE PRETTY GOOD BOOK",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_103807.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-S-8 (S=5) = 1558 on spine of book; photo is sideways",
+    "NAME": "OK", "NAME_NOTE": "Book spine reads 'THE PRETTY GOOD BOOK / Songs and Poetry by Tom Jensen'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 41; only spine/cover checked; remaining 40 photos not individually reviewed",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo 1 is sideways (rotated 90 degrees); this item has 41 photos total, only photo 1 reviewed for NUMBER/NAME",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
