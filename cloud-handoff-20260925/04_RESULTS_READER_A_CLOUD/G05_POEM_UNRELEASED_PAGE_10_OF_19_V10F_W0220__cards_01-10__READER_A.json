@@ -1,0 +1,245 @@
+[
+  {
+    "item_number": "1099",
+    "name_on_card": "Patty",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (652).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Three blocks show 2, 2, 1 = 221, NOT 1099.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'Patty' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Patty / There once was this girl and this guy and me / Once just us two but we became three / She loved me for two years / Though she cried a thousand tears / We had our ups and downs and lefts and rights / Then I skipped town in the middle of the night / Yes I once loved her but I let her go / He fell in love and he told her so / A good man from her town / But he was caught on her rebound / He thought he was in good right from the start / The only problem was she closed her heart / As I soon learned it still belonged to me / Poor boy how was he supposed to see?' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "1103",
+    "name_on_card": "Neil Young is gettin' old!",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_165720.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Three blocks show what appears to be S, 0, 6 (possibly 506), NOT 1103.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'Neil Young is gettin' old!' visible in bubble letters at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Neil Young is gettin' old! / Cigarettes look like pencils / So maybe we were taught to smoke / We were taught to trust all priests / That's when I first learned to joke / I got C's in Religion class / Because I taught myself to question / Some questions I was taught / Never to ask without permission / But I was never given so / Some things I learned were never taught / Some things I learned to know / The hard way is the only way / You'll remember a lesson for good / Some things you can learn to fake it / Some things you wished you could / * Marlon Brando, Pocahontas & Me ??? *' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on spiral-torn sheet in cursive fully legible."
+  },
+  {
+    "item_number": "1234",
+    "name_on_card": "THE MAN IN THE SKY",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (680).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "No standard NUMBER digit tiles visible. The circled numbers (1)(2)(3)(4) in the photo are structural content labels in the poem, not digit tiles. The '14' marking at top-left corner is a shot/annotation number, not an item number tile.",
+    "NAME": "OK",
+    "NAME_NOTE": "'THE MAN IN THE SKY' visible in small printed text on the sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full content visible: '14 / (1) (2) / (3) (4) / THE MAN IN THE SKY / The man in the sky he blocks out the sun / Darkness is left and I see no one / I knew he would come, but I thought he would wait / And for the people who ran it was already too late / it's' (typed/printed section) plus handwritten: 'Begging Pleading / Running Screaming / Dying Failing / Coffin Nailing? / Ahhh, Ahhh / What can you do? / Ahh, Ahh / Might happen to you — or me / Maybe, We'll see, you Never know' - matching typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo is rotated 90 degrees; sheet is sideways in the image.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Both printed and handwritten text legible despite sideways orientation."
+  },
+  {
+    "item_number": "1401",
+    "name_on_card": "I heard about an accident on the train",
+    "photos_checked": [],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "No photos provided for this card. Cannot verify NUMBER blocks.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No photos provided for this card. Cannot verify card name on physical sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "No photos provided for this card. Cannot verify typed_words against physical sheet.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "No photos provided. Cannot assess orientation.",
+    "READABLE": "FLAG",
+    "READABLE_NOTE": "No photos provided. Cannot assess readability."
+  },
+  {
+    "item_number": "2001",
+    "name_on_card": "feel a wintery chill starting",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1800-2045/20260818_121657.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-1800-2045__20260818_121703__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "upright-20260918/gems-1800-2045__20260818_121707__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 4,
+        "repo_path": "gems-1800-2045/20260818_121911.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Pos1-3 show four blocks 2, 0, 0, 1 = 2001 OK. Pos4 (Dodge Street April 2002 Music Schedule flyer) shows sideways photo with blocks appearing to read 2, 0, 0, 3 = 2003, NOT 2001; final digit ambiguous but does not clearly show 1.",
+    "NAME": "OK",
+    "NAME_NOTE": "'feel a wintery chill starting' visible in right-margin vertical text on pos1, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_FROM_OTHER_SHEET: Pos1 shows handwritten poem 'THANKS DAD NEW / ... is happy Thanks giving / What if I told you it was halloween / Tricks no treats / People with no shoes on their feet / Life can sometimes get pretty mean / But you, you wouldn't know / There's always someplace you can go / Daddy's gotta a cottage on a lake / Daddy's got a mansion in Bacalaton / So you never had to pay for your mistakes / Do you even know what planet you're on?' - matching typed_words first section. Pos2 shows Bob Dylan Political World printout page 1 and pos3 shows page 2 (end, with Copyright 1989 Special Rider Music) - matching typed_words second section. Pos4 shows Dodge Street Bar & Grill April 2002 Music Schedule flyer which does NOT appear in typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Pos1-3 are upright OK. Pos4 is sideways (rotated 90 degrees).",
+    "READABLE": "OK",
+    "READABLE_NOTE": "All four photos legible. Pos1 handwriting clear; pos2-3 printed text clear; pos4 printed schedule legible."
+  },
+  {
+    "item_number": "15",
+    "name_on_card": "Dreams to aspire",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (44).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 0, 1, 5 = 015 = 15.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Dreams to aspire' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Dreams to aspire / Now flat as a tire / Can't go any higher / To say otherwise is to be a liar / At least it can't get any worse' - matching typed_words poem text. The typed_words also include a '[read/page 2 - shot 44]' metadata section describing the same poem on calendar paper; this refers to the same physical photo (file number 44) shown in pos1, which is the back of a printed document.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on loose-leaf (back of printed document) fully legible."
+  },
+  {
+    "item_number": "25",
+    "name_on_card": "A THOUSAND MILES ABOVE ? (Tom unsure)",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (72).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Three blocks show 0, 2, 4 = 024 = 24, NOT 25.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'A THOUSAND MILES ABOVE' visible in decorated bubble lettering at top of sheet, matching card name (Tom's uncertainty noted in card name).",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Physical sheet shows much more content than typed_words. Typed_words contain only 3 lines: 'She came from the land of Sun / Flying through the clouds drifting above / Conquering new cities in the name of love'. Physical sheet shows additional stanzas not in typed_words: '/ From a thousand miles away / To a thousand miles above / When we first met I knew she wasn't ordinary / Conversation sent a chill through my bones / Falling in love in an hour is so extraordinary / From that point on I didn't want to be alone / [Before her annotation] I had loved and I had lost / Oh, but of course / Still I had to pay the cost / She got half when we got divorced / The mistakes I made I had corrected / Seems that love creeps up when you least expect it / She wanted my friendship, I wanted more / Best friends forever seems like such a bore / This feeling for you I have to direct it / Like a dog on the porch I await to sneak in the back'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn spiral notebook page fully legible."
+  },
+  {
+    "item_number": "76",
+    "name_on_card": "We got the AC pumpin",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (254).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 0, 7, 6 = 076 = 76.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'We got the AC pumpin' visible at top of loose-leaf section, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both sections visible. Left/top loose-leaf shows: 'We got the AC pumpin / Cause the heat is commin / And I thinks I'm perceiving that I'll be leaving / No need to stay around here' plus upside-down 'UNDERGRADUATE CATALOG / 1998-2000 / SALEM STATE COLLEGE' (catalog cover text). Right/bottom shows Salem State College medallion seal cover and handwritten Captain Haybar poem: 'Captain Haybar hit the deck / What else would you expect / from a man who wears his sailors hat just like a tattoo / If you were captain haybar you'd do it too / Everynight he sails / Just lookin for his whales / Sometimes he sleeps on deck / But only when 89 / theres money for bail / And when he's buzzin / we call him Ahab's cousin / Journalism' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Main poem and Captain Haybar section are readable. Some text (catalog cover) is upside-down as expected per the physical item description.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on loose-leaf and catalog cover fully legible."
+  },
+  {
+    "item_number": "85",
+    "name_on_card": "SEEING STARS",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (269).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 0, 8, 5 = 085 = 85.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'SEEING STARS' visible in decorated lettering at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'SEEING STARS / I went out on a bender / Crushing ice in my blender / I went and dented my fender / Now rehab I have to enter / When everyday's the same / You're the only one left to blame / It's time to come back to earth / At least you're getting your money's worth / You'll be seeing stars / But at least it ain't through bars / Even still I don't want to play doctor / [heavily crossed out word] with any doc / Alone and in his office / with the doors locked' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in blue/purple ink on lined paper fully legible including crossed-out word."
+  },
+  {
+    "item_number": "112",
+    "name_on_card": "DOT DOT SPACE",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (385).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 1, 1, 2 = 112.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'DOT DOT SPACE' is NOT visible on the physical sheet. The sheet begins directly with 'FIRST YOU BECOME A READER...' with no separate title heading.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'FIRST YOU BECOME A READER... / THEN YOU BECOME A BELIEVER... / THEN WE ALL GET TOGETHER / ... / Decide what we gotta do / to make this world / better' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Large handwritten text on plain paper fully legible."
+  }
+]
