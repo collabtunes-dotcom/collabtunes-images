@@ -1,0 +1,192 @@
+[
+  {
+    "item_number": "1818",
+    "name_on_card": "Except Uncle Kenny",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_192004.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_192028.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_192019.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_192036.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photos 2, 3, 4 (gems-1800-2045/20260816_192028.jpg, /192019.jpg, /192036.jpg) are rotated 90 degrees from normal reading orientation.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "880",
+    "name_on_card": "BLACK SOX SCANDAL",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_074808.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-0501-1000/20260819_074814.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Typed_words describe '[Handwritten text, rotated 90 degrees left]: People at first did not believe...' but this handwritten content is not clearly visible in either photo. Photo 1 shows poem side, photo 2 shows BLACK SOX SCANDAL typed title page.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1522",
+    "name_on_card": "Writers at Work",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_085614.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_085641.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1500-1799-a/20260808_085620.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1534",
+    "name_on_card": "Lynnfield High School Records - CTP III Score Label",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_091629.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_091637.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Typed_words describe the 'Writers at Work' booklet (same content as card 1522) but photos show Lynnfield High School CTP III Score Label (JENSEN, THOMAS R., 12/93, Lynnfield High, Grade 10) and Lynnfield High School Temporary Record with SAT scores and activities. The typed_words appear to be copied from card 1522 and do not describe this item.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1820",
+    "name_on_card": "The Independence of John Brown",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_192306.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 (gems-1800-2045/20260816_192306.jpg) is rotated 90 degrees; number blocks are on the left side stacked vertically.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1821",
+    "name_on_card": "Dangers of Alcohol",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_192346.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_192352.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_192400.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_192406.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_200210.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Photo 5 (gems-1800-2045/20260816_200210.jpg) shows 'The Magnificant Seven / Class Magazine / English Composition 102-S1 / Fall 1999 / Published by Professor Kimberly Underhill' - a spiral-bound booklet mentioned in the summary but not described in typed_words. Also no number blocks visible in photo 5.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photos 2, 3, 4 (gems-1800-2045/20260816_192352.jpg, /192400.jpg, /192406.jpg) are rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1822",
+    "name_on_card": "A battle fatigued U.S. marine in World War II with the Thousand Yard Stare",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_200448.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_200459.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_200503.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks visible at bottom of landscape overview photo 1; read as 1822 consistent with item number.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 2 (gems-1800-2045/20260816_200459.jpg) is rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1823",
+    "name_on_card": "Going to college is a totally new experience to someone",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_200539.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 (gems-1800-2045/20260816_200539.jpg) is rotated 90 degrees; blocks stacked vertically on left read 1823 bottom-to-top.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1824",
+    "name_on_card": "A Hard Rain's Gonna Fall",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_200606.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_200621.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_200627.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_200635.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 4 photos rotated 90 degrees (gems-1800-2045/20260816_200606.jpg, /200621.jpg, /200627.jpg, /200635.jpg).",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1825",
+    "name_on_card": "I'm still here for a reason",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_200659.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_200706.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_200711.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_200715.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_200721.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photos 2-5 rotated 90 degrees (gems-1800-2045/20260816_200706.jpg, /200711.jpg, /200715.jpg, /200721.jpg).",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
