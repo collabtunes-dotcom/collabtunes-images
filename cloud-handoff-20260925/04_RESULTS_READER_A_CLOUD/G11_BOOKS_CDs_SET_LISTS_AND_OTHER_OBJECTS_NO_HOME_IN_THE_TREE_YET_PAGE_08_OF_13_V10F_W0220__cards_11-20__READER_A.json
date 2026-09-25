@@ -1,0 +1,122 @@
+[
+  {
+    "item_number": "1672",
+    "name_on_card": "ONLY THE BEST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121623.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-7-2 left-to-right (horizontal row at top) = 1672; photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card 'ONLY THE BEST'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM' with three red roses on black background clearly visible; typed_words confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1673",
+    "name_on_card": "ONLY THE BEST poems & song lyrics",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121628.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-7-3 left-to-right (horizontal row at top) = 1673; typed_words confirm '3/7/6/1' (right-to-left reversed reading = 1673); photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover with three red roses on black background clearly visible; typed_words '3/7/6/1' confirmed as card digits read right-to-left",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1674",
+    "name_on_card": "ONLY THE BEST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121632.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-7-4 left-to-right (horizontal row at top) = 1674; photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card 'ONLY THE BEST'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover with three red roses on black background clearly visible; typed_words confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1675",
+    "name_on_card": "ONLY THE BEST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121637.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-7-S left-to-right (horizontal row at top; S=5) = 1675; photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card 'ONLY THE BEST'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover with three red roses on black background clearly visible; typed_words confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1676",
+    "name_on_card": "ONLY THE BEST poems & song lyrics",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121644.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-7-6 left-to-right (horizontal row at top) = 1676; typed_words confirm '6/7/6/1' (right-to-left reversed reading = 1676); photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover with three red roses on black background clearly visible; typed_words '6/7/6/1' confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1677",
+    "name_on_card": "ONLY THE BEST poems & song lyrics",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121653.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-7-7 left-to-right (horizontal row at top) = 1677; typed_words confirm '7/7/6/1' (right-to-left reversed reading = 1677); photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover with three red roses on black background clearly visible; typed_words '7/7/6/1' confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1678",
+    "name_on_card": "ONLY THE BEST poems & song lyrics",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121659.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-7-8 left-to-right (horizontal row at top) = 1678; typed_words confirm '8/7/6/1' (right-to-left reversed reading = 1678); photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover with three red roses on black background clearly visible; typed_words '8/7/6/1' confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1679",
+    "name_on_card": "ONLY THE BEST poems & song lyrics",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121703.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-7-9 left-to-right (horizontal row at top) = 1679; typed_words confirm '9/7/6/1' (right-to-left reversed reading = 1679); photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover with three red roses on black background clearly visible; typed_words '9/7/6/1' confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1680",
+    "name_on_card": "ONLY THE BEST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121716.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-8-0 left-to-right (horizontal row at top) = 1680; photo appears upright despite rotated-photos source path; typed_words do not include card digits but photo confirms",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card 'ONLY THE BEST'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover with three red roses on black background clearly visible; typed_words confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1681",
+    "name_on_card": "ONLY THE BEST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_121722.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-8-1 left-to-right (horizontal row at top) = 1681; photo appears upright despite rotated-photos source path; typed_words do not include card digits but photo confirms",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card 'ONLY THE BEST'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover with three red roses on black background clearly visible; typed_words confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
