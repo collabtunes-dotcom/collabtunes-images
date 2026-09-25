@@ -1,0 +1,181 @@
+[
+  {
+    "item_number": "2004",
+    "name_on_card": "SILVERPOINT",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_121955.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260818_122025.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260818_122029.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260818_122101.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260818_122107.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260818_122113.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 7, "repo_path": "gems-1800-2045/20260818_122119.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 8, "repo_path": "gems-1800-2045/20260818_122129.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 9, "repo_path": "gems-1800-2045/20260818_122135.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 10, "repo_path": "gems-1800-2045/20260818_122152.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 11, "repo_path": "gems-1800-2045/20260818_122205.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 12, "repo_path": "gems-1800-2045/20260818_122213.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 2-0-0-4 visible in photo 1; interior pages (photos 2-12) do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "SILVERPOINT brand name visible on notebook cover in photo 2.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 12 photos rotated 90 degrees (landscape notebook photographed in portrait orientation).",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "474",
+    "name_on_card": "WORTH A SHOT",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1185).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 4-7-4 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Handwritten lyric with numerous cross-outs, revisions, and marginal additions visible in photo; extent of edits not captured in typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "591",
+    "name_on_card": "My Open House",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/501 to 787 part 2 (102).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 5-9-1 visible across top in photo 1 (upright orientation).",
+    "NAME": "FLAG",
+    "NAME_NOTE": "SMALL_DIFF: No title 'My Open House' visible in photo; document begins with 'I'm AWOKEN NOT BROKEN' as first line/title.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "849",
+    "name_on_card": "\" I don't wanna be",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_073951.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 8-4-9 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "850",
+    "name_on_card": "In the winter",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_074018.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 8-5-0 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Second smaller sheet visible in photo with handwritten notes ('Optimist / Pessimist / Realist / Conservative / Liberal / apolitical...') not described in typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "951",
+    "name_on_card": "Co-worker Theory of Psychology",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-2046-plus/20260824_053925.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-2046-plus/20260824_053930.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-2046-plus/20260824_053932.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "4 white rectangular blocks visible at top of photo 1 but digits appear blank/unreadable; cannot confirm 9-5-1.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 upright; photos 2-3 rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1097",
+    "name_on_card": "Hello, This is Paul's second letter to the Corinthians",
+    "photos_checked": [],
+    "NUMBER": "N/A",
+    "NUMBER_NOTE": "No photos.",
+    "NAME": "N/A",
+    "NAME_NOTE": "No photos.",
+    "WORDS": "N/A",
+    "WORDS_NOTE": "No photos.",
+    "WAY_UP": "N/A",
+    "WAY_UP_NOTE": "No photos.",
+    "READABLE": "N/A",
+    "READABLE_NOTE": "No photos."
+  },
+  {
+    "item_number": "1101",
+    "name_on_card": "died he would never tell anyone anything again",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_192233.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Blocks partially cut at edges of photo 1; most visible digits consistent with 1-1-0-1 but cannot fully confirm due to cropping.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1477",
+    "name_on_card": "I'm Tom Jensen, a 47-year-old lyricist with 31 albums' worth of songs",
+    "photos_checked": [],
+    "NUMBER": "N/A",
+    "NUMBER_NOTE": "No photos.",
+    "NAME": "N/A",
+    "NAME_NOTE": "No photos.",
+    "WORDS": "N/A",
+    "WORDS_NOTE": "No photos.",
+    "WAY_UP": "N/A",
+    "WAY_UP_NOTE": "No photos.",
+    "READABLE": "N/A",
+    "READABLE_NOTE": "No photos."
+  },
+  {
+    "item_number": "1511",
+    "name_on_card": "HANDWRITTEN NOTE - GRANDMA DIZZY",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_084055.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-5-1-1 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
