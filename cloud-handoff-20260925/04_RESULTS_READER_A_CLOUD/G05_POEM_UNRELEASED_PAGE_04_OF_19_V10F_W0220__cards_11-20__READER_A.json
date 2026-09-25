@@ -1,0 +1,232 @@
+[
+  {
+    "item_number": "735",
+    "name_on_card": "I must be strong, I'll see her next week",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204536.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 3, 5 = 735.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I must be strong, I'll see her next week' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final 'Captivation is my motivation'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "736",
+    "name_on_card": "COLORS",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204547.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 3, 6 = 736.",
+    "NAME": "OK",
+    "NAME_NOTE": "'COLORS' visible as decorative title in multicolor lettering at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final \"'Cause you're about ready to fold\".",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "737",
+    "name_on_card": "ALL OR NOTHING",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204558.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 3, 7 = 737.",
+    "NAME": "OK",
+    "NAME_NOTE": "'ALL OR NOTHING' visible as title at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both stanzas visible and matching typed_words through final 'Doing my best not to go from up to down'. Some words crossed out in mid-stanza but surrounding text legible.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Some crossed-out words in lines 5-6 but main text fully legible."
+  },
+  {
+    "item_number": "740",
+    "name_on_card": "Three thirty four",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204648.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 4, 0 = 740.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Three thirty four' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All three stanzas visible ('Three thirty four', 'Three thirty three', 'Three thirty five') with arrow annotations and crossed-out corrections matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Arrows and corrections visible but all text legible."
+  },
+  {
+    "item_number": "742",
+    "name_on_card": "Happy birthday though I have no card",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204718.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 4, 2 = 742.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Happy birthday though I have no card' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final 'It isn't much but here you go'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "One word crossed out ('much' substituted) but text fully legible."
+  },
+  {
+    "item_number": "743",
+    "name_on_card": "Well, you've been climbing the ladder",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204729.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 4, 3 = 743.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Well, you've been climbing the ladder' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final 'Like taking food from a sufferer of starvation'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "One word crossed out in line 3 but text otherwise fully legible."
+  },
+  {
+    "item_number": "744",
+    "name_on_card": "COVERINGS",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204740.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 4, 4 = 744.",
+    "NAME": "OK",
+    "NAME_NOTE": "'COVERINGS' visible as decorative title at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All four stanzas visible and matching typed_words. 'Invitable' written above 'crown' in final stanza matching typed_words 'invitable crown of happiness'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "747",
+    "name_on_card": "Blank Page so I must fill it",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204825.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 4, 7 = 747.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Blank Page so I must fill it' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final 'Something greater than ourselves'. Margin annotation 'Believe in anyone I' visible matching typed_words crossed-out text context.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Some crossed-out text in lines 2-3 but all main text legible."
+  },
+  {
+    "item_number": "750",
+    "name_on_card": "Start digging a hole",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204904.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 5, 0 = 750.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Start digging a hole' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both stanzas visible and matching typed_words. 'weather' written above crossed-out word in line 4, matching typed_words '[weather]'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "752",
+    "name_on_card": "COVERINGS",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204926.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 5, 2 = 752.",
+    "NAME": "OK",
+    "NAME_NOTE": "'COVERINGS' visible as title with 'A E I O U / B C D F G H J K L M N P Q R S T V W X Y Z' alphabet headers above.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All four stanzas visible and matching typed_words for this version of COVERINGS (distinct from card 744; this version has 'proudly' in final stanza vs. 744's 'Always...invitable').",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Some corrections in stanza 3 but all text legible."
+  }
+]
