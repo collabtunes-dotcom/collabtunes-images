@@ -1,0 +1,62 @@
+[
+  {
+    "item_number": "1811",
+    "name_on_card": "A LIFETIME OF RHYME",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_184636.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards in vertical column on left read top-to-bottom as 1-1-8-1; reversed for original left-to-right order = 1-8-1-1 = 1811",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'A LIFETIME OF RHYME / A different poem or song for everyday of the year! / by Tom Jensen'; matches name_on_card",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 4; book cover 'A LIFETIME OF RHYME / A different poem or song for everyday of the year! / by Tom Jensen' clearly visible; note on right reads 'POOR QUALITY paper (thin!)'; typed_words field states 'Not typed up yet' — no transcription available for comparison",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1812",
+    "name_on_card": "A LIFETIME OF RHYME",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_184824.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards in vertical column on left read top-to-bottom as 2-1-8-1; reversed for original left-to-right order = 1-8-1-2 = 1812",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'A LIFETIME OF RHYME / A different poem or song for everyday of the year! / by Tom Jensen'; matches name_on_card",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 3; book cover 'A LIFETIME OF RHYME / A different poem or song for everyday of the year! / by Tom Jensen' clearly visible; note on right reads 'Thicker paper / lots of notes'; typed_words field states 'Not typed up yet' — no transcription available for comparison",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1593",
+    "name_on_card": "FIRST DRAFT FINISHED SONGS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_114851.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-9-3 left-to-right (horizontal row at top; S=5) = 1593",
+    "NAME": "FLAG", "NAME_NOTE": "Photo 1 shows 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM' book cover; typed_words describe this as a second copy of ONLY THE BEST bundled with a separate 'FIRST DRAFT FINISHED SONGS' manuscript; the FIRST DRAFT FINISHED SONGS cover is not visible in photo 1",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 21; from rotated-photos source but photo appears upright; 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM' book cover with three red roses on black background clearly visible; typed_words describe this as 'Second copy of ONLY THE BEST...' followed by a separate FIRST DRAFT FINISHED SONGS manuscript; book cover portion confirmed; FIRST DRAFT manuscript and later contents appear in subsequent photos",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1089",
+    "name_on_card": "BASES 3rd copy",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_114339.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards in vertical column on left read top-to-bottom as 9-8-0-1; reversed for original left-to-right order = 1-0-8-9 = 1089; second and third digits (8 and 0) have some ambiguity in handwriting style but reading is consistent with 1089",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'BASES / best baseball stat ever / by Brian Rainstorm'; name_on_card 'BASES 3rd copy' confirmed by book title; 'copy' designation distinguishes physical copies",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 1; 'BASES / best baseball stat ever / by Brian Rainstorm' green book cover visible; typed_words field states 'Not typed up yet' — no transcription available for comparison",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1090",
+    "name_on_card": "BASES 4th copy",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_114357.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards in vertical column on left read top-to-bottom as 0-9-0-1; reversed for original left-to-right order = 1-0-9-0 = 1090; some digit ambiguity in handwriting but reading is consistent with 1090",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'BASES / best baseball stat ever / by Brian Rainstorm'; matches name_on_card 'BASES 4th copy'",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 1; 'BASES / best baseball stat ever / by Brian Rainstorm' green book cover visible; typed_words field states 'Not typed up yet' — no transcription available for comparison",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
