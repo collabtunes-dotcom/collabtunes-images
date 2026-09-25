@@ -1,0 +1,154 @@
+[
+  {
+    "item_number": "1623",
+    "name_on_card": "Coloured Square Grid",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1500-1799-a/20260808_205013.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-1500-1799-a/20260808_205021.jpg",
+        "NUMBER": "N/A",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-6-2-3 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "typed_words is 'Not typed up yet.' \u2014 nothing to compare.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Both photos upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1624",
+    "name_on_card": "Coloured Squares Mosaic",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1500-1799-a/20260808_205052.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-6-2-4 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "typed_words is 'Not typed up yet.' \u2014 nothing to compare.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1625",
+    "name_on_card": "Stacked coloured rings, marker drawing",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1500-1799-a/20260808_205115.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-6-2-5 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "typed_words is 'Not typed up yet.' \u2014 nothing to compare.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1737",
+    "name_on_card": "NINE CIRCLES IN SQUARES",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1500-1799-b/20260823_163705.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-1500-1799-b/20260823_163712.jpg",
+        "NUMBER": "N/A",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-7-3-7 visible in photo 1 (rotated 90 degrees, blocks read bottom-to-top on left side).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "typed_words is 'Not typed up yet.' \u2014 nothing to compare.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Both photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1899",
+    "name_on_card": "Four two-colour silhouette portraits, marker",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1800-2045/20260817_101125.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-9-9 visible in photo 1 (rotated 90 degrees, blocks read bottom-to-top on left side).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "typed_words is 'Not typed up yet.' \u2014 nothing to compare.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1901",
+    "name_on_card": "Subscribe",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-1800-2045/20260817_102755.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-9-0-1 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo shows cutout collage figure holding 'Subscribe' banner, matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]

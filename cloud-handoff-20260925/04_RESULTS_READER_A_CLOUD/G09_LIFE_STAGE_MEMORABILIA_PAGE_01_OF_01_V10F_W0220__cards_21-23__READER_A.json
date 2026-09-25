@@ -1,0 +1,56 @@
+[
+  {
+    "item_number": "1884",
+    "name_on_card": "Salem State College Catalog 2002-2004 English BA",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_095734.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-8-4 visible in photo 1.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1885",
+    "name_on_card": "Salem State College Catalog 2000-2002 History BA",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_095759.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260817_095827.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260817_095840.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-8-5 visible in photo 1; interior pages do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 3 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1887",
+    "name_on_card": "Salem State College Catalog 2002-2004 English BA (copy 2)",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_095931.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260817_095938.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-8-7 visible in photo 1; photo 2 does not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Both photos upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]

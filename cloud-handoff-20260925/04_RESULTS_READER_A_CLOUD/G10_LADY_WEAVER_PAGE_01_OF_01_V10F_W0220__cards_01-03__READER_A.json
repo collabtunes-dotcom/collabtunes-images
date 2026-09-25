@@ -1,0 +1,72 @@
+[
+  {
+    "item_number": "946",
+    "name_on_card": "LADY WEAVER SONG",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_083731.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 9-4-6 visible across top in photo 1 (upright orientation, 3-digit item number).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1503",
+    "name_on_card": "LADY WEAVER CD-R",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_083429.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-5-0-3 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "typed_words='Not typed up yet.' — nothing to compare against.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1556",
+    "name_on_card": "LadyWeaver Music Project",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_100407.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_101203.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1500-1799-a/20260808_101207.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1500-1799-a/20260808_101214.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1500-1799-a/20260808_101218.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1500-1799-a/20260808_101223.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 7, "repo_path": "gems-1500-1799-a/20260808_101227.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 8, "repo_path": "gems-1500-1799-a/20260808_101234.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 9, "repo_path": "gems-1500-1799-a/20260808_101238.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 10, "repo_path": "gems-1500-1799-a/20260808_101242.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 11, "repo_path": "gems-1500-1799-a/20260808_101244.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 12, "repo_path": "gems-1500-1799-a/20260808_101249.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 13, "repo_path": "gems-1500-1799-a/20260808_101252.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 14, "repo_path": "gems-1500-1799-a/20260808_101254.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 15, "repo_path": "gems-1500-1799-a/20260808_101257.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 16, "repo_path": "gems-1500-1799-a/20260808_101301.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 17, "repo_path": "gems-1500-1799-a/20260808_101303.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 18, "repo_path": "gems-1500-1799-a/20260808_101305.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 19, "repo_path": "gems-1500-1799-a/20260808_101319.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 20, "repo_path": "gems-1500-1799-a/20260808_101323.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-5-5-6 visible in photo 1; interior pages do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Photo 1 shows Saint Joseph School Salem MA embroidered patch alongside item stack; not described in typed_words. Remaining photos confirm Lady Weaver planning documents matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "All 20 photos upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
