@@ -1,0 +1,107 @@
+[
+    {
+        "item_number": "632",
+        "name_on_card": "first it starts with a toe hold",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-0501-1000/501 to 787 part 2 (75).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 6,3,2 confirmed in photo 1 (3-digit number, horizontal arrangement).",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "373",
+        "name_on_card": "VERY EARLY POEM",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (975).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 3,7,3 confirmed in photo 1 (3-digit number, horizontal arrangement).",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1502",
+        "name_on_card": "SCHOOL PORTRAIT - PINSTRIPE JERSEY",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_083409.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,5,0,2 confirmed in photo 1.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1544",
+        "name_on_card": "Social Studies Worksheet And Boston Globe Rejection Letter",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_092921.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_092928.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,5,4,4 confirmed in photos 1 and 2.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "68",
+        "name_on_card": "This Slice of Heaven",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (224).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (232).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (233).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 0,6,8 confirmed in all photos (3-digit number, reading left to right = 068 = item 68).",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "125",
+        "name_on_card": "BETTER OFF DEAD",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (421).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,2,5 confirmed in photo 1 (3-digit number, horizontal arrangement).",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
