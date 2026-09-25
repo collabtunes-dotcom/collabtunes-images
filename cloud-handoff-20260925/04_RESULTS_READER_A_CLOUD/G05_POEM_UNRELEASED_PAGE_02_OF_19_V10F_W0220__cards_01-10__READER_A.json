@@ -1,0 +1,246 @@
+[
+  {
+    "item_number": "297",
+    "name_on_card": "This is my gal poem",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (840).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 2, 9, 7 = 297.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'This is my gal poem' (partially obscured by card but readable) visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "309",
+    "name_on_card": "I got about thirty seconds",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (863).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 3, 0, 9 = 309.",
+    "NAME": "OK",
+    "NAME_NOTE": "Opening line 'I got about thirty seconds' visible on sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Text heavily crossed out in places but main lines are legible."
+  },
+  {
+    "item_number": "360",
+    "name_on_card": "REAL FIRST POEM",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (951).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 3, 6, 0 = 360.",
+    "NAME": "OK",
+    "NAME_NOTE": "'REAL FIRST POEM' on a white card visible in photo.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "380",
+    "name_on_card": "The Darkness Fades as Sun Sets In",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (991).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 3, 8, 0 = 380.",
+    "NAME": "OK",
+    "NAME_NOTE": "No separate title on sheet; card name is the first line of the poem, which is visible.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "389",
+    "name_on_card": "My personality",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1015).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 3, 8, 9 = 389.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No title 'My personality' visible on sheet; sheet starts directly with 'I love somebody'.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "422",
+    "name_on_card": "Quest for Immortality",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1080).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 2, 2 = 422.",
+    "NAME": "OK",
+    "NAME_NOTE": "'Quest for Immortality' visible at top of sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: typed_words include multiple additional sections after the main Quest for Immortality poem (SWIMMING COWS, 'Donnie knows about', 'Some people's presence', 'There's just so many damn people', etc.) not visible in the single photo.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "428",
+    "name_on_card": "They told me I was born better",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1091).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 2, 8 = 428.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "SMALL_DIFF: Sheet title reads 'They told me' only; full card name is 'They told me I was born better'.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: typed_words include two additional sections ('So many of my friends like to play pretend' and 'I'd like to meet myself through another set of eyes') not visible in the single photo.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Some sections crossed out but main text legible."
+  },
+  {
+    "item_number": "444",
+    "name_on_card": "FRAMINGHAM BLUES",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1130).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1131).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 4, 4 = 444 in both photos.",
+    "NAME": "OK",
+    "NAME_NOTE": "'FRAMINGHAM BLUES' visible at top in photo 2.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Photo 1 shows a second sheet underneath with an alternate/extended version of the poem (additional lines: 'I know a man who doesn't have a wife or family...', 'I believe in education because they never taught that in school', 'I believe in rehabilitation even for the silliest fool', etc.) not in typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "453",
+    "name_on_card": "Quick Wit",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1141).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 5, 3 = 453.",
+    "NAME": "OK",
+    "NAME_NOTE": "'Quick Wit By Brian Rainstorm' visible at top.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "466",
+    "name_on_card": "SOUL BAY",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1164).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1165).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 6, 6 = 466 in both photos.",
+    "NAME": "OK",
+    "NAME_NOTE": "'SOUL BAY' visible at top in photo 1.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "typed_words are marked '[cut for the check]'; visible content matches.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]

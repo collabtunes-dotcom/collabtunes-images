@@ -1,0 +1,173 @@
+[
+  {
+    "item_number": "1831",
+    "name_on_card": "MY GENERATION",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_202519.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_202526.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_202534.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_202540.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_202546.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260816_202552.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 7, "repo_path": "gems-1800-2045/20260816_202601.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "FLAG",
+    "NAME_NOTE": "SMALL_DIFF: Document title reads 'MY (DAD'S) GENERATION'; card name is 'MY GENERATION'.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 7 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1832",
+    "name_on_card": "THE COREY STORY",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_202639.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_202647.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_202654.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_202700.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_202706.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260816_202712.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 7, "repo_path": "gems-1800-2045/20260816_202719.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 8, "repo_path": "gems-1800-2045/20260816_202727.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-3-2 visible in photos 1-6 and 8; not visible in photo 7 (back of page, blocks cut off).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Photo 7 shows back of a page with handwritten crude/informal notes not described in typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 8 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1833",
+    "name_on_card": "THE COREY STORY",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_202756.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_202804.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_202810.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_202816.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_202820.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260816_202824.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 6 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1834",
+    "name_on_card": "The Independence of John Brown",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_202915.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 rotated 90 degrees; blocks 1-8-3-4 on left side.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1835",
+    "name_on_card": "The Independence of John Brown",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_202941.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 rotated 90 degrees; blocks 1-8-3-5 on left side.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1836",
+    "name_on_card": "The Independence of John Brown",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_202949.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 rotated 90 degrees; blocks 1-8-3-6 on left side.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1837",
+    "name_on_card": "The Independence of John Brown",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_202955.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 rotated 90 degrees; blocks 1-8-3-7 on left side.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1838",
+    "name_on_card": "THE INDEPENDENCE OF JOHN BROWN",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_203001.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 rotated 90 degrees; blocks 1-8-3-8 on left side.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1839",
+    "name_on_card": "The Independence of John Brown",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_203116.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Essay text printed in green ink; typed content matches what is visible.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 rotated 90 degrees; blocks 1-8-3-9 on left side.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]

@@ -29,3 +29,13 @@ item_number,name_on_card,page,batch_from,batch_to,NUMBER,NUMBER_NOTE,NAME,NAME_N
 244,SUPER STAR,G05_POEM_UNRELEASED_PAGE_01_OF_19_V10F_W0220,21,30,OK,,OK,,OK,,OK,,OK,
 286,"If it wasn't such crappa",G05_POEM_UNRELEASED_PAGE_01_OF_19_V10F_W0220,21,30,OK,,OK,"No formal title; first line is card name",OK,,OK,,OK,
 291,"When you forget than I forget",G05_POEM_UNRELEASED_PAGE_01_OF_19_V10F_W0220,21,30,OK,,OK,"Sheet reads 'then' not 'than'",FLAG,"SMALL_DIFF: sheet reads 'then I forget'; card name and typed_words use 'than'",OK,,OK,
+297,This is my gal poem,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 2-9-7=297,OK,Title partially visible at top of sheet,OK,,OK,,OK,
+309,I got about thirty seconds,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 3-0-9=309,OK,Opening line visible on sheet,OK,,OK,,OK,Text heavily crossed out but legible
+360,REAL FIRST POEM,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 3-6-0=360,OK,REAL FIRST POEM on card visible,OK,,OK,,OK,
+380,The Darkness Fades as Sun Sets In,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 3-8-0=380,OK,No title on sheet; name is first line of poem,OK,,OK,,OK,
+389,My personality,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 3-8-9=389,FLAG,No title visible; sheet starts with 'I love somebody',OK,,OK,,OK,
+422,Quest for Immortality,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 4-2-2=422,OK,Title visible at top,FLAG,TYPED_NOT_PICTURED: additional sections not visible in single photo,OK,,OK,
+428,They told me I was born better,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 4-2-8=428,FLAG,SMALL_DIFF: sheet title reads 'They told me' only,FLAG,TYPED_NOT_PICTURED: two additional sections not visible in single photo,OK,,OK,
+444,FRAMINGHAM BLUES,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 4-4-4=444,OK,Title visible in photo 2,FLAG,SHEET_NOT_TYPED: second sheet shows alternate/extended version not in typed_words,OK,,OK,
+453,Quick Wit,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 4-5-3=453,OK,Quick Wit By Brian Rainstorm visible,OK,,OK,,OK,
+466,SOUL BAY,G05_POEM_UNRELEASED_PAGE_02_OF_19_V10F_W0220,1,10,OK,Blocks show 4-6-6=466,OK,SOUL BAY visible at top,OK,typed_words truncated with [cut for the check]; visible content matches,OK,,OK,
