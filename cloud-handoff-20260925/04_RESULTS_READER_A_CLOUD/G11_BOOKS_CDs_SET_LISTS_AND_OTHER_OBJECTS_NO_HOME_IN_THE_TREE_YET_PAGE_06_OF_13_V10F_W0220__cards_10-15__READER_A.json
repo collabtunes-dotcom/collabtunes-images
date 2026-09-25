@@ -1,0 +1,74 @@
+[
+  {
+    "item_number": "1509",
+    "name_on_card": "School Records And Memorabilia Collection",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_083845.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-0-9 left-to-right (horizontal row at top; S=5) = 1509",
+    "NAME": "OK", "NAME_NOTE": "Saint Joseph School report card 1986-1987 visible; Name: Thomas Jensen, Grade 3, Home Room Teacher Ms. Paula Connors; Reverend Lawrence J. Rondeau Pastor; Sister Alice Parent SASV Principal; 'HAVE A GOD-FILLED SUMMER! SISTER ALICE' in red; Promoted to Grade 4; matches 'School Records And Memorabilia Collection' as first of 4 items",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 4; full report card visible with all subject grades across 3 terms: Religion B/B-/B-, Reading Book Level 13/13/14, Comprehension A/A-/A, Phonics B+/B-/B-, Vocabulary A/A/A, Oral Reading B+/B/B, English A-/B+/B-, Spelling A-/B/A, Handwriting C/C/C-, Mathematics C/C/C+, French B-/B-/B-, Science and Health B-/B+/B+, Social Studies B-/B+/B+, Art B+/B+/B+, Music B/B/B, Physical Education B/B/B+; Attendance Days Absent 1/12/6.5, Days Tardy 0/2/1; matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; report card text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1738",
+    "name_on_card": "The first penguin",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_163847.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-3-8 left-to-right (horizontal row at top) = 1738",
+    "NAME": "OK", "NAME_NOTE": "'The first penguin' written vertically in left margin of notebook paper; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source path but photo appears upright; full content visible: circled quote 'Every time history repeats itself the price goes up / was written on [the bathroom] wall / the side of a...'; 'Internalities Nalities Externalities'; '(3) To gain when you lack escapes this Progress Trap / At the edge of the Abyss / A Half pond of Lillies / Half the pond is Lillies / where there's no turning back...'; 'Planetary Brain & Unified Social Network'; '(2) Agony & Ecstacy with no plan B / Gotta be a little crazy to do this / Said The guru of go...To learn to say No / It's hard to say what is so easy to see..'; '(1) Like a half a pond of Lillies / Everytime history repeats itself / The price goes up / was written on the side of a wall / going over a bridge / But nobody Else Ever Saw it / They were all looking up...'; 'Rick & Rays Small Engine (207) 929-8011' in margin; 'Never have Children Only Grand Children Keyboard commando' in right margin; matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "870",
+    "name_on_card": "Patty",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_074546.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 8-7-0 left-to-right (horizontal row at top) = 870",
+    "NAME": "OK", "NAME_NOTE": "Paper shows 'Patty' at top of right-column names list; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; right column names list: Patty, O'malley, Lewis, Silva, Silva, Umar, Gautier, Bokanskas, Johnson, Hikit, Miller; left column: History / Heros / Heartbreaks / Hopes / 'Call me the teapot / Start steaming / Then I Blow.' / 'When daddy left / I got a dog' / 'That bitch came straight From sentinel Island'; bet amounts 'Gautier -1000 / Umar -1400 / Miller -450 / Bet 500 to make 200'; purple ink: 'Cunnilingus and psychiatry brought us to this / More wars are lost than won'; matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1650",
+    "name_on_card": "QUOTE CARDS AND SKETCH NOTES",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1500-1799-a__20260808_214114__UPRIGHT.jpg", "NUMBER": "FLAG", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "UPRIGHT_FIXED photo: only 3 card squares clearly visible on left side (approximately 1, [unclear], 0); item_number 1650 requires 4 digits (1,6,5,0); one card may be hidden behind another; cannot confirm all 4 digits",
+    "NAME": "OK", "NAME_NOTE": "Photo shows 'Politricks' header card (quote card about Don't Smoke Kool/be cool); content consistent with 'QUOTE CARDS AND SKETCH NOTES'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 6; UPRIGHT_FIXED version; content visible: 'Politricks' header card with 'You own the things that don't cost anything - Jalenie's grandpa Track 4' and 'Don't Smoke Kool... be cool. - Jalenie's uncle Track 4'; 'Damn John Jay! Damn everyone who won't damn John Jay!...' quote card; 'Charade of Pacifinity A.H. 4/12 + Track 3 7:00 min'; Denzel Washington (Fallen) quotes; left card shows 'Monday 8:30 A.M. / difference between a camera and a cactus / pricks / LBJ (I think)'; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: main document sheets are rotated 90 degrees (sideways) within the corrected frame; text on most sheets runs vertically",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable on visible note cards despite sideways orientation"
+  },
+  {
+    "item_number": "452",
+    "name_on_card": "I Said Here Comes the Money Honey",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1140).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 4-S-2 left-to-right (horizontal row at top; S=5) = 452",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'I SAID, \"Here Comes the money honey\"'; first line matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 10; full lyric visible with crossed-out revisions: 'I SAID, \"Here Comes the money honey\" / If that's what you need... / And while we're at it... Since I'm an addict / Can I send you some weed?' through 'FREE OURSELVES FROM FEAR'; crossed-out lines and alternative phrasings visible; matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1653",
+    "name_on_card": "NOTE CARDS AND QUOTE FRAGMENTS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260808_214747.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-S-3 left-to-right (horizontal row at top; S=5) = 1653",
+    "NAME": "OK", "NAME_NOTE": "Multiple loose note cards and quote fragments visible; content consistent with 'NOTE CARDS AND QUOTE FRAGMENTS'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 5; front note card reads 'I make all the girlies giggle... And one special one wiggle...' and below: 'ego depletion / glucose helps (sugar) / Rationality and the reflective Mind (book)'; left card shows partial LBJ camera/cactus quote 'Monday 8:30 A.M. / the difference between a camera and a cactus / the pricks / - LBJ / (I think'; matches typed_words quote card content",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
