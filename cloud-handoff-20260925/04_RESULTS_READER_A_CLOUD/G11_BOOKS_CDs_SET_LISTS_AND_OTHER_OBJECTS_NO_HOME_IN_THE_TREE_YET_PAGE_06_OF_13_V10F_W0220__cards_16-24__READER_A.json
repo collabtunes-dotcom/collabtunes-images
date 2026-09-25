@@ -1,0 +1,110 @@
+[
+  {
+    "item_number": "1898",
+    "name_on_card": "Press kits",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_100545.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Photo rotated 90°; cards 1-8-9-8 reading top-to-bottom on left column in rotated photo (left-to-right in original) = 1898",
+    "NAME": "FLAG", "NAME_NOTE": "Photo 1 of 12; label 'Press kits' not explicitly visible as a catalog card or header in this photo; content shows music business notes about management, talent agents, and contracts rather than actual press kit materials",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 12; rotated 90°; visible text: 'Visability: performin public create opportunities / Success in the music industry hinges on developing relationships / A and R people want hit singles / Songs are the most important aspect of an artist in their eyes / Role of Personal Manager: A&R person, Publicist, Liason between band and record company, Helps generate buzz, Shops your tape for a record deal, Makes sure a label treats you right, gets you gigs, Act as the CEO of your business / Most management agreements are for a 3 to 5 year period / Personal Managers get paid between 15-25% of your gross earnings. 20% is most common / Have Lawyer verify agreement'; matches typed_words opening section",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90°; notebook text runs vertically sideways in frame",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1900",
+    "name_on_card": "MUSICIANS TURN MY WORDS INTO SONGS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_101215.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Photo rotated 90°; cards visible on left side; reading bottom-to-top in rotated photo (left-to-right in original) = 1-9-0-0 = 1900; typed_words also list '0, 0, 9, 1' as card content visible written on the document (top-to-bottom in rotated photo)",
+    "NAME": "OK", "NAME_NOTE": "'MUSICIANS TURN MY WORDS INTO SONGS' clearly printed on the main document list; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; rotated 90°; full list of 21 songs with attributed musicians visible: 1 Maybe Someday/Bryan Magsayo, 2 Fight for Peace/Lynette, 3 Tonight's Moonlight/Tyler Thompson, 4 Breaking the Chains/Tiffany Anne, 5 The Watcher/Matt McCarthy, 6 Fallen Clouds/William Elmore, 7 Rocking the World/Lai Youtlitham, 8 Thinking of You Tonight/Tyler Thompson, 9 Worth the Wait/Justin Justice, 10 Come For a Ride/Bryan Magsayo, 11 See This Thru/Justin Justice, 12 Smell the Flowers/Rebekah Ann Curtis, 13 Snowflakes/Justin Justice, 14 Curves of Sorrow/Tyler Thompson, 15 Stranded/Justin Justice, 16 Overrated/Tyler Thompson, 17 Dead Silence/Justin Osowiecki, 18 Internal Bruises/Justin Justice, 19 How Can You/Bryan Magsayo, 20 We Are the Ones/Tom Jensen & Peter, 21 What We Share/Justin Justice; sticky note shows 'cheese burger / Swiss cheese / let tom / may raw / onion medium / toasted roll / F.F.'; header 'Do You READTOM.COM?'; 'POEMS & LYRICS by Tom Jensen' visible; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90°; document text runs vertically sideways in frame",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "206",
+    "name_on_card": "A I told myself that I'm willing to wait",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (613).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-6 left-to-right (horizontal row at top) = 206",
+    "NAME": "OK", "NAME_NOTE": "Paper starts 'A I told myself that I'm willing (to wait)' where 'A' is the chord label in the left margin; first line matches name_on_card exactly including the 'A' prefix",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; full rhyme-bank worksheet visible with chord-labeled sections: 'A I told myself that I'm willing to wait / B To make my mark / A But I've been looking up lately / B And I notice the sky's getting dark / C The light is growing dim / A And if things keep progressing at this rate / D It might be... my destiny... to be... / D a never was... a never be... as opposed to a has been'; then 8 more rhyme-bank headings (change, try, die, smile, leave, share, be, believe) each with 2A and 2B labeled rhyme lists; 'I told myself that I'm willing to believe / underachieve' at bottom; matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1736",
+    "name_on_card": "I Bought extra ticket to a",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_163641.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-3-6 left-to-right (horizontal row at top) = 1736; photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'I Bought an extra ticket to a / Someone's mark maron Show'; first line (minus inserted 'an') matches name_on_card 'I Bought extra ticket to a'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; full text visible: 'I Bought extra ticket to a / Someone's mark maron Show / When I got there it seemed that a lot of / [crossed out: two guys] girls couldn't / go.' followed by '830 / 1201 to end' in lower right; matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1612",
+    "name_on_card": "A Think Button that plays the sounds of crickets chirping",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_204252.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Photo rotated; cards 1-6-1-2 reading top-to-bottom on right side of frame = 1612",
+    "NAME": "OK", "NAME_NOTE": "Paper shows 'A Think Button that plays the Sounds of crickets chirping...' in large handwritten text; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source; full one-line text visible alongside large THINK button graphic drawing: 'A Think Button that plays the Sounds of crickets chirping...'; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated; paper and card text run sideways in frame (rotated approximately 90°)",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "823",
+    "name_on_card": "Do I try to reach a thousand",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_073231.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 8-2-3 left-to-right (horizontal row at top) = 823; photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'Do I try to reach a thousand / Literary critics / or a million people'; first line matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; all three lines fully visible on lined notepad paper: 'Do I try to reach a thousand / Literary critics / or a million people'; matches typed_words exactly",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1104",
+    "name_on_card": "Empathy is really Sympathy for the Enlightened",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_083917.jpg", "NUMBER": "FLAG", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Photo rotated 90°; only 3 card squares clearly visible on left side of frame; top card reads '1', middle card reads approximately 'S' or '5' (inconsistent with expected second digit '1' for item 1104), third card unclear; cannot confirm all 4 digits match 1104",
+    "NAME": "OK", "NAME_NOTE": "Paper clearly shows 'Empathy is really Sympathy for the Enlightened' in large blue marker text running sideways; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; paper rotated 90° in frame; all 5 lines visible in large blue marker: 'Empathy / is really / Sympathy / for the / Enlightened'; matches typed_words exactly",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90°; marker text runs vertically sideways in frame",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable in large blue marker despite sideways orientation"
+  },
+  {
+    "item_number": "852",
+    "name_on_card": "This is wHAT TV MADE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_074047.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 8-S-2 left-to-right (horizontal row at top; S=5) = 852; photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'This is WHAT TV MADE,' at top; mixed-case spelling matches name_on_card 'This is wHAT TV MADE'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; from rotated-photos source but photo appears upright; at top: 'This is WHAT TV MADE, / I just violated you with my imagination'; at bottom upside-down: 'OBAMA' (with arrow), 'Hillary' (with arrow), 'Trump' (with arrow); card digits '2 / S / 8' also visible in header area; matches typed_words including political note 'Trump -> Hilary -> OBAMA'",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1891",
+    "name_on_card": "The Free Career Test Report for timmy timm: Your Workplace Fit Graph",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_100105.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Photo rotated 90°; cards 1-8-9-1 reading top-to-bottom on left column in rotated photo = 1891",
+    "NAME": "OK", "NAME_NOTE": "Printed document header reads 'The Free Career Test Report for timmy timm: Your Workplace Fit Graph'; matches name_on_card exactly",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; rotated 90°; printed career test document shows: 'Page 1 of 2 / Page 8 of 15 / The Free Career Test / Your Workplace Fit Graph' header; hexagonal radar chart with 7 labels (Investigative/Thinkers, Artistic/Creators, Social/Helpers, Enterprising/Persuaders, Conventional/Organizers, Attentive/Servers, Realistic/Doers); scores: Artistic High, Investigative High, Social High, Enterprising Med; definitions for each type visible; URL 'www.free-career-test.com/report/gotr.asp?guid={C6D29C24-44B2-4E47-9619-A2D5...' with date '7/1/2009' circled; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90°; printed document text runs vertically sideways in frame",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  }
+]
