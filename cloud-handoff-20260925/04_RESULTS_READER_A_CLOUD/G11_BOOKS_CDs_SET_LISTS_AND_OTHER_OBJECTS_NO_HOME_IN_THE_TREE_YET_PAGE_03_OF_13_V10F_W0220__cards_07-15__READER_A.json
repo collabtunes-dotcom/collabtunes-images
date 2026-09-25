@@ -1,0 +1,111 @@
+[
+  {
+    "item_number": "1586",
+    "name_on_card": "CD + CD-R COLLECTION",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_114534.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-8-6 left-to-right (horizontal, S=5) = 1586",
+    "NAME": "OK", "NAME_NOTE": "Photo shows printed CHOMSKIAN POETRY / SPOKEN WORD POETRY insert; typed_words describe this insert as part of the CD collection",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 20; CHOMSKIAN POETRY and SPOKEN WORD POETRY headers visible with track listings; Tom Jensen bio and READTOM.COM visible",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1904",
+    "name_on_card": "A LIFETIME OF RHYME",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_102849.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-0-4 bottom-to-top (vertical column) = 1904",
+    "NAME": "OK", "NAME_NOTE": "Purple sunburst CD insert shows 'A LIFETIME OF RHYME' content",
+    "WORDS": "OK", "WORDS_NOTE": "Insert track listing visible though upside-down",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "CD insert document is upside-down in photo; text reads inverted",
+    "READABLE": "OK", "READABLE_NOTE": "Content identifiable despite inverted orientation"
+  },
+  {
+    "item_number": "1906",
+    "name_on_card": "A LIFETIME OF RHYME",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_102927.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-0-6 bottom-to-top (vertical column) = 1906",
+    "NAME": "OK", "NAME_NOTE": "Purple sunburst CD insert shows 'A LIFETIME OF RHYME' content with Klaus Bluetner / Tom Jensen credits",
+    "WORDS": "OK", "WORDS_NOTE": "Track listing visible though upside-down",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "CD insert document is upside-down in photo; text reads inverted",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1907",
+    "name_on_card": "A LIFETIME OF RHYME",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1800-2045__20260817_102954__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260817_103005.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-0-7 bottom-to-top = 1907; confirmed in UPRIGHT_FIXED photo 1",
+    "NAME": "OK", "NAME_NOTE": "White sheet shows 'A LIFETIME OF RHYME / MUSIC & VOCALS by Klaus Bluetner / LYRICS by Tom Jensen' in red; purple insert also visible",
+    "WORDS": "OK", "WORDS_NOTE": "Full track listing 1-22 visible on white sheet; READTOM.COM visible",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "UPRIGHT_FIXED version; text readable in correct orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1908",
+    "name_on_card": "A LIFETIME OF RHYME",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_103022.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-0-8 bottom-to-top (vertical column) = 1908",
+    "NAME": "OK", "NAME_NOTE": "Purple sunburst CD insert shows 'A LIFETIME OF RHYME' content",
+    "WORDS": "OK", "WORDS_NOTE": "Track listing visible though upside-down",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "CD insert document is upside-down in photo; text reads inverted",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1909",
+    "name_on_card": "A LIFETIME OF RHYME",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_103030.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-0-9 bottom-to-top (vertical column) = 1909",
+    "NAME": "OK", "NAME_NOTE": "Purple sunburst CD insert shows 'A LIFETIME OF RHYME' content",
+    "WORDS": "OK", "WORDS_NOTE": "Track listing visible though upside-down",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "CD insert document is upside-down in photo; text reads inverted",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1910",
+    "name_on_card": "A LIFETIME OF RHYME",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_103045.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-1-0 bottom-to-top (vertical column) = 1910",
+    "NAME": "OK", "NAME_NOTE": "Purple sunburst CD insert shows 'A LIFETIME OF RHYME' content",
+    "WORDS": "OK", "WORDS_NOTE": "Track listing visible though upside-down",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "CD insert document is upside-down in photo; text reads inverted",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1905",
+    "name_on_card": "SONGS FOR A LADY",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1800-2045__20260817_102909__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-0-5 bottom-to-top (vertical column) = 1905; UPRIGHT_FIXED photo",
+    "NAME": "OK", "NAME_NOTE": "Insert shows 'SONGS FOR A LADY / MUSIC & VOCALS by Klaus Bluetner / LYRICS by Tom Jensen' with tree image",
+    "WORDS": "OK", "WORDS_NOTE": "24-song track listing visible including michelangelo and marble, singer songwriter, hall of fame, ripples, match maker etc.",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Insert document is rotated 90 degrees within the photo (text runs vertically); UPRIGHT_FIXED corrected the overall photo rotation but the insert itself remains sideways",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1902",
+    "name_on_card": "music and vocals by",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_102809.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-0-2 left-to-right (horizontal) = 1902",
+    "NAME": "OK", "NAME_NOTE": "Blue insert reads 'music and vocals by JUSTIN JUSTICE'; first line matches name_on_card 'music and vocals by'",
+    "WORDS": "OK", "WORDS_NOTE": "Full 18-song track listing visible; Justin Justice / Tom Jensen credits; justinjustice.com / readtom.com visible",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
