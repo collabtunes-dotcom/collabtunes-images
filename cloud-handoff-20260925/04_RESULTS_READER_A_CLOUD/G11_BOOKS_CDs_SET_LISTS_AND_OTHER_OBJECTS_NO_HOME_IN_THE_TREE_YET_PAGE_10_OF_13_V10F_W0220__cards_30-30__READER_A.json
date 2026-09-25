@@ -1,0 +1,24 @@
+[
+    {
+        "item_number": "1963",
+        "name_on_card": "POEM INDEX",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260818_113015.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260818_113032.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1800-2045/20260818_113020.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1800-2045/20260818_113022.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1800-2045/20260818_113026.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1800-2045/20260818_113242.jpg", "NUMBER": "DATA_ERROR", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "FLAG",
+        "NUMBER_NOTE": "Blocks 1,9,6,3 confirmed in photos 1 (horizontal) and 2 (vertical, bottom-to-top). Photo 6 (wide overview of handwritten master index) shows blocks reading 1,9,6,4 rather than 1,9,6,3 - likely blocks were changed for the next item during this shoot.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "POEM INDEX pages shown rotated 90 degrees in gems-1800-2045/20260818_113020.jpg, 20260818_113022.jpg, and 20260818_113026.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
