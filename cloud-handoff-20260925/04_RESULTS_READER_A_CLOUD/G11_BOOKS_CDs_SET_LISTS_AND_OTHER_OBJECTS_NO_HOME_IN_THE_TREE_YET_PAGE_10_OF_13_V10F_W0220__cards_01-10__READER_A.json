@@ -1,0 +1,238 @@
+[
+    {
+        "item_number": "1801",
+        "name_on_card": "ONLY THE BEST poems & song lyrics",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260816_184021.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1804",
+        "name_on_card": "ONLY THE BEST poems & song lyrics",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260816_184228.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1805",
+        "name_on_card": "ONLY THE BEST",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260816_184241.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Book shown rotated 90 degrees (on its side) in gems-1800-2045/20260816_184241.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1807",
+        "name_on_card": "ONLY THE BEST",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260816_184338.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1808",
+        "name_on_card": "ONLY THE BEST poems & song lyrics",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260816_184403.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1809",
+        "name_on_card": "ONLY THE BEST poems & song lyrics",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260816_184418.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1810",
+        "name_on_card": "ONLY THE BEST",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260816_184433.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Book shown rotated 90 degrees (on its side) in gems-1800-2045/20260816_184433.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1815",
+        "name_on_card": "ONLY THE BEST poems & song lyrics",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1500-1799-b/20260823_121240.jpg",
+                "NUMBER": "DATA_ERROR",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "DATA_ERROR",
+        "NUMBER_NOTE": "Blocks in photo read 1660 (bottom-to-top: 1,6,6,0), not 1815. This is a turned/upright copy per photo note.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1813",
+        "name_on_card": "POEMS BY TOM JENSEN",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260816_185327.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 2,
+                "repo_path": "gems-1800-2045/20260816_185336.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 3,
+                "repo_path": "gems-1800-2045/20260816_185347.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Book shown rotated 90 degrees (on its side) in gems-1800-2045/20260816_185336.jpg and gems-1800-2045/20260816_185347.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1085",
+        "name_on_card": "BASES",
+        "photos_checked": [],
+        "NUMBER": "NO PHOTOS",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "FLAG",
+        "WORDS_NOTE": "typed_words says 'Not typed up yet.'",
+        "WAY_UP": "NO PHOTOS",
+        "WAY_UP_NOTE": "",
+        "READABLE": "NO PHOTOS",
+        "READABLE_NOTE": ""
+    }
+]
