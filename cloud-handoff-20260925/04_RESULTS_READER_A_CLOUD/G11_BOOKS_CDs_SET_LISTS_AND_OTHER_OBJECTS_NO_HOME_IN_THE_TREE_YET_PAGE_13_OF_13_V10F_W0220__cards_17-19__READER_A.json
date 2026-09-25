@@ -1,0 +1,78 @@
+[
+    {
+        "item_number": "1925",
+        "name_on_card": "RUNNING TIMES WORKSHEET",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260817_210031.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260817_210038.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 5,2,9,1 stacked vertically on left side in photo 1 (gems-1800-2045/20260817_210031.jpg), read bottom-to-top = 1925. Shows running times worksheet with song titles and times in colored ink (green, red) showing 'current', 'fix top', 'fixed' columns.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows a running times worksheet — matches name on card.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photo 1 (gems-1800-2045/20260817_210031.jpg): worksheet content shown rotated 90 degrees sideways. Photo 2 is right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1620",
+        "name_on_card": "CustomInk.com Order #4641992",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_204721.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,6,2,0 confirmed in photo 1 (gems-1500-1799-a/20260808_204721.jpg), horizontal arrangement at top reading left-to-right = 1620. Shows CustomInk.com Order #4641992 printout for 10 XL Gildan Ultra Cotton black t-shirts with 'I LOVE GIANT SURPRISE HUGS FROM RANDOM STRANGERS' design and 'BRAINRAINSTORM.COM' on back, $205.10 total, guaranteed by 9/12/2014.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows CustomInk.com Order #4641992 receipt — matches name on card.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1598",
+        "name_on_card": "T-SHIRT SLOGAN SHEETS - 10 HANDWRITTEN PAGES",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_115251.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260810_085826.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260810_085834.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260810_085931.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-a/20260808_115256.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-a/20260808_115302.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-a/20260808_115311.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1500-1799-a/20260808_115315.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1500-1799-a/20260808_115318.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1500-1799-a/20260808_115320.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 11, "repo_path": "gems-1500-1799-a/20260808_115325.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 12, "repo_path": "gems-1500-1799-a/20260808_115332.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 13, "repo_path": "gems-1500-1799-a/20260808_115335.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 14, "repo_path": "gems-1500-1799-b/20260810_085831.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 15, "repo_path": "gems-1500-1799-b/20260810_085937.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 16, "repo_path": "gems-1500-1799-b/20260810_085940.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 17, "repo_path": "gems-1500-1799-b/20260810_085946.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 18, "repo_path": "gems-1500-1799-b/20260810_085949.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 19, "repo_path": "gems-1500-1799-b/20260810_085952.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 20, "repo_path": "gems-1500-1799-b/20260810_090005.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 21, "repo_path": "gems-1500-1799-b/20260810_090009.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 22, "repo_path": "gems-1500-1799-b/20260810_075040.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 23, "repo_path": "gems-1500-1799-b/20260810_075154.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 24, "repo_path": "gems-1500-1799-b/20260810_075135.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 25, "repo_path": "gems-1500-1799-b/20260810_075309.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,5,9,8 confirmed in photo 1 (gems-1500-1799-a/20260808_115251.jpg, UPRIGHT_FIXED corrected version), horizontal arrangement at top reading left-to-right = 1598. Shows t-shirt slogan sheets including 'TRUMP YOU' (blue) and 'TRUMP YOU, TOO' (red) designs with 'Sell to Democrats' / 'Sell to Republicans' labels.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photos show handwritten t-shirt slogan sheets — matches T-SHIRT SLOGAN SHEETS - 10 HANDWRITTEN PAGES.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photos 1, 3, 4, 7, 8, 9, 10, 14, 15, 16, 17, 18, 19, 20, 21, 23, 25 (115251, 085834, 085931, 115311, 115315, 115318, 115320, 085831, 085937, 085940, 085946, 085949, 085952, 090005, 090009, 075154, 075309): the website shows these photos sideways per their UPRIGHT_FIXED notes. Photos 2, 5, 6, 11, 12, 13, 22, 24 are right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
