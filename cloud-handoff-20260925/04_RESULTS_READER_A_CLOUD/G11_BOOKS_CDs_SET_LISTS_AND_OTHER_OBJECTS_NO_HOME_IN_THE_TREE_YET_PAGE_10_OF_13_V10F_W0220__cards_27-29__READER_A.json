@@ -1,0 +1,79 @@
+[
+    {
+        "item_number": "1723",
+        "name_on_card": "Most people call me, but you can call me tomorrow",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_123156.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_123356.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_123208.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_123214.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-b/20260823_123221.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-b/20260823_123341.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-b/20260823_123403.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1500-1799-b/20260823_123409.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1500-1799-b/20260823_123412.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1500-1799-b/20260823_123416.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 11, "repo_path": "gems-1500-1799-b/20260823_123423.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 12, "repo_path": "gems-1500-1799-b/20260823_123430.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 13, "repo_path": "gems-1500-1799-b/20260823_123433.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 14, "repo_path": "gems-1500-1799-b/20260823_123436.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 15, "repo_path": "gems-1500-1799-b/20260823_123439.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 16, "repo_path": "gems-1500-1799-b/20260823_123443.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 17, "repo_path": "gems-1500-1799-b/20260823_123446.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 18, "repo_path": "gems-1500-1799-b/20260823_123454.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,7,2,3 confirmed in photos 1, 2, and 6; remaining photos are detail shots of pick-up lines pages and book review pages.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Pick-up lines pages shown rotated 90 degrees in gems-1500-1799-b/20260823_123214.jpg, 20260823_123221.jpg, 20260823_123412.jpg, and 20260823_123454.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1935",
+        "name_on_card": "READTOM.COM POEMS / SONGS",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260817_211033.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks stacked vertically at left side of document; reading bottom-to-top: 1,9,3,5 = 1935.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "FLAG",
+        "WORDS_NOTE": "typed_words says 'Not typed up yet.'",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1846",
+        "name_on_card": "ESCAPING THE DEMONS",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260816_203823.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260816_203831.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1800-2045/20260816_203903.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1800-2045/20260816_203846.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1800-2045/20260816_203849.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1800-2045/20260816_203854.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1800-2045/20260816_203857.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1800-2045/20260816_203910.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1800-2045/20260816_203921.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1800-2045/20260816_203928.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks stacked vertically at left side; reading bottom-to-top: 1,8,4,6 = 1846. Confirmed in photos 1 and 2.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Book cover/TOC/About author pages shown rotated 90 degrees in gems-1800-2045/20260816_203823.jpg, 20260816_203831.jpg, 20260816_203903.jpg, 20260816_203846.jpg, 20260816_203849.jpg, and 20260816_203854.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
