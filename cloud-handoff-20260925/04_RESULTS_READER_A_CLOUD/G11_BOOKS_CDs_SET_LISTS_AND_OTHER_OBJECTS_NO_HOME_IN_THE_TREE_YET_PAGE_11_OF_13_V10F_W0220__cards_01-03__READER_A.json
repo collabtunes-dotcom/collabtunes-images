@@ -1,0 +1,73 @@
+[
+    {
+        "item_number": "1632",
+        "name_on_card": "\"POEMS BY TOM\" - FOLD-OUT SUBJECT INDEX PAGES",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_211014.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_211018.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-a/20260808_211022.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-a/20260808_211025.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-a/20260808_211028.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-a/20260808_211032.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-a/20260808_211046.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1500-1799-a/20260808_211049.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1500-1799-a/20260808_211051.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1500-1799-a/20260808_211053.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 11, "repo_path": "gems-1500-1799-a/20260808_211056.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 12, "repo_path": "gems-1500-1799-a/20260808_211058.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,6,3,2 confirmed in photos 1 and 2; remaining photos are detail shots of index pages.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Index pages shown rotated 90 degrees in gems-1500-1799-a/20260808_211032.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1939",
+        "name_on_card": "POEM LIST",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260817_211346.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260817_211350.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1800-2045/20260817_211354.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1800-2045/20260817_211357.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1800-2045/20260817_211401.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1800-2045/20260817_211410.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1800-2045/20260817_211414.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,9,3,9 confirmed in photo 1; remaining photos are detail shots of poem list pages.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Poem list pages shown rotated 90 degrees in gems-1800-2045/20260817_211350.jpg, 20260817_211354.jpg, 20260817_211357.jpg, 20260817_211401.jpg, and 20260817_211414.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1633",
+        "name_on_card": "READTOM.COM FULL SONG INDEX",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_211120.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_211122.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-a/20260808_211126.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-a/20260808_211130.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,6,3,3 confirmed in photos 1 and 2.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Song index page shown rotated 90 degrees in gems-1500-1799-a/20260808_211130.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
