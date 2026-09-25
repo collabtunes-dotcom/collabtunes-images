@@ -1,0 +1,145 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G02_SONG_HALF_OR_SHORTER_LYRICS_THAT_BECAME_A_SONG_PAGE_01_OF_02_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "39",
+      "number_blocks_seen": "039",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-3-9 in a row = 039", "what_it_shows": "Water-stained loose-leaf sheet with one 7-line stanza: 'A child cloned by her environment ... Difficulties still we cry for more.' Rest of sheet blank."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First stanza ('A child cloned by her environment' to 'Difficulties still we cry for more') matches the photo. Everything after it is on no photo here: the 'Thoughts on life... See-Saw' poem and 'I just got off the phone with a girl, she still loves me...' section.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'SHE' is not written on the sheet. Should be the first line: 'A child cloned by her environment'.",
+      "other_problems": "Summary says teal/blue ink; ink in photo looks dark blue-grey/black, not clearly teal. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "52",
+      "number_blocks_seen": "052",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-5-2 in a row = 052", "what_it_shows": "Hole-punched notebook sheet, full song 'The sun is rising / The birds are chirping ... Happiness lies on the other side of this door', about 20 lines."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are a cut-down excerpt with a /// gap. About 11 lines on photo 1 are not typed: 'Where is my place? / Stare in these eyes / Look at this face / So many people out there / That I just blend in / No telling where it stops / Or where it all begins / We all continue our race / We all speed up the pace / Doing what we are told we must do' and 'fighting you'. What is typed matches.",
+      "name_verdict": "OK",
+      "name_note": "First line 'The sun is rising'.",
+      "other_problems": "Same opening lines as item 370 'SCENE 1' but a different sheet (different paper, different later lines) - not a problem, just noted.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "64",
+      "number_blocks_seen": "064",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-6-4 in a row = 064", "what_it_shows": "Full lined sheet, song 'How can you live with yourself? / Do you pretend to be someone else?' about 26 lines."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are a short 9-line excerpt with a /// gap. Most of photo 1 is not typed, e.g. 'Do you bury your conscience down below', 'You took my heart in your hands and tore it in two', 'How can you sleep after the things that you do?', 'Lying in bed your night gown covered with lace', 'I'll never know your face you hide / with every I love you another lie'. What is typed matches.",
+      "name_verdict": "OK",
+      "name_note": "First line / hook 'How can you live with yourself?'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "124",
+      "number_blocks_seen": "124",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-2-4 in a row = 124", "what_it_shows": "Clean lined sheet, one stanza: 'Today is the day I know that I will make it ... And learns from the masters what he's known all along' (Bob Dylan Jr pen-name lines)."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First stanza 'Today is the day...' to 'all along' matches the photo. Everything after it is on no photo here: 'Just being here tonight...', 'MY EASTERN LOVE', 'GO ANYWHERE FROM HERE', 'Corona's at the beach with no women at my side...'.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'PEAKING THROUGH THE KEYHDE' is not on this sheet (and misspelled). Should be 'Today is the day I know that I will make it'.",
+      "other_problems": "Summary contradicts the photo: it describes torn/folded paper with 'In a free market economy / guns aren't sold... they're drawn' and a Racial/Gender/Religious/CLASS list. The photo is a clean lined sheet with the 'Today is the day' lyric - none of that is pictured.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "179",
+      "number_blocks_seen": "179",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-7-9 in a row = 179", "what_it_shows": "Torn-edge lined notebook sheet, 'Hey rich girl - Throw the keys to your Mercedes down to me ... they taught you was wrong'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "Hook/first words 'Hey rich girl'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "217",
+      "number_blocks_seen": "217",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-1-7 in a row = 217", "what_it_shows": "Wrinkled torn loose sheet, working draft 'Without you I'm just part of the whole' with Refrain bracket, A/B/C rhyme letters, cross-outs; a pen lies at the bottom edge."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet including margin marks and struck lines. Tiny: the circled 6 by 'Refrain' at top is not mentioned.",
+      "name_verdict": "OK",
+      "name_note": "First line 'Without you I'm just part of the whole'.",
+      "other_problems": "A pen sits in the bottom of the photo covering the corner - cosmetic only.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "345",
+      "number_blocks_seen": "345",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-4-5 in a row = 345", "what_it_shows": "Hole-punched loose-leaf sheet, 'You could be the one that makes my life worth living ... In a land where darkness will never cease'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match line for line ('inspiration' is struck on the sheet, typed plain - trivial).",
+      "name_verdict": "OK",
+      "name_note": "First line 'You could be the one that makes my life'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "368",
+      "number_blocks_seen": "368",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-6-8 in a row = 368", "what_it_shows": "Lined sheet, 7 lines: 'From some pains you can never run away ... To open up you concealed guilt'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the 7 lines.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "370",
+      "number_blocks_seen": "370",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-0 in a row = 370", "what_it_shows": "Cream spiral notebook page titled 'SCENE 1', 'The sun is rising ... on the soldiers that died'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match line for line.",
+      "name_verdict": "OK",
+      "name_note": "'SCENE 1' is the title written at the top of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "401",
+      "number_blocks_seen": "401",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-0-1 in a row = 401", "what_it_shows": "Lined notebook sheet, one poem 'A girl who was quite dear to me ... in saying The heart never lies'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part matches the photo. The part after --- ('I sit and watch the snow / When there's no place else to go ... Bowing to the stars they're so magnificent') is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "First line 'A girl who was quite dear to me'.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

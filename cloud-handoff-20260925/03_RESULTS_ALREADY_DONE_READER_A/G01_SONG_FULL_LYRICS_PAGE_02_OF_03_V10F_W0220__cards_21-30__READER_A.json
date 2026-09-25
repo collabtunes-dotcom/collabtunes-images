@@ -1,0 +1,82 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G01_SONG_FULL_LYRICS_PAGE_02_OF_03_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {"item_number": "438", "number_blocks_seen": "438", "number_verdict": "MATCHES",
+     "photos": [{"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "438", "what_it_shows": "Lined sheet titled The Healing Song, blue ink, verses bracketed 1-3"}],
+     "words_verdict": "MATCH", "words_note": "Typed words match the sheet (small misreads only, e.g. 'Into who I now am').",
+     "name_verdict": "OK", "name_note": "Title written at top: The Healing Song.",
+     "other_problems": "", "sure": "SURE"},
+    {"item_number": "448", "number_blocks_seen": "448", "number_verdict": "MATCHES",
+     "photos": [{"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "448", "what_it_shows": "Lined sheet, black ink, starts 'Can you feel a dark entity'"}],
+     "words_verdict": "MATCH", "words_note": "Typed words match the sheet.",
+     "name_verdict": "OK", "name_note": "First line of the sheet.",
+     "other_problems": "Summary says the number squares are on the left side; they are across the top. Minor.", "sure": "SURE"},
+    {"item_number": "501", "number_blocks_seen": "501", "number_verdict": "DIFFERENT NUMBER",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "501", "what_it_shows": "Lined sheet: G Studios / met Sarah R note, verses 1-3 'Tired of putting work in', Refrain, start of Bridge"},
+       {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Bridge end on first sheet plus second lined sheet with verses 4-8 'I've been holding on...'"},
+       {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Printed (typed, not handwritten) page 'STUPID GOD FREAKS' in two columns"},
+       {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "501", "what_it_shows": "Handwritten lines on back of a printout: 'Napalm smells like victory...'"},
+       {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "501", "what_it_shows": "Closer shot of the same 'Napalm smells like victory' sheet (turned copy is upright)"},
+       {"pos": 6, "way_up": "UPRIGHT", "blocks_in_this_photo": "502", "what_it_shows": "Two lined sheets titled TWO SEASONS - a different item (502)"}
+     ],
+     "words_verdict": "SHEET WORDS NOT TYPED", "words_note": "Photo 1 verses 1-3 and the Refrain ('Tired of putting work in... One face hides the pain and lies') are missing - typed words go from '[Main text]' straight to '---'. The 'Napalm smells like victory' sheet (photos 4-5) is not in the typed words shown (may be past the 1800-char cut). Bridge, verses 4-8 and the printed Stupid God Freaks text are typed.",
+     "name_verdict": "OK", "name_note": "First line of verse 1 on photo 1.",
+     "other_problems": "Photo 6 shows blocks 502 (TWO SEASONS) - belongs to item 502, not 501. Photo 3 is a printed typed page, not handwriting. Summary says one sheet of white printer paper; photos show lined sheets, a printout and a sheet written on the back of a printout.", "sure": "SURE"},
+    {"item_number": "504", "number_blocks_seen": "504", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "504", "what_it_shows": "Lined sheet 'When I got outta line it seems I lost my place'"},
+       {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Printed SPOKEN WORD POETRY flyer with Tom Jensen photo and list of 60 titles"},
+       {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Sheet of printed Tom Jensen business cards (READTOM.COM), Gallup page edge at bottom"},
+       {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Printed Gallup 'Confidence in Institutions' table"}
+     ],
+     "words_verdict": "MATCH", "words_note": "Handwritten sheet typed correctly; printed flyer list also typed. Business cards and Gallup page are printed matter, not in the visible typed words (text is cut at 1800 chars).",
+     "name_verdict": "OK", "name_note": "First line of the sheet (shortened).",
+     "other_problems": "Photos 2-4 are printed matter (flyer, business cards, Gallup poll page) with no blocks; not clear they are part of piece 504 - check.", "sure": "FAIRLY SURE"},
+    {"item_number": "505", "number_blocks_seen": "505", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "505", "what_it_shows": "Lined sheet titled '* BAG IN 4A *' (Bag In Ya)"},
+       {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "505", "what_it_shows": "Lined sheet titled GLOBAL WARMING, 'The moving van is coming...' (turned copy is upright)"}
+     ],
+     "words_verdict": "SHEET WORDS NOT TYPED", "words_note": "Photo 2 GLOBAL WARMING sheet ('The moving van is coming... they both seem to do the trick') is not in the typed words. Photo 1 words match.",
+     "name_verdict": "OK", "name_note": "Title on sheet reads 'BAG IN 4A' (Bag In Ya).",
+     "other_problems": "", "sure": "SURE"},
+    {"item_number": "508", "number_blocks_seen": "508", "number_verdict": "MATCHES",
+     "photos": [{"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "508", "what_it_shows": "Lined sheet 'Everybody dances for money / I dance for free', 12 lines"}],
+     "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED", "words_note": "First 12 lines match photo 1. Everything after the first '---' (the Jimmy Buffet / Margaritaville / Jose Cuervo sheets, 'fat girl express') is on no photo of this card.",
+     "name_verdict": "OK", "name_note": "First line of the sheet.",
+     "other_problems": "Summary is wrong: it describes a torn cardboard freezer bag box with salmon; the photo shows a lined notebook sheet.", "sure": "SURE"},
+    {"item_number": "511", "number_blocks_seen": "511", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "511", "what_it_shows": "Top of lined sheet 'I've never treaded water'"},
+       {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "511", "what_it_shows": "Lower part of the same sheet to 'We'd make room for more', blocks at bottom"}
+     ],
+     "words_verdict": "MATCH", "words_note": "Typed words match the sheet.",
+     "name_verdict": "OK", "name_note": "First line of the sheet.",
+     "other_problems": "Summary says green ink and squares on left margin; ink looks black and squares are at top/bottom. Minor.", "sure": "SURE"},
+    {"item_number": "523", "number_blocks_seen": "523", "number_verdict": "DIFFERENT NUMBER",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "523", "what_it_shows": "Lined sheet titled BRAVEHEART (bubble letters)"},
+       {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "523", "what_it_shows": "Lined sheet, 5 lines 'I'm trending but for all the wrong reasons' (turned copy is upright)"},
+       {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "255", "what_it_shows": "Three sheets: 'She woke up this morning' (LAST), 'I said you've got to hold on', 'The path through life' - item 255"},
+       {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "255", "what_it_shows": "Close-up of 'She woke up this morning' sheet with LAST - item 255"},
+       {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Scrap on a printout: 'Follow this pattern / You know you lover her...' (As You Like It questions printed through)"}
+     ],
+     "words_verdict": "SHEET WORDS NOT TYPED", "words_note": "Typed words match photos 1-2 (I'm trending + Braveheart). Photos 3-4 ('She woke up this morning' sheets) and photo 5 ('You know you lover her') are not typed.",
+     "name_verdict": "OK", "name_note": "Title written on sheet: BRAVEHEART.",
+     "other_problems": "Photos 3 and 4 show blocks 255 - they belong to item 255, not 523. Photo 5 has no blocks and its sheet is unrelated to Braveheart - check which number it belongs to. The 'I'm trending' sheet in photo 2 (blocks 523) also appears in item 524 photo 1 (blocks 524) - one sheet shown under two numbers.", "sure": "SURE"},
+    {"item_number": "524", "number_blocks_seen": "524", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "524", "what_it_shows": "Lined sheet 'I'm that diamond in the rough' with a second scrap below: 'I'm trending but for all the wrong reasons'"},
+       {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "524", "what_it_shows": "Lined sheet titled Not Easy Finding (bubble letters)"}
+     ],
+     "words_verdict": "MATCH", "words_note": "Typed words match both photos (diamond sheet, I'm trending scrap, Not Easy Finding).",
+     "name_verdict": "OK", "name_note": "First line of the sheet.",
+     "other_problems": "The 'I'm trending' scrap in photo 1 is the same sheet shown with blocks 523 on item 523 photo 2 - one sheet under two numbers; needs deciding which number owns it. Summary says a single sheet; photos show three pieces. Minor.", "sure": "FAIRLY SURE"},
+    {"item_number": "551", "number_blocks_seen": "551", "number_verdict": "MATCHES",
+     "photos": [{"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "551", "what_it_shows": "Lined spiral-torn sheet, blue ink, 'Such a crying shame'"}],
+     "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED", "words_note": "First part matches the photo. 'MY EASTERN LOVE' (everything after '---') is on no photo of this card.",
+     "name_verdict": "OK", "name_note": "First line of the sheet.",
+     "other_problems": "", "sure": "SURE"}
+  ]
+}

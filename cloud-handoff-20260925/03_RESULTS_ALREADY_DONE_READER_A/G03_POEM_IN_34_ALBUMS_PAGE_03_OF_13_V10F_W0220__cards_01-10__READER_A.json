@@ -1,0 +1,157 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_03_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "190",
+      "number_blocks_seen": "190",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "190", "what_it_shows": "Both VISIONS sheets laid together (page 1 and 'VISIONS con't'), lower sheet blurred/out of focus."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "190", "what_it_shows": "VISIONS page 1, bubble-letter title, 5 stanzas."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "190", "what_it_shows": "'VISIONS con't.' page 2, ends 'Visions of Johanna', torn bottom edge."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow both sheets (typed text is cut for the check but what is shown matches).",
+      "name_verdict": "OK",
+      "name_note": "Title VISIONS written in bubble letters on sheet 1.",
+      "other_problems": "Photo 1 is a group shot with the lower half soft/blurred; photos 2 and 3 are clear.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "191",
+      "number_blocks_seen": "191",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "191", "what_it_shows": "Torn-top lined sheet, untitled, first line 'All it takes is a fool like you' (the siren poem)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "191", "what_it_shows": "Spiral-torn lined sheet titled in bubble letters 'Only for not Lonely for', ends 'Only for [blacked out] one would I stay'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Both sheets are typed. Sheet 2 heading is typed as 'Only for one' but the bubble-letter title reads 'Only for not Lonely for'.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'OF THE DAZE' is not written on either sheet. Should be 'Only for not Lonely for' (bubble title on sheet 2) or 'All it takes is a fool like you' (sheet 1 first line).",
+      "other_problems": "The title 'Only for not lonely for' is instead used as the name of card 195, which is a different sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "192",
+      "number_blocks_seen": "192",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "192", "what_it_shows": "Spiral-torn lined sheet, bubble title 'Tomorrow is the Day' with a drawn sun/moon face, one blacked-out line."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part (Tomorrow is the Day) matches the photo. The second part after '---' ('Tomorrow / So much to say so little ink...') is on no photo of this card.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'ME' is not on the sheet. Should be 'Tomorrow is the Day' (the bubble-letter title).",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "194",
+      "number_blocks_seen": "194",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "194", "what_it_shows": "Lined sheet in blue ink, 'Trapped in this invisable cage' shepherd poem, page 1."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "194", "what_it_shows": "Lined sheet in blue ink, continuation 'No longer will the people be deceived ... The shepherd is back'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Parts 1 and 2 match the two photos. Part 3 ('Happy birthday though I have no card ...') is on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "195",
+      "number_blocks_seen": "195",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "195", "what_it_shows": "Torn-corner lined sheet in blue ink, 'AEIOU / BCDFG...' at top, two 'Since I am a poet' stanzas."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'Only for not lonely for' is the bubble title on card 191's sheet, not this one. Should be 'Since I am a poet' (first line: 'Since I am a poet I will fight you only with my pen').",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "199",
+      "number_blocks_seen": "199",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "199", "what_it_shows": "Spiral-torn lined sheet in blue ink, 12 lines 'I know you're thinking ... What do you need and what is hollow?'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first part (12 lines) is on the photo. Part 2 ('Well, you've been climbing the ladder...') and part 3 ('COVERINGS / I have many hats...') are on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says pencil and number boxes 'to the left'; the photo shows blue ink and the boxes are above the sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "200",
+      "number_blocks_seen": "200",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "200", "what_it_shows": "Full handwritten page in cursive, 'Someday I'll be famous, and everyone'll know my name' political poem."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "200", "what_it_shows": "Reverse side: printed 'Professor E. Hart, Lecture Notes, SPC-101D, ARGUMENTATION' handout."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Two handwritten lines are missing from the typed words: 'It all starts now, and it all starts here,' (line 3) and 'Push the old values aside,' (before 'No more will we run and hide'). Printed reverse is typed and matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary names Salem State College; that name is not visible in photo 2 (cannot confirm from the photos).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "201",
+      "number_blocks_seen": "201",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "201 (small, top); edge of another block set cut off at right edge, unreadable", "what_it_shows": "Long group shot of three stacked sheets (4312 clean copy, crossed-out Jenna Bush draft, 'Three Four Five Six' sheet); small and hard to read."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "201", "what_it_shows": "Top of '4312 (Fuzzy Math)' sheet with bracketed sections and sideways margin note 'four three two one / And now my song is done'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Bottom of the 4312 sheet ('Dick Cheney's on our team') above the heavily crossed-out 'Jenna Bush ... Fuzzy Math' draft sheet."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "The clean '4312 (Fuzzy Math)' part matches photos 2-3. The first part is a rough reading of the group shot full of [?] gaps, with sheet labels 'leftmost/middle/rightmost' that do not fit the stacked layout, and misreads (e.g. 'White people and minorities' where the sheet says 'illegals and minorities').",
+      "name_verdict": "OK",
+      "name_note": "Both parts are written on the sheets, but the cleaner title is '4312 (Fuzzy Math)'; the slash-and-quotes form looks like a file note.",
+      "other_problems": "Summary says four number cards arranged vertically to the left; photos show three blocks above the sheet. A partial set of another item's blocks shows at the right edge of photo 1.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "202",
+      "number_blocks_seen": "202",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "202", "what_it_shows": "Both sheets of 'The poorest chorus' (white trashification poem) laid together, margin word list top left."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "202", "what_it_shows": "Turned copy: second sheet alone, last two 'I've been watching the white trashification' verses. Reads the right way up."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title 'The poorest chorus' written at top of sheet 1.",
+      "other_problems": "Summary says blue pen; the ink looks black/dark in both photos. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "208",
+      "number_blocks_seen": "208",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "208", "what_it_shows": "Group shot of four sheets: BEST LEFT clean page, numbered draft page, second clean page, LAST VERSE page."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "208", "what_it_shows": "'BEST LEFT' page 1, bubble-letter title."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "208", "what_it_shows": "Second page 'I'm getting tired of waiting ... And somethings are best left ... unexplained'."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "208", "what_it_shows": "Turned copy: draft page with green circled 1 and 2, 'SYMBOLISM Never spoke so loud' in a loop. Reads the right way up."},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "208", "what_it_shows": "Mostly blank sheet with green 'LAST VERSE' label and 4 lines at top."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "All four sheets are covered, but in both 'One single ray' sections line 2 is typed 'I see her standing there' where the sheets read 'I was standing on', and the line 'Yet my lover right beside me just stood in my shadow' is left out. Sheet labels (top/bottom, left/right) do not match the photo layout.",
+      "name_verdict": "OK",
+      "name_note": "Title BEST LEFT in bubble letters on page 1.",
+      "other_problems": "Photo 1 bottom-left corner shows part of another sheet ('disposable consumer society ... our globe isn't') that belongs to a different piece; a buyer could notice it.",
+      "sure": "SURE"
+    }
+  ]
+}

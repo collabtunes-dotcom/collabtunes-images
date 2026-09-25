@@ -1,0 +1,146 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_12_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "634",
+      "number_blocks_seen": "634",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-3-4 in a row = 634", "what_it_shows": "Three number blocks above a torn strip of lined paper with the 'I'm a yellow fellow (Hello!)' poem in ink."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches. Small misreads only: sheet says 'it hides that inside' (typed 'rides'); first line reads 'yellow mellow fellow' with corrections (typed drops 'mellow').",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "636",
+      "number_blocks_seen": "636",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-3-6 in a row = 636", "what_it_shows": "Blocks above a full lined sheet with the 6-line 'When chaos comes calling' poem in ink."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "A folded lined sheet held up by hand at an angle, with very faint pencil writing that cannot be read; no blocks."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "The ink poem on photo 1 matches the first part. Photo 2's faint pencil writing is typed only as 15 lines of '[?]' - a buyer sees a column of [?] marks.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Photo 2 is blurry/faint and unreadable, shows no blocks, and cannot be confirmed as the same sheet as photo 1 (it may be the back or a different page).",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "638",
+      "number_blocks_seen": "638",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-3-8 in a row = 638", "what_it_shows": "Blocks above a white lined notebook sheet (spiral-torn top) with the 'You blew out my candle' poem in ink."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches the six lines on the sheet (sheet adds 'when' above 'Then you flew off the handle').",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'HALF WAY HOME' is not written anywhere on the sheet. Should be the first line: 'You blew out my candle'.",
+      "other_problems": "Summary says 'rough, textured tan paper' but the photo shows plain white lined notebook paper.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "639",
+      "number_blocks_seen": "639",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-3-9 in a row = 639", "what_it_shows": "Blocks above a lined notebook sheet with the 'Visions of your future are found in memories of your past' poem in ink."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The first part ('Father Time / The casino and father-time / Two who will take your last dime') is on no photo. The part after '---' matches the sheet.",
+      "name_verdict": "OK",
+      "name_note": "Matches the sheet's first line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "640",
+      "number_blocks_seen": "640",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-4-0 in a row = 640", "what_it_shows": "Blocks above a lined notebook sheet with the 'Close your eyes' poem in ink; last two lines crossed out."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches. Small misreads: sheet says 'pinch yourself' (typed 'punch'); the last two typed lines with [?] are the two crossed-out lines at the bottom of the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "641",
+      "number_blocks_seen": "641",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-4-1 in a row = 641", "what_it_shows": "Blocks above a lined notebook sheet with 'The ocean acts as the blood of the earth' poem, heavily crossed out in places."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches the sheet, allowing for the heavy crossing-out.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says pencil; the writing looks like dark ink. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "642",
+      "number_blocks_seen": "642",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-4-2 in a row = 642", "what_it_shows": "Blocks above a torn piece of lined notebook paper with the 'In I walk' rap lines in ink."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 17 lines match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "647",
+      "number_blocks_seen": "647",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-4-7 in a row = 647", "what_it_shows": "Blocks above a lined notebook sheet with the 'I've got no tears left to cry' poem in ink."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "651",
+      "number_blocks_seen": "651",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-5-1 in a row = 651", "what_it_shows": "Blocks above a plain white sheet with the 'So now you wish you never met me' poem in dark ink."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The part after '---' ('Empathy is really Sympathy for the Enlightened') is on no photo. The first part matches the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says 'blue marker on lined white paper'; the photo shows dark ink on plain unlined white paper. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "656",
+      "number_blocks_seen": "656",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-5-6 in a row = 656", "what_it_shows": "Blocks above a lined notebook sheet with the 'There's no place for me' poem in pencil."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches the sheet (one word in line 3 is scribbled out, typed as [?]).",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

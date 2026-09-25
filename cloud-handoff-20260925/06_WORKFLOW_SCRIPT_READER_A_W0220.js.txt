@@ -1,0 +1,90 @@
+export const meta = {
+  name: 'card-eyes-check-reader-a',
+  description: 'Reader A looks at every card in the batches given (number blocks vs item number, photo right way up, typed words vs the sheet, the name). Read-only; each batch saves its own results file.',
+  phases: [{ title: 'Read cards', detail: 'one reader per batch of about 10 cards, 2 at a time' }],
+}
+
+const SCHEMA = {
+  type: 'object',
+  properties: {
+    results_file_written: { type: 'string' },
+    cards: {
+      type: 'array',
+      items: {
+        type: 'object',
+        properties: {
+          item_number: { type: 'string' },
+          number_blocks_seen: { type: 'string' },
+          number_verdict: { type: 'string', enum: ['MATCHES', 'DIFFERENT NUMBER', 'NO BLOCKS IN ANY PHOTO', 'CANT READ'] },
+          photos: {
+            type: 'array',
+            items: {
+              type: 'object',
+              properties: {
+                pos: { type: 'integer' },
+                way_up: { type: 'string', enum: ['UPRIGHT', 'SIDEWAYS', 'UPSIDE DOWN', 'WIDE ON PURPOSE', 'CANT TELL'] },
+                blocks_in_this_photo: { type: 'string' },
+                what_it_shows: { type: 'string' },
+              },
+              required: ['pos', 'way_up', 'blocks_in_this_photo', 'what_it_shows'],
+            },
+          },
+          words_verdict: { type: 'string', enum: ['MATCH', 'SMALL DIFFERENCES', 'WORDS FROM ANOTHER SHEET', 'TYPED WORDS INCLUDE A SHEET NOT PICTURED', 'SHEET WORDS NOT TYPED', 'NOT TYPED UP YET', 'NOT A WRITTEN SHEET'] },
+          words_note: { type: 'string' },
+          name_verdict: { type: 'string', enum: ['OK', 'NOT FROM THIS SHEET', 'JUNK NAME', 'CANT TELL'] },
+          name_note: { type: 'string' },
+          other_problems: { type: 'string' },
+          sure: { type: 'string', enum: ['SURE', 'FAIRLY SURE', 'NOT SURE'] },
+        },
+        required: ['item_number', 'number_blocks_seen', 'number_verdict', 'photos', 'words_verdict', 'words_note', 'name_verdict', 'name_note', 'other_problems', 'sure'],
+      },
+    },
+  },
+  required: ['results_file_written', 'cards'],
+}
+
+const OUT = 'C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A'
+
+function prompt(c) {
+  const outFile = `${OUT}\\${c.page}__cards_${String(c.from).padStart(2,'0')}-${String(c.to).padStart(2,'0')}__READER_A.json`
+  return `You are checking memorabilia cards for Tom Jensen's website (his original handwritten lyric/poem sheets and objects, for sale). Tom will not paste pages that are wrong, so every card must be checked by eye, not guessed. You are READER A. Read-only job: never change, move or delete any file; the ONLY file you create is your results file below.
+
+INPUT: read the JSON file ${c.input}
+It has "cards" (in page order). Check ONLY cards number ${c.from} to ${c.to} of that list (1-based position in the list; items ${c.first_item} ... ${c.last_item}), ${c.cards} cards, ${c.photos} photos.
+Each card has: item_number, name_on_card (the big name printed on the card), item_type, summary, typed_words (the transcription printed on the card, maybe cut at 1800 chars), photos (pos, read_this_file, note).
+
+FOR EACH CARD: open every photo with the Read tool, using read_this_file exactly as given (paths have spaces and brackets). Save time: read all photos of 2 or 3 cards in ONE turn with parallel Read calls. The Read tool shows each photo exactly the way a web browser shows it, so what you see is what a visitor sees.
+
+Then judge four things:
+1. NUMBER. Most photos include small paper squares, each with one handwritten digit in a drawn box: the catalogue number of the piece. Digits in a row read left to right; digits stacked in a column read bottom to top. Numbers are zero-padded (0-0-3 = item 3, 0-1-0 = item 10, 1-5-5-8 = item 1558). number_blocks_seen = the number you read (e.g. "003"), or "NONE" if no photo has blocks. number_verdict: MATCHES if it equals item_number as a number; DIFFERENT NUMBER if any photo on this card shows blocks for a different number (say which photo and what number in other_problems); NO BLOCKS IN ANY PHOTO; CANT READ.
+2. WAY UP, per photo. UPRIGHT = the writing/object reads normally. SIDEWAYS = the writing runs up or down the screen (the photo needs a quarter turn). UPSIDE DOWN = the writing is upside down. WIDE ON PURPOSE = a wide object shown correctly (ticket, map, book spread, banner). CANT TELL only if truly impossible. If a photo's note says the website shows it sideways and this file is the turned copy, judge THIS file: it is the replacement and must be UPRIGHT.
+3. WORDS. Compare typed_words to the handwriting in the photos. Do not proofread spelling or small misreads - look for real mismatches: MATCH; SMALL DIFFERENCES (a few words or lines differ - say which in words_note); WORDS FROM ANOTHER SHEET (the typed words are not what is written on any photo of this card); TYPED WORDS INCLUDE A SHEET NOT PICTURED (part of the typed words, e.g. a second version, is on no photo here - say which part); SHEET WORDS NOT TYPED (a photo shows a written sheet whose words are missing from typed_words - say which photo); NOT TYPED UP YET (typed_words says so or is empty); NOT A WRITTEN SHEET (an object with no handwriting to type).
+4. NAME. name_on_card should be the title written on the sheet, or its hook, or its first line (for objects: what is printed on it or what it is). OK; NOT FROM THIS SHEET (say what it should be, lifted from the sheet, in name_note); JUNK NAME (a stray letter, symbol, file note); CANT TELL.
+Also note in other_problems anything else plainly wrong a buyer would see (a photo of the wrong piece, a blurry/unreadable photo, a photo that repeats another card's piece, the summary contradicting the photos). Keep every note short and plain. sure = how sure you are about this card overall.
+
+SAVE AS YOU GO: when all your cards are done, write your results as JSON (the same shape you return: {"results_file_written": "...", "cards": [...]}) to this exact path with the Write tool:
+${outFile}
+If you get past 5 cards and the job is long, first write the cards done so far to the same folder as ${c.page}__cards_${String(c.from).padStart(2,'0')}-${String(c.to).padStart(2,'0')}__READER_A__PART1.json, then the full file at the end.
+Then return the same object (results_file_written = the path you wrote).`
+}
+
+phase('Read cards')
+const res = await parallel(args.chunks.map(c => () =>
+  agent(prompt(c), { label: `A ${c.page.slice(0, 3)} p${c.page.match(/PAGE_(\d+)/)[1]} items ${c.first_item}-${c.last_item}`, phase: 'Read cards', schema: SCHEMA })
+))
+const done = res.filter(Boolean)
+const cards = done.flatMap(r => r.cards)
+const count = (f) => cards.filter(f).length
+log(`Batches back ${done.length}/${args.chunks.length}; cards ${cards.length}`)
+return {
+  batches_back: done.length,
+  batches_sent: args.chunks.length,
+  cards_checked: cards.length,
+  number_not_matching: count(x => x.number_verdict === 'DIFFERENT NUMBER'),
+  number_no_blocks_or_unreadable: count(x => x.number_verdict !== 'MATCHES' && x.number_verdict !== 'DIFFERENT NUMBER'),
+  cards_with_a_photo_not_upright: count(x => x.photos.some(p => p.way_up === 'SIDEWAYS' || p.way_up === 'UPSIDE DOWN')),
+  words_problem: count(x => !['MATCH', 'SMALL DIFFERENCES'].includes(x.words_verdict)),
+  words_small_differences: count(x => x.words_verdict === 'SMALL DIFFERENCES'),
+  name_problem: count(x => x.name_verdict === 'NOT FROM THIS SHEET' || x.name_verdict === 'JUNK NAME'),
+  files: done.map(r => r.results_file_written),
+}

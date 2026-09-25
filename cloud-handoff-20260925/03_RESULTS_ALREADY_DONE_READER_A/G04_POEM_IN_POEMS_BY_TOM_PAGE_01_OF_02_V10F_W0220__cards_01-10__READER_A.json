@@ -1,0 +1,148 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G04_POEM_IN_POEMS_BY_TOM_PAGE_01_OF_02_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "72",
+      "number_blocks_seen": "072",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-2", "what_it_shows": "Sheet 1 of the poem: alphabet header, 'She finds a bottle of pills...', girl/parents margin labels"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-2", "what_it_shows": "Sheet 2: 'When I needed you the most I was too afraid to call...' to 'If only you had known it didn't have to end.'"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Both sheets typed. Sheet 1 line 'What you did in the past is nothing compared to this,' is missing from the typed words (goes straight from 'my loss would be your gain' to 'That would pass...'). 'hug and hiss' should be 'hug and kiss'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "74",
+      "number_blocks_seen": "074",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-4", "what_it_shows": "Loose-leaf sheet titled 'Ode to Jason (a fallen hero)', full poem"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "Title on sheet is 'Ode to Jason (a fallen hero)'.",
+      "other_problems": "Summary says 'numbered 8 in cards' - the cards in the photo read 074, not 8.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "91",
+      "number_blocks_seen": "091",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-9-1", "what_it_shows": "Lined sheet with bubble-letter title WALKING ALONE and the full Walking Alone poem"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Walking Alone part matches. Everything after the first '---' is on no photo here: 'Reincarnation', 'If I was a carpenter and you were a lady...', 'I make my own gods...', 'I'm in love w/ myself...'.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Only one sheet pictured; typed words cover at least three more pieces of writing.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "161",
+      "number_blocks_seen": "161",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-6-1", "what_it_shows": "Handwritten poem 'I started drinking to drown my sorrows' on plain sheet"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-6-1", "what_it_shows": "Other side: printed Houghton Mifflin marketing simulation page (YOUR COMPANY, Table 1), no handwriting"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Poem typed correctly. But typed words end with a leftover reader note: '[read/page 2 - shot 500] TITLE : [NONE] PAPER : loose sheet LINES : 0 TEXT : [BLANK]' - that is not part of the poem.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Reader-note junk text inside typed_words would show to a buyer; should be removed.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "167",
+      "number_blocks_seen": "167",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-6-7", "what_it_shows": "Lined sheet 1: 'It's time to wake up' through 'But sour grapes do not make a fine wine'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-6-7", "what_it_shows": "Lined sheet 2: 'Our grandfathers are all CEO's' through 'When daddy comes home we're all asleep'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed and match. Typed words contain a leftover reader note '[read/page 2 - shot 512] TITLE : [NONE] PAPER : notebook LINES : 21 TEXT :' and '{struck: ...}' markup.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Reader-note junk text inside typed_words would show to a buyer.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "171",
+      "number_blocks_seen": "171",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-7-1", "what_it_shows": "Badly creased/torn lined sheet: 'Are you happy when its gone?' short poem"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line 'Shaking the stuff' (after 'The paddling's rough') is not typed. Next line on sheet is 'A [blind] man's Bluff', partly lost in a tear - typed as '{struck: A key in} man's bluff', but it is not struck out, just torn.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "175",
+      "number_blocks_seen": "174",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-7-4", "what_it_shows": "Printed (typed) sheet 'THE LIGHT', full poem; faint handwriting shows through from the back"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the printed sheet (cut for the check; ends 'The light I have found is you' on the sheet).",
+      "name_verdict": "OK",
+      "name_note": "Printed title THE LIGHT.",
+      "other_problems": "Photo 1 blocks read 1-7-4 = item 174, not 175. Sheet is printed, not handwritten (summary already flags it). Mirror-image handwriting bleeds through from the back of the sheet - the back is not pictured.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "347",
+      "number_blocks_seen": "347",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-4-7", "what_it_shows": "Yellowed sheet with torn right edge: 'Did anyone get the number of that train' full poem"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Lines match. Small: 'flat' and 'back' are inserted words on the sheet, not struck out as the typed words say; 'no more' insertion before 'public transportation' not typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says lined notebook paper with slight discoloration at top right; photo shows a yellowed, unlined-looking sheet with a torn right edge.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "357",
+      "number_blocks_seen": "357",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-7", "what_it_shows": "Lined sheet, blue ink: 'THE hard stuff's in the freezer' full poem"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line / hook of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "359",
+      "number_blocks_seen": "359",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-9", "what_it_shows": "Lined sheet with bubble-letter title 'The Coney Story' and full poem"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match. Small: 'If they got outta line' is 'If the kid got outta line' on the sheet; crossed-out line 'Inmates running the asylum making' typed as if live.",
+      "name_verdict": "OK",
+      "name_note": "Title is from this sheet, but the bubble letters read 'The Coney Story' (C-o-n-e-y), not 'Condy' - check the spelling.",
+      "other_problems": "Card name likely misspelled: 'Condy' vs 'Coney' on the sheet.",
+      "sure": "FAIRLY SURE"
+    }
+  ]
+}

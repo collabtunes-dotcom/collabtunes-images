@@ -1,0 +1,147 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_09_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "563",
+      "number_blocks_seen": "563",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-6-3 in a row", "what_it_shows": "Plain white sheet, cursive: 'And maybe... it's true / But baby... I'm not going crazy for you...' to 'can't get it off'. Staple top left."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-6-3 in a row", "what_it_shows": "Second page (first page folded back): 'channel the energy thats all around me ... Making Noises in the attic'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both pages typed; text matches the two photos.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "none",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "606",
+      "number_blocks_seen": "606",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-0-6 in a row", "what_it_shows": "Full lined spiral sheet, title EITHER WAY by Tom Jensen, numbered bubbles 3, 2, 1, ends 'Either way, No Regrets'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "none (close-up)", "what_it_shows": "Close-up of the middle of the same sheet (bubble 1 down to 'nothing left'), slightly tilted."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line 'Everything that lives has a body that dies' (with 'immateriality' written above) typed as 'Everything that immateriality [?]'; 'Riches or character' typed 'charatity'; last line typed 'Esther way' for 'Either way'. Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "EITHER WAY is the title written on the sheet.",
+      "other_problems": "none",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "617",
+      "number_blocks_seen": "617",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-1-7 in a row", "what_it_shows": "Lined sheet titled 'The QUESTION' (The scribbled), 'Amongst Men by Tom Jensen' at top right; 'You fell in love / But she wasn't a ten' to 'count the fallen seeking glory'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Opening part 'Just a second / could change your / life' (before the ---) is not on the photo. The rest matches the sheet.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'AMONGST BY' is a garbled mix of the subtitle and the byline. Title on sheet is THE QUESTION (subtitle 'Amongst Men'); hook 'You fell in love'.",
+      "other_problems": "Summary says number squares are to the left; they are above the sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "619",
+      "number_blocks_seen": "619",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-1-9 in a row", "what_it_shows": "Lined sheet: 'I'm a self-[saboteur]' to 'Keep on defining my creation'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Opening part 'I told myself I've got to give in / live on the same grid as the competition / Though I can't forget my' (before the ---) is not on the photo. The rest matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says squares are to the left and paper is Mead brand; squares are above, no brand visible. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "620",
+      "number_blocks_seen": "620",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-2-0 in a row", "what_it_shows": "Lined spiral sheet: 'When tragedy struck my family / I began my decent into insanity' to 'so when I went into the ring'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Opening part 'Here I am alone with my thoughts / Sitting staring, watching the clock' (before the ---) is not on the photo. The rest matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says number cards are to the left; they are above. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "621",
+      "number_blocks_seen": "621",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-2-1 in a row", "what_it_shows": "Messy lined spiral draft: 'I frame it / I hang it / I put it up for sale...' with a crossed-out box, down to 'Pick a party and you're invited'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line 'I make it' (between 'up for sale' and 'I tape it') not typed; struck line typed as 'I dont let it'. Otherwise matches the draft.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "none",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "622",
+      "number_blocks_seen": "622",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-2-2 in a row", "what_it_shows": "Lined spiral sheet: 'I'm fired up / I've had enough' to 'had many things worth keeping'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "none",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "643",
+      "number_blocks_seen": "643",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-4-3 in a row", "what_it_shows": "Plain white sheet, cursive at top: 'I guess when you're living with your head in the clouds' to 'So be careful of silver lining'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "none",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "645",
+      "number_blocks_seen": "645",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-4-5 in a row", "what_it_shows": "Torn lined sheet, blue circles: 'Sure, all the colours of the rainbow are there... within her eyes' to 'wilted leaves of long dead red roses'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Whole first part 'Here I am / Back in my memory / THE OLD DAYS ... Man is Man ... Charms [?] Both' (before the ---) is not on the photo. Second part matches (first word is 'Sure', typed 'See').",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet, but misread: sheet says 'Sure, all the colours of the rainbow are', card says 'See all the colours...'.",
+      "other_problems": "none",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "687",
+      "number_blocks_seen": "687",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-8-7 in a row (plus the edge of another block cut off at top right corner, digit '2' partly visible)", "what_it_shows": "Lined sheet: 'end verse: They just put my face on the mountain...' at top, 'I'm at the base of the mountain' verses with syllable counts in the margin, to 'AND THIS TIME I'M GOING LONGER'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Last part 'Hey Brother can you spare a dime? / I Beg for money all the time / Rather hold an empty cup / Than led life of crime' (after the ---) is not on the photo. The rest matches.",
+      "name_verdict": "OK",
+      "name_note": "Taken from the 'end verse' note written at the top of the sheet. The hook of the song is 'I'm at the base of the mountain' if a cleaner name is wanted.",
+      "other_problems": "Corner of a stray number block (another item's, shows '2') is cut off at the top right edge of the photo. Not a full number, but a buyer could notice it.",
+      "sure": "SURE"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_07_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "1989",
+      "number_blocks_seen": "1989",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1989", "what_it_shows": "Typed page 1: 'Tom Jensen / Ten of my better poems created in this class / December 5, 1999', Poem 1 Symphony In My Head, Poem 2 Call It Fate."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1989", "what_it_shows": "Typed page: Poem 4 Patching The Hole, Poem 5 Winter Of The Dead (start). Turned copy reads upright."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "1989", "what_it_shows": "Typed page: end of Call It Fate, Poem 3 The Truth About Turtles. Turned copy reads upright."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "1989", "what_it_shows": "Typed sheet with handwritten titles 'Winter of the dead' and 'Patching the hole'; lower right corner torn. Turned copy reads upright."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match photo 1 word for word as far as shown (cut at check limit, rest not checked).",
+      "name_verdict": "OK",
+      "name_note": "Both titles are handwritten on photo 4.",
+      "other_problems": "Printed/typed sheets; the only handwriting is the two titles on photo 4. Summary mentions sticky notes - none seen, only number blocks.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "2009",
+      "number_blocks_seen": "2009",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2009", "what_it_shows": "Typed page with paper clip: Set List Twenty Two (22) Inherent Absence, 19-song list, (1) Another Epic Poem."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of an inside page: Buridan's Ass lines (left, cut off) and (8) Groove Back II. Turned copy reads upright."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of an inside page: (17) Wallflower Poop. Turned copy reads upright."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match photo 1 (title, song list, Another Epic Poem) as far as shown; rest cut at check limit.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Printed/typed sheets, no handwriting. Photos 2 and 3 are close-ups with no number blocks; left-column text cut off at the edge.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "2010",
+      "number_blocks_seen": "2010",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2010", "what_it_shows": "Typed page with paper clip: Zionation Set List 23, 15-song list, (1) Kayfabe, (2) Noble Place Hate."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up: 'In a land full of hiders...', (5) Sun, Moon And Truth, (6) Strawman. Turned copy reads upright."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up: 'Oh, shit. They just bought TikTok...' to '(con't --->)'. Turned copy reads upright."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up: 'Find the truth...' and (14) Some Will Say. Turned copy reads upright."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words start at 'In a land full of hiders' (photo 2). Missing: photo 1's song list, (1) Kayfabe and (2) Noble Place Hate; also photo 2's (5) Sun, Moon And Truth and (6) Strawman are skipped in the part shown. Typed words also carry junk cut-off margin bits ('r a llama. / elsons say. / n say! / 'ed') from the left edge of photo 3.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Printed/typed sheets, no handwriting. Photos 2-4 are close-ups with no number blocks.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "2011",
+      "number_blocks_seen": "2011",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2011", "what_it_shows": "Typed page with paper clip: Bi Ride Or Die Ride Set List 24, 16-song list, Song 1 Reading I Blow (Rainbow), Song 2 I've Been Slappin."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "2011 (first block half cut off)", "what_it_shows": "Page: 'There's no more faking...' to 'Looking at that big behind...'; left column cut off. Turned copy reads upright."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "_01_ (edge blocks cut off; consistent with 2011)", "what_it_shows": "Page: 'I've felled thousands of trees...' Melanie Ann McCarthy lines. Turned copy reads upright."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up: Song 14 Chick Fillet. Turned copy reads upright."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match photo 1 and continue into photo 2 ('There's no more faking...'); rest cut at check limit.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Printed/typed sheets, no handwriting.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "11",
+      "number_blocks_seen": "011",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "011", "what_it_shows": "Handwritten loose-leaf sheet torn from a binder: 'Where is Noah when you need him?' ending 'and you shook your fists'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First section matches the photo. The later sections are on no photo here: 'As the bright green trees begin to lose their leaves...', 'Finally the time has come.. I am the one...' / 'Random thoughts go pop, pop, pop', and 'Rolling hills don't pay my b[?]...' (probably the back of the sheet).",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "29",
+      "number_blocks_seen": "028",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "028", "what_it_shows": "Handwritten spiral-torn sheet: 'It looks like I'm stuck inside the house again...' to 'Now everyone is history'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "028", "what_it_shows": "Second handwritten spiral-torn sheet: 'I'm the one left singing the blues...' to 'I'll spend six months in a correctional facility'. Slightly tilted but reads normally."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are only 4 lines from photo 1 ('Being straight is kinda tough / That's why I write for you / Thinking up rhymes / Really kills the time'). The rest of photo 1 and all of photo 2 are not typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of photo 1.",
+      "other_problems": "Both photos show blocks 0-2-8 = item 28, not 29. These photos belong to number 28 per their blocks.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "38",
+      "number_blocks_seen": "038",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "038", "what_it_shows": "Handwritten sheet in blue marker: 'Well, its not who you know its who you don't...' to 'and days and days'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First section matches the photo. Later sections are on no photo here: 'The smoke from the fire soon disapaited...', 'When the yellow sun is glowing...', 'I've been waiting for my baby...'.",
+      "name_verdict": "OK",
+      "name_note": "First line (cut short) of the sheet.",
+      "other_problems": "Summary says spiral notebook, torn; the photo shows a plain unlined sheet with no spiral edge visible.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "43",
+      "number_blocks_seen": "043",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "043", "what_it_shows": "Handwritten white loose-leaf sheet, black ink: 'I spent a week inside an empty room...' to 'Who thought that only doves play the game'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First two sections match the photo. Later sections are on no photo here: 'I JUST WANT to make my mark...' and 'Johanna / Joe Anna / I finally put a name to a face...'.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Summary says PINK PAPER - hot pink loose leaf; the photo shows white loose-leaf, not pink.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "45",
+      "number_blocks_seen": "045",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "045", "what_it_shows": "Handwritten hole-punched loose-leaf sheet: 'My presence is important...' to 'dozen by dozen by dozen'; rest of page blank."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first section is on the photo. Not pictured: 'I'm just warming up...', 'out on the streets / Raw and uncut...', 'Turn the page...', 'I hear you say power to the people...', 'My hand is but symbolic...' and 'Sitting here / Surrounded by so many...'.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Summary says 'numbered 3+4 in cards'; the cards in the photo read 0-4-5.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "46",
+      "number_blocks_seen": "046",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "046", "what_it_shows": "Handwritten sheet: 'She had a reputation for repetition...' to 'And I'll never be called a liar'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First section matches the photo. Not pictured: 'I gauge lost time through cigarette butts...', 'I need a curtain...', 'My boss here and me...', 'If it's half as good as...', 'You came in the door...'.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Summary says spiral notebook, torn, numbered 4 in cards; the photo shows a plain unlined sheet with no spiral edge visible, cards read 0-4-6.",
+      "sure": "SURE"
+    }
+  ]
+}

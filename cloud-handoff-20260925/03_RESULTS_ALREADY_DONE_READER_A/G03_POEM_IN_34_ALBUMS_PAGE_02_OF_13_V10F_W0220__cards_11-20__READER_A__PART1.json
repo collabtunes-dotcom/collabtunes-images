@@ -1,0 +1,89 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_02_OF_13_V10F_W0220__cards_11-20__READER_A__PART1.json",
+  "note": "PART1 = cards 11-19 (items 131-155). Card 20 (item 157) follows in the full file.",
+  "cards": [
+    {"item_number": "131", "number_blocks_seen": "131", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "131", "what_it_shows": "White loose-leaf sheet, 'Never again Never again Never again / Will I cut you out' song."},
+       {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "131", "what_it_shows": "Yellow legal sheet titled 'UH, THAT'S CHRISTMAS NANA' (Has anyone seen my apron?)."}
+     ],
+     "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+     "words_note": "First part (Never again) matches photo 1. The 'fingers and toes in the cracks of the dam' fragment and 'United We Stand / All for one and one for all' are on no photo here. Photo 2 'Uh, That's Christmas Nana' is not in the typed words shown (text cut at check limit).",
+     "name_verdict": "OK", "name_note": "First line of photo 1.",
+     "other_problems": "Photo 2 is a different poem (Christmas Nana) on yellow legal paper but carries the same 131 blocks; its words are not typed in the visible text. Summary 'heavy crossouts' does not fit photo 1 (only one small crossout).",
+     "sure": "FAIRLY SURE"},
+    {"item_number": "135", "number_blocks_seen": "135", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "135", "what_it_shows": "White lined sheet, bubble-letter title 'a dime a dozen', black ink."}
+     ],
+     "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+     "words_note": "First part (a dime a dozen) matches the photo. Second part 'I must be strong, I'll see her next week ... Captivation is my motivation' is on no photo here.",
+     "name_verdict": "OK", "name_note": "Title on the sheet.",
+     "other_problems": "Summary contradicts the photo: it says YELLOW LEGAL PAD, 4 shots, red ink, dated 6/28-29/2003, signed, 'THIS BELONGS ON THE FRIDGE!', 'Mommy's Gift to Daughter'. Photo is one white lined sheet in black ink with none of that.",
+     "sure": "SURE"},
+    {"item_number": "138", "number_blocks_seen": "138", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "138", "what_it_shows": "White lined sheet, bubble-letter title 'Peaking through the Keyhole'."}
+     ],
+     "words_verdict": "MATCH",
+     "words_note": "Typed words match the sheet.",
+     "name_verdict": "OK", "name_note": "Title is from this sheet but misspelled on the card: 'KEYHDE' should be 'PEAKING THROUGH THE KEYHOLE'.",
+     "other_problems": "Name typo KEYHDE. Summary says number cards are 'to the left' and paper 'torn' - blocks are above the sheet; minor.",
+     "sure": "SURE"},
+    {"item_number": "139", "number_blocks_seen": "139", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "SIDEWAYS", "blocks_in_this_photo": "139", "what_it_shows": "Lined sheet 'SUCKING THE LIFE' shot sideways; writing runs up the screen, blocks stacked in a column on the left (read bottom to top 1-3-9)."}
+     ],
+     "words_verdict": "MATCH",
+     "words_note": "Typed words match the sheet.",
+     "name_verdict": "OK", "name_note": "Title on the sheet.",
+     "other_problems": "Photo needs a quarter turn (clockwise). Summary is cut off mid-sentence ('only brown ink piece in the'); ink looks dark/black in the photo.",
+     "sure": "SURE"},
+    {"item_number": "141", "number_blocks_seen": "141", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "141", "what_it_shows": "White loose-leaf sheet, no title, 'Yes I was once a child many years ago', bracketed chorus 'As soon as I'm high something brings me down'."}
+     ],
+     "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+     "words_note": "First part (Yes I was once a child ... what I loved so much I want it back) matches. The whole 'ALL OR NOTHING' song after the --- is on no photo here.",
+     "name_verdict": "NOT FROM THIS SHEET", "name_note": "'ALL OR NOTHING' is not on the pictured sheet. Should be 'YES I WAS ONCE A CHILD' (first line) or hook 'AS SOON AS I'M HIGH'.",
+     "other_problems": "Summary 'spiral, two-color (black + green ink), crinkled' does not fit the photo: hole-punched loose leaf, one ink colour.",
+     "sure": "SURE"},
+    {"item_number": "142", "number_blocks_seen": "142", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "142", "what_it_shows": "Torn-edge spiral notebook sheet titled 'DOWNWARD SPIRAL', two scribbled-out lines at the bottom."}
+     ],
+     "words_verdict": "MATCH",
+     "words_note": "Typed words match, including the two crossed-out lines marked illegible.",
+     "name_verdict": "OK", "name_note": "Title on the sheet.",
+     "other_problems": "Summary says 'loose leaf, with a drawn empty box (door frame) on the right side' - no drawn box visible; sheet has a torn spiral edge.",
+     "sure": "SURE"},
+    {"item_number": "144", "number_blocks_seen": "144", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "144", "what_it_shows": "Both pages of 'ME, YOU AND HOOBIE DOO' laid top and bottom, page 2 ends with chorus 'She said me, you and hoobie doo'."},
+       {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "144", "what_it_shows": "Close-up of page 1 of 'ME, YOU AND HOOBIE DOO'."}
+     ],
+     "words_verdict": "SMALL DIFFERENCES",
+     "words_note": "First version matches both pages. After the --- page 1 is typed a second time (a repeat transcription of photo 2, e.g. 'earn its'), so a buyer sees page 1 twice.",
+     "name_verdict": "OK", "name_note": "Title on the sheet.",
+     "other_problems": "Typed words repeat page 1.",
+     "sure": "FAIRLY SURE"},
+    {"item_number": "151", "number_blocks_seen": "151", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "151", "what_it_shows": "Torn-edge spiral notebook sheet titled 'STAKING THE FLAG'."}
+     ],
+     "words_verdict": "MATCH",
+     "words_note": "Typed words match the sheet.",
+     "name_verdict": "OK", "name_note": "Title on the sheet.",
+     "other_problems": "",
+     "sure": "SURE"},
+    {"item_number": "155", "number_blocks_seen": "155", "number_verdict": "MATCHES",
+     "photos": [
+       {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "155", "what_it_shows": "White lined sheet, bubble-letter title 'MY BEST FRIEND', ends with 'When'."}
+     ],
+     "words_verdict": "MATCH",
+     "words_note": "Typed words match the sheet.",
+     "name_verdict": "OK", "name_note": "Title on the sheet.",
+     "other_problems": "",
+     "sure": "SURE"}
+  ]
+}

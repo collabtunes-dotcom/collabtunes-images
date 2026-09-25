@@ -1,0 +1,149 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_09_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "698",
+      "number_blocks_seen": "698",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "698", "what_it_shows": "Lined notebook sheet, 'No I never been to disney land' stanza plus boxed 'average Joe' stanza with 'SUCKS' written beside it; rest of page blank."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The part after '---' ('Aeola, lady of the Wind ... Through the bright lights of the city') is on no photo. The pictured sheet only has the disney land lines and the average Joe stanza, and those match.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet. Small misread: card says 'To I never...', sheet and typed words say 'No I never been to disney land'.",
+      "other_problems": "Either a back side or second sheet with the Aeola lyric is missing from the photos, or the Aeola words belong to another item.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "730",
+      "number_blocks_seen": "730",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "730", "what_it_shows": "White sheet with brown-marker lyric 'Everything I have I'd gladly give it all away'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "730", "what_it_shows": "Back or second side in pencil: shelf-building shopping notes (4x8 backing, 23 3/4 inches, screws, wire braid nails)."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sides typed. Only tiny gap: the 'small' column heading on photo 2 is not typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of the lyric.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "756",
+      "number_blocks_seen": "756",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "756", "what_it_shows": "Pink torn sheet, handwritten lyric 'My senses are sharp as a tack ... Yes that's what I said'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "756", "what_it_shows": "Other side of the pink sheet: printed Spanish flyer 'INFORMACION SOBRE EL TABACO'. The turned copy is the right way up."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The first part ('Right Now... is the time / Right Here... is the place ... E-BAYED your Soul') is on no photo. The 'My senses are sharp as a tack' lyric matches photo 1 and the Spanish flyer text matches photo 2.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "The name is the printed flyer headline on the back, not Tom's writing. For a poem card it should be the handwritten first line: 'My senses are sharp as a tack'.",
+      "other_problems": "The summary describes only the printed tobacco flyer and does not mention the handwritten poem on photo 1. The 'Right Now' lyric has no photo here.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "760",
+      "number_blocks_seen": "760",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "760", "what_it_shows": "Lined notebook sheet, lyric 'Theres a symphony playing in my mind', small stain lower left."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "779",
+      "number_blocks_seen": "779",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "779", "what_it_shows": "Lined notebook sheet (3-hole), lyric 'When the yellow sun is glowing way way up high ... You know love is inside you somewhere'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The part after '---' ('I've smoked so many cigarettes ... Is this really how it was meant to be') is on no photo. The yellow sun lyric matches.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "A back side or second sheet with the cigarettes lyric is not pictured.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "791",
+      "number_blocks_seen": "791",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "791", "what_it_shows": "Torn diagonal piece of yellowed spiral notebook paper, prose-style verses with 'verse 4', 'verse 5' and a last verse labeled in the margin; top lines cut off by the tear."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Words are all there, but the bracket layout notes are wrong: the last verse ('She woke up this morning...') is not written sideways, and the verse labels are margin labels beside the text, not empty headings. The last verse's label looks like 'verse 7' (with a crossed-out number), not 'Verse 6'.",
+      "name_verdict": "OK",
+      "name_note": "Hook line on the sheet: 'Given time all things must pass'.",
+      "other_problems": "",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "804",
+      "number_blocks_seen": "804",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "804", "what_it_shows": "Lined spiral notebook sheet, lyric 'still you haven't called, didn't show' with arrow diagram at top (walls, rising tide, sand, fall) and AB rhyme letters."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "804", "what_it_shows": "Blank music staff paper with 'Slow Part / Fast Part', tab numbers and 'Bm | G' at top, a drawn clef and notes at lower right."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "805", "what_it_shows": "Different piece: torn brown paper with marker lyric 'I've got one of the greatest minds of all time ... lyrical gold is what you'll find'. The turned copy is the right way up."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed words match photos 1 and 2, but the second part starts with '4 / 0 / 8', which are the number blocks, not writing on the sheet. Photo 3's lyric is not typed, which is right because that sheet is item 805.",
+      "name_verdict": "OK",
+      "name_note": "From the sheet. 'I understand' is crossed out on the sheet. The line as written is 'still you haven't called, didn't show'.",
+      "other_problems": "Photo 3 (20260819_072557) shows blocks 805 and a different sheet. It belongs to item 805 and should come off 804.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "808",
+      "number_blocks_seen": "808",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "808", "what_it_shows": "Three small spiral-pad slips stacked top to bottom: 'Because only when the people know can they resist', 'Listen closely wait for it here comes the plot twist', 'One card one chip one voice tells you what to do'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed labels say Left / Center / Right card, but the slips are stacked top / middle / bottom. The words match.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "The summary says the number cards are in a vertical column beside the paper, but they are in a row across the top.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "811",
+      "number_blocks_seen": "811",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "811", "what_it_shows": "Two small spiral-pad slips, lyric 'Another candle Another year ... There's no one calling on the phone'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Hook of the lyric ('So I'll sing happy birthday to me'). It is not a written title, but it fits.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "881",
+      "number_blocks_seen": "881",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "881", "what_it_shows": "Lined spiral notebook sheet, lyric 'So you think you've felt pain?' with one crossed-out line and margin edits."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

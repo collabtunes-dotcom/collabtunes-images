@@ -1,0 +1,151 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_09_OF_13_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "886",
+      "number_blocks_seen": "886",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-8-6 in a row = 886", "what_it_shows": "Torn spiral notebook sheet, 18 lines starting 'I'm getting angry', blocks above."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "902",
+      "number_blocks_seen": "902",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-0-2 in a row = 902", "what_it_shows": "Mostly blank notebook sheet with 3 lines: 'A long day but a good day / It's the middle of April... / Got everything I want today'."},
+        {"pos": 2, "way_up": "SIDEWAYS", "blocks_in_this_photo": "only stray part-blocks in the lower right corner, digits cut off and unreadable", "what_it_shows": "Close-up of a heavily scribbled lined sheet ('The memories are overwhelming... An explotion of emotion... raise our glass to the past'). Writing runs steeply down the screen, about 65 degrees - the turned copy is still not upright."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both parts typed: the 3 lines from photo 1 and the cropped poem from photo 2. Small misread: typed 'a god day', sheet says 'a good day'.",
+      "name_verdict": "OK",
+      "name_note": "From the sheet, but typo: should read 'A long day but a good day' (card says 'Along day but a god day').",
+      "other_problems": "Photo 2 (turned copy) is still tilted about 65 degrees and needs roughly another quarter turn counter-clockwise. Photo 2 has no readable number blocks and comes from a different photo set ('501 to 787 part 2 (45)'), so it cannot be confirmed by eye as the same sheet as photo 1.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "952",
+      "number_blocks_seen": "NONE",
+      "number_verdict": "NO BLOCKS IN ANY PHOTO",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Page 1 of 'THE TOM & TOM SONG' (bubble-letter title, PREMISE, BIO...) with a torn strip on top in purple ink: 'FIND MATCHING ITEM and ADD This to it'."},
+        {"pos": 2, "way_up": "SIDEWAYS", "blocks_in_this_photo": "none readable (an edge of a paper with drawn boxes peeks in at the bottom, no digits visible)", "what_it_shows": "Page 2 of the song ('Show a picture of a fat lady... Oh, you are so wrong!') plus the same purple 'FIND MATCHING ITEM' strip. Writing runs up the screen - needs a quarter turn clockwise."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both pages typed and they match the two photos.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "No number blocks in any photo. Photo 2 is sideways. Both photos show Tom's filing note 'FIND MATCHING ITEM and ADD This to it' - a buyer will see it. Summary calls it a 'purple sticky note'; it is a torn notebook strip written in purple ink.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "986",
+      "number_blocks_seen": "986",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-8-6 in a row = 986", "what_it_shows": "Torn lined sheet: scribbled-out title, 'need more lyrics', 'RIP' in the left margin, poem 'A crashing wave of thought...'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match. 'need more lyrics' is written plainly, not scribbled; 'RIP' in the margin and a circled '2' are not typed (minor).",
+      "name_verdict": "OK",
+      "name_note": "First line of the poem (title is scribbled out).",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "997",
+      "number_blocks_seen": "997",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-9-7 in a row = 997", "what_it_shows": "Torn notebook sheet titled 'Duet alone': 'When the sea gets rough / And the ship's taking on water fast / ... / Like you're chained and anchored to the mast', with syllable counts 5/9 in the margin."}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words are 'Landscaper's Dream' and 'It's time to write a song' - neither is on this photo. The sheet pictured is 'Duet alone' (When the sea gets rough...), which is not typed at all.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "Should be 'Duet Alone' (title on the sheet) or first line 'When the sea gets rough'.",
+      "other_problems": "Card name and words do not describe the pictured sheet. 'It's time to write a song' text also appears in card 998's typed words.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "998",
+      "number_blocks_seen": "998",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-9-8 in a row = 998", "what_it_shows": "Mostly blank notebook sheet with 2 lines: 'Ahh... I couldn't tell you what I knew / Even if I wanted to...'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-9-8 in a row = 998", "what_it_shows": "Lined sheet, blue ink and pencil: 'Once upon a time it was still... Just to give me a number'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "'Ahh...' (photo 1) and 'Once upon a time...' (photo 2) match. Not on any photo: 'Every night I stayed awake / insomnia' verse, 'I have listened to the people' verse, and 'It's time to write a song' verse. 'Once upon a time' is also typed twice.",
+      "name_verdict": "OK",
+      "name_note": "First line of photo 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1038",
+      "number_blocks_seen": "1038",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-3-8 in a row = 1038", "what_it_shows": "Lined sheet: 'I bring people to the truth... Why can't we play nice?'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-3-8 in a row = 1038", "what_it_shows": "Spiral notebook sheet: 'She left for work without saying goodbye... Get up open up the door and let me out'. Turned copy reads correctly."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed and match.",
+      "name_verdict": "OK",
+      "name_note": "First line of photo 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1061",
+      "number_blocks_seen": "1061",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-6-1 in a row = 1061", "what_it_shows": "Lined sheet, 10 lines starting 'Soulmates lost we no longer morn'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1735",
+      "number_blocks_seen": "1735",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-7-3-5 in a row = 1735", "what_it_shows": "Two white sheets laid top to bottom: red-ink title 'I Pretend my hate comes from a noble place' with verse, and second sheet 'The mask they wear is falling...'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "blocks cut off at top edge, 7-3-5 partly visible, consistent with 1735", "what_it_shows": "Close-up of sheet 1 (red title and verse)."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Close-up of sheet 2 ('The mask they wear is falling... Await the very same fate')."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "The same two sheets are typed twice. The first reading has misreads ('I'm not drafted but Cagel Zelinsky', 'throwing hospital passes as neglect', '[symbol]') and a margin note 'Oct 23 23 / 12 18 15' that I cannot see written on any photo. The second reading matches the photos well.",
+      "name_verdict": "OK",
+      "name_note": "Title from the sheet, but cut short - full title is 'I Pretend My Hate Comes From a Noble Place'.",
+      "other_problems": "Faint marks at the bottom of sheet 2 in photo 1 are unreadable (may be the date note).",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "21",
+      "number_blocks_seen": "021",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-2-1 in a row = 021", "what_it_shows": "Notebook sheet titled 'MY Garden', about 20 lines: 'No matter the time... watch it grow'."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only 3 lines typed ('Your future's been planted out / With the choices you've made / Your fate has been Sealed'). Missing: 'No matter the time... seeds have already been sown' above, and 'We all search for the answers... watch it grow' below. Typed line also drops 'in the field'.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_08_OF_13_V10F_W0220__cards_01-10__READER_A__PART1.json",
+  "cards": [
+    {
+      "item_number": "218",
+      "number_blocks_seen": "218",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-1-8 in a row", "what_it_shows": "Torn spiral notebook sheet, 'It's such a complicated subject this matter of war' with syllable counts 14/16, crossed-out lines, bracket counts 6 and 5 at the bottom."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First section (war lines down to 'And the way it stands') matches the photo. The two extra sections after '---' ('I found the rhyme / Have you found the reason...' and 'The last words I heard from you ... The path of life can be a rocky road') are NOT on this sheet - they are the words on item 255's two sheets (photos 743 and 744).",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says 'word-tree diagrams' and 'crumpled' - sheet is torn spiral paper with bracket counts, not really crumpled; minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "255",
+      "number_blocks_seen": "255",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-5-5 in a row", "what_it_shows": "Spiral notebook sheet with circled verse numbers 2, 3, 4: 'I said you've got to hold on...', 'In time you'll find...', 'The last words I heard from you ... Given time all things must pass'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-5-5 in a row", "what_it_shows": "Second spiral notebook sheet: crossed-out 'The path through life can be a rocky road...' and verse 5 'Now I've found the rhyme / Have you found the reason?... Now my mind's at ease and'."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are only 4 lines of verse 4 ('The last words I heard from you...'). Photo 1 verses 2 and 3 ('I said you've got to hold on...', 'In time you'll find...') and the end of verse 4 are not typed; all of photo 2 ('The path through life...', 'Now I've found the rhyme...') is not typed. Those missing words sit on card 218 instead.",
+      "name_verdict": "OK",
+      "name_note": "Line from this sheet (verse 4). The top line of photo 1 is 'I said you've got to hold on' if a first-line name is wanted.",
+      "other_problems": "Summary says 'small paper cards attached on the left side' - the number cards are above the sheet, not on the left; minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "261",
+      "number_blocks_seen": "261",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-6-1 in a row", "what_it_shows": "Torn-top pad sheet with red margin: 'Weaponized envy surrounds me' 8 lines with crossouts, 'like' under the last line."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "273",
+      "number_blocks_seen": "273",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-7-3 in a row", "what_it_shows": "Lined sheet: 'Rise up, Rise up / And follow me' through 'Just what... I can't wait to see...'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line / title.",
+      "other_problems": "Summary says the cards are 'to the side' - they are above the sheet; minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "274",
+      "number_blocks_seen": "274",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-7-4 in a row", "what_it_shows": "Three-hole lined sheet in cursive: 'I just melted in your eyes' three 4-line verses, 'discovered' in left margin, '6' right."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "278",
+      "number_blocks_seen": "278",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-7-8 in a row", "what_it_shows": "Lined sheet (folded/overlapped): 'I turn frowns upside down and make unhappy people smile' then 3-line verses to 'And THEN that's when life gets tough...', margin 4 4 6."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

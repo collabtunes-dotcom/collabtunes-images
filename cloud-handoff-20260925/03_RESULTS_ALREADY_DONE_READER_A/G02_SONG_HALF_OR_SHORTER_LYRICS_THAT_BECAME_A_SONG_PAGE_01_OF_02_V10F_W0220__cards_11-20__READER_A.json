@@ -1,0 +1,151 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G02_SONG_HALF_OR_SHORTER_LYRICS_THAT_BECAME_A_SONG_PAGE_01_OF_02_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "412",
+      "number_blocks_seen": "412",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-2 in a row = 412", "what_it_shows": "Torn spiral-notebook sheet, black ink, 'There's no greater pain...' down to 'Fades Away'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "427",
+      "number_blocks_seen": "427",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-2-7 in a row = 427", "what_it_shows": "Star-border paper, blue ink, titled 'Michelle', 'I've been waiting for a night like tonight...' to 'Prone'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches. Only tiny inserted words left out (sheet has 'many dark shades of gray' and 'self-portrait all alone').",
+      "name_verdict": "OK",
+      "name_note": "Title written at the top of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "492",
+      "number_blocks_seen": "492",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-9-2 in a row = 492", "what_it_shows": "Two lined sheets: typed-style print 'I haven't played in fourteen days...' and a second page with 3 lines plus scribbles and 'Cameron'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-9-2 in a row = 492", "what_it_shows": "Close-up of the same two sheets (top part only)."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "All lines match the sheets, but the lyrics are typed TWICE: the block after '---' repeats the first block word for word. Both photos show the same sheets, so the card reads as if there were two versions.",
+      "name_verdict": "OK",
+      "name_note": "First line / hook of the sheet.",
+      "other_problems": "Typed words repeated (one copy per photo) - the second copy should come off.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "519",
+      "number_blocks_seen": "519",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-1-9 in a row = 519", "what_it_shows": "Lined sheet, 'Face yourself before you face the sea...' to 'Pete Townshend's autobiography', '57 cm' in pencil at bottom."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-1-9 in a row = 519", "what_it_shows": "Turned copy is upright. Lined sheet titled 'The Golden Rule' in bubble letters, 'Somebody asked me why I went to catholic school...'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Both sheets are typed. Photo 2's title 'The Golden Rule' is not typed, and its first line is typed 'why I went catholic' (sheet: 'why I went to catholic school').",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet in photo 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "529",
+      "number_blocks_seen": "529",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-2-9 in a row = 529", "what_it_shows": "Lined sheet titled 'The Light inside your Lamp' in bubble letters, 'There is now a tuition for philosophy class...'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-2-9 in a row = 529", "what_it_shows": "Turned copy is upright. Lined sheet 'You're my butterfly...' with cross-outs."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed (butterfly first, then The Light inside your Lamp); they match.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet in photo 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "769",
+      "number_blocks_seen": "769",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-6-9 in a row = 769", "what_it_shows": "Lined sheet titled 'DEATH'S COLD EYES', six lines."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Title and six lines match.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "778",
+      "number_blocks_seen": "778",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-7-8 in a row = 778", "what_it_shows": "Lined sheet 'I write about what the day brings then I...' to 'That you can ever trust'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part matches the photo. The part after '---' ('[crossed out word] you / How long have you been sleeping? ... The only time i'll leave myself exposed') is on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Extra 5-line verse typed from a sheet not shown here.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "967",
+      "number_blocks_seen": "967",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-6-7 in a row = 967", "what_it_shows": "Lined sheet, script handwriting, 'Car broken down by the side of the road...' to 'Let alone someone else.'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The first block, 'DEATH'S COLD EYES' and its six lines, is not on this photo - it is the sheet on card 769. Only the part after '---' ('Car broken down...') is this sheet, and it matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Typed words start with item 769's poem, so a buyer reads the wrong piece first.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1075",
+      "number_blocks_seen": "1075",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-7-5 in a row = 1075", "what_it_shows": "Green-ink pad page 'Don't fuck with my lyrics: Waiting for you here...' to 'I'm still..'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-7-5 in a row = 1075", "what_it_shows": "Green-ink pad page '1:50 chord change vibes!!! ... We Need: Stand out Instrumental or Vocal harmony thingy to replace time.'"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-7-5, tops cut off at photo edge but readable", "what_it_shows": "Pad page, green and red ink: '1:40 hmm hum part...', 'background harmonies So Patiently... I Bide my time Within this endless rhyme', 'SMOOTH TRANSITION'."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-?-7-5, mostly cut off at photo edge, consistent with 1075", "what_it_shows": "Pad page, green ink: 'Make \"So patiently...\" sing...', 'Melody Clang!!!', 'change key whole song', 'Extend \"Show\" at 1:24'."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photos 3 and 4 (the '1:40 hmm hum part / So patiently / I bide my time' page and the 'Melody Clang / change key' page) are not typed at all. Also the first typed block ('Ending -> waiting for you here with just this line... Nothing's changed... I'm still...') is on no photo. Photos 1 and 2 are typed and match.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'Ending' comes from the typed block that is on no photo. From the pictured sheets it should be 'Waiting for you here' (or 'Don't Fuck With My Lyrics').",
+      "other_problems": "Blocks in photos 3 and 4 are cut off at the top edge.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1984",
+      "number_blocks_seen": "1984",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-9-8-4 in a row = 1984", "what_it_shows": "Printed Yahoo Mail email, 23 Nov 1998, subject 'beginnings of a song/poem', lyric 'Hey baby, come for a ride...', one handwritten word 'who'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "The email text matches, but the typed words begin with '[Hand-drawn boxes containing the numbers 1, 9, 8, 4]' - those are the catalogue number squares, not part of the sheet.",
+      "name_verdict": "OK",
+      "name_note": "Subject line printed on the email.",
+      "other_problems": "Summary is wrong: it calls the number squares 'hand-drawn numbered boxes along the left side' of the sheet; the piece is a printed email printout. The card also prints the recipient's full name and email address.",
+      "sure": "SURE"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_05_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "543",
+      "number_blocks_seen": "543",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-4-3 in a row = 543", "what_it_shows": "Lined notebook sheet, bubble-letter title 'Say anything', three 4-line verses in black ink"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All three verses match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "Title 'Say anything' is written at the top of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "544",
+      "number_blocks_seen": "544",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-4-4 in a row = 544", "what_it_shows": "Worn, stained lined sheet in faint pencil, 'I need a curtain' lyric ending '(Cover your windows)'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet; only small misreads of faint pencil (e.g. 'He must on me' for 'He mistook me').",
+      "name_verdict": "OK",
+      "name_note": "First line 'I need a curtain'.",
+      "other_problems": "Pencil is faint and smudged, hard to read in places, but the photo is sharp.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "564",
+      "number_blocks_seen": "564",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-6-4 in a row = 564", "what_it_shows": "Spiral-torn lined sheet, 'You gotta trust in what you know' lyric with crossed-out lines"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed words include two lines that are crossed out on the sheet ('The only place that I was solitarily confined', 'Calling out everything and hated most people') and the crossed-out 'self absorbed'; 'needing to get burned' is out of place and a stray 'and' ends the text. Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "First line 'You gotta trust in what you know'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "578",
+      "number_blocks_seen": "578",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-7-8 in a row = 578", "what_it_shows": "Lined sheet in cursive, 'I've got a brand new method to my madness', ends at 'As we all seek shelter from this storm'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Everything after the '---' (morality / society / I'm not living day to day / More like hour to hour / Talent is something... anyone) is not on the pictured sheet - probably the back side. Everything before '---' matches.",
+      "name_verdict": "OK",
+      "name_note": "First line 'I've got a brand new method to my madness'.",
+      "other_problems": "No photo of the second side/sheet that the typed words include.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "581",
+      "number_blocks_seen": "581",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-8-1 in a row = 581", "what_it_shows": "Yellow/manila paper with torn edges, 'I AM ALWAYS ALONE' lyric in black marker"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "Title/first line 'I AM ALWAYS ALONE'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "585",
+      "number_blocks_seen": "585",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-8-5 in a row = 585", "what_it_shows": "Spiral-torn lined sheet in blue ink, 'Sitting here alone' short lyric"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line 'Sitting here alone'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "586",
+      "number_blocks_seen": "586",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-8-6 in a row = 586", "what_it_shows": "Spiral-torn lined sheet in cursive, first verse crossed out, 'I searched for a paradise lost' lyric"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the live (not crossed-out) text.",
+      "name_verdict": "OK",
+      "name_note": "First line 'I searched for a paradise lost'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "587",
+      "number_blocks_seen": "587",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-8-7 in a row = 587", "what_it_shows": "Lined sheet in black ink, lyric starting 'With a hundred dollars in my pocket'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All five verses match the sheet.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'If you wanna make the world better' is nowhere on the sheet. No title written; should be the first line 'With a hundred dollars in my pocket'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "588",
+      "number_blocks_seen": "588",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-8-8 in a row = 588", "what_it_shows": "Lined sheet, 'Molly... There's no more hiding' lyric with scribbled-out words and margin notes"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet including the inserted edits; margin note 'The best accent' not typed (minor).",
+      "name_verdict": "OK",
+      "name_note": "First line 'Molly... There's no more hiding'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "592",
+      "number_blocks_seen": "592",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-9-2 in a row = 592", "what_it_shows": "Lined sheet, title 'TEN PERCENT' crossed out then 'ONE OUTTA TEN', lyric 'Ten percent of the people'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match the sheet, crossed-out bits marked.",
+      "name_verdict": "OK",
+      "name_note": "From the sheet, but 'TEN PERCENT' is crossed out on it; the kept title is 'ONE OUTTA TEN'.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

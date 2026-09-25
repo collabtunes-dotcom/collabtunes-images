@@ -1,0 +1,90 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G01_SONG_FULL_LYRICS_PAGE_02_OF_03_V10F_W0220__cards_11-20__READER_A__PART1.json",
+  "cards": [
+    {
+      "item_number": "335",
+      "number_blocks_seen": "335",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-3-5 in a row = 335", "what_it_shows": "Yellow legal pad sheet, pencil, 'I live in a world where there are no fist fights' full lyric."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says 'white paper' - the sheet is yellow legal paper. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "364",
+      "number_blocks_seen": "364",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-6-4 in a row = 364", "what_it_shows": "White loose-leaf sheet, black ink, 'When its time to sink or swim its already too late' lyric."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "372",
+      "number_blocks_seen": "372",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-2 in a row = 372", "what_it_shows": "Stained loose-leaf sheet, front: 'The time is getting late / Your lifetime is passing' lyric."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-2 in a row = 372", "what_it_shows": "Back of the same sheet: school history notes (Boston Massacre, Boston Tea Party, Intolerable Acts)."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sides typed and they match the photos. But the typed text has reader tool junk in the middle: '[read/page 2 - shot 974] TITLE : [NONE] PAPER : notebook LINES : 16 TEXT :'.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'SCENE 1' is not written on either side. Should be 'The time is getting late' (first line).",
+      "other_problems": "Typed words show reader header junk ('[read/page 2 - shot 974] TITLE : [NONE] PAPER : notebook LINES : 16 TEXT :') a buyer would see. Back side is history class notes, not lyrics.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "375",
+      "number_blocks_seen": "375",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-5 in a row = 375", "what_it_shows": "Loose-leaf sheet, blue ink, 'I heard your voice again' full lyric with 'But' and 'to' in the left margin."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet, margin words included.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary is wrong: says '3 columns of rhyme-ending words, organized by sound family' and 'black ink' - the photo is a plain lyric sheet in blue ink.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "378",
+      "number_blocks_seen": "378",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-8 in a row = 378", "what_it_shows": "Loose-leaf sheet with alphabet line at top, 'I don't read the paper, hell I don't even watch the news' lyric."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet, alphabet line included. Only small misreads.",
+      "name_verdict": "OK",
+      "name_note": "Opening words of the first lyric line.",
+      "other_problems": "Summary says 'torn sheet' - the sheet is not torn, only a folded corner. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "384",
+      "number_blocks_seen": "384",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-8-4 in a row = 384", "what_it_shows": "Loose-leaf sheet, 'When the Angels tried to follow' lyric (Pico Duarte)."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet, strike-outs noted.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_01_OF_13_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "83",
+      "number_blocks_seen": "083",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "083", "what_it_shows": "One loose-leaf sheet, black ink lyrics, big outlined title PERCHING ON POWER LINES with a power-line drawing at bottom"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "Title PERCHING ON POWER LINES is drawn on the sheet.",
+      "other_problems": "Summary says two sheets (black ink with arrow diagram + a pencil sheet); the photo shows one black-ink sheet, no arrow diagram, no pencil sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "84",
+      "number_blocks_seen": "084",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "084", "what_it_shows": "One loose-leaf sheet, crossed-out 'Rehab - day 1' above bubble title PAYING YOUR DUES, full lyric"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches. 'Rehab - day 1' is crossed out on the sheet but typed as plain text.",
+      "name_verdict": "OK",
+      "name_note": "Title PAYING YOUR DUES is on the sheet.",
+      "other_problems": "Summary says 'continuation' but the sheet is a complete song with its own title.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "86",
+      "number_blocks_seen": "086",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "086", "what_it_shows": "One torn-edge loose-leaf sheet, purple/brown ink, title CLOSER TO GOD"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The second part 'The Gambler' (All the cards fell off the table...) is on no photo. Also small misread: sheet says 'I wear my work / Like a bad tatoo', typed 'I wear my tatoo'.",
+      "name_verdict": "OK",
+      "name_note": "Title CLOSER TO GOD is on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "89",
+      "number_blocks_seen": "089",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "089", "what_it_shows": "Yellow legal-pad sheet, title DAYLIGHT AGAIN, first half of the song down to 'Trapped in a tunnel'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "089", "what_it_shows": "Second yellow legal-pad sheet, rest of the song 'Light dim in either direction' to 'Until there's daylight again'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The third part 'The Golden Rule' (Somebody asked me why I went catholic...) is on no photo. The two DAYLIGHT AGAIN sheets match.",
+      "name_verdict": "OK",
+      "name_note": "Title DAYLIGHT AGAIN is on sheet 1.",
+      "other_problems": "Summary says 'spiral, torn'; the photos show yellow legal-pad paper, not spiral.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "90",
+      "number_blocks_seen": "090",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "090", "what_it_shows": "One loose-leaf sheet, title MIDAS TOUCH, ten lines, lower half blank"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The second part 'GAUGING TIME' (Cracks upon the walls...) is on no photo. MIDAS TOUCH part matches.",
+      "name_verdict": "OK",
+      "name_note": "Title MIDAS TOUCH is on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "98",
+      "number_blocks_seen": "098",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "098", "what_it_shows": "Two white loose-leaf sheets: top one is a DOT DOT SPACE draft with rhyme lists at top and a heavily scribbled-out block; lower one has numbered (14) lines 'I've given you everything I've got...'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The part after '---' ('Because only when the people know can they resist...') is on no photo. Also the last two lines on the lower sheet ('Two hearts once burned... fireplace', 'light in your eyes been dwindling at this same familiar pace') are not typed.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "DAYLIGHT AGAIN is not on this sheet (it is item 89's title). Sheet is a draft of DOT, DOT, SPACE; first line 'I've finally decided to give you a piece of my mind'.",
+      "other_problems": "Summary says 'YELLOW LEGAL PAD'; the photo shows white loose-leaf paper.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "100",
+      "number_blocks_seen": "100",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "100", "what_it_shows": "One spiral-torn loose-leaf sheet, no title, 'When she calls you up' through 'And you say Please...'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first section ('When she calls you up' ... 'And you say Please...') is pictured. The three later sections ('Waking up to a cold and breezy september morning', 'With this dark sky forshadowing impending doom', 'The town was empty the streets were clear') are on no photo.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "WALKING ALONE is not written on the pictured sheet. From the sheet: 'WHEN SHE CALLS YOU UP' (first line).",
+      "other_problems": "Summary says 'large decorated title with brackets around stanza sections'; the photo has no title and no brackets.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "102",
+      "number_blocks_seen": "102",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "102", "what_it_shows": "Spiral-torn sheet A, bubble title DOT, DOT, SPACE, full verses with numbered margins"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "102 (cut off at top edge, only bottoms of 1 and 2 visible)", "what_it_shows": "Sheet A and sheet B laid together; corner of an unrelated sheet visible at left ('morning / remember')"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "102", "what_it_shows": "Sheet A again, close-up, same as photo 1"},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "102", "what_it_shows": "Sheet B: 'I've given you everything I've got', circled rewrite lines, crossed-out 'I was going to write more'"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "First block matches sheet A. The block after '---' is the same sheet A typed a second time, not a different draft. Sheet B's words (photo 4) do not appear before the 1800-char cut, so could not be confirmed.",
+      "name_verdict": "OK",
+      "name_note": "Title DOT, DOT, SPACE is on sheet A.",
+      "other_problems": "Summary says '4 sheets ... loose leaf cursive'; photos show 2 sheets (4 photos, sheet A shot twice), printed hand on spiral-torn paper.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "103",
+      "number_blocks_seen": "103",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "103", "what_it_shows": "One loose-leaf sheet, bubble title JUST ANOTHER MEMORY, 'emmilija' written at top right"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches the sheet (small misreads of edits only).",
+      "name_verdict": "OK",
+      "name_note": "Title JUST ANOTHER MEMORY is on the sheet.",
+      "other_problems": "Summary says 'spiral notebook, two more sheets - same song as items 102'; photo is one sheet of a different song, not DOT DOT SPACE.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "104",
+      "number_blocks_seen": "104",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "104", "what_it_shows": "One spiral-torn sheet, title FROM A DISTANCE (Sillonette of a Stranger), lyrics with syllable counts and boxed notes/arrows at bottom"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Lyrics and boxed notes match the sheet (small misreads only).",
+      "name_verdict": "OK",
+      "name_note": "Title FROM A DISTANCE is on the sheet.",
+      "other_problems": "Summary says labeled 'IGGY'S ANTHEM' with song numbers 394/401 in corner; neither is visible on the photo.",
+      "sure": "SURE"
+    }
+  ]
+}

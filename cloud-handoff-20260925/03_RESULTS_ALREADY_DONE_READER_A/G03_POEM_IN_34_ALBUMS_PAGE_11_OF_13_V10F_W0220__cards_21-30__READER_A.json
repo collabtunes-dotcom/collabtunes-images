@@ -1,0 +1,145 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_11_OF_13_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "354",
+      "number_blocks_seen": "354",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-4 in a row = 354", "what_it_shows": "Lined notebook sheet, Snapple / Adam and Eve lyric, blocks above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "363",
+      "number_blocks_seen": "363",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-6-3 in a row = 363", "what_it_shows": "Lined notebook sheet, two lines in blue ink, blocks above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both lines match; 'you' struck and 'who' written above, typed as 'who will catch me' - correct.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "382",
+      "number_blocks_seen": "382",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-8-2 in a row = 382", "what_it_shows": "Cream/manila sheet, 'Like cats and dogs' 8 lines, blocks above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 8 lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "385",
+      "number_blocks_seen": "385",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-8-5 in a row = 385", "what_it_shows": "Loose-leaf sheet in pencil, 'Let me / Bend you... / Shape you', circled B/A letters in margin, blocks above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Words match; circled B/A margin letters not typed (fine).",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "403",
+      "number_blocks_seen": "403",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-0-3 in a row = 403", "what_it_shows": "Torn lined sheet, 'I'm so tired of being bored that I'm restless', blocks above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match ('nearly' written above 'every day' is placed on the 'guessed it' line in the typing - small placement only).",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'A lesson in politics one on one' is written nowhere on the sheet. Sheet first line: 'I'm so tired of being bored that I'm restless'. (Name may be the song these lines went into - not on the paper.)",
+      "other_problems": "Summary says blue ink; the ink looks black/dark.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "404",
+      "number_blocks_seen": "404",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-0-4 in a row = 404", "what_it_shows": "Torn lined sheet, bar / Jim Beam lyric 16 lines, blocks above"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Last line on sheet is 'Empty chair beside me tells me I don't have a date' - typed drops 'tells me'. 'tes here at the bar' should be 'Yes here at the bar'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "424",
+      "number_blocks_seen": "424",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-2-4 in a row = 424", "what_it_shows": "Lined notebook sheet, three lines in blue ink 'The time has come', blocks above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 3 lines match.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'Get outta my house' is written nowhere on the sheet. Should be 'The time has come' (first line).",
+      "other_problems": "Summary says the number squares are on the left side; they sit in a row across the top.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "430",
+      "number_blocks_seen": "430",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-0 in a row = 430", "what_it_shows": "Torn lined sheet in pencil titled 'Dead History', 7 lines plus 'If you don't know then know ya know', blocks above"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First block (Dead History to 'If you don't know then know ya know') matches the photo. The four sections after it ('Well, the circle has been completed...', 'I told myself I've got to give in...', 'All my inner turmoil is at peace...', 'I spotted your car in the parking lot...') are on no photo here - likely the back of the sheet or another sheet.",
+      "name_verdict": "OK",
+      "name_note": "Title written at top of sheet.",
+      "other_problems": "Only the front is pictured; if the extra typed sections are on the back, a back photo is missing.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "437",
+      "number_blocks_seen": "437",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-7 in a row = 437", "what_it_shows": "Loose-leaf sheet 'If I could free myself', scribbled-out lines, blocks above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Lines match, struck lines marked; 'somebody' corrected to 'someone' on the sheet, typed 'someone' - fine.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "441",
+      "number_blocks_seen": "441",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-1 in a row = 441", "what_it_shows": "Lined notebook sheet in pencil 'I just got a pardon', 8 lines, blocks above"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "On the sheet 'submit' is struck out with 'admit' written above ('Because I didn't admit'); typed keeps the struck 'submit'. Margin alternate ('would get submit as evidence') not typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "FAIRLY SURE"
+    }
+  ]
+}

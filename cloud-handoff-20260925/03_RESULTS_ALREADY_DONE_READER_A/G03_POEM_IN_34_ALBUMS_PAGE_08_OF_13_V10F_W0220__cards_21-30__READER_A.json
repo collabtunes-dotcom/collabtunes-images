@@ -1,0 +1,148 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_08_OF_13_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "432",
+      "number_blocks_seen": "432",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-2 in a row = 432", "what_it_shows": "Torn lined notebook sheet, dark ink: 'Attempting to believe the unbelievable...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'Michelle' is not written anywhere on the sheet. Should be 'Attempting' or first line 'Attempting to Believe the Unbelievable'.",
+      "other_problems": "Summary says decorative star-bordered stationery with red/blue/gray stars and blue ink; photo shows plain torn lined notebook paper, no star border, dark ink. Summary looks like it belongs to another piece.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "435",
+      "number_blocks_seen": "435",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-5 in a row = 435", "what_it_shows": "Torn lined notebook sheet in pencil: 'Confliction is my affliction / Dying from good health...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'Dead History' is not written on the sheet. Should be first line 'Confliction Is My Affliction'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "445",
+      "number_blocks_seen": "445",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-5 in a row = 445", "what_it_shows": "Plain white sheet, blue ink cursive: 'Another sleepless night as rain falls from the sky...'"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "One sheet line missing from typed words: 'This is the only time I can remember, the world has cut some slack.' (between 'got my life on track' and 'I'm finally moving forward').",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says lined notebook paper in pencil; photo shows unlined white paper written in blue ink.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "447",
+      "number_blocks_seen": "447",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-7 in a row = 447", "what_it_shows": "Torn lined notebook sheet, dark ink: 'Cry me a river... ten miles wide...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Same text; side note ('when you're not one then you should go back to being two') and 'Never lost, never one / Never us' are jumbled in the typing but all present.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'Just like Me' is not written on the sheet. Should be first line 'Cry Me a River'.",
+      "other_problems": "Summary says blue ink; writing looks black/dark gray.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "450",
+      "number_blocks_seen": "450",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-5-0 in a row = 450", "what_it_shows": "Torn lined notebook sheet: 'I just picked up my pen / It's been god knows when...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "470",
+      "number_blocks_seen": "470",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-7-0 in a row = 470", "what_it_shows": "Pale green lined sheet, 'PLEDGE' in bubble letters, 'Globalization without exploitation...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Same text; line 'That's right... I'm penning them...' is merged into the line above in the typing - minor.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "471",
+      "number_blocks_seen": "471",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-7-1 in a row = 471", "what_it_shows": "Lined notebook sheet, 'Point of Reference' in outline letters, 'You keep waiting for her to walk in...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet, including margin note 'will do p.65'.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "473",
+      "number_blocks_seen": "473",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-7-3 in a row = 473", "what_it_shows": "Lined notebook sheet: 'TAXATION WITHOUT REPRESENTATION / IS WHAT The Baby Boomers did...'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-7-3 in a row = 473", "what_it_shows": "Two small lined cards: '[Ian McElroy] Welcome to poor judgement theatre...' and 'yeah we're slowly sinking...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both photos are typed. Small misread: sheet says 'Spend our time wondering what's left to believe in?', typed as 'our time spending what's left to believe in?'.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary says '3 separate pieces in frame'; photo 1 is one full notebook sheet and photo 2 shows two small cards (3 pieces across two photos, not one frame).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "515",
+      "number_blocks_seen": "515",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-1-5 in a row = 515", "what_it_shows": "Lined notebook sheet: 'Have a lovely infinity / Were the last words you said to me...' with circled 8s"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-1-5 in a row = 515", "what_it_shows": "Plain white sheet: 'Empty lims are being filled / Sadam Hussein's oil is being spilled...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed. 'You fear that you are out of tune' is crossed out on the sheet but typed as a normal line - minor.",
+      "name_verdict": "OK",
+      "name_note": "First line of the first sheet.",
+      "other_problems": "Summary says one white paper; the card is two different sheets (lined notebook + plain white), both marked 515.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "553",
+      "number_blocks_seen": "553",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-5-3 in a row = 553", "what_it_shows": "Turned copy: three-hole lined sheet 'GO ANYWHERE FROM HERE' with bracketed verses, now reads upright"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the same 'GO ANYWHERE FROM HERE' sheet (same 'build' correction, same brackets), no blocks"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

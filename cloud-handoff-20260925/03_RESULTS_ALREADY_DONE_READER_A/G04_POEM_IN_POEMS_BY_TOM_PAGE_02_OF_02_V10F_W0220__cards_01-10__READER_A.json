@@ -1,0 +1,148 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G04_POEM_IN_POEMS_BY_TOM_PAGE_02_OF_02_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "787",
+      "number_blocks_seen": "787",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-8-7", "what_it_shows": "Lined 3-hole sheet in pen, title 'Duty 410' with a small side note, verses with syllable counts, a crossed-out boxed section, last verse 'My star My sun My ocean'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet. Small misreads only (typed 'Cast night' = 'Last night'; syllable numbers on the first lines shifted by one line). The crossed-out boxed lines are typed as normal lines without saying they are crossed out.",
+      "name_verdict": "OK",
+      "name_note": "'Duty 410' is the written title. The tail 'northrait a' is a garbled reading of the small side note; cleaner name would be just 'Duty 410'.",
+      "other_problems": "Name has garbled tail 'northrait a'.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1875",
+      "number_blocks_seen": "1875",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-8-?-5 (blocks cut off at the top edge; third block mostly out of frame)", "what_it_shows": "Printed page 'ODE TO COREY (A FALLEN HERO)' with 'Tom Jensen' signed in blue pen top right."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-8-7-5", "what_it_shows": "Printed essay page 1: 'Tom Jensen January 27, 1999 Creative Writing A Hard Rain's Gonna Fall'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-8-7-5", "what_it_shows": "Printed essay page 2, ending 'Don't think twice, it's alright.'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Poem typed from photo 1 and the essay from photos 2-3; both are pictured. Typed words cut for the check but what is shown matches.",
+      "name_verdict": "OK",
+      "name_note": "Printed title on the sheet.",
+      "other_problems": "Photo 1 cuts the number blocks off at the top. These are printed (typed) pages, not handwriting, apart from the signature; the second piece is a prose essay, not a poem.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "24",
+      "number_blocks_seen": "023",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-2-3", "what_it_shows": "Loose-leaf sheet titled 'OLD eyes' with a face drawn in the O and eyes drawn on 'eyes', poem in pen."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "Title on the sheet is 'OLD eyes'.",
+      "other_problems": "Photo 1 blocks read 0-2-3 = item 23, not 24. The third block is a clear 3. Either this photo belongs to item 23 or the card number is wrong.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "140",
+      "number_blocks_seen": "140",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-4-0", "what_it_shows": "Lined sheet with bubble-letter title 'BETTER OFF DEAD' and the poem in pen."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "Title on the sheet.",
+      "other_problems": "Summary is wrong: it says a spiral 'LIST DOCUMENT, not a lyric' with lists of social/political problems and circled categories. The photo is a single poem on a lined sheet with a bubble-letter title.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "284",
+      "number_blocks_seen": "284",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-8-4", "what_it_shows": "Loose-leaf sheet, 'Not everyone's presence is a gift', with arrows in the left margin and 'to unite' margin note."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet, including the 'to unite' margin note.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says pencil; the writing looks like dark pen. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "400",
+      "number_blocks_seen": "400",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-0-0", "what_it_shows": "Torn strip of lined paper, 'They say that absence makes the heart grow fonder', two scribbled-out lines, margin letters on the left."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "First four lines and the margin letters match; the two scribbled-out lines are typed as [illegible].",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "433",
+      "number_blocks_seen": "433",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-3", "what_it_shows": "Spiral-torn lined sheet titled 'What was that?', 'Here I sit by the side of the ocean', blue pen with last lines in pencil."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match; small misreads only (typed 'did he know I'm swimming' where sheet reads 'does he know when I'm sinning').",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'They told me' is not on the sheet. Should be the written title 'What Was That?' (or first line 'Here I sit by the side of the ocean').",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "451",
+      "number_blocks_seen": "451",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-5-1", "what_it_shows": "Numbered-line ledger-style sheet, 'The poor living off the rich / Hey man fuck that shit', pen."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match; small misreads only ('ruch' = rich, 'going to fall' = going to hell, 'Queen bed' = Queen bee).",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'Walking and Talking' is not on the sheet. Should be the first line 'The Poor Living Off the Rich'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "708",
+      "number_blocks_seen": "708",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-0-8", "what_it_shows": "Back of a printed handout with handwritten poem 'She came to me late one night'; side notes written sideways in the margins ('Started drinking to drown my sorrows...', 'Rat on a rusty wheel', 'Stream / Shore')."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-0-8", "what_it_shows": "Printed side of the same handout: marketing simulation text and boxed 'Transforming Your Group into a Team', Houghton Mifflin copyright line."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Handwritten poem, margin notes and the printed handout text are all typed and all pictured.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "Name is the printed textbook box heading (Houghton Mifflin handout), not Tom's writing. Should be the poem's first line 'She came to me late one night'.",
+      "other_problems": "Typed words carry a long block of printed Houghton Mifflin textbook text (not Tom's words) on a POEM card.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1054",
+      "number_blocks_seen": "1054",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-5-4", "what_it_shows": "Mostly blank loose-leaf sheet with three lines: 'The power's in the mind and it works both ways / Find your way home in the darkness / Or be led astray'."}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words ('Through rain, sleet, or snow there's someplace I must find...') are on no photo here. The pictured sheet says 'The power's in the mind and it works both ways / Find your way home in the darkness / Or be led astray', which is not typed.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "Should be 'The power's in the mind' (first line of the pictured sheet).",
+      "other_problems": "Summary mentions handwritten poetry and four number squares; photo has only three short lines. Typed words may be from the back of this sheet or another item; not pictured.",
+      "sure": "SURE"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G02_SONG_HALF_OR_SHORTER_LYRICS_THAT_BECAME_A_SONG_PAGE_02_OF_02_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "342",
+      "number_blocks_seen": "342",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-4-2 (row) = 342", "what_it_shows": "Loose-leaf sheet, 16 lines in black ink: The law of the land has not been etched in stone ... dark and blemished scars."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed words are an excerpt only: first 2 lines and last 2 lines. The 12 middle lines (There are those who make their future... through the snow) are on the sheet but not typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "352",
+      "number_blocks_seen": "352",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-2 (row) = 352", "what_it_shows": "Loose-leaf sheet with an alphabet row at top, then about 20 lines: If my heart was empty then this paper would be blank ... sad and all alone."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed words are only 2 lines (If my heart was empty... / We all need an anchor...) out of about 20 on the sheet. The rest of the sheet is not typed.",
+      "name_verdict": "JUNK NAME",
+      "name_note": "Name is the alphabet row written across the top (same name as card 356). Should be the first line: If my heart was empty then this paper would be blank.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "356",
+      "number_blocks_seen": "356",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-6 (row) = 356", "what_it_shows": "Loose-leaf sheet with alphabet row at top, three verses: I've been lookin' for love in all the wrong places ... want to see what's real."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-6 (row) = 356", "what_it_shows": "Different lyric on lined paper, black and blue ink: I'm not on welfare so ya know I'm gettin' paid ... find a nice town (8 lines, maybe back of the sheet)."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 2 (I'm not on welfare so ya know I'm gettin' paid... 8 lines) is not typed at all. Photo 1 is typed only as a 5-line excerpt from verse 2.",
+      "name_verdict": "JUNK NAME",
+      "name_note": "Name is the alphabet row at the top (same name as card 352). Should be the first line: I've been lookin' for love in all the wrong places.",
+      "other_problems": "Summary says black ink only; photo 2 has blue ink lines too.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "361",
+      "number_blocks_seen": "361",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-6-1 (row) = 361", "what_it_shows": "Loose-leaf sheet titled HATE with 2 lines: In all my rhymes and all my verses / Sweet words of love have been changed to curses."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "379",
+      "number_blocks_seen": "379",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-9 (row) = 379", "what_it_shows": "Worn loose-leaf sheet, 4 lines: Unity... you and me together ... be discovered."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says the sheet is oriented sideways; in the photo it is upright.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "446",
+      "number_blocks_seen": "446",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-6 (row) = 446", "what_it_shows": "Spiral-torn notebook sheet in grey ink/pencil: is a lonely place / But its not worth waking up with ... I don't want to borrow..."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line on the sheet (the sheet opens mid-sentence, lower case).",
+      "other_problems": "Summary says RED INK throughout (new ink color) - reads like a file note, and the writing in the photo looks grey/pencil, not red.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "481",
+      "number_blocks_seen": "481",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-8-1 (row) = 481", "what_it_shows": "Three small lined note cards: Tonight's my ego's night out... / I'm ready to go... explore / Far away... Far away from this place."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed words start with the number blocks typed as lyrics ([Card 1] 1 [Card 2] 8 [Card 3] 4). 'might out' should be 'night out'; 'up and doors' should be 'unopened doors'; note 3 drops 'Nor do I mind a maze' and 'since'.",
+      "name_verdict": "OK",
+      "name_note": "From the hook but cut short; fuller: Tonight's My Ego's Night Out.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "877",
+      "number_blocks_seen": "877",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-7-7 (row) = 877", "what_it_shows": "Spiral-torn notebook sheet: scribbled-out word, then How long have you been sleeping? ... leave myself exposed."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First real line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "879",
+      "number_blocks_seen": "879",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-7-9 (row) = 879", "what_it_shows": "Spiral-torn white notebook sheet, blue and black ink: And so it seems to me ... All in the name of playing follow the leader; letters A A A A down the top right."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "JUNK NAME",
+      "name_note": "Name 'A' is one of the stray A letters in the top corner. Should be the first line: And so it seems to me (or the hook: Follow the Leader).",
+      "other_problems": "Summary says tan three-hole-punched paper with number squares to the left; photo shows white spiral-torn paper with the squares above it.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "982",
+      "number_blocks_seen": "982",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-8-2 (row) = 982", "what_it_shows": "Loose-leaf sheet, 4 lines: I lay on the ground and I feel death's cold eyes ... by no man's law I abide."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

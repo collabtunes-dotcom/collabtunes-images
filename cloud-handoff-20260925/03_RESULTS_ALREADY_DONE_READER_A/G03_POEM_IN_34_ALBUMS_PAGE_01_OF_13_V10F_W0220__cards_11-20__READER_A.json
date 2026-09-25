@@ -1,0 +1,151 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_01_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "40",
+      "number_blocks_seen": "040",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-0", "what_it_shows": "Torn, stained loose-leaf sheet: first draft 'I watch the smoke rising...' with King Kong bong lines and a column of rhymes (Dong, Fong, gong... wong)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-0", "what_it_shows": "Second torn sheet: cleaner version 'I watched the smoke rising up from the flames...' ending 'And its never done me wrong'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Parts 1 and 2 match photos 1 and 2. Part 3 ('I've given up on feeding my addiction... Or else face regrets on the day of your dying') is on neither photo.",
+      "name_verdict": "OK",
+      "name_note": "Exact phrase not written, but built from the hook 'called King Kong' / 'my bong'.",
+      "other_problems": "None seen beyond the extra typed section.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "41",
+      "number_blocks_seen": "041",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-1", "what_it_shows": "One hole-punched loose-leaf sheet, faint title PERHAPS, pencil/grey writing 'Oh, someone free me from this misery...' ending '-> perhaps'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed text follows the sheet; line 2 continuation 'it should be' is dropped, small.",
+      "name_verdict": "OK",
+      "name_note": "PERHAPS is the title written at the top.",
+      "other_problems": "Summary is wrong: says 'spiral notebook, two sheets, water/liquid stains on shot 133' - photo is ONE hole-punched loose-leaf sheet, and shot 133 is item 40's photo.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "42",
+      "number_blocks_seen": "042",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-2", "what_it_shows": "Pink sheet, handwritten ink 'All dark and depressing thoughts fade away...' ending 'Once I said good bye to you'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-2", "what_it_shows": "Other side of the pink sheet: printed Dodge Street Bar & Grill, Salem MA, August 2003 music schedule."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Handwritten lyric and the printed flyer back are both typed and match.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'PEP - HOPE' is not written anywhere on the sheet. From the sheet: 'All dark and depressing thoughts fade away' (first line).",
+      "other_problems": "Summary says 'loose leaf, pencil' - it is pink paper written in ink, with a printed Dodge Street August 2003 flyer on the back.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "47",
+      "number_blocks_seen": "047",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-7", "what_it_shows": "Loose-leaf sheet, alphabet across the top, 'Tick Tock back and forth moves the clock...' ending 'no freer than their dog on his leash'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed text matches the sheet (last line 'on his leash' typed 'on a leash', tiny).",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "Summary says alphabet is 'written down both margins' - it runs once across the top. Summary 'numbered 7 in cards' - blocks read 047.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "48",
+      "number_blocks_seen": "048",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-8", "what_it_shows": "Overlapping torn notebook sheets, blue ink: 'I Don't mind when most people say...', 'I've got something on my mind...', ending 'sometimes you're Roy'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed text follows all three blocks of writing, with [?] for hard spots.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'DOWNWARD SPIRAL' is not written on the sheet. From the sheet: 'I've got something on my mind' (hook) or first line 'I Don't mind when most people say'.",
+      "other_problems": "None.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "56",
+      "number_blocks_seen": "056",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-5-6 (the 5 is written like an S)", "what_it_shows": "Typed printout page 18 'RUMORS FROM HEAVEN' with handwritten verse on top, names Jerry/George added, and long handwritten margin and bottom verses (Bobby Dylan, Keith Richards, Elvis, Sinatra)."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed text follows the sheet up to the cut ('They all got the same room upstairs...'); rest cut for the check. 'And Lough the landlord' should read 'And though their landlord' - small misread.",
+      "name_verdict": "OK",
+      "name_note": "Printed title on the sheet.",
+      "other_problems": "Summary calls it 'loose leaf, dense handwriting, heavy crossouts' - it is a typed printout with handwritten additions. 'numbered 6 in cards' - blocks read 056.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "61",
+      "number_blocks_seen": "061",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-6-1", "what_it_shows": "Torn loose-leaf sheet, title 'Disciple of Dirt', 'What will break the spell?...' ending 'No desire to climb no risk to fall'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Small misreads only ('suit disciple' is crossed-out 'dirt disciple'; 'no wish to fall' is 'no risk to fall').",
+      "name_verdict": "OK",
+      "name_note": "Title written at the top.",
+      "other_problems": "Summary says 'red ink title decoration' - no red ink visible, all dark ink. 'numbered 8 in cards' - blocks read 061.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "67",
+      "number_blocks_seen": "067",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-6-7", "what_it_shows": "Full loose-leaf sheet 'When I was a boy daddy dressed me in white...' ending 'kept my face white'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-6-7", "what_it_shows": "Second loose-leaf sheet with 2 lines: 'For Sundays and picnics mom would wash my white clothes / And then I'd get them dirty wherever we'd go'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Both sheets are typed and match, but the page-2 section contains leftover reader notes ('[read/page 2 - shot 223] TITLE : [NONE] PAPER : loose sheet LINES : 2 TEXT :') and the 2 lines are typed twice.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "Summary is wrong: 'partial page - 3 lines visible, card 7.6.0 confirmed' - page 1 is a full sheet and blocks read 0-6-7. Reader junk text in typed words would show to a buyer.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "70",
+      "number_blocks_seen": "070",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-0", "what_it_shows": "Loose-leaf sheet, blue cursive, numbered lines 1-14 'A cop asked the witnesses did you see the driver of the car?...'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-0", "what_it_shows": "Second sheet, scribbled-out top lines, verses 15-20 and closing 'To the girl on the run... turning yourself in'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line 13 typed as 'two lives were [crossed out text] as soon as it begun' - sheet reads 'two lives were almost taken as soon as they begun' ('almost taken' missing).",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "None.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "75",
+      "number_blocks_seen": "075",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-5 (5 written like S); two cut-off blocks at the right edge, unreadable", "what_it_shows": "Both sheets together, angled shot: 'My Girlfriend's house' sheet behind, 'Come for a ride' sheet in front."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-5", "what_it_shows": "Sheet 1 'My Girlfriend's house -> Parents' home...' ending 'We'll keep singing our song til the music fades'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-5", "what_it_shows": "Sheet 2 'Come for a ride and I'll take you away...' ending 'I think its time for us to go (to the) parking lot'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Sheet 1 is typed twice (before and after the '---'). The first copy leaves out 'Because of these lies: / We make love outside' and the last two lines 'This is our little secret so we'll play our charades / We'll keep singing our song til the music fades'. Sheet 2 matches.",
+      "name_verdict": "OK",
+      "name_note": "Hook 'Because of these lies'.",
+      "other_problems": "Summary is wrong: 'numbered 8+6 in cards - continuation of card 8 sequence' - blocks read 075. Photo 1 shows two cut-off number blocks at the right edge (another piece's blocks in frame, unreadable).",
+      "sure": "FAIRLY SURE"
+    }
+  ]
+}

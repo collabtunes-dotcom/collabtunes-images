@@ -1,0 +1,156 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G01_SONG_FULL_LYRICS_PAGE_01_OF_03_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "152",
+      "number_blocks_seen": "152",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "152", "what_it_shows": "PRISON GUARD ANTHEM sheet, loose-leaf with torn spiral edge"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "152", "what_it_shows": "Escape From Alcatraz sheet, 3-hole punched loose-leaf"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Prison Guard Anthem and Escape From Alcatraz match the photos. After them the typed words add ON ANOTHER PLANE ('Sit on my steps stare at a plane in the sky...'), 'John's hitting the crack pipe...' and 'I lay on the ground and I feel death's cold eyes...' - none of these is on either photo.",
+      "name_verdict": "OK",
+      "name_note": "Both titles are written on the two pictured sheets.",
+      "other_problems": "Summary is an internal note a buyer would read: 'SUBSTRATE MISMATCH - two different paper stocks, two titles, same number. Flag for Tom.' Also the page's 'Where it lives' line says SONG LIST 5 TRACK 2 WORTH THE WAIT, which fits item 196, not this sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "153",
+      "number_blocks_seen": "153",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "153", "what_it_shows": "Yellowed spiral-notebook page, 'I wake up I can't see my face'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "168",
+      "number_blocks_seen": "168",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "168", "what_it_shows": "3-hole lined sheet, 'The coming of fall' with bubble-letter title"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The Coming of Fall matches the photo. The typed words then add three more pieces not on the photo: 'We know the search is never easy...', 'We've both seen the worst that can happen...' and 'Blank Page so I must fill it...'.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "181",
+      "number_blocks_seen": "181",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "181", "what_it_shows": "Lined sheet torn from spiral, blue ink, 'I used to be really rockin''"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed words skip the sheet's 6th line '[?] down the avenue I'm strolling' (after 'So now I'm back out lookin''). Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says the page has a hand-drawn box with two stick figures ('LOVE xxx ooo', 'family forever') and a bulleted idea list upper left - none of that is on the photo; the photo is lyrics only.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "185",
+      "number_blocks_seen": "185",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "185", "what_it_shows": "Loose-leaf sheet, 'Staring up at the courthouse' (different poem from the title)"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "185", "what_it_shows": "Turned copy: loose-leaf sheet, 'I don't remember the color of her eyes' - reads upright"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "185", "what_it_shows": "Clean copy titled 'One's loss, Another's gain'"},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "185", "what_it_shows": "Draft sheet: 'When the angels tried to follow', Pico Duarte, rhyme words"},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "185", "what_it_shows": "Spiral draft: 'East of San Juan / West of Santo Domingo'"},
+        {"pos": 6, "way_up": "UPRIGHT", "blocks_in_this_photo": "185", "what_it_shows": "Spiral draft: 'It's been said that when the waves begin crashing', 52 lines note"},
+        {"pos": 7, "way_up": "UPRIGHT", "blocks_in_this_photo": "185", "what_it_shows": "Spiral draft: 'The Dominican Republic / A young mother gave birth'"},
+        {"pos": 8, "way_up": "UPRIGHT", "blocks_in_this_photo": "185", "what_it_shows": "Draft marked C3: 'She was born in the Dominican Republic'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Typed: Staring up at the courthouse (photo 1, ok), 'Three thirty four...' (no photo), 'Second rate, Second best...' (no photo), I don't remember the color of her eyes (photo 2, ok), 'I change the world...' (no photo), then the One's loss clean copy (photo 3, ok). The five working drafts (photos 4-8) are not typed.",
+      "name_verdict": "OK",
+      "name_note": "Title of the clean copy in photo 3.",
+      "other_problems": "Summary says 6 sheets (1 clean + 5 drafts) but the card has 8 photos; photos 1 and 2 are two other poems on 185 blocks that the summary does not mention.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "186",
+      "number_blocks_seen": "186",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "186", "what_it_shows": "Page 1 of 'THE END OF THE ROAD', lined 3-hole sheet"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "186", "what_it_shows": "Page 2 of THE END OF THE ROAD; 'ADD MORE' in left margin, page 1 flipped over top left"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both pages match. The end of the typed words carries transcriber notes ('The paper also has the following text in the bottom left corner...', 'DD / ORE') - 'DD ORE' is 'ADD MORE' cut off in the left margin of photo 2, not bottom right.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Transcriber commentary lines are inside the typed words a buyer reads.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "196",
+      "number_blocks_seen": "196",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "196", "what_it_shows": "Lined sheet torn from spiral, cursive, 'They say that absence makes the heart grow fonder', no title"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Sheet reads 'I've learned from mistakes / That I've made in the past'; typed has 'That I've learned from mistakes' and drops 'That I've made in the past'. Rest matches.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'Tomorrow is the Day' is nowhere on the sheet. Sheet has no title; first line is 'They say that absence makes the heart grow fonder' (hook 'Honey, you were well worth the wait'; album song WORTH THE WAIT).",
+      "other_problems": "Summary says 'hand-drawn SUN ILLUSTRATION beside title' - the photo has no title and no sun drawing.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "204",
+      "number_blocks_seen": "204",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "204", "what_it_shows": "Both pages of 'Tonight's Moonlight' laid top and bottom in one shot"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "204", "what_it_shows": "Page 1 of Tonight's Moonlight, syllable counts in margin"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "204", "what_it_shows": "Page 2 of Tonight's Moonlight ('The sun could sleep for seven years')"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The two pages are typed twice (once from photo 1, again from photos 2-3). After them the typed words add a rhyme list ('fantasy divorcee disagree...') and a verse 'Caught up in the rat race of time...' that are on no photo.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary says '16 numbered stanzas' - the numbers are syllable counts; there are not 16 numbered stanzas.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "210",
+      "number_blocks_seen": "210",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "210", "what_it_shows": "Lined sheet torn from spiral, 'FIGHT FOR PEACE' outlined title"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet, crossed-out bits marked.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary says graphite pencil; the writing looks like dark ink (not certain).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "211",
+      "number_blocks_seen": "211",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "211", "what_it_shows": "Lined sheet torn from spiral, 'IT'S YOUR TURN' with circled stanza numbers"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet, stanza numbers and crossed-out lines marked.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

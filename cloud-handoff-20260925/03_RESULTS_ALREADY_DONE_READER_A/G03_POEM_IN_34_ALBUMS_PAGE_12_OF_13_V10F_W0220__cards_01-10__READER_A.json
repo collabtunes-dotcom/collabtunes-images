@@ -1,0 +1,149 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_12_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "449",
+      "number_blocks_seen": "449",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-9 in a row = 449", "what_it_shows": "Torn lined sheet, blue ink, 10 lines starting 'I've been busy burning bridges'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line (the word 'See' before 'everybody' is crossed out on the sheet - minor).",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'No Rhyme or Reason' is not written anywhere on the sheet. From the sheet it would be the first line: 'I've been busy burning bridges'.",
+      "other_problems": "Summary quotes a 'PROVENANCE NOTE' (acid trip / study guide) that is not visible in the photo.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "456",
+      "number_blocks_seen": "456",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-5-6 in a row = 456", "what_it_shows": "Spiral-torn lined sheet, black ink with purple edits, 'I broke up with your sister'"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line 6 on the sheet reads 'They sing themselves' (purple correction over a crossed-out word); typed says 'not singing themselves'. Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "464",
+      "number_blocks_seen": "464",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-6-4 in a row = 464", "what_it_shows": "Lined sheet, 8 lines with syllable counts (8) in margin, 'I got people dropping like flies'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet, including the 8 syllable counts and crossed-out words.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'TAXATION WITHOUT REPRESENTATION' is not on the sheet. From the sheet: 'I got people dropping like flies'.",
+      "other_problems": "Summary is just the word 'notebook'.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "465",
+      "number_blocks_seen": "465",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-6-5 in a row = 465", "what_it_shows": "Torn strip of lined paper, 3 lines: 'When you put it on the poster / the shorter the name / the bigger the print'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-6-5 in a row = 465", "what_it_shows": "Full lined sheet of numbered verses 1-7: 'Some may say you're a little crazy', 'YOU'RE Real Cold And Not Nice, too', 'I can only stand to be around you', 'Ah... Nah...', 'Poison Apple (P.34)', etc."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 1 is typed. Photo 2: only its 3 top note lines (Rest of the story / Real Cold / IGNORE) are typed; the numbered verses 1-7 on the rest of that sheet are missing.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'WORTH A SHOT' is not on either sheet. From photo 1: 'When you put it on the poster' (photo 2's main verse: 'YOU'RE Real Cold').",
+      "other_problems": "Summary is just the word 'notebook'. Card shows two different sheets under one number (both carry 465 blocks).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "499",
+      "number_blocks_seen": "499",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-9-9 in a row = 499", "what_it_shows": "Plain white sheet, black ink, 'I had a glass of wine and I felt fine'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says 'lined notebook paper'; the sheet looks plain unlined white paper (minor).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "517",
+      "number_blocks_seen": "517",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-1-7 in a row = 517", "what_it_shows": "Lined sheet titled 'AS FOR ME', black ink"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-1-7 in a row = 517", "what_it_shows": "Different lined sheet titled 'PIGEON LAND' in purple ink, 21 lines 'As I stumble down the street...'"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 1 (AS FOR ME) is typed and matches. Photo 2 (PIGEON LAND, 'As I stumble down the street... I suggest you shouldn't stay') is not typed at all.",
+      "name_verdict": "OK",
+      "name_note": "'AS FOR ME' is the title on photo 1; photo 2's sheet is titled 'PIGEON LAND' and is not named on the card.",
+      "other_problems": "Card shows two different titled sheets, both with 517 blocks. Summary says 'white paper plate with creases' - both photos are lined notebook paper.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "525",
+      "number_blocks_seen": "525",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-2-5 in a row = 525", "what_it_shows": "Lined sheet, 'The toilet paper song / Wipe with Left / Shake with Right'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The last part after '---' ('I am not here / I am someplace else / In a room full of people / I am all by myself') is not on the pictured sheet. Minor misread: sheet says 'Hell, shake with the right, too'.",
+      "name_verdict": "OK",
+      "name_note": "Title written at top of the sheet.",
+      "other_problems": "Summary says 'Four lines of handwritten text' - the sheet has about 17 lines.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "599",
+      "number_blocks_seen": "599",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-9-9 in a row = 599", "what_it_shows": "Lined sheet titled 'UNDEFEATED by Tom Jensen', 'I AIN'T GOT NO PLANS this minute...', 'Because father Time's undefeated'"}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words (insomnia verse: 'Every night I stayed awake / Trying to find a cure for insomnia...') are nowhere on this sheet. The sheet's words ('I AIN'T GOT NO PLANS this minute / So I'm seizing the moment...') are not typed.",
+      "name_verdict": "OK",
+      "name_note": "'UNDEFEATED' is the title on the sheet.",
+      "other_problems": "Summary says torn white paper in black ink - it is a lined notebook sheet (minor).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "623",
+      "number_blocks_seen": "623 (photos 1 and 2); photo 3 shows only one cut-off block reading 5",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-2-3 in a row = 623", "what_it_shows": "Spiral-torn lined sheet, 4 lines 'Everybody wants to know what you're sayin''"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-2-3 in a row = 623", "what_it_shows": "Same sheet as photo 1, second shot (printer in background)"},
+        {"pos": 3, "way_up": "SIDEWAYS", "blocks_in_this_photo": "one block at top-right edge, cut off, reads 5 - not 623", "what_it_shows": "A hand flipping loose lined sheets seen from the back; ruled lines run up and down; only faint show-through, no readable writing"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "The same 4 lines are typed twice (once with cross-out notes, once clean). Only one sheet is pictured. Words themselves match.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Photo 3 is not this piece: blank backs of sheets with a partial block '5' (another item's number). Photos 1 and 2 repeat the same sheet. Summary says 'hole-punched' - edge is spiral-torn (minor).",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "633",
+      "number_blocks_seen": "633",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-3-3 in a row = 633", "what_it_shows": "Lined sheet, 'Best place for a lie is between two truths', middle block boxed and crossed out with a big X"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Lines 4-5 garbled: sheet reads 'Listening to Joe Rogan / Wondering how long until he calls me / to be coming on his show so'; typed has 'I was to Joe Rogan / Listening how long...'. Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

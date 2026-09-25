@@ -1,0 +1,145 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_13_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "788",
+      "number_blocks_seen": "788",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-8-8 = 788", "what_it_shows": "Torn-spiral lined sheet, 8 handwritten lines 'I could live for you...' with 3 number blocks above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 8 lines match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says pencil; writing looks like pen. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "802",
+      "number_blocks_seen": "802",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-0-2 = 802", "what_it_shows": "Lined sheet of working notes: 'he will stand beside you... (long pause)', 'Day had turned to night', 'Remember there is someone watching from above'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Scattered notes all typed in rough order. Small misreads only (the crossed-out words by the circled 'Side you' look like 'he will with', typed as 'start with').",
+      "name_verdict": "OK",
+      "name_note": "Main first line on the sheet.",
+      "other_problems": "Summary says pencil; writing looks like pen. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "809",
+      "number_blocks_seen": "809",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-0-9 = 809", "what_it_shows": "Colonial Management Associates letterhead notepad sheet, big marker writing 'They say these are the best years of my life...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary is wrong: says 'lined white notebook paper, pencil'. Photo shows an unlined Colonial Management Associates (Boston) letterhead sheet written in thick black marker.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "828",
+      "number_blocks_seen": "828",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-2-8 = 828", "what_it_shows": "Small unlined white slip, 'After looking so long for what men seek... The truth I speak'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Faint writing from the back of the slip shows through the paper; the back side is not pictured or typed. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "834",
+      "number_blocks_seen": "834",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-3-4 = 834", "what_it_shows": "Torn half of a lined sheet, 8 lines 'I've looked up and down...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 8 lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "841",
+      "number_blocks_seen": "841",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-4-1 = 841", "what_it_shows": "Folded lined sheet titled 'LOSING SIGHT', 5 cursive lines"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Title and all lines match.",
+      "name_verdict": "OK",
+      "name_note": "Written title of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "843",
+      "number_blocks_seen": "843",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-4-3 = 843", "what_it_shows": "Torn-spiral lined sheet, 4 lines with cross-outs 'The old me would lose to the new me...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Lines match, cross-outs handled with [?].",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "860",
+      "number_blocks_seen": "860",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-6-0 = 860", "what_it_shows": "Three-hole-punched lined sheet, 2 lines at top 'Once you have everything in life...' and 'finger monkeys' at bottom"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All three lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "874",
+      "number_blocks_seen": "874",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-7-4 = 874", "what_it_shows": "Torn-spiral lined sheet, 3 lines 'Rinse, lather and repeat...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Lines match; one-letter misread: sheet says 'lather', typed 'lathe'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet, but the card title carries the same typo: sheet reads 'Rinse, lather and repeat', card says 'Rinse, lathe and repeat'.",
+      "other_problems": "Title typo 'lathe' for 'lather' is visible to buyers in the big name.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "875",
+      "number_blocks_seen": "875",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-7-5 = 875", "what_it_shows": "Torn-spiral lined sheet, 'morality / society' note top right, 6 lines 'I'm not living day to day...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match; 'anyone' is the replacement written under a crossed-out word, typed at the end.",
+      "name_verdict": "OK",
+      "name_note": "First line of the poem (the 'morality society' corner note is typed first, which is fine).",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

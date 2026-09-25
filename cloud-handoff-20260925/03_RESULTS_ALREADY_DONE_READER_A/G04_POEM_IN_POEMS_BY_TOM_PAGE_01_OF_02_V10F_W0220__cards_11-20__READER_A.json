@@ -1,0 +1,151 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G04_POEM_IN_POEMS_BY_TOM_PAGE_01_OF_02_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "392",
+      "number_blocks_seen": "392",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-9-2 = 392", "what_it_shows": "Single sheet, 'I don't have a drinking problem' poem, full text visible"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Lines 5-6 wrong: sheet says 'I live with it in my blood / I put it in my veins / I pour it in a cup'; typed has 'I live with it in my veins / I put it in my cup / I pour it in a cup' (the 'blood' line is lost). Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "First line / hook of the sheet.",
+      "other_problems": "None seen.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "394",
+      "number_blocks_seen": "394",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-9-4 = 394", "what_it_shows": "Torn-edge lined notebook sheet, 'I only free my mind when it's closing time' poem"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches. Only nit: crossed-out lines 'pass as a saint' and 'When I have to go to court' are typed as live text, run together with the margin note 'If the world was a court'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "None seen.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "407",
+      "number_blocks_seen": "407",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-0-7 = 407", "what_it_shows": "Lined sheet with three quatrains, 'Burning the candle at both ends'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First three stanzas match the photo. Everything after the '---' ('Everything that was once important...', 'I once heard a wise man say...', 'This good life I lead...', 'The high path road...') is on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the pictured sheet.",
+      "other_problems": "Second typed poem has no photo - either a photo is missing or the words belong to another number.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "410",
+      "number_blocks_seen": "410",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-0 = 410", "what_it_shows": "Yellow folder/paper, 8 lines 'Whatever you do / You better make sure it counts...'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-0 = 410", "what_it_shows": "Yellow folder/paper, boxed title 'Not suitable for children' with poem 'A life based on the movies...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sections match the two photos.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'RHYME OR REASON' is written nowhere on either photo. Should be 'Not suitable for children' (boxed title on photo 2) or 'Whatever you do' (first line of photo 1).",
+      "other_problems": "None besides the name.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "411",
+      "number_blocks_seen": "411",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-1 = 411", "what_it_shows": "Overview: all three torn sheets together (Trivial Pursuit top sheet, 'witty pity' sheet, 'kid my age' sheet)"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-1 = 411", "what_it_shows": "Turned copy: 'Trivial Pursuit' titled sheet, two bracketed verses. Reads the right way up."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-1 = 411", "what_it_shows": "'Shitty/witty pity' sheet: old vet, young girl, drunk, homeless man verses"},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-1 = 411", "what_it_shows": "Turned copy: 'A kid my age stopped and asked me' sheet. Reads the right way up."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Same poem, but several misread lines: 'I heard a man any the gin mill he closed' (sheet: say the gin mill's closed), 'couldn't play game' (video games), 'young thing' (young thug), 'sitting like a ghost' (feeling like a ghost), 'no money in the hitty sense' (city since they closed the VFW). Bracket labels [Leftmost small piece]/[Middle top piece]/[Bottom piece] do not match the layout. Typed text is cut for the check, so the drunk/homeless verse on photo 3 could not be confirmed.",
+      "name_verdict": "OK",
+      "name_note": "'Trivial Pursuit' is the title written on the top sheet.",
+      "other_problems": "Typed words carry editor notes like '[? illegible]' and piece labels a buyer will see.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "439",
+      "number_blocks_seen": "439",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-9 = 439", "what_it_shows": "Two small spiral-pad sheets in red ink, 'There's no such thing as wasted time' and 'your back ground... equality waits'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both small sheets are typed and match.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says 'three small square paper slips and one piece of lined notebook paper' - the three squares are the number blocks; the poem is on two small spiral-pad sheets.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "443",
+      "number_blocks_seen": "443",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-3 = 443", "what_it_shows": "Spiral-torn lined sheet in blue ink, titled 'Walking and Talking'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "'Walking and Talking' part matches the photo (with an extra garbled first line 'You know that I write through'). The whole 'FRAMINGHAM BLUES' section after the '---' is on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "Title written at top of the sheet.",
+      "other_problems": "Framingham Blues words have no photo here - photo missing or words belong to another number.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "516",
+      "number_blocks_seen": "516",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-1-6 = 516", "what_it_shows": "Lined sheet with a single line 'Face yourself before you face the sea', rest blank"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-1-6 = 516", "what_it_shows": "Lined sheet: alphabet line, then song 'He loved her like I loved you' with chorus marks"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line 'If you'll be my lover then I'll be fine' (photo 2) is missing from the typed words; 'it must be night' should be 'it must be right'. Rest matches both photos.",
+      "name_verdict": "OK",
+      "name_note": "It is the one line on photo 1. The main poem (photo 2) is untitled; its first line is 'He loved her like I loved you'.",
+      "other_problems": "None seen.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "532",
+      "number_blocks_seen": "532",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-3-2 = 532", "what_it_shows": "Legal-pad sheet: 'I trust bust... / A vote against me... / Hey... I got tired of waiting for a leader'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-3-2 = 532", "what_it_shows": "White sheet: 'If I was weather I'd be rain...' list poem"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed and match.",
+      "name_verdict": "OK",
+      "name_note": "First line of photo 1 sheet.",
+      "other_problems": "Summary says blue ink on one white lined sheet; photo 1 is dark ink on a legal pad, photo 2 is a separate sheet. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "542",
+      "number_blocks_seen": "542",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-4-2 = 542", "what_it_shows": "Lined sheet marked 'C2', 'Looks like tonight I won't be sleeping'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "None seen.",
+      "sure": "SURE"
+    }
+  ]
+}

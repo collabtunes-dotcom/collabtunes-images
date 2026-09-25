@@ -1,0 +1,148 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_04_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "366",
+      "number_blocks_seen": "366",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "366", "what_it_shows": "Aged tan torn sheet, top piece torn off: 'She's like a girl I'd s...' down to 'Only if it wasn't such a bore'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "366", "what_it_shows": "Other side/second aged torn sheet: 'Pretty houses with fences so high' down to 'That my life is a who knows what?'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Both sheets typed. Second part opening lines are out of order: sheet reads 'Pretty houses with fences so high / Will it all be worth it when you die? / Another traffic jam at... / Another pistol full of lead' but typed splits them into '[?] with fences so high' ... then 'Pretty houses' later. 'Can you make it?' typed as 'Can you ... hate it?'. 'bore' typed as 'bare'.",
+      "name_verdict": "OK",
+      "name_note": "Garbled first line from the torn top ('She's like a girl I'd s...'). Readable but odd; 'She's Like a Shot in the Dark' (line 5) would read cleaner.",
+      "other_problems": "Summary is wrong: says 'black ink arranged in a spiral on a white paper plate' but both photos show torn aged tan paper sheets, no plate, no spiral.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "371",
+      "number_blocks_seen": "371",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "371", "what_it_shows": "Paper towel/napkin with 'VERY EARLY POEM' in red, above a lined sheet 'My friends ask me just what it is that I'd like to do best...'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "371", "what_it_shows": "Same lined sheet alone, 'My friends ask me...' to 'in the hot Floridian sun'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Poem matches the sheet. It is typed twice (same poem repeated after '---') because both photos show the same one sheet.",
+      "name_verdict": "OK",
+      "name_note": "'VERY EARLY POEM' is the red label on the napkin in photo 1, not a title on the sheet. First line 'My Friends Ask Me' would be more descriptive.",
+      "other_problems": "Summary is wrong: says 'PRINTED THE WHO RECORDING CHRONOLOGY from geocities fan site dated 10/15/98' but photos show a handwritten poem and a napkin label, nothing printed about The Who.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "374",
+      "number_blocks_seen": "374",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "374", "what_it_shows": "Lined sheet, four verses 'It's time for me to swallow my medication' ... 'In between oilspills violence is their meditation'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "374", "what_it_shows": "Second lined sheet, 6 lines 'Wanna rape mother nature...' ending 'In between life and death violence is their meditation'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed and match.",
+      "name_verdict": "OK",
+      "name_note": "Hook line 'violence is their meditation'.",
+      "other_problems": "Summary is wrong: says 'page 2 = AMERICAN REVOLUTION HISTORY NOTES (Boston Tea Party, Salem as capital)' but photo 2 is the poem's last verse. Typed words also carry reader file notes a buyer would see: '[read/page 2 - shot 979] TITLE : [NONE] PAPER : loose sheet LINES : 6 TEXT :'.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "381",
+      "number_blocks_seen": "381",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "381", "what_it_shows": "Lined sheet with torn spiral edge, '21' top right, 10 lines 'This woman I'd been dating for nearly a year' ... 'just kickin' my can'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 10 lines match. Typed words end with a note-style 'MARGIN: 21' (the page number in the corner).",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "Minor: 'MARGIN:' label in typed words is a reader format leftover.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "383",
+      "number_blocks_seen": "383",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "383", "what_it_shows": "Lined spiral sheet titled 'American Dream', 'I am trying to unlearn...' to 'in the winter'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "'American Dream' part matches the photo. Everything after '---' ('(Wading in the water) (Two of a kind) (Two pair) Me & Frankie (1) We've been best friends for years...') is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "Title written at top: 'American Dream'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "386",
+      "number_blocks_seen": "386",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "386", "what_it_shows": "Lined sheet titled 'My personality', 'I am me so you can love it or leave it' ... 'Could you ever conceive it?'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches the sheet.",
+      "name_verdict": "OK",
+      "name_note": "Title written at top: 'My personality'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "388",
+      "number_blocks_seen": "388",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "388", "what_it_shows": "Torn lined sheet with small doodles (circle, triangle, square, star), 'The sun comes up / My head goes down' ... 'Got bagged for possession'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part matches the photo. Everything after '---' ('It's now 1:10 and I let it happen again ... To anyone who agrees') is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "390",
+      "number_blocks_seen": "390",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "390", "what_it_shows": "Lined sheet 'Watching... Waiting... Staring out the window...' to 'From upon a tree's limb'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches; only the small interlined 'stairway by the' in line 3 is left out.",
+      "name_verdict": "OK",
+      "name_note": "First word/hook 'Watching...'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "391",
+      "number_blocks_seen": "391",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "391", "what_it_shows": "Lined sheet 'They locked him in the closet and then they lost the key' ... 'Just one sip and his head exploded'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Rehab part matches. After '---' ('Money lines the pocket / But does not fill the heart ... Daddy's a doctor but he's not home') is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "Hook 'Rehab'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "393",
+      "number_blocks_seen": "393",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "393", "what_it_shows": "Lined spiral sheet with drawn title 'CLIFF HANGER' and mountain/cliff drawing, 'Alone again' ... 'And then fell off a cliff'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "'Alone again ... fell off a cliff' matches. Everything after the first '---' ('MY OWN LITTLE WORLD...', 'Tom's Theme Song', 'I am the captain of my mind', 'ALPHABET', 'It is early, although it's late...') is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "Drawn title 'CLIFF HANGER'.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

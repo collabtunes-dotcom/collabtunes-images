@@ -1,0 +1,133 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G04_POEM_IN_POEMS_BY_TOM_PAGE_02_OF_02_V10F_W0220__cards_11-19__READER_A.json",
+  "cards": [
+    {
+      "item_number": "53",
+      "number_blocks_seen": "053",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-5-3 (053)", "what_it_shows": "Torn-edge lined sheet titled TOM'S THEME SONG with four written lines"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All four lines match the sheet (typed has a stray comma: 'I, aimed').",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet: TOM'S THEME SONG.",
+      "other_problems": "Summary says 'numbered 3 in cards' but the blocks read 053.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "334",
+      "number_blocks_seen": "334",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-3-4 (334)", "what_it_shows": "Full yellow legal sheet, about 28 lines starting 'Goodbye my loving wife'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-3-4 (334)", "what_it_shows": "Second yellow legal sheet (turned copy), 10 lines starting 'When a stranger breaks into your home'"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are only a 6-line excerpt. Photo 1: only first 3 of ~28 lines typed (missing 'Found out just exactly what I did' through 'And when it is threatened you do what it takes'). Photo 2: only first line and last 2 lines typed (missing 'There's no chance he'll ever walk home' through 'But when all your hiding places are gone').",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet 1: Goodbye my loving wife.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "353",
+      "number_blocks_seen": "353",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-3 (353)", "what_it_shows": "Lined sheet with block-letter title TRAIN, a drawn spiral binding down the left edge, and a six-verse poem"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only the last 2 lines are typed. The first five verses ('The conductor blows the whistle' through 'And sitting with someone else', plus 'In all of this confusion / You know I really lost my mind') are missing.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet: TRAIN.",
+      "other_problems": "Summary says drawings at top left and bottom edge; the drawing is a spiral binding running down the whole left edge (minor).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "367",
+      "number_blocks_seen": "367",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-6-7 (367)", "what_it_shows": "Lined sheet with a large ink drawing (moon, cratered planet, figure) and two written lines at the bottom"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed lines match the handwriting.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "No title on sheet. Name should come from the first line: 'I can never get to sleep'.",
+      "other_problems": "Summary says red ink; the writing and drawing are black ink. Summary does not mention the large drawing that fills most of the sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "716",
+      "number_blocks_seen": "716",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-1-6 (716)", "what_it_shows": "Torn half of a lined loose-leaf sheet with three written lines"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches: Just a second / could change your / life.",
+      "name_verdict": "OK",
+      "name_note": "First line: Just a second.",
+      "other_problems": "Summary says the sheet features the number squares; the squares are separate cards above the sheet (minor).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "798",
+      "number_blocks_seen": "798",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-9-8 (798)", "what_it_shows": "Lined loose-leaf sheet, torn right edge, poem starting 'I'm writing my last will and testament' plus 'I wrote a letter to myself / But it was meant for someone else'"}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words 'How many people know themselves that [crossed out] well' are not on this sheet. Sheet reads: I'm writing my last will and testament / For I've found myself trapped in a battle again / I have suffered defeat and tasted victory / ... / Certainly my family has always been the world to me / I wrote a letter to myself / But it was meant for someone else.",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet: I'm writing my last will and testament.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "884",
+      "number_blocks_seen": "884",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-8-4 (884)", "what_it_shows": "Front of lined sheet with two written lines 'Did God create us or did we create him'; green drawing faintly shows through"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-8-4 (884)", "what_it_shows": "Back of same sheet: arithmetic notes (145 pt.1, 115 pt.2, 60 into 260, 4 hrs. 20 min.) and a green marker drawing"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both lines and the back-side notes are typed and match.",
+      "name_verdict": "OK",
+      "name_note": "First line: Did God create us or did we create him.",
+      "other_problems": "Summary does not mention the green drawing on the back (minor).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1066",
+      "number_blocks_seen": "1066",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-6-6 (1066)", "what_it_shows": "Plain white sheet with four faint pencil lines at the top"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All four lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line: I guess it took me awhile.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1067",
+      "number_blocks_seen": "1067",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-6-7 (1067)", "what_it_shows": "Lined sheet with torn left edge and folded bottom-right corner, five written lines"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All five lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line: Turn the page.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

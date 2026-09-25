@@ -1,0 +1,148 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_07_OF_13_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "50",
+      "number_blocks_seen": "050",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-5-0 (the 5 is drawn like an S) = 050", "what_it_shows": "Torn spiral notebook sheet, 'So you never believed that candle would burn again', three stanzas"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are only a 6-line excerpt of photo 1. About 18 lines are missing: lines 4-10 of verse 1 ('Never again to feel the warmth of the sun' ... 'Your sad, sad song'), most of verse 2, and the whole last stanza ('Appreciation is in depreciation ... ill will is learning how to kill').",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says 'numbered 0 (=10?) in cards' - the blocks read 050, so the summary is wrong.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "78",
+      "number_blocks_seen": "078",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-8 = 078", "what_it_shows": "White sheet, dark green ink, 'Empty limes are being filled / Sadam Husseins oil is being spilled'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "94",
+      "number_blocks_seen": "094",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-9-4 = 094", "what_it_shows": "Loose-leaf sheet, 'Nails 394' and 'IGGYS ANTHEM 400/401' boxed at top, 'Rain... it makes the flowers grow' / 'Pain...' lines with syllable counts in margin"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The Rain/Pain part matches photo 1 (a few Pain lines are jumbled). The last part after '---' ('Because I'm feeling old, sad and alone / Today is my day and I'm sitting here at home / No body knocking on the door / There's no one calling on the phone') is not on this photo.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'SEEING STARS' is not written on the sheet. Should be 'Rain... it makes the flowers grow' (first line); the sheet's boxed headings are 'Nails 394' and 'IGGYS ANTHEM 400/401'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "96",
+      "number_blocks_seen": "096",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-9-6 = 096", "what_it_shows": "Small torn spiral-notebook scrap: 'Michael HAWK might look a little strange to you / Because his head is purple, his belly is white and sometimes his feet are blue'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first 5 lines (Michael Hawk) are on the photo. Everything after the first '---' ('I could live for you...', 'Listen closely... plot twist', 'Another candle Another year', 'new method to my madness', and 'FROM A DISTANCE') is on no photo here.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'FALLEN CLOUDS' is not on the scrap. Should be 'Michael Hawk might look a little strange to you'.",
+      "other_problems": "Summary says 'loose leaf, two sheets (273 = continuation)' - the photo shows one small torn notebook scrap.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "97",
+      "number_blocks_seen": "097",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-9-7 = 097", "what_it_shows": "Small torn spiral-notebook scrap, black ink: 'Pandora's box / The face of a clock ... 4/5/11 ... Surreal and sublime'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The first section (Pandora's box ... Surreal and sublime) matches the photo. Everything after '---' (the cut-off 'She said...' lines, verse 4 'Given time all things must pass', verse 5 'She woke up this morning', verse 7) is on no photo here.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'PIGEON LAND' is not on the scrap. Should be 'Pandora's box' (first line).",
+      "other_problems": "Summary says 'loose leaf, purple ink' - photo shows a small torn spiral scrap in black ink.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "115",
+      "number_blocks_seen": "115",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-1-5 (the 5 is drawn like an S) = 115", "what_it_shows": "Torn spiral notebook sheet, blue ink, 'It's all bottled up / all this love, all this pain' ending 'If you've never needed or never given'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First section matches photo 1 (sheet says 'Got to fight on', typed 'I want to fight on'). The later parts ('Welcome to my new life', 'No Rhyme or Reason', 'Oh clarialia') are on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary mentions two sheets, verse numbers and named characters (Don Jones, Jerry, Vermes/Valencia) - none of that is on the one sheet pictured.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "116",
+      "number_blocks_seen": "116",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-1-6 = 116", "what_it_shows": "Torn spiral notebook sheet, black print, 'Worship me for who I am / Not for who I'm not' ending 'Hitch hiker to which you lend your seat'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part matches the photo. The part after '---' ('I never show my weakness ... Swim within my mind / DALBACH 620 624') is not on this sheet - it is the paper plate pictured on item 117 (photo 397, blocks 117).",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Typed words carry the second paper plate's words that belong to item 117.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "117",
+      "number_blocks_seen": "117",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-1-7 = 117", "what_it_shows": "Two paper plates stacked: top 'I woke up my mind was racing ... Let Me Live The Dream'; bottom 'I never show my weakness ... DALBACH 620' (writing curves round the plates but reads the right way up)"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-1-7 = 117", "what_it_shows": "Close-up of the top paper plate, 'I woke up my mind was racing ... Let Me Live The Dream'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both plates are typed; the top plate's words are typed a second time after '---'.",
+      "name_verdict": "OK",
+      "name_note": "From the plate, but the plate reads 'Let Me Live The Dream' - the card's 'Let Me Live / Let The Dream' is slightly garbled.",
+      "other_problems": "Summary says 'white lined notebook paper' - the photos show two paper plates.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "127",
+      "number_blocks_seen": "127",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-2-7 = 127", "what_it_shows": "Torn spiral notebook sheet titled 'secret room', rhyme words in the left margin, empty bracketed box below"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet, including the margin rhyme words.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'DOWNWARD SPIRAL' is not on the sheet. Its written title is 'Secret Room'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "214",
+      "number_blocks_seen": "214",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-1-4 = 214 (edge of another block cut off at far right, unreadable)", "what_it_shows": "Two notebook sheets laid end to end: 'One single ray of light broke through the clouds' above, 'I've been looking for motivation' below"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-1-4 = 214", "what_it_shows": "Close-up of the first sheet, 'One single ray of light broke through the clouds'"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-1-4 = 214", "what_it_shows": "Turned copy: close-up of the second sheet, 'I've been looking for motivation ... No more moving around' - now reads the right way up"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words cover both sheets (cut at 1800 chars for the check).",
+      "name_verdict": "OK",
+      "name_note": "First line of the first sheet.",
+      "other_problems": "Summary says 'loose sheet' - it is two sheets.",
+      "sure": "SURE"
+    }
+  ]
+}

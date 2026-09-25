@@ -1,0 +1,150 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G01_SONG_FULL_LYRICS_PAGE_01_OF_03_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "3",
+      "number_blocks_seen": "003",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "003", "what_it_shows": "Loose-leaf 'First draft' of Summer's the time, heavy circled crossouts and syllable counts. The turned copy is upright."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first-draft sheet is pictured. The typed clean version ('SUMMER'S THE TIME' second block) and the third block 'Waiting... Searching... For the love of my life' (a different song about pages turning / ex-wife) are on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "Sheet has 'summer's the time' written top right.",
+      "other_problems": "Summary says two sheets (shot 13 draft + shot 14 clean version) but only shot 13 is on the card. The 'Waiting... Searching' text looks like another song entirely.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "10",
+      "number_blocks_seen": "010",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "010", "what_it_shows": "Loose-leaf sheet, 'Battling to defeat the day', a few scribbled-out lines."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "22",
+      "number_blocks_seen": "022",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "022", "what_it_shows": "Hole-punched loose-leaf sheet titled 'Leaving your roots', light revisions, 'Sometimes' in left margin."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet; 'sometimes' is the margin note.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary says spiral notebook and heavy revisions; photo shows hole-punched loose leaf with only light revisions.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "27",
+      "number_blocks_seen": "026",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "026", "what_it_shows": "Hole-punched loose-leaf sheet, 'When the snowflakes cover the ground', clean copy."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Photo 1 blocks clearly read 0-2-6 = item 26, not 27. This photo belongs to number 26. (Next card 28 shows blocks 027 - looks like an off-by-one shift.)",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "28",
+      "number_blocks_seen": "027",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "027", "what_it_shows": "Both sheets of 'IN THE POURING RAIN' laid together (decorated title sheet on top, second sheet below)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "027", "what_it_shows": "Sheet 1: decorated title 'IN THE POURING RAIN', 'Look into my heart / Look inside your soul...'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "027", "what_it_shows": "Sheet 2: 'With the angel inside you ... In the pouring rain'."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are only 6 lines ('I could live for you ... In the pouring rain'). Nearly all of sheet 1 (photo 2) and most of sheet 2 (photo 3: 'With the angel inside you', 'Since I met you') are not typed.",
+      "name_verdict": "OK",
+      "name_note": "Decorated title on sheet 1.",
+      "other_problems": "All three photos show blocks 0-2-7 = item 27, not 28. These photos belong to number 27. Summary says spiral notebook; sheets look like loose leaf.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "31",
+      "number_blocks_seen": "031",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "031", "what_it_shows": "Loose-leaf sheet 1, 'When I'm with you I never want to say good bye'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "031", "what_it_shows": "Sheet 2, 'I offer my bed as I offer my hand ... this will just be a song'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed, line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "33",
+      "number_blocks_seen": "033",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "033", "what_it_shows": "Loose-leaf sheet titled 'Blessing In Disguise', verse 1 bracketed; bracket 2 is empty."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "033", "what_it_shows": "Second sheet, boxed couplets, rhyme list down left margin, 'Blessing in disguise' at bottom."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed, including the margin rhyme list.",
+      "name_verdict": "OK",
+      "name_note": "Title written on sheet 1.",
+      "other_problems": "Summary says spiral notebook with house illustration in the title; photos show hole-punched loose leaf with a plain title and no house drawing.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "37",
+      "number_blocks_seen": "037",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "037", "what_it_shows": "Spiral-torn sheet, 14 lines 'Just when I (had) thought that the tide had turned ... less is really more'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First block matches the photo. The rest ('If I could turn back this clock', 'I guess we call it writer's block', 'could capture this emotion', 'Such a crying shame...') is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary contradicts photo: says loose leaf, blue ink, heavy crossouts, AA/BB/CC grid, numbered 6; photo shows spiral-torn sheet, dark ink, light crossouts, no grid, blocks 037.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "65",
+      "number_blocks_seen": "065",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "065", "what_it_shows": "Hole-punched loose-leaf sheet, vowel/consonant alphabet at top, 'I've done something I've told myself I'd never, ever do'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet (small misreads only, e.g. 'town me around' for 'leaving town / you spun me around').",
+      "name_verdict": "OK",
+      "name_note": "First line of the lyric.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "69",
+      "number_blocks_seen": "069",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "069", "what_it_shows": "Loose-leaf sheet with decorated title 'CALL IT FATE', three verses (birds circle / cancer / hospital baby boy)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "069", "what_it_shows": "Second sheet in blue ink, alphabet at top, 'Your heart breaks with every tender touch ... after the rain soon comes the sun'."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 2 is typed in full. Photo 1 is only partly typed as a squashed summary: missing 'One more time won't they leave you alone', 'Just when you thought there was noone to see', 'But unfortunately for you its too late', 'Enter the hospital a dying life / Exit the church a crying wife', the 'You can call it fate' refrains, and the whole third verse ('In the next room of the hospital lies a mother's joy ... why he grew to kill').",
+      "name_verdict": "OK",
+      "name_note": "Decorated title on photo 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

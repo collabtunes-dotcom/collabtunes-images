@@ -1,0 +1,66 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_13_OF_13_V10F_W0220__cards_21-23__READER_A.json",
+  "cards": [
+    {
+      "item_number": "1627",
+      "number_blocks_seen": "1627 (photo 1, in a row); photo 3 shows only the edge of one '1' block",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1627", "what_it_shows": "Stack of printed pages with a gold paperclip. Top page: printed song list plus KEY TO BE FREE Song 62; 'Closure aftermath' added by hand."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Inner printed pages: Diddy mocumentary parody verses and GROOVE BACK II Song 55."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "edge of a '1' block only", "what_it_shows": "Inner printed pages: SONG NUMBER 5 MY FAN FICTION (handwritten fix 'Fucking single depressing day') and SONG NUMBER 7 WALLFLOWER POOP."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words cover only the top page (song list + Key To Be Free). Photos 2 and 3 show more pages that are not typed: Diddy mocumentary parody, GROOVE BACK II Song 55, MY FAN FICTION Song 5, WALLFLOWER POOP Song 7. List misreads too: typed 'Why You Poutin' where the sheet has 'My Fan Fiction'; 'Wildflower Painp' should be 'Wallflower Poop'; 'Tears Song' and 'Me and That Cracker' look doubtful (print too small to confirm).",
+      "name_verdict": "OK",
+      "name_note": "Printed heading at the top of the song list (print is tiny; reads like 'ALBUM THIRTY ... 32').",
+      "other_problems": "Mostly printed (typed) pages, not handwriting - only 'Closure aftermath' and one line correction are in hand. A buyer should be told it is a printed album draft with hand notes.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1629",
+      "number_blocks_seen": "1629 (photos 1, 2, 3); 1630 (photos 16, 17); partial blocks only in photos 5 ('2'), 9 ('9'), 15 (cut off)",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "SIDEWAYS", "blocks_in_this_photo": "1629 (stacked down the right side because the photo is turned)", "what_it_shows": "The DOORS-style strip 'I know your secret...' plus WHY I LIKE SEX and THE PRIEST BY THE SEA strips, with blocks 1-6-2-9. Website shows it sideways; no turned copy given."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1629", "what_it_shows": "Wide view: DOORS strip column (with 287, WHORE MRS ROBINSON, 220, 241, MISSING A TOOTH) and a second column (WHY I LIKE SEX, PRIEST BY THE SEA, 199, 204, SHE SAID YOU CAN, SONAR)."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "1629 (small, at top)", "what_it_shows": "Long taped column of printed lyric strips under the 1629 blocks, ending with BUM BUM SONG and (318)."},
+        {"pos": 4, "way_up": "SIDEWAYS", "blocks_in_this_photo": "NONE", "what_it_shows": "Turned copy is still sideways. GRINDR DIARIES, WELL LET S START, RISK GENES, 205, (292), (357), (193) strips."},
+        {"pos": 5, "way_up": "SIDEWAYS", "blocks_in_this_photo": "partial '2' block at corner", "what_it_shows": "Turned copy is still sideways. WELL LET S START, 205 'combine with 5', CHICK FILLET, SLINGING LINES, (240), I STUFFED MY STIFF strips."},
+        {"pos": 6, "way_up": "SIDEWAYS", "blocks_in_this_photo": "NONE", "what_it_shows": "Turned copy is still sideways. I VE BEEN SLAPPIN (23) and SONG NUMBER 10 READING I BLOW strips."},
+        {"pos": 7, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Two columns of strips: (240), I STUFFED MY STIFF, SHE S GOT THE, (236)/(237), (228), READING I BLOW; and (220), (241), MISSING A TOOTH, MYSTERY LYRICS, 361, BUM BUM SONG, (318)."},
+        {"pos": 8, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "SONAR (519), (290), 231, I FOUND ALEX JONES, (244), MELANIE MCCARTHY strips."},
+        {"pos": 9, "way_up": "SIDEWAYS", "blocks_in_this_photo": "partial '9' block at corner", "what_it_shows": "Turned copy is still sideways. BI ALBUM WHO S YOUR FAVORITE BAND, SONG 68 SECRETLY STRAIGHT, IN THIS ORGY IN, FOUR PILLS A DAY, SONG NUMBER 4 THINKING GETS RISKY."},
+        {"pos": 10, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up: I STUFFED MY STIFF, SHE S GOT THE, (236) with handwritten notes."},
+        {"pos": 11, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the DOORS strip lower verses, handwritten 'I love her jugs the way they jiggle!', and (287)."},
+        {"pos": 12, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up: end of RISK GENES verses and 205 'Who am I?' with red 'combine with 5'."},
+        {"pos": 13, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up: (292) end, (357) with red '15 Add more', (193, six of eight)."},
+        {"pos": 14, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up: (199) end, (204) 'add 199', SHE SAID YOU CAN '12 Add more!', start of SONAR."},
+        {"pos": 15, "way_up": "UPRIGHT", "blocks_in_this_photo": "blocks cut off at top edge, unreadable", "what_it_shows": "The backs of the taped strip column (blank, show-through only)."},
+        {"pos": 16, "way_up": "SIDEWAYS", "blocks_in_this_photo": "1630", "what_it_shows": "Turned copy is still sideways. A different layout under blocks 1-6-3-0: PAY PEANUTS, DANCE CLUB WHORE, WHORE BATH, TEARS LIKE NIAGRA, SONG 61 IT WILL GROW BACK, WHEN I COME IN."},
+        {"pos": 17, "way_up": "UPRIGHT", "blocks_in_this_photo": "1630", "what_it_shows": "Blocks 1-6-3-0 over (246), 134, DIRTY WHORE STORE, TOO YOUNG TO FUCK, PAY PEANUTS, DANCE CLUB WHORE, WHORE BATH strips."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are only the DOORS verse, WHY I LIKE SEX, THE PRIEST BY THE SEA and '14 molested song?' (these match photos 1-2). Not typed: the rest of the DOORS strip ('I love the way she giggles...', handwritten 'I love her jugs the way they jiggle!', photos 2/11) and dozens of other strips in photos 2-14 (287, WHORE MRS ROBINSON, MISSING A TOOTH, BUM BUM SONG, GRINDR DIARIES, RISK GENES, SONAR, ALEX JONES, MELANIE MCCARTHY, BI ALBUM, etc.). '[?] Catholic priest' on the sheet reads 'Of being a Catholic priest.'",
+      "name_verdict": "OK",
+      "name_note": "'I know your secret...' is the first lyric line of the DOORS-style strip.",
+      "other_problems": "Photos 16 and 17 show blocks 1630 - they belong to item 1630 and should come off this card. Summary is a placeholder ('What it is - Tom writes this'). Turned copies for photos 4, 5, 6, 9 and 16 are still sideways (need a quarter turn); photo 1 shows sideways on the website and has no turned copy. Photo 15 only shows the blank backs of the strips.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1968",
+      "number_blocks_seen": "1968 (photo 1 in a row; photo 2 stacked down the right side because the photo is turned)",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1968", "what_it_shows": "Handwritten sheet: crossed-out 'FLV to AVI', 'Listen to youtube.com', 'it's not a name / it's not a face', 'Primal urge', 'Little black books history'."},
+        {"pos": 2, "way_up": "SIDEWAYS", "blocks_in_this_photo": "1968", "what_it_shows": "Turned copy is still sideways (needs a quarter turn counter-clockwise). Other side/sheet: 'Songs 13', 'Right between the eyes', 'Nature of Man', 'dead silence / come for a ride / what we share / one slip of the knife / my muse and fresco', '343 pages add 6 add 7', numbers 2588, 3375, 1.35, 1.25."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words match photo 1 (small misreads: sheet has 'that you're a man with needs'; 'that's your a guy / a guy who has needs' is crossed out). Photo 2's writing is not typed at all: 'dead silence, come for a ride, what we share, one slip of the knife, my muse and fresco', 'Right between the eyes', 'Nature of Man', 'Songs 13', '343 pages add 6 add 7'.",
+      "name_verdict": "OK",
+      "name_note": "'FLV to AVI' is the first line, but it is crossed out and is a video-file note, not a lyric. Better name from the sheet: 'It's not a name, it's not a face' (or 'Listen to youtube.com').",
+      "other_problems": "Photo 2 turned copy is still sideways.",
+      "sure": "FAIRLY SURE"
+    }
+  ]
+}

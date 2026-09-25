@@ -1,0 +1,150 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_03_OF_13_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "235",
+      "number_blocks_seen": "235",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-3-5", "what_it_shows": "Printed sheet NEVER BE with orange rhyme circles/letters, green handwritten verse and black handwritten closing lines"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are only 3 handwritten lines from the bottom. The whole printed NEVER BE poem (I told myself that I'm willing to wait...), the green verse (For the more voices I hear in my ear...) and other handwritten lines (When you have nothing to hide / you have no reason to be scared; Nor try to portray an emotion...) are not typed.",
+      "name_verdict": "OK",
+      "name_note": "NEVER BE is the printed title.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "236",
+      "number_blocks_seen": "236",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-3-6", "what_it_shows": "Printed sheet with struck lines and handwritten margin blocks: Still searching for something ... From King Midas to Judas to Bush and Cheney"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed printed lines, cross-outs and margin blocks match the sheet (tail cut for the check).",
+      "name_verdict": "OK",
+      "name_note": "Sheet has no title; first unstruck line is Still searching for something.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "242",
+      "number_blocks_seen": "242",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-4-2", "what_it_shows": "Printed page 1 of HERESY SPEAK NO EVIL, water-stained, with handwritten additions"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-4-2", "what_it_shows": "Page 2: Me? Personally...I'd rather be one of the unemployed, scribbled-out list and handwritten verse"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Page 1 typed text matches, including handwritten additions. Page 2 text falls after the 1800-char cut so could not be compared here.",
+      "name_verdict": "OK",
+      "name_note": "Printed title HERESY SPEAK NO EVIL.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "256",
+      "number_blocks_seen": "256",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-5-6", "what_it_shows": "Torn spiral notebook sheet, black ink, ninety nine percent of my time is spent alone, heavy cross-outs"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed lines follow the sheet; margin line Those that I love I hurt the most is typed as a struck line, minor.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says 2-column structure; the sheet is a single column of lines (minor).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "279",
+      "number_blocks_seen": "279",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-7-9", "what_it_shows": "Lined notebook sheet titled SHADES in black ink"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches. Small misread: sheet says Are just Shades and Spatters, typed as 5 shades and 5 spatters.",
+      "name_verdict": "OK",
+      "name_note": "Written title SHADES (boxed).",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "285",
+      "number_blocks_seen": "285",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-8-5", "what_it_shows": "Torn spiral sheet: I've got a brand new method to my madness, with A/B/C rhyme and syllable counts, margin note Jaded - cynical"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed text matches the sheet, including rhyme letters and margin note.",
+      "name_verdict": "OK",
+      "name_note": "First line / hook.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "314",
+      "number_blocks_seen": "314",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-4", "what_it_shows": "Both pages laid out one above the other (Like the crooked picture... / One more beer and then I'm going home...)"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-4", "what_it_shows": "Close-up of page 1: Like the crooked picture hanging in your hall, bridge: shorter"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-4", "what_it_shows": "Close-up of page 2: One more beer and then I'm going home ... I broke the law"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Both pages are typed correctly, but then a leaked reader header appears ([read/page 2 - shot 874] TITLE : [NONE] PAPER : loose sheet LINES : 14 TEXT :) and page 1 is typed a second time.",
+      "name_verdict": "OK",
+      "name_note": "First line is Like the crooked picture hanging in your hall; card drops the/your, minor.",
+      "other_problems": "Reader file note text (read/page 2 - shot 874, TITLE, PAPER, LINES) is in the typed words a buyer would see; page 1 text repeated.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "317",
+      "number_blocks_seen": "317",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-7", "what_it_shows": "Torn spiral notebook sheet: He holds the power... to relieve pain, side notes SLOW Intro / FAST PACE written up the right margin"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches. Minor: typed notes place SLOW Intro on the left / FAST PACE top middle, both are down the right margin.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "Summary says white printer paper; photo shows torn lined spiral notebook paper (minor).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "358",
+      "number_blocks_seen": "358",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-8", "what_it_shows": "Lined sheet House of pain. (Yeah I'm Irish, we're the best in the land...)"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-8", "what_it_shows": "Turned copy: second lined sheet titled Beastie boys (My name is Tom and I'm here to rap...)"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-8", "what_it_shows": "Both sheets together: Beastie boys above, House of pain below"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only House of pain is typed. The Beastie boys sheet (photo 2, and top of photo 3) is not in typed_words.",
+      "name_verdict": "OK",
+      "name_note": "House of pain is a written title on this piece (the second sheet is titled Beastie boys).",
+      "other_problems": "Summary says one torn sheet with cards to the left; photos show two sheets with number cards above.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "365",
+      "number_blocks_seen": "365",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-6-5", "what_it_shows": "Lined sheet: The truth of life must be learned, 8 lines"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches. Minor: sheet shows as your struck with while written above; typed has while struck.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

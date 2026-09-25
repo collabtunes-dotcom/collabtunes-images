@@ -1,0 +1,150 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G02_SONG_HALF_OR_SHORTER_LYRICS_THAT_BECAME_A_SONG_PAGE_01_OF_02_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "17",
+      "number_blocks_seen": "017",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "017", "what_it_shows": "Long sheet 'Talkin' about front page of magazines' (13 lines), torn spiral loose-leaf"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "017", "what_it_shows": "Second short sheet, 4 lines 'Talkin' bout front page of magazines... Back stage with beauty queens', torn corner"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "017", "what_it_shows": "Both sheets together, lighter and other papers at left edge"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Both pictured sheets are typed. Missing 'for free' after 'everything you want'; 'But if never thought' should be 'But I never thought'.",
+      "name_verdict": "OK",
+      "name_note": "First line of both sheets.",
+      "other_problems": "typed_words shows raw reader headers ('[read/page 2 - shot 53] TITLE : [NONE] PAPER : notebook LINES...') and types each sheet twice. Summary reads like a file note ('3 shots - shot 53 = full text,') and is cut off.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "26",
+      "number_blocks_seen": "025",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "025", "what_it_shows": "Spiral notebook sheet 'A higher power is what I need', 9 lines"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only the first 4 of 9 lines typed. Missing: 'I'm sorry but it's not gravity which pulls you down / To end up where you want to go first your feet have to touch the ground / The rest is easy just follow the yellow brick road / If you walk far enough then you'll find your pot of gold'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Photo 1 blocks read 0-2-5 (item 25), not 26: third digit is an open S-shaped 5, unlike Tom's looped 6 on photo (76) which reads 026. Neighbours look shifted by one too: photo (72) reads 024 but sits on card 25, photo (76) reads 026 but sits on card 27.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "169",
+      "number_blocks_seen": "169",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "169", "what_it_shows": "Plain white sheet, pink/red ink, 'Whenever you feel down', 12 lines"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "169", "what_it_shows": "Printed USA Today graphic 'Major League Baseball's influence around the world' on a white sheet (likely the back of the sheet)"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Handwritten lines match; the printed clipping text is typed after '---'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary mentions only the handwritten sheet, not the printed baseball clipping in photo 2.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "170",
+      "number_blocks_seen": "170",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "170", "what_it_shows": "Aged, water-stained spiral sheet titled 'SHE', about 27 lines"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only the first 2 lines typed. Everything from 'Pampered beauty queen every man did want her' to 'any other direction' (about 25 lines) is missing.",
+      "name_verdict": "OK",
+      "name_note": "Title written on sheet: SHE.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "197",
+      "number_blocks_seen": "197",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "197", "what_it_shows": "Loose-leaf sheet 'They say that absence makes the heart grow fonder', 5 lines, torn left edge"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "All words present, but 'stronger' is typed into the last line; on the sheet it ends 'my feelings for you just keep getting stronger'. Last line should read 'In what I will now say I will not hesitate'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "207",
+      "number_blocks_seen": "207",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "207", "what_it_shows": "Three sheets laid out: full page 1, page 2 (coffee stain), and a short third sheet 'Julia has a garden... That no one else can find'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "207", "what_it_shows": "Close-up of page 1 'Julia has a garden so intricate in design', about 22 lines"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "207", "what_it_shows": "Close-up of page 2 'A life as simple as Emerson or Henry David Thoreaux', about 10 lines"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only 4 lines typed out of about 35. Almost all of page 1 (from 'It is here where warm breezes blow' on) and most of page 2 (coastline, weeping willows, pines, hedgerow lines) are missing.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "267",
+      "number_blocks_seen": "267",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "267", "what_it_shows": "Lined sheet titled 'Right Between the Eyes', 21 lines"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only 4 lines typed (from 'That I traded my gun for a camera'). First 14 lines ('I took a walk through the wilderness' ... 'Is the only thing it proves'), 'Should come as no surprise' and 'Captured in a picture, will never fade away' are missing.",
+      "name_verdict": "OK",
+      "name_note": "Title written on sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "277",
+      "number_blocks_seen": "277",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "277", "what_it_shows": "Lined sheet 'Well I guess the first place to start', 10 lines, black and blue ink"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only 2 joined fragments typed. Missing: 'Well I guess the first place to start / Would be to tell you that I got love in my heart / Or a brain without a mind / Or mind that can't understand / Or ears that can't hear / This song that I sing'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet (typed words do not include it).",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "290",
+      "number_blocks_seen": "290",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "290", "what_it_shows": "Sheet 'I VISITED A PLACE', caps then script, about 13 lines"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only first 3 and last 2 lines typed. Missing middle: 'No one else knew there was a problem / It represented purity / My God I thought they'd outlawed it / Yet when she looked back at me / I turned away like I never saw it / I cleaned all those trees myself / For you see that I'm a logger'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "339",
+      "number_blocks_seen": "339",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "339", "what_it_shows": "Lined sheet titled 'A Prayer for Life's Meaning' in outline letters, about 14 lines"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only 3 lines typed out of about 14. Missing e.g. 'Can be seen in waterfalls or the summer's sun', 'Laughing children and passing a cloud', 'His hand wipes the tears that widows weep', 'To each he's different yet the same to all', 'Epiphany of knowledge of His great power / As he waters you from seed to flower'.",
+      "name_verdict": "OK",
+      "name_note": "Title written on sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

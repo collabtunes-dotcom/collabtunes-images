@@ -1,0 +1,145 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_11_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "259",
+      "number_blocks_seen": "259",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-5-9", "what_it_shows": "Full lined sheet, poem 'My fear is my friend' with many lines and crossings-out; three number blocks above."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 1: typed words are only a 4-line excerpt. Most of the sheet is not typed: 'Some call it other names / Play their silly games...', 'You're hearing two voices...', 'A separation of church and state...', 'We need common ground not lines in the sand...', 'With this goal in mind we must forge ahead... But with our backs to the wall we cannot stop'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "260",
+      "number_blocks_seen": "260",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-6-0", "what_it_shows": "Full lined sheet titled 'BFT by tom jensen', a long song ('Shameless, Blameless...' down to 'someone to hug you'); three number blocks above."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 1: typed words are only 3 lines. The rest of the song is not typed (e.g. 'You tried for it...', 'It's written in the stars...', 'Stop, pause for applause...', 'Ain't no meeting in the middle...', 'Leaves you seeking a savior... someone to hug you').",
+      "name_verdict": "OK",
+      "name_note": "Title written at top: 'BFT'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "264",
+      "number_blocks_seen": "264",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-6-4", "what_it_shows": "Lined sheet, 9 lines 'Theres no parking spaces... gettin' blown away'; three number blocks above."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 9 lines typed.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "269",
+      "number_blocks_seen": "269",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-6-9", "what_it_shows": "Lined sheet titled 'AUDIENCE OF FATE', 8 lines; three number blocks above."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 1: only the last 2 lines are typed. First 6 lines missing: 'Do I aim to reach just a thousand critics / Or a million common people world wide? / Do I use fancy words that twist into themselves / So many times that you need a dictionary to see inside / Or should I say it plain and simple / Using words to paint a picture to be your guide'.",
+      "name_verdict": "OK",
+      "name_note": "Title written on sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "276",
+      "number_blocks_seen": "276",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-7-6", "what_it_shows": "Lined sheet torn from a spiral, 10 lines 'I'm a singer songwriter... Let me ask you.'; three number blocks above."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 1: only first 3 lines typed. Missing: 'I love asking questions / Though I don't always find or like every answer / Still I do it / I know I don't have to / If you were me / What would you do? / Let me ask you.'",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "287",
+      "number_blocks_seen": "287",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-8-7", "what_it_shows": "Plain white sheet, black ink top half with blue/orange edits, big orange marker lines on bottom half; three number blocks above."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 1: only first 4 lines typed. Missing: 'Back seat love can't beat it / And you're making it hard to resist ya fine sista / like to break ya like the law' and the orange section 'You don't need to say you love me / Never been my top priority / I'm standing looking down at you / Wishing that you were on top of me'.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "288",
+      "number_blocks_seen": "288",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-8-8", "what_it_shows": "White sheet in purple ink headed 'Song about types of torture: mental / physical', circled 'Naomi Klein 25:00 minutes into audio', then 'Corporatists hire Hypnotists...'; three number blocks above."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Heading 'Song about types of torture: mental / physical' not typed. Last lines jumbled: sheet reads 'to grease the pliers that acts as the wrench to turn the screw that becomes part of the wall they build to divide me and you'; typed has 'to turn / acts as the wrench to becomes / ... they try build to divide us me and you'. Also 'minutes.' typed twice.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "Card name is the circled source note, not the title. Title written at top: 'Song About Types of Torture' (or first line 'Corporatists Hire Hypnotists').",
+      "other_problems": "",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "289",
+      "number_blocks_seen": "289",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-8-9", "what_it_shows": "Lined notebook sheet in cursive, 11 lines 'I am hoping it's not true... when I get tired'; three number blocks above."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 1: typed words are an excerpt. Missing: 'I am hoping it's not true / But our time may have expired' and 'Or at least not like I used to / I won't lie, I'm not a liar / My eyes still like looking at you / Oh -'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet (not in the typed words, but on the sheet).",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "299",
+      "number_blocks_seen": "299",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-9-9", "what_it_shows": "Plain white sheet, 2 lines in faint pencil/pen 'It's not where you end up... life's not fair'; three number blocks above."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both lines typed.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "303",
+      "number_blocks_seen": "303",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-0-3", "what_it_shows": "Torn half sheet of lined paper, struck-out first try then 'Once I had... All I thought I'd need / now I got nothing But memories'; three number blocks above."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Kept lines all typed; struck-out lines left out.",
+      "name_verdict": "OK",
+      "name_note": "First lines.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

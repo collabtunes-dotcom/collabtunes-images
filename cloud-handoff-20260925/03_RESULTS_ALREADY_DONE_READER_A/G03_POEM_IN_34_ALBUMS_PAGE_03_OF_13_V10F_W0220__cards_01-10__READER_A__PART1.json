@@ -1,0 +1,93 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_03_OF_13_V10F_W0220__cards_01-10__READER_A__PART1.json",
+  "cards": [
+    {
+      "item_number": "190",
+      "number_blocks_seen": "190",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "190", "what_it_shows": "Both VISIONS sheets laid together (page 1 and 'VISIONS con't'), lower sheet blurred/out of focus."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "190", "what_it_shows": "VISIONS page 1, bubble-letter title, 5 stanzas."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "190", "what_it_shows": "'VISIONS con't.' page 2, ends 'Visions of Johanna', torn bottom edge."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow both sheets (typed text is cut for the check but what is shown matches).",
+      "name_verdict": "OK",
+      "name_note": "Title VISIONS written in bubble letters on sheet 1.",
+      "other_problems": "Photo 1 is a group shot with the lower half soft/blurred; photos 2 and 3 are clear.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "191",
+      "number_blocks_seen": "191",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "191", "what_it_shows": "Torn-top lined sheet, untitled, first line 'All it takes is a fool like you' (the siren poem)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "191", "what_it_shows": "Spiral-torn lined sheet titled in bubble letters 'Only for not Lonely for', ends 'Only for [blacked out] one would I stay'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Both sheets are typed. Sheet 2 heading is typed as 'Only for one' but the bubble-letter title reads 'Only for not Lonely for'.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'OF THE DAZE' is not written on either sheet. Should be 'Only for not Lonely for' (bubble title on sheet 2) or 'All it takes is a fool like you' (sheet 1 first line).",
+      "other_problems": "The title 'Only for not lonely for' is instead used as the name of card 195, which is a different sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "192",
+      "number_blocks_seen": "192",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "192", "what_it_shows": "Spiral-torn lined sheet, bubble title 'Tomorrow is the Day' with a drawn sun/moon face, one blacked-out line."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part (Tomorrow is the Day) matches the photo. The second part after '---' ('Tomorrow / So much to say so little ink...') is on no photo of this card.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'ME' is not on the sheet. Should be 'Tomorrow is the Day' (the bubble-letter title).",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "194",
+      "number_blocks_seen": "194",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "194", "what_it_shows": "Lined sheet in blue ink, 'Trapped in this invisable cage' shepherd poem, page 1."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "194", "what_it_shows": "Lined sheet in blue ink, continuation 'No longer will the people be deceived ... The shepherd is back'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Parts 1 and 2 match the two photos. Part 3 ('Happy birthday though I have no card ...') is on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "195",
+      "number_blocks_seen": "195",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "195", "what_it_shows": "Torn-corner lined sheet in blue ink, 'AEIOU / BCDFG...' at top, two 'Since I am a poet' stanzas."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'Only for not lonely for' is the bubble title on card 191's sheet, not this one. Should be 'Since I am a poet' (first line: 'Since I am a poet I will fight you only with my pen').",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "199",
+      "number_blocks_seen": "199",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "199", "what_it_shows": "Spiral-torn lined sheet in blue ink, 12 lines 'I know you're thinking ... What do you need and what is hollow?'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first part (12 lines) is on the photo. Part 2 ('Well, you've been climbing the ladder...') and part 3 ('COVERINGS / I have many hats...') are on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says pencil and number boxes 'to the left'; the photo shows blue ink and the boxes are above the sheet.",
+      "sure": "SURE"
+    }
+  ]
+}

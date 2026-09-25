@@ -1,0 +1,148 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_13_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "883",
+      "number_blocks_seen": "883",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "8-8-3", "what_it_shows": "Lined 3-hole sheet, four lines 'When you're lost in the cold...' plus 'Monday 11:00 AM' lower down"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All four lines and 'Monday 11:00 AM' typed as written.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "916",
+      "number_blocks_seen": "916",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-1-6", "what_it_shows": "Torn-edge Mead lined sheet, three faint lines 'I told myself I've got to give in...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Three lines typed as written (first two lines are faint pencil).",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "919",
+      "number_blocks_seen": "919",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-1-9", "what_it_shows": "Plain white sheet, two faint lines 'All my inner turmoil is at peace / I slayed the dragon...'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-1-9", "what_it_shows": "Close-up of the same two lines and the blocks"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both lines typed (run together on one line, same words).",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "922",
+      "number_blocks_seen": "922",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-2-2", "what_it_shows": "Plain unlined white sheet, three lines 'She keeps watching out for someone...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Three lines typed as written.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says lined loose-leaf, 3-hole punched notebook paper; the photo shows a plain unlined white sheet with no holes.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "940",
+      "number_blocks_seen": "940",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-4-0", "what_it_shows": "Stacked lined sheets: top strip '(to go in) I am the rules', sheet below 'We do business as business is being done'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-4-0", "what_it_shows": "Lined sheet 'My Inspiration is fleeting... Iraq, Iran and Pakistan'"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "'(to go in) I am the rules' and 'We do business as business is being done' are typed twice (once together, then again as separate blocks); each is written only once. Line 'I say know how' has crossed-out words on the sheet ('I [crossed out] know how').",
+      "name_verdict": "OK",
+      "name_note": "Written at top of the first sheet under '(to go in)'.",
+      "other_problems": "Summary says 'a single sheet'; the photos show more than one sheet (a strip plus at least two lined sheets).",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "950",
+      "number_blocks_seen": "950",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-5-0", "what_it_shows": "White sheet with light pencil arc drawing, four lines of writing at the bottom 'So smoothly did they...'"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Sheet reads 'if the peg hole don't fit then place in it'; typed says 'if the peg hole fits them place in it' ('don't' added above the line is missed). The circled 1 sits before 'As they say', not before 'the proper dowel'.",
+      "name_verdict": "OK",
+      "name_note": "First written line (marked 2).",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "954",
+      "number_blocks_seen": "954",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-5-4", "what_it_shows": "Torn-edge lined sheet 'I found the rhyme...' with a big X through the middle lines, last line in red ink"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All nine lines typed; the X cross-out and red last line are not mentioned but the words match.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "999",
+      "number_blocks_seen": "999",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-9-9", "what_it_shows": "Plain white sheet, four lines 'I'm gonna go to Hawaii, yeah...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Four lines typed as written.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1037",
+      "number_blocks_seen": "1037",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-3-7", "what_it_shows": "Lined sheet with folded bottom corners, two lines 'The fences are getting taller...'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-3-7", "what_it_shows": "Second torn-edge lined sheet 'I scared myself today...' with small margin numbers 6,7,6,9,9"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed, split by '---'. Crossed-out word before 'with a maze' shown as [?]. Margin syllable counts not typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of the first sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1053",
+      "number_blocks_seen": "1053",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-5-3", "what_it_shows": "Lined sheet with torn top-left corner, four lines 'Not everyone's presence is a gift...'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Four lines typed as written, including 'learn to' added above line 2.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

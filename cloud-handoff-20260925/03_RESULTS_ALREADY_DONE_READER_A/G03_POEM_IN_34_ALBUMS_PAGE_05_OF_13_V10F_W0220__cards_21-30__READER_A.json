@@ -1,0 +1,159 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_05_OF_13_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "593",
+      "number_blocks_seen": "593",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "593", "what_it_shows": "Full front of the H2OH sheet, 'Third' in margin, down to 'comatose state'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "593", "what_it_shows": "Second page: 'If that's the case ... Drowning out all the hate'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match both pages.",
+      "name_verdict": "OK",
+      "name_note": "H2OH is the title on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "596",
+      "number_blocks_seen": "596",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "596", "what_it_shows": "Sheet with scribbled-out title and 4 lines: 'When you become freed from the disease of please ... An unwinnable game always trying to score'. Rest of page blank."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the SOLVING PROBLEMS sheet (item 603): 'My defiance and disdain ... Either WAY'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the SOLVING PROBLEMS sheet (item 603): 'You told me the price ... And see that he's afraid of me!'."}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words ('Culture vultures circling the sky ... Wrong has always been wrong / But now it was all right') are on no photo here. The 596 sheet's own 4 lines ('When you become freed from the disease of please...') are not typed. Photos 2-3 carry 603's words, not typed here either.",
+      "name_verdict": "OK",
+      "name_note": "The 596 sheet's title is scribbled out; the word 'unwinnable' is written in its 4th line, so UNWINNABLE fits. The typed title line 'UNWINNABLE by Tom Jonsen' is not visible on the photo.",
+      "other_problems": "Photos 2 and 3 are the SOLVING PROBLEMS sheet, which is item 603 (same folds and lines as 603's photos 1-2). They belong on 603 and should come off 596. Summary is generic but not wrong.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "597",
+      "number_blocks_seen": "597",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "597", "what_it_shows": "Spiral-torn sheet 'The toxicity of publicity has begun rubbing off on me ... Take control and call you free'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "No title on sheet; name is the first line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "598",
+      "number_blocks_seen": "598",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "598", "what_it_shows": "Sheet titled PROCESS (crossed out) / STEADY CALM: 'When we are the many ... You know so well...' plus 'Hence the noose around the neck' at bottom."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "598", "what_it_shows": "Second page, top line scribbled out: 'In this struggle for survival ... It happens every time' then 'Hence the noose around the neck / Legs dangle in front the gable'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "corner of one block only (a 5), top right", "what_it_shows": "Blank backs of the sheets held up by a hand, paper turned so its lines run up and down. No readable writing."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The opening 'Summer breeze, such a tease ... Creating puddles I can not cross' and the whole block 'There's a curtain of silence ... Sometimes love heals othertimes it starts the fight' are on no photo. Also the photo 2 lines ('It quickens - the pace of the nation', 'Here at the feast not everybody eats', etc.) fall past the 1800-char cut so could not be checked.",
+      "name_verdict": "OK",
+      "name_note": "PROCESS is written on the sheet but crossed out; STEADY CALM is written under it as the live title.",
+      "other_problems": "Photo 3 shows only blank paper backs and a hand - adds nothing for a buyer.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "600",
+      "number_blocks_seen": "600",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "600", "what_it_shows": "Folded sheet with bubble title DOWN, full poem to 'this ain't really living'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet (crossed-out bits marked illegible).",
+      "name_verdict": "OK",
+      "name_note": "DOWN is the title on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "601",
+      "number_blocks_seen": "601",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "601", "what_it_shows": "Full HEAVENLY sheet (taped sections) top to 'how 'bout I call you next week'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "601", "what_it_shows": "Close-up of the top of HEAVENLY to 'Since only sneakers I'm wearing'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the middle: 'Put down those toxins ... like I'm Moses in the Red Sea'."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the lower half: 'With this advice in mind ... next week' with margin notes."},
+        {"pos": 5, "way_up": "SIDEWAYS", "blocks_in_this_photo": "NONE", "what_it_shows": "The 'turned copy' of the lower-half close-up ('That's where she was ... next week'). The writing runs up the screen - it is SIDEWAYS, not upright (needs a quarter turn clockwise)."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Words match the sheet, but the typed text starts with a stray line 'My personal 6 0 1' (a margin word plus the block digits), and the whole poem is typed twice - the part after '---' is a second reading of the same sheet with margin words merged in.",
+      "name_verdict": "OK",
+      "name_note": "HEAVENLY is the title on the sheet.",
+      "other_problems": "Photo 5 replacement file is SIDEWAYS (file is 900x1200 but still carries EXIF orientation 3, so it displays turned). The current website file (14) actually reads upright as a landscape close-up. Do NOT swap in this 'UPRIGHT' copy.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "603",
+      "number_blocks_seen": "603",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "603", "what_it_shows": "Full SOLVING PROBLEMS sheet, bubble title, down to the repeated 'Precision beats power...' chorus."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "603", "what_it_shows": "Close-up of the top of SOLVING PROBLEMS to 'Or else the farmer he's incorrect'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Words match the sheet, but the poem is typed twice - the part after '---' is a second reading of the same sheet. First pass skips 'will not evolve'. Byline typed as 'by genn' / 'by [?]' (it is 'by Tom Jensen').",
+      "name_verdict": "OK",
+      "name_note": "SOLVING PROBLEMS is the title on the sheet.",
+      "other_problems": "This same sheet is also pictured as photos 2 and 3 on item 596 (no blocks there). Those two photos belong here.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "604",
+      "number_blocks_seen": "604",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "604", "what_it_shows": "Full RUNNING FREE sheet, bubble title, to the closing repeat 'A distant memory of running free'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "604", "what_it_shows": "Close-up of the top half to 'let too many voices in your head'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the lower half 'Remember everyone who smiles at you ... running free'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Words match the sheet, but the poem is typed twice - the part after '---' is a second reading of the same sheet.",
+      "name_verdict": "OK",
+      "name_note": "RUNNING FREE is the title on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "605",
+      "number_blocks_seen": "605",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "605", "what_it_shows": "Full EITHER WAY sheet, bubble title, to 'Either way no regrets'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "605", "what_it_shows": "Close-up of the top half to 'The value of reality lies in immaterialality'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the lower half 'No family lives near me ... Either way no regrets'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "EITHER WAY is the title on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "607",
+      "number_blocks_seen": "607",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "607", "what_it_shows": "Full CUTIE PIE sheet, bubble title, to 'From now until forever'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "CUTIE PIE is the title on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_06_OF_13_V10F_W0220__cards_11-20__READER_A__PART1.json",
+  "cards": [
+    {
+      "item_number": "637",
+      "number_blocks_seen": "637",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-3-7 in a row = 637", "what_it_shows": "Lined sheet starting 'You'll find when they kick your dick in the dirt', plus scattered phrases (Go fuck your brother-in-law's wife, Bread and circuses, Play stupid games win stupid prizes, It feels guilty to laugh)."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The first part of typed_words ('COLORS / It's black and white / That you're black and blue ... you're about ready to fold') is on no photo; the pictured sheet only has the part after the '---' ('You'll find when they kick...' to 'IT feels guilty to laugh'). Minor misreads: sheet says 'won't buy back your self worth' and 'Go fuck your brother-in-law's wife'.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'COLORS' is not written on the pictured sheet. From this sheet: 'You'll find when they kick your dick in the dirt'. (COLORS may be the back side, which has no photo.)",
+      "other_problems": "Summary mentions a coffee stain; none plainly visible. Back side / COLORS sheet has no photo.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "661",
+      "number_blocks_seen": "661",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-6-1 in a row = 661", "what_it_shows": "White sheet with printed poem 'Caught up in the rat race of time', four handwritten lines below it, and a handwritten rhyme word list (fantasy, divorcee, franchise...) top right."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Poem and word list match the sheet (small misreads only, e.g. 'manner' for 'manatee', 'bagging' for 'begging').",
+      "name_verdict": "OK",
+      "name_note": "First line of the poem.",
+      "other_problems": "Summary says 'oriented landscape'; the photo is portrait and upright.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "695",
+      "number_blocks_seen": "695",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-9-5 in a row = 695 (edge of another block cut off at top right corner)", "what_it_shows": "Lined sheet, 'Before you come around here ... Why? I've died for a purpose', rest of the page blank."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first section (to 'Why? I've died for a purpose') is on the photo. Everything after the first '---' ('When you become freed from the disease of please...', 'and see that hes afraid of me', 'my defiance and disdain...', 'You told me the price...') is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says three number cards 'on the left side'; they are across the top.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "700",
+      "number_blocks_seen": "700",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-0-0 in a row = 700", "what_it_shows": "White printer paper, handwritten poem 'I found a cat living in a boat'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First lines of the poem.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "734",
+      "number_blocks_seen": "734",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-3-4 in a row = 734", "what_it_shows": "Lined notebook sheet titled 'THE END OF TIME', poem 'Your eyes are so beautiful'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "745",
+      "number_blocks_seen": "745",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-4-5 in a row = 745", "what_it_shows": "Lined sheet, poem starting 'I've wrote too many sad, sad songs'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'38 dear guitar' is not written anywhere on the sheet (looks like a list/file note). From the sheet: 'I've wrote too many sad sad songs'.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

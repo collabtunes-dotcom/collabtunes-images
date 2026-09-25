@@ -1,0 +1,149 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G01_SONG_FULL_LYRICS_PAGE_02_OF_03_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "335",
+      "number_blocks_seen": "335",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-3-5 in a row = 335", "what_it_shows": "Yellow legal pad sheet, pencil, 'I live in a world where there are no fist fights' full lyric."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says 'white paper' - the sheet is yellow legal paper. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "364",
+      "number_blocks_seen": "364",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-6-4 in a row = 364", "what_it_shows": "White loose-leaf sheet, black ink, 'When its time to sink or swim its already too late' lyric."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "372",
+      "number_blocks_seen": "372",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-2 in a row = 372", "what_it_shows": "Stained loose-leaf sheet, front: 'The time is getting late / Your lifetime is passing' lyric."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-2 in a row = 372", "what_it_shows": "Back of the same sheet: school history notes (Boston Massacre, Boston Tea Party, Intolerable Acts)."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sides typed and they match the photos. But the typed text has reader tool junk in the middle: '[read/page 2 - shot 974] TITLE : [NONE] PAPER : notebook LINES : 16 TEXT :'.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'SCENE 1' is not written on either side. Should be 'The time is getting late' (first line).",
+      "other_problems": "Typed words show reader header junk ('[read/page 2 - shot 974] TITLE : [NONE] PAPER : notebook LINES : 16 TEXT :') a buyer would see. Back side is history class notes, not lyrics.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "375",
+      "number_blocks_seen": "375",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-5 in a row = 375", "what_it_shows": "Loose-leaf sheet, blue ink, 'I heard your voice again' full lyric with 'But' and 'to' in the left margin."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet, margin words included.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary is wrong: says '3 columns of rhyme-ending words, organized by sound family' and 'black ink' - the photo is a plain lyric sheet in blue ink.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "378",
+      "number_blocks_seen": "378",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-8 in a row = 378", "what_it_shows": "Loose-leaf sheet with alphabet line at top, 'I don't read the paper, hell I don't even watch the news' lyric."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet, alphabet line included. Only small misreads.",
+      "name_verdict": "OK",
+      "name_note": "Opening words of the first lyric line.",
+      "other_problems": "Summary says 'torn sheet' - the sheet is not torn, only a folded corner. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "384",
+      "number_blocks_seen": "384",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-8-4 in a row = 384", "what_it_shows": "Loose-leaf sheet, 'When the Angels tried to follow' lyric (Pico Duarte)."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet, strike-outs noted.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "387",
+      "number_blocks_seen": "387",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-8-7 in a row = 387", "what_it_shows": "Spiral-torn notebook sheet, 'A passing daydream floated by' - one 11-line verse only, rest of page blank."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first part ('A passing daydream floated by' ... 'Only a few would ever dare') is on the photo. The second part ('I'm getting angry / Unhappy ...') and third part ('[?] use trickery ...' to 'break') are on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Two of the three typed sections have no photo - either the other side/pages were not photographed or those words belong to another piece.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "398",
+      "number_blocks_seen": "398",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-9-8 in a row = 398", "what_it_shows": "Spiral-torn notebook sheet, blue ink, 'Should I go to San Francisco' - one verse ending 'I lock it away until I'm alone', rest of page blank."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first section ('Should I go to San Francisco' ... 'I lock it away until I'm alone') is on the photo. The sections 'How long have you been sleeping?', 'Well I've been learning about myself', 'I've looked up and down', and 'A girl who was quite dear to me' are on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Four of the five typed sections have no photo on this card.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "413",
+      "number_blocks_seen": "413",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-3 in a row = 413", "what_it_shows": "Overview: three torn notepad pieces laid in a column - 'TWO SEASONS' title piece, 'Ah, now I see the clouds' piece, 'adrift on the sea all alone' piece (bottom cut off)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-3 in a row = 413", "what_it_shows": "Close-up of piece 1: 'TWO SEASONS' title and 'I see black clouds rolling in' verse."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-3 in a row = 413", "what_it_shows": "Turned copy, now upright. Close-up of piece 2: 'Ah, now I see the clouds / Are blowing away' ... 'I can feel my heart torn'."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-3 in a row = 413", "what_it_shows": "Turned copy, now upright. Close-up of piece 3: 'adrift on the sea all alone' ... 'Try to forget all I've said'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the three pieces. But the typing repeats itself: all three pieces typed once from the overview photo, then typed again after '---' from the close-ups, so a buyer sees the song twice.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet: TWO SEASONS.",
+      "other_problems": "Typed words are doubled (same pieces typed twice). Summary 'loose sheet' undersells it - it is three torn notepad pieces. Both turned photos (3 and 4) are the right way up.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "416",
+      "number_blocks_seen": "416",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-6 in a row = 416", "what_it_shows": "Loose-leaf sheet titled 'Here & Now' in script, 'The time is getting late' full lyric."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet (struck line 'Those who have been poorly directed' typed as a normal line - small).",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet: Here & Now.",
+      "other_problems": "Summary is wrong: says '4 simultaneous draft versions written during the 2003 Northeast Blackout; P. Diddy named, VFW named, Bush named' - the photo shows one sheet, one version, and none of those names.",
+      "sure": "SURE"
+    }
+  ]
+}

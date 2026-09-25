@@ -1,0 +1,147 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_10_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "118",
+      "number_blocks_seen": "118",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-1-8 (118)", "what_it_shows": "One loose-leaf sheet, no title, 10 lines starting 'Something's gonna have to be sacrificed' ending 'If it's in you?'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part (Something's gonna have to be sacrificed ... If it's in you?) matches the photo. The second part after the --- ('I've been looking around for some inspiration ... celebration') is on no photo here.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'MISS YOU / KISS YOU' is not written on this sheet. Sheet has no title; first line is 'Something's gonna have to be sacrificed'.",
+      "other_problems": "Summary says two sheets incl. a song architecture map (sheet 372); only one plain lyric sheet is pictured, no map.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "123",
+      "number_blocks_seen": "123",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-2-3 (123)", "what_it_shows": "Yellow legal-pad sheet, 5 lines 'What has once been bought now has been sold ... warmth is cold'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 5 lines match.",
+      "name_verdict": "OK",
+      "name_note": "No title on sheet; 'midas touch' is the hook in line 2.",
+      "other_problems": "Summary says 'loose leaf - large block letters, sparse'; photo is a yellow legal pad in normal print. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "134",
+      "number_blocks_seen": "134",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-3-4 (134)", "what_it_shows": "Loose sheet in purple (first 2 lines blue) ink, 'My mind is screaming!' ... 'CC..'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match, including the 'CC..' sign-off.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "136",
+      "number_blocks_seen": "136",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-3-6 (136)", "what_it_shows": "Back of a tall promo card, dated 5/10/00, lyric 'It feels like Friday night ... by a train'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-3-6 (136)", "what_it_shows": "Front of the same Doc Otis Hard Lemon promo card (fold-over tent card; top panel printed inverted by design, bottom panel upright)"},
+        {"pos": 3, "way_up": "SIDEWAYS", "blocks_in_this_photo": "none (only circled page numbers 1, 3, 6 on notebook sheets, not number blocks)", "what_it_shows": "Stack of spiral notebook pages with boxed song lists (UNWINNABLE, LIVING LARGE, NAME IN LIGHTS, RAIN, RAT PARK, PUZZLE PIECES, REHAB ...; 'WALKING PARADOX', 'Thirty seconds') - a different piece"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words match photos 1 and 2 (lyric + printed promo text). Photo 3's song lists are not typed - and photo 3 is not this piece.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'WATERING THE WEEDS' is not on the card. No title; first line is 'It feels like Friday night'.",
+      "other_problems": "Photo 3 (gems-1500-1799-b\\20260828_095122.jpg) is a different piece: sideways shot of song-list notebook pages with no number blocks; its circled page numbers 1, 3, 6 were likely misread as 136. It should come off this card.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "137",
+      "number_blocks_seen": "137",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-3-7 (137)", "what_it_shows": "Loose-leaf sheet, 4 lines 'Some people only buy a thirty ... snickers and mounds'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "143",
+      "number_blocks_seen": "143",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-4-3 (143)", "what_it_shows": "Spiral-torn sheet titled BREAKING THE LAW, lyric through 'Even after I die'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match; bracketed [?] spots are fine ('Alvin Cohol', 'Never').",
+      "name_verdict": "OK",
+      "name_note": "Title written at top of sheet.",
+      "other_problems": "Summary says 'heavy crossouts throughout, bridge diagram at bottom'; photo has only 2-3 small crossouts and no diagram.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "145",
+      "number_blocks_seen": "145",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-4-5 (145)", "what_it_shows": "Spiral-torn loose-leaf sheet, 12 lines 'I just bought a beeper ... Will leave you down and out'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 12 lines match.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'NEVER AGAIN' is not on the sheet. No title; first line/hook is 'I just bought a beeper'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "147",
+      "number_blocks_seen": "147",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-4-7 (147)", "what_it_shows": "Spiral-torn loose-leaf sheet, 8 lines 'I USED TO TYPE ON A COMPUTER ... When the summer changed to fall'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 8 lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "162",
+      "number_blocks_seen": "162",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-6-2 (162)", "what_it_shows": "Loose-leaf sheet in cursive, 8 lines 'Would it really matter one slip of the knife? ... black as spades' plus 'Lilt / Guilt' below"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match, including 'Lilt / Guilt'.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "198",
+      "number_blocks_seen": "198",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-9-8 (198)", "what_it_shows": "Small spiral-torn notepad sheet, 10 lines 'Such a waste of time ... Never tasting true freedom'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines match (crossed-out 'That' is typed; trivial).",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

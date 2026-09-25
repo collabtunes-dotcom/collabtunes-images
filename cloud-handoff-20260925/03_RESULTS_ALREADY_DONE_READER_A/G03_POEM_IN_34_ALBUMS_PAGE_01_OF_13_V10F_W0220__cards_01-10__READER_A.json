@@ -1,0 +1,225 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_01_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "2",
+      "number_blocks_seen": "002",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "SIDEWAYS",
+          "blocks_in_this_photo": "002 (blocks appear as a column because the whole photo is turned; the digits themselves are turned with it)",
+          "what_it_shows": "Spiral notebook open to two pages: left clean draft 'He was twice her size', right revised 'my' version with syllable counts and 'Coming of Fall -> What lies ahead' box. Writing runs down the screen."
+        }
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Both notebook pages match. But everything after the first '---' (the 'Just make sure you tell your friend... Lai's channel / Hello my name is Loi' notes and 'Wrote this little piece with a green pen') is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "The website file (in rotated-photos) is still sideways - needs a quarter turn to the left.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "6",
+      "number_blocks_seen": "006",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "006",
+          "what_it_shows": "Loose-leaf sheet titled FATE IS A WORD, four numbered boxed stanzas."
+        },
+        {
+          "pos": 2,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "006",
+          "what_it_shows": "Turned copy: loose-leaf coda 'And I am a man who loves dishing it out... Oh yeah... Oh no... Maybe...'. This replacement file is the right way up."
+        }
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title written at the top of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "12",
+      "number_blocks_seen": "012",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "012",
+          "what_it_shows": "Hot pink paper, marker lyric, WATERING THE WEEDS written along the bottom."
+        },
+        {
+          "pos": 2,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "012",
+          "what_it_shows": "Other side: printed pink Porthole Restaurant June 2008 calendar with hand-drawn arrows."
+        }
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "16",
+      "number_blocks_seen": "016",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "016",
+          "what_it_shows": "Torn spiral strip, multicolor ink, dated 9/30, 'The whole world's a fight I can't get no peace'."
+        }
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only 4 middle lines are typed. Missing: 'The whole world's a fight I can't get no peace / My mind gets disrupted when its at ease' and 'When was the last time you noticed the moon? / I'm surprised you've forgotten so soon'. Also 'Feeling so desperate / Walking from the heart' should be 'Feel so busy / walking seperate from the heart'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "18",
+      "number_blocks_seen": "018",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "018 (plus two cut-off stray blocks '5' and '0' at the right edge, from another set - not a readable number)",
+          "what_it_shows": "Loose sheet, large handwriting, 'I got something on my mind so I better just say it', Chorus: 1st 5 lines, ends 'And sometimes you're Roy'."
+        }
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Stray partial blocks ('5', '0') and other papers visible at the photo edges. Summary says 'card numbered 8' - the blocks read 018.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "30",
+      "number_blocks_seen": "029",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "029",
+          "what_it_shows": "Spiral notebook sheet 'Let me explain my life in a way that you can see it... Checkmate... I've lost all hope of saving mankind'."
+        },
+        {
+          "pos": 2,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "029",
+          "what_it_shows": "Turned copy: second sheet 'If I save myself... There are still mountains to climb'. This replacement file is the right way up."
+        }
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only 5 lines of sheet 1 are typed ('I'm playing a game... The General wants me to die'). The rest of sheet 1 (about 25 lines) and all of sheet 2 (photo 2) are not typed.",
+      "name_verdict": "OK",
+      "name_note": "'Checkmate' is a line/hook on the sheet (no written title).",
+      "other_problems": "Both photos show blocks 0-2-9 = item 29, not 30. These photos belong on number 29 and should come off 30.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "32",
+      "number_blocks_seen": "032",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "032",
+          "what_it_shows": "Loose-leaf sheet with drawn title 'Get outta my house' and house doodle, full lyric."
+        }
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title drawn at top of the sheet.",
+      "other_problems": "Summary says 'two sheets - two different pieces on same card number' but the card has only one photo of one sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "34",
+      "number_blocks_seen": "034",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "034",
+          "what_it_shows": "Loose-leaf sheet, cursive, 'Smashed is the equality, livin' in this world of sin... I only hurt myself'."
+        }
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'GETTING JUICED' is not written on the pictured sheet (no title; nearest line is 'doesn't have the juice'). It may be on the unpictured sheet 2 (shot 89); if not, use first line 'Smashed is the equality'.",
+      "other_problems": "Summary describes a second sheet (shot 89, bubbles and cage drawings) that is not among this card's photos - a photo may be missing.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "35",
+      "number_blocks_seen": "035",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "NONE readable (blocks cut off at top edge)",
+          "what_it_shows": "Group shot of both Homeless Man sheets, one above the other."
+        },
+        {
+          "pos": 2,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "035",
+          "what_it_shows": "Close-up of spiral sheet 'Homeless man in the alley... Worrying about the way it ought to be'."
+        },
+        {
+          "pos": 3,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "035",
+          "what_it_shows": "Close-up of second sheet 'I am basically: / The world is basically:' version with numbered 1-4 lines."
+        }
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Both pictured sheets are typed, but the photo-2 sheet is typed twice (as '[Left page text]' and again after '---'), and the first copy drops 'When he wakes up'. Right-page copy drops 'When he awakes'.",
+      "name_verdict": "OK",
+      "name_note": "First line and heading of the sheets.",
+      "other_problems": "Summary says 'numbered 4 in cards' - blocks read 035.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "36",
+      "number_blocks_seen": "036",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "036",
+          "what_it_shows": "Loose sheet 'Well I'm... Struggling against the tide / Pen and paper by my side... But the world keeps on turning'."
+        }
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First section matches the sheet. The 'Rehab - day 2 / WASTED TIME' and 'REALITY / Reality check' sections after '---' are on no photo here.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "Name is item 35's (Homeless Man). This sheet should be e.g. 'Struggling against the tide' (first line 'Well I'm... Struggling against the tide').",
+      "other_problems": "Summary ('three shots - 104 group, 105/106 close-ups') describes item 35's photos, not this card's single photo.",
+      "sure": "SURE"
+    }
+  ]
+}

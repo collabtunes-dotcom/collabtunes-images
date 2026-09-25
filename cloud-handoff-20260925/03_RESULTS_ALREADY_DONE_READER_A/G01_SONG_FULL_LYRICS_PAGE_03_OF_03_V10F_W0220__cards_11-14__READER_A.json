@@ -1,0 +1,65 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G01_SONG_FULL_LYRICS_PAGE_03_OF_03_V10F_W0220__cards_11-14__READER_A.json",
+  "cards": [
+    {
+      "item_number": "1973",
+      "number_blocks_seen": "1973 (photo 1). Photo 2 has 4 drawn boxes that are BLANK - no digits visible. Photo 3 has no blocks.",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-9-7-3 in a row", "what_it_shows": "Printed sheet THIS SLICE OF HEAVEN in a fancy (Papyrus-style) font, one page, full song."},
+        {"pos": 2, "way_up": "SIDEWAYS", "blocks_in_this_photo": "4 blank boxes, no digits", "what_it_shows": "Two cream sheets side by side, text running down the screen: top sheet is THIS SLICE OF HEAVEN in plain Arial font; bottom sheet is a different short poem in small italic script. The 'UPRIGHT' turned copy is still sideways."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Close-up of the Arial-font THIS SLICE OF HEAVEN sheet from photo 2 - a different printing from photo 1."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words match photo 1 exactly. Photo 2 bottom sheet (italic poem) is not typed anywhere. Photo 3 sheet is a different printing with wording changes: 'No longer would you', 'then slow down the pace', 'Lay near the water', 'evolves to night', 'on another sight', 'heartbeat sound', 'There's no place I'd rather be'.",
+      "name_verdict": "OK",
+      "name_note": "Title printed on the sheet: THIS SLICE OF HEAVEN.",
+      "other_problems": "Photo 2 file named UPRIGHT is still SIDEWAYS - needs a quarter turn. Photos 2 and 3 come from the gems-2046-plus set, have blank number boxes and show a different printing of the song (plus a second poem sheet) - they look like a different physical piece than the 1973 sheet in photo 1. Check which number they belong to before they stay on 1973.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1974",
+      "number_blocks_seen": "1974",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-9-7-4 in a row", "what_it_shows": "One printed white sheet, DEAD END, full song, centered text."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the printed sheet line for line (sheet has typo 'you'ld' in second chorus, not an issue).",
+      "name_verdict": "OK",
+      "name_note": "Title printed on sheet: DEAD END.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1975",
+      "number_blocks_seen": "1975",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-9-7-5 in a row", "what_it_shows": "Printed page 1 of ALISON'S AIRPLANE, from title to 'But she told me I couldn't see it'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-9-7-5 in a row", "what_it_shows": "Page 2 of the same song (page 1 folded back), last four lines 'She said if you want to go for a ride...Heaven sent'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line order slip: typed puts 'From which you came' after 'Use your better judgment if you want to'; on the sheet it follows 'If you choose to walk back down the road', and 'Don't point your finger at me / That finger of blame' is its own verse. Everything else matches, both pages.",
+      "name_verdict": "OK",
+      "name_note": "Title printed on sheet: ALISON'S AIRPLANE.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1978",
+      "number_blocks_seen": "1978",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-9-7-8 in a row", "what_it_shows": "Printed page 1 of MAYBE SOMEDAY, title underlined, to 'you ain't gonna feel any better'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-9-7-8 in a row", "what_it_shows": "Page 2 of MAYBE SOMEDAY (page 1 folded back), from 'Hopefully it'll be sunny' to 'Maybe someday.....it's just not today'. Slight tilt, reads fine."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match page 1 line for line as far as shown. Typed text is cut at 1800 chars, so page 2 lines could not be checked against the typing here.",
+      "name_verdict": "OK",
+      "name_note": "Title printed on sheet: MAYBE SOMEDAY.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

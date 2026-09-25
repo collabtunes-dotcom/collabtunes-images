@@ -1,0 +1,156 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_02_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "105",
+      "number_blocks_seen": "105",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-5", "what_it_shows": "Two sheets laid top to bottom: top is the 'Eyes that you can't see' sheet (12 counts in margin); lower is a spiral-torn sheet with 'veronas valencia' written sideways, 'The New World Order's rapidly gaining control' stanza and 'Billeberg's the puppetmaster' stanza."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-5", "what_it_shows": "Close-up of the top sheet: 'Eyes from the sky that you can't see are watching you' ... 'there's little Doubt', 12 syllable counts in left margin."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Typed words go on to 'I share my darkness with the morning...', 'Perhaps I'm being too critical...' and 'My darling Roxanne...' - none of those are on either photo. Also the pictured stanza 'The New World Order's rapidly gaining control / Total world domination... / ...go watch Alex Jones / One press of the button...' (photo 1, lower sheet) is missing from the typed words.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says 'A/B rhyme scheme mapped in left margin' - the margin shows 12 syllable counts, not A/B marks (the A/B circles are on item 106).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "106",
+      "number_blocks_seen": "106",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-6", "what_it_shows": "Full 3-hole loose-leaf sheet titled APOCALYPSE LATER, circled A/B/C rhyme marks in right margin, ends 'tommorrow'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The first typed part ('[Left column]' / '[Middle/Right column]' layout, ending 'APOCALYPSE NOW, APOCALYPSE LATER / It sure seems we have fallen out of favor... savor') is a different two-column sheet that is not in the photo. The second typed part ('APOCALYPSE LATER / I back at square one...') matches the pictured sheet.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary 'tiny torn spiral strip - smallest substrate so far' contradicts the photo: it is a full-size 3-hole loose-leaf sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "108",
+      "number_blocks_seen": "108",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-8", "what_it_shows": "One loose-leaf sheet, 'Come along with Michael Hawk' ... 'He's very well-thought-of Michael Hawk'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary contradicts the photo: it says spiral, two sheets side by side, a massive scribble and circled stanza numbers - the photo is one loose-leaf sheet with none of that.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "109",
+      "number_blocks_seen": "109",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-0-9", "what_it_shows": "Loose-leaf sheet with outlined title MATTER OF WAR and two stanzas."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First typed part matches the sheet. The rest ('When she smiles I frown...', a margin-notes sheet 'I understand... rising tide...', 'Duet with the sea', 'I walk the beach this summer's day...') is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "114",
+      "number_blocks_seen": "114",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-1-4", "what_it_shows": "Loose-leaf sheet with bubble title CRYSTAL BALL, one long poem ending 'As the hour's getting late', crossed-out line at bottom."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "CRYSTAL BALL part matches. The typed 'A E I O U / COVERINGS / I have many hats...' and 'COLONIAL MANAGEMENT Associates... They say these are the best years of my life' are not on the photo.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary contradicts the photo: no 6/10 date, no circled numbers, no END/Repeat labels, no box diagram on this sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "119",
+      "number_blocks_seen": "119",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-1-9", "what_it_shows": "Loose-leaf sheet, outlined title I.M. GRENDEL, one poem in blue ink ending 'passing basket'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "I.M. GRENDEL part matches (small: 'thrown into the dumpster' typed as just 'thrown'). The typed 'I don't know why they left it to me...' poem is not on the photo.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary says black ink and three cards 'to the left of the text' - ink is blue and the number cards sit above the sheet. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "121",
+      "number_blocks_seen": "121",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-2-1", "what_it_shows": "Pink sheet, handwritten poem 'Just a shadow of smoke...' with 'T 180' at top right and small upside-down notes 'eviction / gospel singer' at bottom right."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-2-1", "what_it_shows": "Other side of the pink sheet: printed Student Government Association Freshmen Elections flyer."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Poem, the 180 mark, 'eviction / gospel singer' and the flyer text are all typed.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "The name is the printed flyer heading on the back of the paper, not the poem. For a poem card it should be the poem's first line: 'Just a shadow of smoke'.",
+      "other_problems": "Summary says 'loose leaf' - it is a pink printed flyer with the poem handwritten on the back.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "128",
+      "number_blocks_seen": "128",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-2-8", "what_it_shows": "Spiral-torn lined sheet, untitled poem 'I woke up this morning / In a place I'd been before...' ending 'For I am the only one I'm screwing'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First typed part matches the sheet (small: line 'I know what's wrong and right' not typed). The typed 'THE END OF TIME / Your eyes are so beautiful...' and the 'WATERING THE WEEDS / Mommy's GIFT TO DAUGHTER' sheet (that is item 129's piece) are not on this photo.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'BREAKING THE LAW' is not written anywhere on the sheet. It has no title; should be the first line 'I woke up this morning'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "129",
+      "number_blocks_seen": "129",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-2-(cut off at top edge, only partly in frame); stray partial blocks at right edge", "what_it_shows": "Full long yellow legal sheet, red ink, WATERING the WEEDS, signed Tom Jensen 6/28-29/2003, 'THIS BELONGS ON THE FRIDGE!'. Other pieces show at the left edge (an '...OF TIME' sheet) and bottom-left."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-2-9", "what_it_shows": "Top of the yellow sheet: title, 'aka Mommy's GIFT TO DAUGHTER', margin notes 'reality vs. denial', 'the dream vs. the night mare', 'Lost & Loss'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Middle of the same yellow sheet: 'A man who's lost his mind...' down to 'There's already too few flowers'."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Lower part of the same yellow sheet down to the signature, date, fridge note and watering-can drawing."},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-2-9", "what_it_shows": "A second yellow legal sheet in black marker: 'You've got your fingers and your toes in the cracks of the dam... 'cause pretty soon its gonna give / When will you realize...'."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "The red-ink sheet (photos 1-4) is typed and matches (small: third typed part has 'is a broken sail' where the sheet says 'Keeps crashing into the dock'). Photo 5's black-marker sheet is not typed on this card - checked the full page text; those words sit on item 131's card instead.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary is wrong: says white notebook paper with one line of red ink - it is a yellow legal pad with a full red-ink poem, signed and dated (item 135's summary describes this sheet). Photo 1 cuts the number blocks off at the top and shows stray blocks and other pieces at its edges.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "130",
+      "number_blocks_seen": "130",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-3-0 (plus stray partial blocks at right edge)", "what_it_shows": "Three spiral-torn sheets top to bottom: 'you'd be wise to take my advice' draft, second 'You'd be wise... Well if you're hooked...' sheet, and the 'from cigarettes to booze to weed...' list. A different piece ('...OF TIME' sheet) shows at the left edge."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-3-0", "what_it_shows": "Close-up of the first sheet: 'you'd be wise to take my advice...' through 'But I escaped the demons and now I'm free'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-3-0 at top; loose stray blocks 2, 0, 9 lying at the right", "what_it_shows": "Full view of 'United We Stand' - a column of torn spiral strips, each verse starting 'All for one and one for all'."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-3-0", "what_it_shows": "Top of 'United We Stand' strips: title, first three verses."},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Middle 'United We Stand' strips ('As an individual we are so small' ... 'In line to by the seoual')."},
+        {"pos": 6, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Lower 'United We Stand' strips down to 'And I feel a wintery chill just starting'."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photos 3-6 show 'United We Stand' (blocks 1-3-0 in photos 3 and 4) and none of its words are typed on this card - checked the full page text; they are typed on item 131's card. The 'you'd be wise' sheets (photos 1-2) are typed. The typed '[Handwritten text at bottom left] OF TIME / be so beautiful...' is from a different piece sitting at the edge of photo 1, not this item.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Photo 3 has loose stray number blocks (2, 0, 9) lying beside the piece, which a buyer could misread. Summary says 'loose leaf, purple ink' - the sheets are spiral-torn and the ink looks black.",
+      "sure": "SURE"
+    }
+  ]
+}

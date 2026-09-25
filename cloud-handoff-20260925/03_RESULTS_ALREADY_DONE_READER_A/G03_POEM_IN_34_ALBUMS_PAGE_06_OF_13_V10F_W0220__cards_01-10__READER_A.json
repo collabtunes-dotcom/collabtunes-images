@@ -1,0 +1,155 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_06_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "608",
+      "number_blocks_seen": "608",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "608", "what_it_shows": "Full lined sheet, DIRT by Tom Jensen, with blocks 6-0-8 above it."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line, margin inserts included.",
+      "name_verdict": "OK",
+      "name_note": "DIRT is the title drawn on the sheet.",
+      "other_problems": "Summary says 'a slip of torn white paper'; the photo shows a full sheet of lined notebook paper.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "609",
+      "number_blocks_seen": "609",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "609", "what_it_shows": "Whole unfolded ROCK STAR DREAMS sheet with blocks 6-0-9."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "609", "what_it_shows": "Top half of the same ROCK STAR DREAMS sheet, closer."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Lower half of the same sheet, ending 'an occupation that's pleasing'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Matches the sheet. Only misreads: byline typed 'by tony genser' (sheet: by Tom Jensen) and 'since the age of seven' (sheet adds 'twenty').",
+      "name_verdict": "OK",
+      "name_note": "ROCK STAR DREAMS is the title drawn on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "610",
+      "number_blocks_seen": "610",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "610", "what_it_shows": "Whole unfolded RAT PARK sheet (6/2/18, by Tom Jensen)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "610", "what_it_shows": "Top half of the RAT PARK sheet, closer."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "610", "what_it_shows": "A second sheet, OTHER TIMES by Tom Jensen, whole and unfolded."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "610", "what_it_shows": "Top half of the OTHER TIMES sheet, closer."},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Lower half of the RAT PARK sheet."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Visible text is RAT PARK and matches. Past the 1800-char cut, the full page text also types OTHER TIMES (photos 3-4), checked in the page TXT twin. Each poem is typed twice, once per photo.",
+      "name_verdict": "OK",
+      "name_note": "RAT PARK is the title of the first sheet. The piece also includes a second sheet titled OTHER TIMES.",
+      "other_problems": "Two different poems (RAT PARK and OTHER TIMES) both carry 610 blocks, so the card shows two sheets. Typed words repeat each poem twice, so a buyer reads everything two times.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "611",
+      "number_blocks_seen": "611",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "611", "what_it_shows": "Full lined sheet starting 'The dazzling darkness caresses the silence', with blocks 6-1-1."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet (no title on it).",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "612",
+      "number_blocks_seen": "612",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "612", "what_it_shows": "Full lined sheet starting 'I can do better than I'm doin' now', with blocks 6-1-2."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet (no title on it).",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "613",
+      "number_blocks_seen": "613",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "613", "what_it_shows": "Full lined sheet, Wheat and Chaff by Tom Jensen, with blocks 6-1-3."},
+        {"pos": 2, "way_up": "CANT TELL", "blocks_in_this_photo": "613 (only the 1 and 3 in frame, cut off at top right)", "what_it_shows": "Back of the sheet lying at a steep slant (about 45-50 degrees). Only faint mirror-image show-through of the front writing; nothing readable. The partial blocks read the right way up, but the sheet itself has no normal way up at this angle."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Body matches. The last six lines are typed in scrambled order: the sheet reads 'Let us raise our glass to the past / For the cries / And to the laughs / Both the wheat and chaff / For what was left undone / For what can't be taken back'.",
+      "name_verdict": "OK",
+      "name_note": "Wheat and Chaff is the title drawn on the sheet.",
+      "other_problems": "Photo 2 shows a nearly blank, slanted back of the sheet (show-through only). It adds little for a buyer.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "614",
+      "number_blocks_seen": "614",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "614", "what_it_shows": "Full lined sheet, RIVAL by Tom Jensen, with blocks 6-1-4."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE (only the edge of one block at top, unreadable)", "what_it_shows": "Angled close-up of the same RIVAL sheet, tilted about 30 degrees and cropped on the right. Reads left to right. A quarter turn would not help."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "First block matches the sheet. The second block (after ---, headed 'RIVEN') re-types the same sheet from the cropped, angled photo 2: title misread, line ends cut off, lines merged.",
+      "name_verdict": "OK",
+      "name_note": "RIVAL is the title drawn on the sheet.",
+      "other_problems": "A buyer sees the poem twice, and the second copy is garbled under the wrong title 'RIVEN'.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "615",
+      "number_blocks_seen": "615",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "615", "what_it_shows": "Handwritten MULTIVERSE draft (grilled cheese / barbeque version) with blocks 6-1-5."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "615 (only 1 and 5 visible; the 6 is hidden under a curled sheet)", "what_it_shows": "A second handwritten MULTIVERSE draft ending with the Dante's Inferno lines."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "615 (only the 5 and the edge of the 1 visible)", "what_it_shows": "Printed MULTIVERSE by Tom Jensen with handwritten edits, on lined paper with handwritten lines below."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All three versions are typed (text cut at 1800 chars for the check). Only slip: the draft 1 typing skips the line 'Fuck the trophy for participation'.",
+      "name_verdict": "OK",
+      "name_note": "MULTIVERSE is the title on all three sheets.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "616",
+      "number_blocks_seen": "616",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "616", "what_it_shows": "Full lined sheet, GATE KEEPER by Tom Jensen, with blocks 6-1-6."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The first part, 'All my inner turmoil is at peace / I slayed the dragon, I conquered the beast' plus stray digits 6 1 6, is on no photo here. The GATE KEEPER part matches, though two lines are swapped ('I bet the girls...' comes before 'And this whole time the feds...' on the sheet).",
+      "name_verdict": "OK",
+      "name_note": "GATE KEEPER is the title drawn on the sheet.",
+      "other_problems": "The summary ('small, separate pieces of white paper') describes a photo not on this card. The only photo is a full lined sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "627",
+      "number_blocks_seen": "627",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "627", "what_it_shows": "Spiral-torn lined notebook sheet starting 'You can't burn what's already been burned', with blocks 6-2-7."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The first part, 'I, I dont want to lie to you ... but now there's no use' plus stray digits 6 2 7, is on no photo here. The 'You can't burn...' part matches the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet (no title on it).",
+      "other_problems": "The summary ('white cardboard with a vertical crease and damaged edges') does not match the photo, which shows a spiral-torn lined notebook sheet. It seems to describe a photo not on this card.",
+      "sure": "SURE"
+    }
+  ]
+}

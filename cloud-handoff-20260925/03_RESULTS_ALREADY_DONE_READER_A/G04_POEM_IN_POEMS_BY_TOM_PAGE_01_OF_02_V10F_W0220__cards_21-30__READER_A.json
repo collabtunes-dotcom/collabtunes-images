@@ -1,0 +1,147 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G04_POEM_IN_POEMS_BY_TOM_PAGE_01_OF_02_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "550",
+      "number_blocks_seen": "550",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-5-0 (550)", "what_it_shows": "Sheet 1: 'If I could turn back this clock' ... 'Why was I born'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-5-0 (550)", "what_it_shows": "Sheet 2: 'could capture this emotion' ... 'book of poetry!', scribbled-out lines below; another page lies over the left edge"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed, in order. Only small misreads (e.g. 'It's in my' vs 'and now it's in my').",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "556",
+      "number_blocks_seen": "556",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-5-6 (556)", "what_it_shows": "Page (2): 'We know the search is never easy' ... 'Even though we're the only ones getting hurt'"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-5-6 (556)", "what_it_shows": "Page (4): 'We've both seen the worst that can happen' ... 'You'll find your way to the bridge'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Pages (2) and (4) both typed and both pictured.",
+      "name_verdict": "OK",
+      "name_note": "First line of page (2).",
+      "other_problems": "Page (4) words typed here are also typed on card 655, whose photo shows a different sheet (see 655).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "557",
+      "number_blocks_seen": "557",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-5-7 (557)", "what_it_shows": "'A cheer full of beer' ... 'Or should I stop myself from asking?'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "Summary says blue ink; the ink looks black/dark. Same typed words also appear on card 755 (wrongly, see 755).",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "572",
+      "number_blocks_seen": "572",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-7-2 (572)", "what_it_shows": "Title in bubble letters 'MY OWN LITTLE WORLD...', 'My thoughts are flashing like...', side note 'Tom's Theme Song'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed title reads 'MY OWN WORLD' (drops 'LITTLE'); otherwise matches.",
+      "name_verdict": "OK",
+      "name_note": "Title on sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "575",
+      "number_blocks_seen": "575",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-7-5 (575)", "what_it_shows": "'When will this clouded curtain lift?' ... 'Now we're all blessed since I guessed it was up to me', with a right-margin note block"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "The right-margin note block is chopped into the main lines and partly missing ('unable to unravel the fable', 'since all the tales of glory that have been told', 'same as'). Main lines match.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "576",
+      "number_blocks_seen": "576",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "5-7-6 (576)", "what_it_shows": "Title 'Me & Frankie' (1) with side notes (Wading in the water)(Two of a kind)(Two pair), 'We've been best friends for years' ... 'That one special girl'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title on sheet.",
+      "other_problems": "Summary says the number cards are to the left; they are above the sheet. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "655",
+      "number_blocks_seen": "655",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-5-5 (655)", "what_it_shows": "'We both been to a place / That doesn't have a space' ... 'kinda like being sick'"}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words are page (4) 'We've both seen the worst that can happen' - that sheet is pictured on card 556, photo 2. The words on this photo ('We both been to a place ... Perception shift ... kinda like being sick') are not typed at all.",
+      "name_verdict": "OK",
+      "name_note": "First line of the pictured sheet.",
+      "other_problems": "Typed words belong to item 556's page (4); the card needs this sheet's own words typed.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "680",
+      "number_blocks_seen": "680",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "6-8-0 (680)", "what_it_shows": "Pencil and blue pen: 'I've been searching for myself' ... 'Here's a check just tell me where to sign'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Faint pencil lines have some [?] gaps; nothing real missing.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "Summary says the number cards are to the left; they are above the sheet. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "748",
+      "number_blocks_seen": "748",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-4-8 (748)", "what_it_shows": "Page (5): 'Surely someone, sometwo is out there somewhere' ... 'That we have to swim it ourselves'"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part (page 5) matches. The part after '---' ('The summer's here that means blue skies and sunshine ... The summer's here') is not on this photo.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "755",
+      "number_blocks_seen": "755",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "7-5-5 (755)", "what_it_shows": "Yellow legal pad, printed hand: 'Walking in Dublin / talking to Leprechauns' ... 'But only told me lies'"}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words are 'A cheer full of beer' - item 557's sheet. The Dublin words on this photo are not typed.",
+      "name_verdict": "OK",
+      "name_note": "Title/first line of the pictured sheet.",
+      "other_problems": "Summary 'plain paper, cursive' is wrong: it is yellow lined legal paper in printed handwriting.",
+      "sure": "SURE"
+    }
+  ]
+}

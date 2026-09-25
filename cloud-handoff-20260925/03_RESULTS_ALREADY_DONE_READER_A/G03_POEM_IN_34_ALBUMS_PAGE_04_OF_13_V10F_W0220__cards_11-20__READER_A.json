@@ -1,0 +1,147 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_04_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "395",
+      "number_blocks_seen": "395",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "395", "what_it_shows": "Lined sheet, 'The whole worlds a fight / I can't get no peace' short version, 9 lines."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "395", "what_it_shows": "Torn lined sheet, 'The whole world's a fight I can't get no peace' longer version ending 'We're all judged by the choices we make'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed, in photo order, separated by ---.",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "396",
+      "number_blocks_seen": "396",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "396", "what_it_shows": "Lined sheet torn from spiral plus a second half-sheet below: 'If you believe in lies' ending 'When every piece is on the stage?'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All six stanzas typed, including the one on the lower half-sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "Summary says 'ILLUSTRATED - cliff + falling figure drawn down right margin' but the photo shows no drawing at all; right margin is blank. Summary contradicts the photo.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "397",
+      "number_blocks_seen": "397",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "397", "what_it_shows": "Torn lined sheet, 'The light of another day, a fresh page in the book' ending 'that it cannot be turned'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part matches the photo. The second part after --- ('The laws we have obeyed ... The hunted we have tracked') is not on the pictured sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "399",
+      "number_blocks_seen": "399",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "399", "what_it_shows": "Two sheets: top lined sheet headed 'A lesson in politics one on one / I'm sure you'll like it it's so much fun' (full prose draft), and below it the starred shorter draft sheet."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "399", "what_it_shows": "The starred shorter draft sheet alone ('* Every candidate has a rhyme around election time ... they've said')."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Top sheet and starred sheet both typed. The starred sheet is typed twice (once per photo), so the same text repeats after ---.",
+      "name_verdict": "OK",
+      "name_note": "Heading line on the top sheet.",
+      "other_problems": "Typed words repeat the starred sheet a second time (same sheet seen in both photos) - a buyer sees the same lines twice.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "402",
+      "number_blocks_seen": "402",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "402", "what_it_shows": "Turned copy: torn lined sheet, 'She's all mine - you could never be any closer' ending 'But I could never be any closer'. Reads right way up."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "406",
+      "number_blocks_seen": "406",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "406", "what_it_shows": "Lined sheet titled 'RHYME OR REASON', one verse plus 4-line chorus."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "409",
+      "number_blocks_seen": "409",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "409", "what_it_shows": "Lined sheet, 8 lines: 'The brutal honesty of this [fish bowl] world ... push aside'. 'fish bowl' is a small insert with a caret above line 1."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part matches the photo. The second poem after --- ('I AM ALWAYS ALONE ... online there's always someone to know') is on no photo of this card. Also 'fish bowl' is typed as a title line but on the sheet it is an insert into line 1.",
+      "name_verdict": "OK",
+      "name_note": "'fish bowl' is on the sheet but is an insert into line 1, not a title. A fuller name would be 'The Brutal Honesty of This World'.",
+      "other_problems": "Summary says 'plain white piece of paper' with number papers 'to the left'; photo shows lined notebook paper with the number blocks above it.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "415",
+      "number_blocks_seen": "415",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "415", "what_it_shows": "Printed page: typed poem 'SNIPER' plus a printed ROCKVILLE news clipping about the sniper, with handwritten notes in black and blue ink all around the margins."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed words open with '4 / 1 / 5' - the number blocks typed as if they were words. Rest matches the printed poem, margin notes and clipping as far as the typed text goes. The left-margin blue lines ('Some may call me crazy / But I don't see it that way / I am just another hunter / And you are all my prey') are not in the shown text; may be past the 1800-char cut.",
+      "name_verdict": "OK",
+      "name_note": "SNIPER is the printed title; the '+ 2002 DC Sniper newspaper clipping' part is a description, not from the sheet.",
+      "other_problems": "Summary says 'lined notebook paper with handwritten text in black ink'; photo shows a printed (typed) page with a news clipping and handwritten notes, not lined notebook paper.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "417",
+      "number_blocks_seen": "417",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "417", "what_it_shows": "Lined sheet titled 'Love it or leave it', 'I am me so you can love it or leave it ... Could you ever conceive it?'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line 'Is the truth in the' drops the word 'eyes' (sheet: 'Is the truth in the eyes'). Otherwise matches.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary says 'handwritten text on a creased, circular paper plate'; photo shows an ordinary lined notebook sheet, no paper plate.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "418",
+      "number_blocks_seen": "418",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "418", "what_it_shows": "Lined sheet, 'Every candidate has a rhyme / Around election time' with the chorus 'A lesson in politics 101' repeated."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Hook/chorus line on the sheet.",
+      "other_problems": "Summary says number cards 'placed to the left'; they are above the sheet. Minor.",
+      "sure": "SURE"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_11_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "304",
+      "number_blocks_seen": "304",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-0-4 in a row = 304", "what_it_shows": "White sheet in block capitals, 'I AM TO GOD / WHAT THE BEATLES WERE TO JESUS', four stanzas split by lines"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "The typed lines are right, but the two middle stanzas are missing: 'CHAINED TO A CROSS / YOU CAN STILL GET LOST / BUT NOT EVERYONE BELIEVES THIS' and 'NOAH FLOATED IN A FLOOD / AND THE REASON WAS BECAUSE / HUMANS ARE LIKE VIRUSES AND DISEASES'.",
+      "name_verdict": "OK",
+      "name_note": "The first two lines of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "306",
+      "number_blocks_seen": "306",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-0-6 in a row = 306", "what_it_shows": "Lined sheet in cursive, 'Almost slippery, it's so surreal', with brackets and one struck line"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines typed, including the struck 'The way I think'. 'Sun God Ra' may read 'Re' on the sheet, but that is only a spelling point.",
+      "name_verdict": "OK",
+      "name_note": "The first line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "307",
+      "number_blocks_seen": "307",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-0-7 in a row = 307", "what_it_shows": "Torn half-sheet of lined paper, 'Living in the age of painted rust', six lines"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All six lines match.",
+      "name_verdict": "OK",
+      "name_note": "The first line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "310",
+      "number_blocks_seen": "310",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-0 in a row = 310", "what_it_shows": "Both sheets laid out top to bottom: the SONG STRUCTURE plan sheet above the lyric sheet ('I found truth within a song')"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-0 in a row = 310", "what_it_shows": "Close shot of the SONG STRUCTURE plan sheet (eyes/hair/face/fav. place, arrows, 'need Repeated Lyric')"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-0 in a row = 310", "what_it_shows": "Close shot of the lyric sheet: verses 1 and 2, 'REPEAT?' chorus, 'It sounded alot like / A poem I once wrote for you'"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "None of the words on the SONG STRUCTURE sheet (photo 2, and the top of photo 1) are typed, e.g. 'Hear song on radio about female...', 'hair blonde and straight', 'That little wrinkle round your nose'. The typed words are only 6 lines from the lyric sheet (photo 3). Most of that sheet is not typed either (verse 2 'He described your eyes...', the 'Sounded a lot like' chorus).",
+      "name_verdict": "OK",
+      "name_note": "'SONG STRUCTURE' is the title written on sheet 1. But the typed words all come from sheet 2.",
+      "other_problems": "The summary calls it an 'Architecture plan'. It is a song-structure plan, and the summary does not mention the second lyric sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "315",
+      "number_blocks_seen": "315",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-5 in a row = 315", "what_it_shows": "White sheet, 'La La La La La La La', with lines on the Taliban, Obama and Bill Clinton"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Not typed: the first line 'La La La La La La La', the second line 'Fuck the Taliban... and that son of a bitch OSAMA', and 'Ah Yeah...' before 'Bill Clinton'. The rest matches.",
+      "name_verdict": "OK",
+      "name_note": "The first line of the sheet (it is also on the sheet as the opening). Note that the name line is not in the typed words.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "319",
+      "number_blocks_seen": "319",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-9 in a row = 319", "what_it_shows": "Lined sheet titled 'Obamafication of the masses', full poem"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "This is only a short extract (3 lines plus 'Suffer sooner or suffer later'). Most of the sheet is not typed: 'Yes we can / But we didn't / See sometimes / Truth is hidden', 'Sure some words...', 'The Rhetoric just keeps getting repeated...', 'Vote for the war hero or the good neighbor', 'Yes we can...'. The words that are typed are correct.",
+      "name_verdict": "OK",
+      "name_note": "The title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "321",
+      "number_blocks_seen": "321",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-2-1 in a row = 321", "what_it_shows": "White sheet titled 'SELF': a printed-out lyric with handwritten edits, and the first stanza handwritten again below ('use first stanza')"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "This is only a 4-line extract. Most of the sheet is not typed ('Staying awake trying / To find the right lines', 'Trying to explain this...', 'Raise your hands up...', and the handwritten first stanza written again). The typed lines are correct.",
+      "name_verdict": "OK",
+      "name_note": "The title 'SELF' written at the top.",
+      "other_problems": "The summary says 'lined paper'. The sheet is plain white with typed text and handwriting on it.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "338",
+      "number_blocks_seen": "338",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-3-8 in a row = 338", "what_it_shows": "Hole-punched lined sheet titled 'The Watcher' with drawn eyes, full lyric"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "This is only a 4-line extract. Most of the sheet is not typed ('Hold onto your dreams / Tonight could be the night you fall in love...', 'He removed my blindfold...', etc.). The typed lines are correct.",
+      "name_verdict": "OK",
+      "name_note": "The title written on the sheet.",
+      "other_problems": "The summary says 'torn sheet'. It looks like a whole hole-punched sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "344",
+      "number_blocks_seen": "344",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-4-4 in a row = 344", "what_it_shows": "Hole-punched lined sheet, 'As if you were my children I sacrifice for you', full lyric"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "This is only a 4-line extract (two lines from the middle and the last two). Most of the sheet is not typed ('A mind like mine don't come around that often...', 'I put my girl on hold...', 'Now stand before you naked...', etc.). The typed lines are correct.",
+      "name_verdict": "OK",
+      "name_note": "The first line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "349",
+      "number_blocks_seen": "349",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-4-9 in a row = 349", "what_it_shows": "Spiral-torn lined sheet, 'Has she ever called out my name when you two were lying in bed?', 7 lines"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Only the first and last lines are typed. Not typed: 'Did she ever scream out in pain \"I can't get him out of my head!\"', 'Has she ever said that I was to blame yes I'm sure that's what she said', 'Did she ever complain that she'd be better off dead?', 'I'm sure she did. So hard to keep those feelings hid'.",
+      "name_verdict": "OK",
+      "name_note": "The first line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

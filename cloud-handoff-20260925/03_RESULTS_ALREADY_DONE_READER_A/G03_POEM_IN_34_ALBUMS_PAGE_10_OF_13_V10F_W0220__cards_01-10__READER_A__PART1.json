@@ -1,0 +1,105 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_10_OF_13_V10F_W0220__cards_01-10__READER_A__PART1.json",
+  "note": "PART1 - cards 1-7 of 10 (items 23, 44, 49, 62, 63, 66, 77). Full file follows.",
+  "cards": [
+    {
+      "item_number": "23",
+      "number_blocks_seen": "023",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-2-3 = 023", "what_it_shows": "Hole-punched loose leaf, title BLANK PAGES, about 25 handwritten lines"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Only 3 lines typed (first two lines and the 'yes when I mean no' line). The rest of the sheet (about 20 lines, from 'It is up to me what to fill that book with' to 'I will not leave any pages blank') is not typed.",
+      "name_verdict": "OK",
+      "name_note": "Title BLANK PAGES written at top of sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "44",
+      "number_blocks_seen": "044",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-4 = 044", "what_it_shows": "White lined loose leaf, spiral-torn edge, I AM WORSE THAN JUDAS with crossouts"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Sheet reads 'Now may I go in peace / Finally I have my freedom'; typed has 'Now I can have my freedom / Finally I have found peace' (peace/freedom swapped). Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "Title/first line on sheet.",
+      "other_problems": "Summary says Dodge Street Bar and Grill August 2003 schedule on pink paper; the photo shows plain white lined loose leaf, no flyer, no pink paper.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "49",
+      "number_blocks_seen": "049",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-9 = 049", "what_it_shows": "Handwritten 8 lines 'Seems like silver is the color' on plain sheet (printed grid faintly showing through from back)"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-4-9 = 049", "what_it_shows": "Printed Dodge Street Bar and Grill March 2002 music schedule flyer, no handwriting visible (other side of the sheet)"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed skips the repeated line 'Seems like silver is the color' (line 3) and the line 'Though I heard my soul scream'. Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet.",
+      "other_problems": "Summary says 'numbered 9+4 in cards'; blocks read 0-4-9. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "62",
+      "number_blocks_seen": "062",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-6-2 = 062", "what_it_shows": "White lined notebook sheet, bubble-letter title ALL YOU GOT, 12 lines"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title ALL YOU GOT in bubble letters.",
+      "other_problems": "Summary says 'torn envelope or folded paper, yellowed/cream, numbered 9 in cards'; photo shows a clean white lined notebook sheet numbered 0-6-2.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "63",
+      "number_blocks_seen": "063",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-6-3 = 063", "what_it_shows": "Lined loose leaf marked 21 at top, 'Well the doctor's in and he'll take your money'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Tiny misread only ('faking' where sheet reads 'while they're raking').",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet.",
+      "other_problems": "Summary says 'numbered 0 (=10?) in cards'; blocks read 0-6-3. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "66",
+      "number_blocks_seen": "066",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-6-6 = 066", "what_it_shows": "Spiral-torn lined sheet, 4 handwritten lines 'They only say you first'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet.",
+      "other_problems": "Summary says 'torn spiral strip, small'; it is a full-size spiral-torn sheet. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "77",
+      "number_blocks_seen": "077",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "0-7-7 = 077", "what_it_shows": "Cream/yellowish lined sheet, 'It's not that I'd rather be alone'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

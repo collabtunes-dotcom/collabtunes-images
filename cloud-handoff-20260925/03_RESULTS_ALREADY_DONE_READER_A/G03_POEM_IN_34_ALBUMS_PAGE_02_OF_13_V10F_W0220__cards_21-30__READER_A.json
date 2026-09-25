@@ -1,0 +1,149 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_02_OF_13_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "158",
+      "number_blocks_seen": "158",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "158", "what_it_shows": "Lined loose-leaf sheet with bent top corner, 'I come here to collect my thoughts', blocks 1-5-8 above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow the sheet line for line, including the struck 'But'/'And' and bracketed chorus.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "160",
+      "number_blocks_seen": "160",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "160", "what_it_shows": "Clean lined sheet, 'They locked him in the closet... Rehab' lyric, blocks 1-6-0 above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 14 written lines are typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "166",
+      "number_blocks_seen": "166",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "166", "what_it_shows": "Lined sheet titled 'LAST Shot' in bubble letters with a basketball drawing, 16 lines, blocks 1-6-6 above"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part (Last Shot, 16 lines) matches the photo. Everything after the '---' ('I set out on my own today... For until now its been way too dark') is on no photo of this card - probably the back of the sheet, which is not photographed.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet: LAST Shot.",
+      "other_problems": "Back side (second poem) needs a photo, or the second part is from another sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "173",
+      "number_blocks_seen": "173",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "173", "what_it_shows": "Both neon-yellow sheets together, lyric side: 'There's no more secrets' (sheet 1) and 'While you've been praying for salvation' (sheet 2)"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "173", "what_it_shows": "Close-up of sheet 1, 'There's no more secrets... then that's the end'"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "173", "what_it_shows": "Close-up of sheet 2, 'While you've been praying for salvation... When you gonna get off?'"},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Back of both sheets: printed Porthole Restaurant, Lynn MA, June 2003 music calendar, marker bleed-through"},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "173", "what_it_shows": "Back of one sheet: Porthole Restaurant June 2003 calendar, second calendar sheet below"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Lyrics on both sheets are all typed and match. The typed text then repeats sheet 1 again under a reader header.",
+      "name_verdict": "OK",
+      "name_note": "First line of sheet 1.",
+      "other_problems": "typed_words contain raw reader notes a buyer would see: '[read/page 2 - shot 532] TITLE : [NONE] PAPER : loose sheet LINES : 18 TEXT :' and then the same lyrics a second time. Needs cleaning so the words appear once. Summary describes only the printed calendar back, not the handwritten lyric side.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "174",
+      "number_blocks_seen": "174",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "174", "what_it_shows": "Loose sheet with torn/folded top corner and a stain, 'As old as the earth is', blocks 1-7-4 above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 20 lines typed as written.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "180",
+      "number_blocks_seen": "180",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "180", "what_it_shows": "Spiral-torn sheet in blue and red ink, 'Who am I?', 'SNIPER' written top right, blocks 1-8-0 above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines typed; the two scribbled-out words shown as [redacted].",
+      "name_verdict": "OK",
+      "name_note": "'SNIPER' is written on the sheet as the title.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "182",
+      "number_blocks_seen": "182",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "182", "what_it_shows": "Lined loose-leaf sheet titled 'Chameleon', blocks 1-8-2 above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines typed as written.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "183",
+      "number_blocks_seen": "1583",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1583", "what_it_shows": "A gold Sony CD-R hand-labelled 'JUSTIN JUSTICE.com / ReadTom.com / 18 songs', blocks 1-5-8-3 above - not a lyric sheet"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words copy the CD label in the photo - but that CD is item 1583, not 183. No Chameleon sheet (or any written sheet for 183) is pictured.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "The pictured piece is a CD; 'Chameleon' is not on it. For the CD the name would be 'JUSTIN JUSTICE.com' - but that belongs on card 1583. Item 183's real photo is needed to name it.",
+      "other_problems": "Photo 1 shows blocks 1583, not 183: this photo belongs to item 1583 and should come off card 183. Item 183 has no photo of its own yet - find it. Summary says 'Piece of lined notebook paper' but the photo is a CD. Typed words are the CD label, so they also belong to 1583.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "187",
+      "number_blocks_seen": "187",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "187", "what_it_shows": "Lined loose-leaf sheet with torn left edge, 'THE GAME', blocks 1-8-7 above; faint writing shows through from the back"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part (THE GAME, to 'Back to the bench') matches. The part after '---' ('Time for the winners and the losers... They'll be another game') is not on this photo - it shows through faintly, so it is on the back of the sheet, which is not photographed.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Back side needs its own photo. Summary says red ink and a spiral-bound sheet; the photo shows dark (black/brown) ink on 3-hole loose-leaf.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "189",
+      "number_blocks_seen": "189",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "189", "what_it_shows": "Stained loose-leaf sheet with 'ME' in outline letters, 'Who wants to believe the lies?', blocks 1-8-9 above"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines typed; sheet says 'Me, Me, Me' where typed has 'Me, Me' - trivial.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

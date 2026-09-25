@@ -1,0 +1,145 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_10_OF_13_V10F_W0220__cards_21-30__READER_A.json",
+  "cards": [
+    {
+      "item_number": "203",
+      "number_blocks_seen": "203",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-0-3", "what_it_shows": "Creased, torn-edge lined sheet with 6 handwritten lines about war, line counts 14/14/12/12 in left margin"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line 3 on the sheet reads 'Throughout all of our history it's been intertwined with our destiny' - typed drops 'destiny' (and the added 'all of', 'it's'). 'rests within' is an insert over line 3/4, typed as a separate stray line 'rests within its'.",
+      "name_verdict": "OK",
+      "name_note": "Name is the first line, but it starts with '14 14', which are margin line counts, not words. Better: 'It's Such a complicated subject this matter of war'.",
+      "other_problems": "Summary says 'severely crumpled' - sheet is creased with a torn edge and folded corner, not badly crumpled.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "205",
+      "number_blocks_seen": "205",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-0-5", "what_it_shows": "Lined notebook sheet, 14 handwritten lines 'I said you've got to hold on', a few crossed-out words"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "The line 'if you keep on trying' is NOT crossed out on the sheet (only a word before it is), but typed shows it as crossed out. Otherwise matches.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "215",
+      "number_blocks_seen": "215",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-1-5", "what_it_shows": "Printed (typed) sheet of 9 'white trashification' verses with handwritten ending lines and two handwritten verses at bottom"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words only cover the two handwritten verses at the bottom. Missing: the handwritten line 'Hoping for a reversal of trends but how much longer will I have to wait?' and all 8+ printed verses above it (real estate, Katrina, Walmartization, etc.).",
+      "name_verdict": "OK",
+      "name_note": "The repeated opening line of every verse.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "222",
+      "number_blocks_seen": "222",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-2-2", "what_it_shows": "Yellow legal pad sheet titled ABSOLUTELY MARIE, two boxed verses with chorus, timing notes at bottom"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are only two lines ('Words I think Bob Dylan said / Just leave it up to him to steal my phrase for you'). The whole rest of the song on the sheet is not typed: 'I know her name... Absolutely Sweet Marie', both verses, both 'Absolutely' choruses, 'She is positively a woman...', 'You never know what the future holds...'.",
+      "name_verdict": "OK",
+      "name_note": "Title printed at top of sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "227",
+      "number_blocks_seen": "227",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-2-7", "what_it_shows": "Lined notebook sheet titled MY WILL, 8 handwritten lines"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title at top of sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "243",
+      "number_blocks_seen": "243",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-4-3", "what_it_shows": "Folded white sheet, 7 handwritten lines 'I'm not an under a chiever...' with syllable counts and a rhyme list (Sooner/Rumor, humor, consumer, crime, rhyme, time...) on the right"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Only small misreads in the rhyme list (e.g. 'amor' looks like 'tumor', 'Thyme' is 'rhyme').",
+      "name_verdict": "OK",
+      "name_note": "'Sooner' is written at the top right as the heading word; first line is 'I'm not an under a chiever'.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "248",
+      "number_blocks_seen": "248",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-4-8", "what_it_shows": "Torn half-sheet of lined notebook paper, short handwritten Crown Royal joke"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line, cut short ('Do you really think they'd let a').",
+      "other_problems": "Summary says 'white lined index card' - it is a torn piece of lined notebook paper (pink margin line), not an index card.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "249",
+      "number_blocks_seen": "249",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-4-9", "what_it_shows": "Lined notebook sheet, 14 handwritten lines in cursive '9 o'clock in the morning'"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "257",
+      "number_blocks_seen": "257",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-5-7", "what_it_shows": "Lined notebook sheet with ragged top, about 16 handwritten lines 'I love you to learn you', several crossed-out words"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed has only the first 2 and last 2 lines. The middle is not typed: 'You see I got these demons / Who don't deal well with feelings / When betrayed by your senses / You learn to build up defenses / And to hide in dark places / drawing lines no one traces / Blazing a trail no one follows / A space empty and hollow'.",
+      "name_verdict": "OK",
+      "name_note": "First line.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "258",
+      "number_blocks_seen": "258",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "2-5-8", "what_it_shows": "Lined notebook sheet with ragged top, 8 handwritten lines 'I'm tired of fakes and flakes' plus one line at the bottom"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed misses the whole first verse ('I'm tired of fakes and flakes / For goodness sakes / I've had it up to here / Not sure how much more I can take') and the line 'I'm leading the legions'.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet (but that line is missing from the typed words).",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

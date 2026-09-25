@@ -1,0 +1,155 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G01_SONG_FULL_LYRICS_PAGE_02_OF_03_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "221",
+      "number_blocks_seen": "221",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "221", "what_it_shows": "White lined sheet, untitled lyric starting 'Huh, money's nothing / but a sin to be born', ending 'our castle is made of sand'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Section 1 (Huh, money's nothing ... castle is made of sand) matches the photo. Sections 2 ('Just what is wrong with me? ...') and 3 ('A B C D E F G ... When you look at me and think to yourself that I should act my age') are on no photo of this card.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'THE LIGHT OR THE WHITE' is the title of item 223's yellow sheet. This sheet has no title; use first line 'Huh, money's nothing' (or hook 'Our castle is made of sand').",
+      "other_problems": "Name borrowed from item 223.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "223",
+      "number_blocks_seen": "223",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "223", "what_it_shows": "Yellow legal pad sheet titled 'THE LIGHT OR THE WHITE', one verse in ink."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed words skip the line 'The white or the light' (between 'Either lead the pack or follow behind' and 'Its the fight of your life'). Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "Title written at top of sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "230",
+      "number_blocks_seen": "230",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "230", "what_it_shows": "Lined notebook sheet, 'Orange is the color of the trees', three stanzas with some lines struck, 'In the warmth of her eyes' at bottom."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Section 1 (Orange is the color of the trees ...) matches. Sections 'SEXUAL INTELLECTUAL' and 'Before Class Entry 3/27 MAJOR BLUES...' are on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says pencil writing; the sheet is written in pen/ink.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "237",
+      "number_blocks_seen": "237",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "237", "what_it_shows": "White sheet of handwritten song production notes in pencil, blue and orange ink (Piano, Strings, 'do do do', timings 1:20, 2:30, 3:20, 3:50, 'it's just so sad I'll never see you around')."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Notes match the sheet, but the typed words begin with the block digits '[2] [3] [7]' as if they were writing on the sheet.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'ANY GIVEN DAY' is not written anywhere on this sheet. Sheet's own words: 'Piano - do do, do do' or 'It's just so sad I'll never see you around'. (Same sheet lies beside the Blessing in Disguise package in item 238's photos, so these may be notes for that song.)",
+      "other_problems": "Summary is wrong: says 'a printed poem' with number cards 'to the left'; it is handwritten production notes with the blocks above. Item type 'FULL LYRICS' does not fit a notes sheet.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "238",
+      "number_blocks_seen": "238",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "SIDEWAYS", "blocks_in_this_photo": "238 (column at right edge, reads 238 once turned) plus loose spare digit squares at bottom right", "what_it_shows": "Wide overview of the whole Blessing in Disguise package laid out on a bed. This turned copy is STILL SIDEWAYS: all writing runs down the screen; needs a quarter turn to the left."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "238", "what_it_shows": "Typed colored BLESSING IN DISGUISE sheet with handwritten margin lines and 'Phongy @ telus.net'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Handwritten syllable worksheet (1): 'facing the unknown', 'can show you things that weren't shown', 'some times you must wear a blind fold', 'before you can tell how much you've grown'."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Typed page with writer's notes and two 'deleted stanza for length/weakness' stanzas."},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Typed page 'Allowing you to gaze up at brighter skies' with handwritten lines at right."},
+        {"pos": 6, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Handwritten syllable worksheet (2): 'why can no one be owned', 'beneath your breath you moan', 'perhaps your reaction was overblown'."},
+        {"pos": 7, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE (loose spare digit squares at right edge, not a number)", "what_it_shows": "Handwritten note 'Blessing in disguise... Duet - male & female', blue ink with drawn arrows."},
+        {"pos": 8, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE (one partial square at bottom right)", "what_it_shows": "Handwritten chorus worksheet 'Soaked to the bone / As you're on your way home' with rhyme list. This turned copy reads the right way up."},
+        {"pos": 9, "way_up": "UPRIGHT", "blocks_in_this_photo": "238", "what_it_shows": "Same typed BLESSING IN DISGUISE center sheet, second shot."},
+        {"pos": 10, "way_up": "UPRIGHT", "blocks_in_this_photo": "240", "what_it_shows": "WRONG PIECE: both pages of TALKING 'BOUT (item 240)."},
+        {"pos": 11, "way_up": "UPRIGHT", "blocks_in_this_photo": "240", "what_it_shows": "WRONG PIECE: page 1 of TALKING 'BOUT (item 240), 'Stadiums full of screaming teens'."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Center sheet and photo 4 text are typed. Photo 3 worksheet is typed only as its margin words 'unknown / grown'; its lines (blind fold, how much you've grown, rhyme list) are missing. Typed text is cut at 1800 chars so photos 5-8 could not be fully checked.",
+      "name_verdict": "OK",
+      "name_note": "Title typed on the center sheet.",
+      "other_problems": "Photos 10 and 11 carry blocks 240 - they are item 240's TALKING 'BOUT pages and should come off this card and go to 240. Photo 1 'upright' replacement is still sideways.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "240",
+      "number_blocks_seen": "240",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "240", "what_it_shows": "Page 2 of TALKING 'BOUT: typed 'Not to rebel so you just gave in / Talking 'bout...' with many green handwritten lines."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "The green handwritten lines on the pictured page ('Stopping traffic without crossing the street', 'Seeing smiling faces on everyone you meet', 'Your find yourself in a fast car with an even faster girl ... Both your face and name', 'A crisp hundred dollar bill in the hands of the door man') are not typed; only the struck typed lines are. The typed page-1 section (Stadiums full of screaming teens ...) is not pictured on this card - its photos sit on card 238.",
+      "name_verdict": "OK",
+      "name_note": "Title on the sheet.",
+      "other_problems": "Page 1 photos of this piece (blocks 240) are on card 238 (its photos 10 and 11); they belong here. Summary 'single sheet with circled and listed numbers' undersells it: typed lyric page with green handwritten lyrics.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "266",
+      "number_blocks_seen": "266",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "266", "what_it_shows": "Lined notebook sheet titled 'Fallen clouds', one verse in ink."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "270",
+      "number_blocks_seen": "270",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "270", "what_it_shows": "Two overlapping lined sheets in ink: 'I got a postcard from you a day before yesterday...' and 'Unfadable... / Tracable... / Unavoidable...'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "'a day before' is typed as its own first line, but on the sheet it is an insert into line 1 ('I got a postcard from you a day before yesterday'). Otherwise matches.",
+      "name_verdict": "JUNK NAME",
+      "name_note": "'a day before' is only a small insert written above 'yesterday', not a title. Better: 'I got a postcard from you' (first line).",
+      "other_problems": "Summary says 'a blank sheet'; both sheets are lined.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "327",
+      "number_blocks_seen": "327",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "327", "what_it_shows": "Lined notebook sheet, alphabet rhyme strip at top, lyric 'You drown all of your sadness ... beds of gold for beds of straw', blue ink."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "JUNK NAME",
+      "name_note": "The alphabet strip at the top is a rhyming aid, not a title. Use first line 'You drown all of your sadness' (or hook 'Where losers win and winners draw').",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "332",
+      "number_blocks_seen": "332",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "332", "what_it_shows": "Lined sheet titled 'SINK OR SWIM', one long verse in black ink."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "Title on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

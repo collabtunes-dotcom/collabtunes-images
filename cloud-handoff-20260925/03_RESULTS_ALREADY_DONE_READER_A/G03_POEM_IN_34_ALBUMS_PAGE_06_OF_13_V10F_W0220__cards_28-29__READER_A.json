@@ -1,0 +1,53 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_06_OF_13_V10F_W0220__cards_28-29__READER_A.json",
+  "cards": [
+    {
+      "item_number": "1732",
+      "number_blocks_seen": "1732",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "SIDEWAYS", "blocks_in_this_photo": "1-7-3-2 (column, read bottom to top) = 1732", "what_it_shows": "GROOVE BACK II SONG 55 sheet and FOUR PILLS A DAY sheet with the number blocks. Printed text runs up the screen (phone turn tag), needs a quarter turn."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "End of Groove Back II (were wrong / new refrain), 'Probably can't when any tool...keep your cool' sheet, ROOFER OR TRUTHER, NETWORK DECAY, EANIE MEANIE; edge of 'I need a blender'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "End of SOME WILL SAY, TV STATIONS CAN BE FRIENDS (149), SEWN SAUSAGE SANDWICH song 64, FOUR PILLS A DAY (two printouts)."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "SONG 14 (12.2025 phone lyrics) ONE STEP HIGHER, full sheet."},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Sheet ending 'of actions that can't be taken back' with handwritten 'Slowly driving insane by a holographic society'; SONG NUMBER 11 (797, 15b of 30) BITS AND PIECES WHORE SONG."},
+        {"pos": 6, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "SONG 61 IT WILL GROW BACK, (432) FAIRYTALES, (488) BURIED TREASURE, (7) Revolutionary Shifts, 226, SONG 51 with handwritten 'Why', CLOSURE."},
+        {"pos": 7, "way_up": "SIDEWAYS", "blocks_in_this_photo": "1 and the edge of a second block (part of 1732 row)", "what_it_shows": "KEEPING COOL (771), SONG 65 SOME WILL SAY, DIDDY MOCUMENTARY PARODY song 58, TV STATIONS, SEWN SAUSAGE, FOUR PILLS. This turned copy is sideways; the original file 20260823_162937.jpg already shows upright (landscape)."},
+        {"pos": 8, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "SONG 57 FIND THE ___ with handwritten 'Groove Back II song 55 put here', edits 'that lasts' and 'become'; (67), (77), (464) SO SORRY, (467) TAKE NO PRISONERS, (436) ARUNDHATI ROY."},
+        {"pos": 9, "way_up": "UPRIGHT", "blocks_in_this_photo": "partly hidden, tilted blocks at right edge - cannot read (do not look like 1-7-3-2)", "what_it_shows": "A second GROOVE BACK II SONG 55 printout (first half only) with handwritten 'Find the ___ song 57 put here'; top of IN FRONT OF THE MAN."},
+        {"pos": 10, "way_up": "UPRIGHT", "blocks_in_this_photo": "edge of one block at top, unreadable", "what_it_shows": "IN FRONT OF THE MAN song 18, full sheet."},
+        {"pos": 11, "way_up": "SIDEWAYS", "blocks_in_this_photo": "NONE", "what_it_shows": "Blurry: end of EANIE MEANIE, 'I need a blender', PLANKTON (763, 13 of 30), edge of SONG 14. This turned copy is sideways; the original file 20260823_162951.jpg already shows upright (landscape)."},
+        {"pos": 12, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Very blurry, unreadable: the BITS AND PIECES sheet and the 'Slowly driving insane' sheet (same view as photo 5)."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed part matches photos 1-2 (Groove Back II, Four Pills, keep your cool, Roofer, Network Decay, Eanie Meanie) with misreads: 'So I can get AIDS' (sheet: can't), 'any fool' (sheet: tool), line 'Take two of these and after this' missing. Handwritten notes on photos 8 and 9 ('Groove Back II song 55 put here', 'Find the ___ song 57 put here') not in the typed part shown. Text cut at 1800, so cannot tell if the many other sheets in photos 3-12 are typed.",
+      "name_verdict": "OK",
+      "name_note": "GROOVE BACK II SONG 55 is the printed title on the sheet.",
+      "other_problems": "Photo 1 (as the website shows it) is sideways and has no turned copy. Photos 7 and 11: the turned copies are SIDEWAYS - the original files already display upright, so replacing would break them. Photos 11 and 12 are too blurry to read. Photos 3-12 show about 20 other songs' sheets; unclear they are all part of 1732. Photos 5 and 12 show SONG NUMBER 11 (797, 15b of 30), same numbering series as Set List 22 (item 1733, songs 787-799) - may belong to 1733. Photo 9 has partly hidden blocks that may be another item's number.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1733",
+      "number_blocks_seen": "1733",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "SIDEWAYS", "blocks_in_this_photo": "1-7-3-3 (reads 1733 once turned; original shows them in a row 1 7 3 3)", "what_it_shows": "Overview of the whole Set List 22 spread (Songs 1-10, 12, 13, Song 67, Song 8). This turned copy is sideways; the original 20260823_163241.jpg already shows upright (landscape)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1 7 3 3 (row) = 1733", "what_it_shows": "SET LIST 22 (ALBUM 32), SONG NUMBER 1 (787, 14b of 30) TONY'S SONG."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "SONG NUMBER 3 (789, 14b of 30) KILL THE SEED with handwritten 'While you're day dreaming about the stars / I'm trying to find a way to warn ya!'; top of SONG NUMBER 4."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "SONG NUMBER 4 (790, 15 of 30) THINKING GETS RISKY; top of SONG NUMBER 5."},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "SONG NUMBER 5 (791, 15 of 30) MY FAN FICTION, full."},
+        {"pos": 6, "way_up": "SIDEWAYS", "blocks_in_this_photo": "NONE", "what_it_shows": "SONG NUMBER 9 LICK MY TOES HO, SONG NUMBER 10 READING I BLOW, SONG NUMBER 12 RISK GENES. This turned copy is sideways; the original 20260823_163301.jpg already shows upright."},
+        {"pos": 7, "way_up": "SIDEWAYS", "blocks_in_this_photo": "NONE", "what_it_shows": "SONG 67 CATCH A STRAY and SONG 8 (12.2025) RECKLESS GIRLS. This turned copy is sideways; the original 20260823_163304.jpg already shows upright."},
+        {"pos": 8, "way_up": "UPRIGHT", "blocks_in_this_photo": "1 (edge, part of the 1733 row)", "what_it_shows": "SONG NUMBER 6 (792) ME AND TOM CRUISE and SONG NUMBER 7 (793) WALLFLOWER POOP; edge of the handwritten note."},
+        {"pos": 9, "way_up": "SIDEWAYS", "blocks_in_this_photo": "one block mostly hidden under a sheet, unreadable", "what_it_shows": "SONG NUMBER 2 (788, 14b of 30) LOVE AND MY HAND and SONG NUMBER 13 (799) WHEN YOU'RE HAMMERED. This turned copy is sideways; the original 20260823_163311.jpg already shows upright."},
+        {"pos": 10, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "SONG 8 (12.2025 phone lyrics) RECKLESS GIRLS, full."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed text jumps straight to Song Number 3: the SET LIST 22 header, Song Number 1 TONY'S SONG (photo 2) and Song Number 2 LOVE AND MY HAND (photo 9) are not in the typed part shown (text is cut at 1800, but order says they were skipped). Kill the Seed is badly misread: most lines wrong ('They say to go in the news' = 'Don't go in the ocean', 'A dead summer is a new sharp paragraph' = 'A death sentence is now thirty paragraphs') and the verse 'There's bugs in all our devices...entering our heads!' is missing. Headers misread (798,14f should be 789,14b; Song 4 798 should be 790). Handwritten note: 'worry you' should be 'warn ya', and it is below Kill the Seed in marker, not top-left pencil. Thinking Gets Risky has several misread lines ('this out like a muthafuchin squirm' = 'this nut like a muthafuckin squirrel', 'Get sweaty' = 'Get honey', 'milk the stump' line wrong).",
+      "name_verdict": "OK",
+      "name_note": "SET LIST 22 is the printed heading on the first sheet (photo 2).",
+      "other_problems": "Photos 1, 6, 7, 9: the turned copies are SIDEWAYS - the original files already display upright, so replacing them would make these photos wrong. Song Number 11 of this set is not pictured here; a SONG NUMBER 11 (797, 15b of 30) sheet appears on card 1732 photos 5 and 12.",
+      "sure": "FAIRLY SURE"
+    }
+  ]
+}

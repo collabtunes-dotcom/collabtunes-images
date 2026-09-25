@@ -1,0 +1,98 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G02_SONG_HALF_OR_SHORTER_LYRICS_THAT_BECAME_A_SONG_PAGE_02_OF_02_V10F_W0220__cards_11-13__READER_A.json",
+  "cards": [
+    {
+      "item_number": "984",
+      "number_blocks_seen": "984",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "984 (row, left to right: 9-8-4)",
+          "what_it_shows": "Torn-off spiral notebook page with 4 handwritten lines at top, three number squares above it."
+        }
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 4 handwritten lines match the typed words.",
+      "name_verdict": "OK",
+      "name_note": "Name is the first line of the sheet.",
+      "other_problems": "None.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "993",
+      "number_blocks_seen": "993",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "993 (row, left to right: 9-9-3)",
+          "what_it_shows": "Lined notebook sheet with ragged torn edge, 6 handwritten lines at top and a pen scribble in the middle, three number squares above."
+        }
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All 6 handwritten lines match the typed words ('whole' wraps onto its own line on the sheet). The scribble is not words.",
+      "name_verdict": "OK",
+      "name_note": "Name is the first line of the sheet.",
+      "other_problems": "None.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1756",
+      "number_blocks_seen": "1756",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {
+          "pos": 1,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "1756 (row: 1-7-5-6)",
+          "what_it_shows": "Top page of a stack of printed lyric sheets: 'Rules?' / I AM THE RULES, NICE TITS, BUSINESS, POTATO, LAIDIES, HUMAN BEING, NO WINTER, ALL IN A DAY, with handwritten circles, 'see ALL IN A DAY' notes and bracketed list."
+        },
+        {
+          "pos": 2,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "1756 (row: 1-7-5-6)",
+          "what_it_shows": "Next printed page: DEADLINES, TIME, ORDER, LADIES, THRONE, SAVING, with two handwritten 'see ALL IN A DAY' notes."
+        },
+        {
+          "pos": 3,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "1756 (row: 1-7-5-6)",
+          "what_it_shows": "Next printed page: THIS MOFO, NEITHER, GARDEN OF FLOWERS, FODDER, EXCEPTIONAL, SLAPPED."
+        },
+        {
+          "pos": 4,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "1756 (row: 1-7-5-6)",
+          "what_it_shows": "Next printed page: MAN IN THE MOON, MY SIDE (circled, 'Besides' and 'see ALL IN A DAY' handwritten), WAVES, GOTTA BE."
+        },
+        {
+          "pos": 5,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "partial, cut off at top edge: -7-5-6 bottoms visible (1 cut off)",
+          "what_it_shows": "Next printed page: HARD WORK, DANISH CLOUDS, SOUL BAY, LOOKING. No handwriting."
+        },
+        {
+          "pos": 6,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "partial, cut off at top edge: only the 6 readable",
+          "what_it_shows": "Next printed page: YOU IN THE MORNING, UNDEFINED. Photo is a bit soft/dim but readable."
+        },
+        {
+          "pos": 7,
+          "way_up": "UPRIGHT",
+          "blocks_in_this_photo": "NONE",
+          "what_it_shows": "Close-up of a printed page: IN THE KITCHEN, CAVELIGHT. No number squares in frame. Slightly tilted, still reads normally."
+        }
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match photos 1, 2 and the start of 3 (up to NEITHER) where the text is cut at 1800 chars for the check; photos 4-7 content could not be compared because of the cut. Tiny misreads only (e.g. typed 'one' where sheet reads 'won'; typed 'people who believe' where sheet has 'those who believe' handwritten over a crossed-out word).",
+      "name_verdict": "OK",
+      "name_note": "'Rules?' is handwritten and circled as the title at the top of the first page.",
+      "other_problems": "This is a stack of at least 6 printed pages of short pieces with handwritten notes, not a half sheet; the 'shorter lyrics' type may undersell it. Photo 7 has no number squares (fine since other photos carry 1756).",
+      "sure": "FAIRLY SURE"
+    }
+  ]
+}

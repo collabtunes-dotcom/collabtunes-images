@@ -1,0 +1,156 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_07_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "1946",
+      "number_blocks_seen": "1946",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1946", "what_it_shows": "Overview: pink handwritten song notes, printed JULIA'S GARDEN sheet with circled rhyme letters, lined sheet of rhyme pairs."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the pink marker notes sheet (50 second opening awesome...)."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the printed JULIA'S GARDEN sheet with circled A/B rhyme letters."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the lined sheet: sad,sad / long,long / years,tears ... I Don't Know / clue,do."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "All three pictured sheets are typed and match. But the pink notes sheet is typed twice (two readings of the same sheet), and the printed JULIA'S GARDEN poem appears a second time at the end with 'A B' rhyme letters - looks like a repeat reading of the same printed sheet, not a new sheet. Repeated text a buyer would see.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1952",
+      "number_blocks_seen": "1952",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1952", "what_it_shows": "Printed two-column RUMORS FROM HEAVEN sheet with handwritten 'Revised', a blank lined sheet corner at right."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Close-up of the RUMORS FROM HEAVEN Revised poem, both columns."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Printed CAST OF CHARACTERS page with author notes about the poem."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Angled, cropped close-up of the same CAST OF CHARACTERS page (right side cut off)."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Poem text matches the sheet. Line 'There's Sammy Davis Jr.' is missing (typed goes straight to 'He's sure can tap dance'). Typed text cut at 1800 chars so the CAST OF CHARACTERS page could not be checked.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Photo 4 is a tilted, cropped repeat of photo 3's page - fine but weak.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1970",
+      "number_blocks_seen": "1970",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1970", "what_it_shows": "Printed page 1 of Politician Blues."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1970", "what_it_shows": "Printed page 2 of Politician Blues (So it should come to no surprise ... politician blues)."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Page 1 matches. On page 2 the line 'True has come our biggest fears' is missing between 'That honesty has disapeared' and 'There's no one left who really cares'.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Summary says a single sheet, but the photos show two printed pages.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1971",
+      "number_blocks_seen": "1971",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1971", "what_it_shows": "Printed page 1 of CLINICAL DEPRESSION (Parents/Daughter dialogue)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1971", "what_it_shows": "Printed page 2: five lines, 'The world would've been your oyester...' to 'didn't have to end'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Missing lines: 'Parents: Whatever you did in the past is nothing compared to this' and 'You placed me on a pedistal so I was bound to fall'. 'learn to walk / learn to talk' are swapped. 'I realize I've only made one mistake...' is out of order. Text cut at 1800 so page 2 (oyester lines) could not be checked.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1977",
+      "number_blocks_seen": "1977",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1977", "what_it_shows": "Printed A COP ASKED THE WITNESSES poem on one sheet."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Summary says the number squares are to the left; they are above the sheet. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1982",
+      "number_blocks_seen": "1982",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1982", "what_it_shows": "Printed page 1 of CLINICAL DEPRESSION (with handwritten 't' added to 'best shot')."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Page 1 matches, including the 'Whatever you did in the past' and 'pedistal' lines. Text cut at 1800 so the end could not be checked.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "This item's second page (the five 'oyester' lines, blocks 1982) is sitting on card 1986 as its photo 1 (file 20260818_115432.jpg). That photo belongs on 1982.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1985",
+      "number_blocks_seen": "1985",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1985", "what_it_shows": "Printed A PERFECT WORLD poem with handwritten 'by Tom Jensen' at top."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE (squares cut off at top edge, digits not visible)", "what_it_shows": "Printed commentary page: A PERFECT WORLD / Title: contradictory / Stanza 1-6 notes."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Poem matches. 'lyg Tom Jensen' is a misread of handwritten 'by Tom Jensen'. Text cut at 1800 so the commentary page could not be checked.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1986",
+      "number_blocks_seen": "1986 (photo 2); 1982 (photo 1)",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1982", "what_it_shows": "Page 2 of CLINICAL DEPRESSION copy 1982: five lines 'The world would've been your oyester...' - not this item."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1986", "what_it_shows": "Printed Poem 2 AROUND THE KING'S TABLE on a sheet with a torn left edge."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "AROUND THE KING'S TABLE part matches photo 2. The opening five 'oyester' lines plus 'CLINICAL DEPRESSION [?] the steps [?] my strug[?]' are from item 1982's page 2 (photo 1, blocks 1982), not from this sheet. They should come off when that photo moves to 1982.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "Photo 1 (20260818_115432.jpg) shows blocks 1982 - it belongs to item 1982, not 1986. Summary says number squares on the left; they are above.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1987",
+      "number_blocks_seen": "1987",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1987", "what_it_shows": "Printed A PERFECT WORLD poem with handwritten 'by Tom Jensen' and 'When born/edit biography' notes."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1987", "what_it_shows": "Printed commentary page: A PERFECT WORLD / Title: contradictory / Stanza notes."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Handwritten notes and poem match. Text cut at 1800 so the commentary page could not be checked.",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1988",
+      "number_blocks_seen": "1988",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1988", "what_it_shows": "Printed Poem 1 Hidden Evils with author's note paragraph."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

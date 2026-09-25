@@ -1,0 +1,145 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_08_OF_13_V10F_W0220__cards_11-20__READER_A.json",
+  "cards": [
+    {
+      "item_number": "318",
+      "number_blocks_seen": "318",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-1-8 in a row", "what_it_shows": "Torn lined sheet titled MUSICAL MEDITATION in bubble letters, 4 counted lines with syllable brackets and 10s, then a bracketed section."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "All lines typed. The vertical word in the left margin bracket is typed only as [Bracket]; minor.",
+      "name_verdict": "OK",
+      "name_note": "Title MUSICAL MEDITATION is written at the top of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "337",
+      "number_blocks_seen": "337",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-3-7 in a row", "what_it_shows": "Lined sheet with a drunk-driving poem: I got bagged just two years before my car ... Do you need any more proof?"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "First three lines are jumbled. Sheet reads: I got bagged just two years before my car / Again I poured my beer then closed the door / And took my car ride right to jail. Typed version moves Again and before my car to the wrong lines and drops to jail. Rest matches.",
+      "name_verdict": "OK",
+      "name_note": "Lifted from the first line but garbled (Again and a belong elsewhere). Cleaner name: I Got Bagged Just Two Years Before My Car.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "343",
+      "number_blocks_seen": "343",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-4-3 in a row", "what_it_shows": "Lined sheet, 8 lines starting Foot prints being washed away by the sea, ending with a hurricane."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Line 3 garbled. Sheet reads: For the (tide seeped struck, waves rolled written above) in and washed our love away. Typed line drops in and ... our love and misplaces away.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary is only 'loose sheet' - thin but not wrong.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "351",
+      "number_blocks_seen": "351",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-5-1 in a row", "what_it_shows": "Torn spiral-edge lined sheet: One woman's pleasure is another woman's pain, then a prose block ending Corporations are owning countries - They're calling Kenya Mickey D's."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "All words present, but a stray MARGIN: label is inserted mid-text before What's it to me (that text is in the main body, not a margin). Sheet says WWIII, typed says WWII.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says pencil and rotated; writing looks like dark ink and the photo shown is upright. 'rotated' is a file note a buyer would see.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "376",
+      "number_blocks_seen": "376",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-6 in a row", "what_it_shows": "3-hole lined sheet with the little gold fish verse and a drawing of a fishbowl with a smoking fish."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says blue ink; the writing looks black. Summary does not mention the fishbowl drawing.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "377",
+      "number_blocks_seen": "377",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "3-7-7 in a row", "what_it_shows": "Two lined sheets: top sheet When my baby said, You've got to choose ... sick and tired from all his abuse; bottom sheet I've lived the life of a Rock star and I don't even sing ..."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Photo 1 top sheet (When my baby said, You've got to choose / I knew right there that she would loose ... But I'm still sick and tired from all his abuse, 16 lines) is not in typed_words. Bottom sheet (Rock star) matches.",
+      "name_verdict": "OK",
+      "name_note": "From the bottom sheet's first line, but cut off: should end ...and I Don't Even Sing.",
+      "other_problems": "Summary says 'a piece of lined notebook paper' - the photo shows two sheets.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "414",
+      "number_blocks_seen": "414",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-4 in a row", "what_it_shows": "Small white spiral-notebook page titled Point of Reference, ending I've now lost my point of reference."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Everything after the --- (Never be afraid when your opinion is based on fact ... And I'm not afraid of that, 5 lines) is not on this photo.",
+      "name_verdict": "OK",
+      "name_note": "Title Point of Reference is written at the top.",
+      "other_problems": "Summary says YELLOW LEGAL PAD (8th); the photo shows a small white spiral-notebook page, not yellow legal paper.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "421",
+      "number_blocks_seen": "421",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-2-1 in a row", "what_it_shows": "Torn lined sheet, no title: Let me trade my eyes for yours ... Maybe I can find it again."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Minor misread: Si stand should be So I stand.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "Here & Now is not written anywhere on the sheet (no title). Should be the first line: Let Me Trade My Eyes for Yours (or hook Let Me Out) - unless Here & Now is the known song title Tom wants.",
+      "other_problems": "",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "426",
+      "number_blocks_seen": "426",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-2-6 in a row", "what_it_shows": "3-hole lined sheet: Look out the man's got the pen again ... Still soul searching yet you haven't got a clue."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "429",
+      "number_blocks_seen": "429",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-2-9 in a row", "what_it_shows": "Torn spiral-edge lined sheet titled Thousand miles above: When dreaming of your eyes I stare at the stars ... You'll drive me crazy."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Everything after the --- (She knew what she was doing / Well I tried to be so strong / But my self-esteem is gone / That woman done me wrong) is not on this photo. The part above matches.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "The time has come is not on the sheet. The sheet's written title is Thousand Miles Above.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

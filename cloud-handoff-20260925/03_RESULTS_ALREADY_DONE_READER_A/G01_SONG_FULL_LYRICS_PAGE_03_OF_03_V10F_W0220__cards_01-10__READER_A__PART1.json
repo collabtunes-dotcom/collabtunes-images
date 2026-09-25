@@ -1,0 +1,137 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G01_SONG_FULL_LYRICS_PAGE_03_OF_03_V10F_W0220__cards_01-10__READER_A__PART1.json",
+  "cards": [
+    {
+      "item_number": "552",
+      "number_blocks_seen": "552",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "552", "what_it_shows": "Handwritten MY EASTERN LOVE on 3-hole lined paper, blocks 5-5-2 above."},
+        {"pos": 2, "way_up": "SIDEWAYS", "blocks_in_this_photo": "NONE", "what_it_shows": "Same MY EASTERN LOVE sheet, no blocks, writing runs up the screen (needs a quarter turn clockwise)."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "Title on sheet: MY EASTERN LOVE.",
+      "other_problems": "Photo 2 is shown sideways on the website.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "554",
+      "number_blocks_seen": "554",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "554", "what_it_shows": "Handwritten poem starting 'I change the world / One person at a time' on unlined white paper."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "554", "what_it_shows": "Printed (typed) verses 'For everybody to wave a flag... Small acts of hatred...' - the other side of the sheet, handwriting showing through."}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words are MY EASTERN LOVE (the sheet on item 552). The handwritten 'I change the world...' poem and the printed verses on photo 2 are not typed at all.",
+      "name_verdict": "OK",
+      "name_note": "First line of the handwritten sheet: I change the world.",
+      "other_problems": "Summary says lined notebook paper in blue ink; photo shows unlined white paper in dark ink. Printed side (photo 2) not mentioned.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "624",
+      "number_blocks_seen": "624",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "624", "what_it_shows": "Draft of 'Orange is the color of the trees' with rhyme-word lists, A/B/C scheme and 'Refrain' down the left."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "624", "what_it_shows": "Cleaner version, stanzas numbered 1-3, with -ees and -ise rhyme lists at the bottom."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words cover both sheets (draft then clean version with rhyme lists); cut for the check at the rhyme list.",
+      "name_verdict": "OK",
+      "name_note": "First line: Orange is the color of the trees.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "625",
+      "number_blocks_seen": "625",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "625", "what_it_shows": "Handwritten 'I'm looking for something new' on lined legal-style paper, top third used."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part matches the photo (small misses: 'disturbing' and 'swerving' left out). After the --- the typed words add the 'Orange is the color of the trees' clean version with rhyme lists (that sheet is on item 624, photo 2) and a 'When she calls you up you drop everything...' sheet; neither is on this card's photo.",
+      "name_verdict": "OK",
+      "name_note": "First line: I'm looking for something new.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "626",
+      "number_blocks_seen": "626",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "626", "what_it_shows": "Handwritten 'Looking for a roll model', five 4-line stanzas, lined torn-edge paper."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line: Looking for a roll model.",
+      "other_problems": "Summary says pencil; writing looks like dark pen. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "667",
+      "number_blocks_seen": "667",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "667", "what_it_shows": "Blue-ink 'Well I've been learning about myself', 15 lines, lined torn-edge paper."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part matches the photo. After the --- the 'Mother may she sleep in peace... Fly, Fly away raven... A wedding and a funeral' part is on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "First line: Well I've been learning about myself.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "732",
+      "number_blocks_seen": "732",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "732", "what_it_shows": "Printed page titled ANY GIVEN DAY, ending 'This day was coming'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "732", "what_it_shows": "Printed page 2 starting 'The day of all days', ending 'For a great nation to finally unite'; handwriting shows through from the back."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The opening 'For you never can tell / When there's a storm at sea ... So you'll have to take our word' is on neither photo. The ANY GIVEN DAY and 'The day of all days' parts match.",
+      "name_verdict": "OK",
+      "name_note": "'The day of all days' is the first line of page 2; the printed title on page 1 is ANY GIVEN DAY, which may be the better name.",
+      "other_problems": "Both photos are printed pages; handwriting visible through the paper on photo 2 (back side not pictured).",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "920",
+      "number_blocks_seen": "920",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "920", "what_it_shows": "Lined 3-hole sheet with only two lines: 'Here I am alone with my thoughts / Sitting, staring, watching the clock'. Rest blank."}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words ('It seems my life has just two seasons...') are not on the photo. The two lines on the photo are not typed.",
+      "name_verdict": "OK",
+      "name_note": "Matches the first line on the photo.",
+      "other_problems": "Summary says page numbered '2'; no page number visible and no second page pictured.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1100",
+      "number_blocks_seen": "375",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "375", "what_it_shows": "Both Kristin's Purpose pages laid together, blocks 3-7-5 at top (edge of another block cut off at right)."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "375", "what_it_shows": "Page 1: bubble-letter title Kristin's Purpose, numbered stanzas 1-5."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "375", "what_it_shows": "Page 2 draft with Who/What/Where/Why/How box, 'Today I found an old poem...', 'Alone with my pen and dreams'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow both pages.",
+      "name_verdict": "OK",
+      "name_note": "Title on sheet: Kristin's Purpose.",
+      "other_problems": "All three photos show blocks 3-7-5 (item 375), not 1100.",
+      "sure": "SURE"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_05_OF_13_V10F_W0220__cards_01-10__READER_A.json",
+  "cards": [
+    {
+      "item_number": "520",
+      "number_blocks_seen": "520",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "520", "what_it_shows": "Lined sheet, 4 short lines at top (What do I do if not this... Romans thirteen, two), 'Romans 13 2' written large at bottom"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "520", "what_it_shows": "Lined sheet titled GAUGING TIME in bubble letters, full poem"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Part 1 = photo 1, GAUGING TIME = photo 2. Both typed.",
+      "name_verdict": "OK",
+      "name_note": "'Romans 13 2' is written large at the bottom of photo 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "522",
+      "number_blocks_seen": "522",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "522", "what_it_shows": "Lined sheet: I've heard of resurrections but I never believed it / Back for Revenge... / You Never Know x3, with faint pencil lines (Man in the sky, You Never Know) behind"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First typed section 'Feel free to fall in love with my art ... No... i'm not sad...' is on no photo. The 'Man in the sky / You Never Know what kind of fruit' section is only faint pencil on the pictured sheet; the 'I've heard of resurrections' section matches the dark ink.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "Name comes from the unpictured 'Feel free' text. From this sheet it should be 'I've heard of resurrections but I never believed it' (or hook 'You Never Know').",
+      "other_problems": "Faint pencil text on the sheet is hard to read in the photo.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "528",
+      "number_blocks_seen": "528",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "528", "what_it_shows": "Hole-punched lined sheet in pink/red ink titled A CHANGE IN THE WEATHER (To pave the way I chop all day...)"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "528", "what_it_shows": "Lined sheet in black ink: I spend my life unlocking my brain... (B242 circled top right)"}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words are only photo 2 (I spend my life unlocking my brain). Photo 1, A CHANGE IN THE WEATHER (To pave the way I chop all day ... guess our senses weren't too keen), is not typed.",
+      "name_verdict": "OK",
+      "name_note": "Title of photo 1. But the typed words under it are the other sheet (photo 2), so name and words do not line up.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "530",
+      "number_blocks_seen": "530",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "530", "what_it_shows": "Lined sheet: Change the substance not the shadow... What do I do if not this? with many scribbled edits"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "530", "what_it_shows": "Hole-punched lined sheet: I've written four hundred and eighty one poems and songs / I got high hopes..."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed. Only small misreads in the heavily edited part of photo 1.",
+      "name_verdict": "OK",
+      "name_note": "First line of photo 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "531",
+      "number_blocks_seen": "531",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "531", "what_it_shows": "Lined sheet: As a kid I thought alot... And it's never your fault!"},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "531", "what_it_shows": "Torn spiral sheet titled CATS & COWS with drawings of a cat and a cow, full poem"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Photo 2 line 'And where not everybody knows' (above the first blacked-out line) is missing from the typed words. Otherwise both sheets typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of photo 1.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "533",
+      "number_blocks_seen": "533",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "533", "what_it_shows": "Lined pad page: Here's something those with two jobs already know..."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Strip of lined paper on white paper: humbility / Sooner, Later, Never - you're gonna get it... (turned copy, reads right way up)"},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "533", "what_it_shows": "Legal pad page: I AM The Rules / PHYSICAL STRENGTH... Parasites separate from the source"},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "533", "what_it_shows": "Same I AM The Rules page again, shot from further back"},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "533 (cut off at top edge, only bottoms of blocks visible)", "what_it_shows": "Pad flipped open: see-through of I AM The Rules above; below: I feed my inner rat..."},
+        {"pos": 6, "way_up": "UPRIGHT", "blocks_in_this_photo": "533", "what_it_shows": "Pad page: * Eventually you are going to have negative thoughts... * Core Three or Core Four * Danish citizen... roommates?"},
+        {"pos": 7, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Pad page: Did you know there are five hundred shades of gray..."},
+        {"pos": 8, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Pad page: I lead the followers / But I play follow the leader... defeater"},
+        {"pos": 9, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Pad page: Pain only comes when you have nowhere to direct your love to / Wisdom is knowledge sprinkled with love"},
+        {"pos": 10, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Pad page with one line: Stickout arm lying test (faint see-through writing behind)"},
+        {"pos": 11, "way_up": "UPRIGHT", "blocks_in_this_photo": "NONE", "what_it_shows": "Pad page: What I Learned in Denmark, numbered list 1-11"},
+        {"pos": 12, "way_up": "UPRIGHT", "blocks_in_this_photo": "533", "what_it_shows": "Plain white sheet: I just placed my head inside the stove / Too bad it's electric... (turned copy, reads right way up)"}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Typed words are cut at 1800 chars; the part shown matches photos 1-7 in order. Photos 8-12 (I lead the followers, Pain only comes, Stickout arm lying test, What I Learned in Denmark, I just placed my head inside the stove) fall in the cut part and were not checked. Differences seen: I AM The Rules is typed twice (photos 3 and 4 are the same page); 4 lines 'Have you joined programs / I did one campings...' are a guess at faint see-through writing on photo 6, not real lines on the sheet.",
+      "name_verdict": "OK",
+      "name_note": "First line of photo 1.",
+      "other_problems": "Photos 3 and 4 show the same page twice. Photo 5 blocks are cut off at the top edge. Photos 2 and 7-11 have no blocks (other pages of the same pad). Photo 10 is almost blank (one line).",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "535",
+      "number_blocks_seen": "535",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "535", "what_it_shows": "Hole-punched lined sheet: I just got off the phone with a girl, she still loves me... we'll be family again"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Full sheet typed; only small misreads.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "538",
+      "number_blocks_seen": "538",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "538", "what_it_shows": "Torn spiral lined sheet: I've come along, long way the last couple of years... That not just any old hole will do ('grow' at top right)"}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Section after '---' ('A man wearing a yellow shirt ... Now the state's guest') is on no photo. The rest matches.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "539",
+      "number_blocks_seen": "539",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "539", "what_it_shows": "Torn spiral lined sheet: I'm the kid in the class who likes to clown... older every day"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Full sheet typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "540",
+      "number_blocks_seen": "540",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "540", "what_it_shows": "Torn spiral lined sheet: I've given up on feeding my addiction... regrets on the day of your dying"}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Full sheet typed.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

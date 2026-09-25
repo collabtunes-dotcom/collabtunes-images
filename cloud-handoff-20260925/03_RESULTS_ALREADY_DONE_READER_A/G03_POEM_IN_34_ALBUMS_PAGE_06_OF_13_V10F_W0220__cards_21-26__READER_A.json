@@ -1,0 +1,107 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_06_OF_13_V10F_W0220__cards_21-26__READER_A.json",
+  "cards": [
+    {
+      "item_number": "906",
+      "number_blocks_seen": "906",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-0-6 in a row", "what_it_shows": "White sheet with two handwritten lines only: 'Throw enough shit and what sticks' and 'Goodnight... Say hello to the sun for me'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Only the first two lines (Throw enough shit... / Goodnight... Say hello to the sun for me) are on the photo. Everything after the first '---' (ROCK STAR DREAMS by tom gender, two versions) is on no photo of this card - maybe the back of the sheet, not photographed.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "ROCK STAR DREAMS is not written on the pictured sheet. From the sheet it would be 'Throw enough shit and what sticks' (first line) or 'Goodnight... Say hello to the sun for me'.",
+      "other_problems": "Buyer sees an almost blank sheet with two lines while the card carries a full song. If ROCK STAR DREAMS is on the back, that photo is missing.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "956",
+      "number_blocks_seen": "956 (photo 2); photo 1 reads 952",
+      "number_verdict": "DIFFERENT NUMBER",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-5-2 in a row (third square is a looped 2, not a 6)", "what_it_shows": "White sheet, handwritten: 'The Next wave, you watch it break and then come tumbling down / You stay awake,'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-5-6 in a row", "what_it_shows": "White sheet, handwritten and crossed out with big X marks: 'The last words I heard from you... Given time all things must past / The path of life can be a rocky road...'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part of typed words ('And People / The minority of the oppulent pay space takers... want') is on no photo. Second part ('The last words I heard from you...') matches photo 2. Photo 1's words ('The Next wave, you watch it break...') are not typed.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "Name comes from photo 1, which is item 952's sheet. Item 956's sheet (photo 2) starts 'The last words I heard from you'.",
+      "other_problems": "Photo 1 shows blocks 9-5-2 - it is item 952's piece and should come off this card. Card name was taken from that wrong photo.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "995",
+      "number_blocks_seen": "995",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "9-9-5 in a row", "what_it_shows": "Lined notebook sheet, handwritten '7/8ths' - Lately I've been walking on eggshells... God came along and dropped a bombshell. Faint show-through from the back in the lower half."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "The 7/8ths part matches the photo. Everything after '---' (UNDEFEATED by Tom Jensen, 'I AINT GOT NO PLANS this minute...') is on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "7/8ths is the title written on the sheet.",
+      "other_problems": "Faint writing shows through from the back of the sheet (reversed); if UNDEFEATED is on the back, that photo is missing.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "1495",
+      "number_blocks_seen": "partial only: squares at the right edge, tilted - a '1' at mid-right, one square hidden under the sheet, two tilted squares at bottom right (one looks like a 4 or 7, one a small loop like 9/6/0)",
+      "number_verdict": "CANT READ",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "partial squares at the right edge, cut off/tilted/one covered; no clean row or column", "what_it_shows": "Typed sheet 'GROOVE BACK II   SONG 55' with blue handwritten note 'Find the song 57 put here'. Part of another typed sheet 'IN FRONT OF THE MAN song 18' at the bottom and cut-off edge of a third sheet at left."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "GROOVE BACK II text and the blue note match. But typed words also include the neighbouring sheet 'IN FRONT OF THE MAN song 18' (bottom of photo) and cut-off scraps from the left-hand sheet ('ners, more or', 'rld and every', 's to survive?', 'ed, ot', 'by haters') - those are other sheets in the frame, not this piece.",
+      "name_verdict": "OK",
+      "name_note": "GROOVE BACK II SONG 55 is printed at the top of the sheet.",
+      "other_problems": "No clear number blocks - the only squares are cut off at the photo edge and may belong to the 'IN FRONT OF THE MAN' sheet beside it. Cluttered shot with other sheets overlapping.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1628",
+      "number_blocks_seen": "1628",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-6-2-8 in a row", "what_it_shows": "Typed 'ZIONATION lyrics list' (15 titles), NOBLE PLACE HATE song 17, KAYFABE song 56, purple handwriting 'This is 2nd to Last version', paper clip."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-6-2-8 in a row", "what_it_shows": "Next typed page: (3) BRIBE THE POOR BLACKMAIL THE RICH, (4) BEFORE NOAH, (5) SUN, MOON AND TRUTH, (6) STRAWMAN; page corner lifted by a finger showing purple handwriting."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-6-2-8 in a row", "what_it_shows": "Typed page CATCH A STRAY (con't) with handwritten note 'And then everybody fucking move there!!!'."},
+        {"pos": 4, "way_up": "SIDEWAYS", "blocks_in_this_photo": "small column at right, reads 1-6-2-8 top to bottom (tiny, hard to read)", "what_it_shows": "Far shot of a board covered with many typed sheets with circled numbers. The room looks level but every sheet's writing runs up/down the screen; text too small to read."}
+      ],
+      "words_verdict": "SHEET WORDS NOT TYPED",
+      "words_note": "Typed words cover photo 1 only (list, Noble Place Hate, Kayfabe, '2nd to Last version'). Photo 2 (Bribe the Poor, Before Noah, Sun Moon and Truth, Strawman) and photo 3 (Catch a Stray con't + handwritten note) are not typed.",
+      "name_verdict": "OK",
+      "name_note": "Sheet heading reads 'ZIONATION lyrics list'.",
+      "other_problems": "Photo 4 turned copy is still SIDEWAYS for the writing - the sheets and the 1-6-2-8 column only read right after a further quarter turn (likely to the left). Photo 4 is a distant, unreadable board shot.",
+      "sure": "FAIRLY SURE"
+    },
+    {
+      "item_number": "1730",
+      "number_blocks_seen": "1730",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-7-3-0 in a row (the 1 cut at left edge)", "what_it_shows": "Typed 'ALBUM 34 BI RIDE OR DIE' track list with handwritten 'New order' and circled numbers; edges of SONG THREE FOUR PILLS A DAY, ACT FASTING, MY FAN FICTION."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "column 1-7-3-0 (top to bottom) plus dozens of loose single number squares scattered on the board", "what_it_shows": "Room shot of the photo board: white sheet on a tall board, loose number squares, a handwritten 'Choice Architecture' card, lamp and cabinet. No lyric sheets of this piece."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Typed sheets: SONG SIX RISK GENES, 'Sometimes it may be...', SONG ONE YOU'RE A WHORE MRS. R, SONG FIVE BI THREE-MONTH GIRL, SONG FOUR LIKE AN ANGEL (partial)."},
+        {"pos": 4, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Typed sheets: SONG 10 I M BI RIDE, WALLFLOWER POOP (circled 6), DAYLIGHT SAVINGS, others partial."},
+        {"pos": 5, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-7 and part of a third square at top; one loose '7' square lying at bottom left", "what_it_shows": "Spread of typed sheets: GROOVE BACK II, ANOTHER EPIC POEM (placed at an angle), SONG THREE FOUR PILLS A DAY, SONG 9 DRAINING BALLS, edge of the album list."},
+        {"pos": 6, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Album 34 list ('New order'), ACT FASTING, MY FAN FICTION, SONG 16 READING I BLOW (RAINBOW), STARS AND STRANGERS at an angle."},
+        {"pos": 7, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Sheets scattered at many angles: typed 'ALBUM 33 ZIONATION' keep-list at top, SONG SEVEN SLINGING LINES, SONG 13 GRINDR DIARIES, SONG 15 I'VE BEEN SLAPPIN, SONG 14 ALEX JONES, WHEN YOU'RE HAMMERED. Main sheet at top reads level; others tilted as laid out."},
+        {"pos": 8, "way_up": "UPRIGHT", "blocks_in_this_photo": "loose squares '2' and '5' at right edge, not a set", "what_it_shows": "TONY'S SONG, ME AND TOM CRUISE, PERFECT, WHEN YOU'RE HAMMERED, ALEX JONES IN A RABBIT HOLE, corner of album 32 track list."},
+        {"pos": 9, "way_up": "UPRIGHT", "blocks_in_this_photo": "loose squares '5' and '8' at top plus blank squares, not a set", "what_it_shows": "DIDDY MOCUMENTARY PARODY, RECKLESS GIRLS (partial), TONY'S SONG, ME AND TOM CRUISE."},
+        {"pos": 10, "way_up": "UPRIGHT", "blocks_in_this_photo": "loose squares '7' and '5' at right edge, not a set", "what_it_shows": "CLOSURE / AFTERMATH, KILL THE SEED, RECKLESS GIRLS, ALBUM THIRTY TWO 32 track list (at an angle), SONG 16 READING I BLOW."},
+        {"pos": 11, "way_up": "UPRIGHT", "blocks_in_this_photo": "1-7-3 in a row (0 cut off at right)", "what_it_shows": "SONG THREE FOUR PILLS A DAY close-up, edge of Album 34 list and ANOTHER EPIC POEM."},
+        {"pos": 12, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Room floor: pile of papers and folders on a carpet, shoes, cables, crate, lamp stand. Not this piece."},
+        {"pos": 13, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Thick stack of paper on a wire shelf with red handwritten note 'Labor intensive to sort... 400' and a 'Check files' note. Not this piece."},
+        {"pos": 14, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Another paper stack on a wire shelf with 'Check files' note, SKECHERS box below. Not this piece."},
+        {"pos": 15, "way_up": "UPRIGHT", "blocks_in_this_photo": "none", "what_it_shows": "Paper stack on a shelf (title lists lying sideways on top) with 'Check files' note, tape roll below. Not this piece."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words follow photo 1 (list, 'New order', edges of ACT FASTING, MY FAN FICTION, FOUR PILLS A DAY) then photo 3 (Sometimes it may be, SONG ONE, SONG FIVE BI) as far as the 1800-char cut. Several lines are half-words copied from sheet edges ('Lately I've been fee', 'n secretly straight'); circled-number list skips a 12 and a 2.",
+      "name_verdict": "OK",
+      "name_note": "ALBUM 34 / BI RIDE OR DIE is the heading of the track list sheet.",
+      "other_problems": "Photos 12-15 are not this piece (floor pile, shelf paper stacks with 'Check files' notes). Photo 2 is a room/setup shot with loose number squares. Photos 7-10 mostly show other albums' sheets (ALBUM 33 ZIONATION list, ALBUM 32 track list, Tony's Song, Diddy, Reckless Girls, Kill the Seed). Loose stray number squares (2, 5, 7, 8) in photos 5, 8, 9, 10.",
+      "sure": "FAIRLY SURE"
+    }
+  ]
+}

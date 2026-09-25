@@ -1,0 +1,89 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_12_OF_13_V10F_W0220__cards_21-30__READER_A__PART1.json",
+  "cards": [
+    {
+      "item_number": "659",
+      "number_blocks_seen": "659",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "659", "what_it_shows": "Lined sheet, poem 'The minority of the oppulent' (place holders, Masters of the Universe, Wizards of Davos, limousines), blocks 6-5-9 above."}
+      ],
+      "words_verdict": "WORDS FROM ANOTHER SHEET",
+      "words_note": "Typed words ('The Next wave, you watch it come break...' and 'The last words I heard from you... Given time all things must past... The path of life can be a rocky road') are nowhere on this sheet. The sheet reads 'The minority of the oppulent / PLACE HOLDERS to hold signs that state: Hegemony before Survival / A world without war or there won't be a world / ... Oh Masters of the Universe / To the Wizards of Davos I pray / Won't you kindly get back in to your limosines ...'.",
+      "name_verdict": "OK",
+      "name_note": "Title written at top of sheet.",
+      "other_problems": "Summary says number cards are on the left side; they are above the sheet. Transcription needs redoing from this photo.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "666",
+      "number_blocks_seen": "666",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "666", "what_it_shows": "Lined loose-leaf sheet, 'The laws we have obeyed' list poem, 15 lines, blocks 6-6-6 above."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Everything before the '---' matches the photo. The part after it, 'BACKWARDS IS the NEW Forward!', is not on this sheet or any photo here.",
+      "name_verdict": "OK",
+      "name_note": "First line / title of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "668",
+      "number_blocks_seen": "668",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "668", "what_it_shows": "Torn-edge lined notebook sheet, 'Who knew that the ride stopped here?' (frozen lakes, polar bears, three-month town), blocks 6-6-8 above."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Everything before the '---' matches the photo. The part after it, 'I praise your name / Everyday... / But you're not Jesus / No way / Holy spirit / Divine and True', is not on this sheet or any photo here.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says number cards are to the left; they are above the sheet.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "685",
+      "number_blocks_seen": "685",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "685", "what_it_shows": "Lined loose-leaf sheet in cursive, 'Drifting...' poem, blocks 6-8-5 above."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "Title written at top.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "688",
+      "number_blocks_seen": "688",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "688", "what_it_shows": "Lined sheet in large print, 'I follow your Lead' (Queen Bee, hive, ALL ANTENIE ARE AIMED AT ME), blocks 6-8-8 above."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Everything before the '---' matches the photo. The part after it, 'I'm getting angry / Unhappy / If I start crying / Please slap me ... Yet the only face I trust / Is on the moon', is not on this sheet or any photo here.",
+      "name_verdict": "OK",
+      "name_note": "Opening lines of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "713",
+      "number_blocks_seen": "713",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "713", "what_it_shows": "Unlined white sheet, 'I JUST want to make my mark' 8 lines, blocks 7-1-3 above. This is the turned copy and it reads upright."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet (one small misread: sheet says 'gets dark', typed 'gets dank').",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    }
+  ]
+}

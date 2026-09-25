@@ -1,0 +1,124 @@
+{
+  "results_file_written": "C:\\ITEM TYPE SYSTEM - 20260924\\SPOT_CHECK_V10F_ON_A_READER_W0220_20260924\\03_RESULTS_READER_A\\G03_POEM_IN_34_ALBUMS_PAGE_04_OF_13_V10F_W0220__cards_21-30__READER_A__PART1.json",
+  "note": "PART1 = cards 21-28 of 30 (items 419-482). Full file follows.",
+  "cards": [
+    {
+      "item_number": "419",
+      "number_blocks_seen": "419",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-1-9 in a row", "what_it_shows": "Torn lined notebook sheet, 'Get outta my house' written at top, full poem."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet. Tiny misread only ('room' typed; sheet has room crossed out, 'mood' above).",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary says the sheet is 'oriented sideways' but the photo shows it upright.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "431",
+      "number_blocks_seen": "431",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-1 in a row", "what_it_shows": "Lined notebook sheet 'My passion keeps calling out my name ... turn for the worse'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "First part (My passion keeps calling out my name ... took a turn for the worse) matches the photo. The 2nd part ('Sitting here alone / keeping one eye on the clock...') and 3rd part ('Put a bag over her head Ted...' name rhymes) are on no photo of this card.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary calls the number blocks 'three separate paper slips numbered 1, 3, and 4' - they are just the 4-3-1 catalogue blocks. Two typed pieces have no photo here.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "434",
+      "number_blocks_seen": "434",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-4 in a row", "what_it_shows": "Two torn lined sheets: top 'too many buildings, not enough sky ... can't live like this!', bottom 'Too many obstacles ... Believe in Freedom'."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Both sheets typed; only small misreads.",
+      "name_verdict": "OK",
+      "name_note": "First line of the sheet.",
+      "other_problems": "Summary says one piece of paper; photo shows two sheets. Minor.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "436",
+      "number_blocks_seen": "436",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-6 in a row", "what_it_shows": "Pencil sheet 'Well I been burning bridges ... Try not to make things hard, kid'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-6 in a row", "what_it_shows": "Blue ink sheet marked GREAT: 'Well I've been burning bridges ... Hollow pleasure hides your pain still remains'."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-3-6 in a row", "what_it_shows": "Both sheets together (blue GREAT sheet above, pencil sheet below)."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "All typed words are on these two sheets, but the same sheets are typed three times (once per photo), and '[Left column] 6 3 4' is the number blocks misread as text, not lyrics.",
+      "name_verdict": "NOT FROM THIS SHEET",
+      "name_note": "'My passion keeps calling out my name' is item 431's title. This sheet should be named 'Well I been burning bridges' (first line) or 'Burning Bridges'.",
+      "other_problems": "Name belongs to item 431.",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "440",
+      "number_blocks_seen": "440",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-0 in a row", "what_it_shows": "Small torn notebook page with bubble-letter title 'Just like me' and the poem."}
+      ],
+      "words_verdict": "MATCH",
+      "words_note": "Typed words match the sheet line for line.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "442",
+      "number_blocks_seen": "442",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-2 in a row", "what_it_shows": "Both sheets of 'A Perfect World' laid top and bottom, with note 'Inspired on an acid trip...'."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-2 in a row", "what_it_shows": "Close-up of sheet 1: 'A Perfect World  Indent Right  10/1 20/21', The whole world's a fight..."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-4-2 in a row", "what_it_shows": "Close-up of sheet 2: 'The brokers in their suits and ties...' plus acid-trip note."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Mostly matches. A few lines misread: typed 'Life's so short, you've forgotten so soon' - sheet says 'I'm surprised you've forgotten so soon'; typed 'walking away from the heart' - sheet 'walking seperate from the heart'. Rest cut at 1800 chars for this check.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "454",
+      "number_blocks_seen": "454",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-5-4 in a row", "what_it_shows": "Sheet 'It's ALRIGHT By Brian Rainstorm' with circled verses and yellow highlight."},
+        {"pos": 2, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-5-4 in a row (small)", "what_it_shows": "Wide shot of both sheets: It's Alright above, 'Some people will just NEVER get it' / quote / TWELVE WORDS below."},
+        {"pos": 3, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-5-4 in a row", "what_it_shows": "Close-up of sheet 2: 'Some people will just NEVER get it...', long quote, 'TWELVE WORDS by Brian Rainstorm'."}
+      ],
+      "words_verdict": "SMALL DIFFERENCES",
+      "words_note": "Sheet 1 is typed twice; the second copy of 'IT'S ALRIGHT' is a garbled re-read of the same sheet (e.g. 'goes to show one can plate, which just'). Sheet 2 words are typed (cut at 1800 chars here).",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "",
+      "sure": "SURE"
+    },
+    {
+      "item_number": "482",
+      "number_blocks_seen": "482",
+      "number_verdict": "MATCHES",
+      "photos": [
+        {"pos": 1, "way_up": "UPRIGHT", "blocks_in_this_photo": "4-8-2 in a row", "what_it_shows": "Lined sheet 'SEVENTH PHOTOGRAPH' poem with yellow sticky note below: 'for this story begins after the fact...'."}
+      ],
+      "words_verdict": "TYPED WORDS INCLUDE A SHEET NOT PICTURED",
+      "words_note": "Seventh Photograph + sticky note match the photo. The five later pieces ('Whether or not to serve power...', 'The sun awakes another...', 'I'm the exception to your rule...', 'Since I stopped swimming...', 'See saw...') are on no photo here.",
+      "name_verdict": "OK",
+      "name_note": "Title written on the sheet.",
+      "other_problems": "Summary says sticky note is on the right side; photo shows it at the bottom. Minor.",
+      "sure": "SURE"
+    }
+  ]
+}
