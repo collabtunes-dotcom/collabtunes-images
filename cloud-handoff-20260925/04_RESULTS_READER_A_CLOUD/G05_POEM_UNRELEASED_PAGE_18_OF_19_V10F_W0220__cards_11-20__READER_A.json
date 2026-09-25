@@ -1,0 +1,253 @@
+[
+  {
+    "item_number": "1029",
+    "name_on_card": "My wife awaits",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094304.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 2, 9 = 1029.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'My wife awaits' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in cursive: 'My wife awaits / At home with a little black man / Hey relax there are more facts than / just that / She'll never get slapped / He's our kitty - it's only our cat, man / You're thinking of Robin / While I'm talking 'bout Bat man' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in cursive on lined notebook paper with ragged right edge fully legible."
+  },
+  {
+    "item_number": "1030",
+    "name_on_card": "Somewhere in here",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094317.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 3, 0 = 1030.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Somewhere in here' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Physical sheet line 8 reads 'If all [struck word] feels right as you lay by her side' while typed_words reads 'of all [?] feels right as you lay by far side'. Physical clearly shows 'her side' while typed has 'far side'. Remainder of poem matches typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in cursive on torn spiral notebook paper fully legible including crossed-out word."
+  },
+  {
+    "item_number": "1031",
+    "name_on_card": "This neverending state of chaos reigns",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094334.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 3, 1 = 1031.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'This neverending state of chaos reigns' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'This neverending state of chaos reigns / We've got the water but we're fanning the flames / This land of ours is ripe with disease / And yet we're sending billions of dollars over seas' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in cursive on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1032",
+    "name_on_card": "I picked up a piece of trash in the park near where I live",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094344.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 3, 2 = 1032.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I picked up a piece of trash in the park near / where I live' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible with interlinear correction: 'I picked up a piece of trash in the park near / where I live / Maybe I can't change the world - but still / I've got something to give / I [above: crossed] [struck: scrawled] out a swear on the bench [struck word] / at the park where I sit / Maybe I can't change the world - but still / I've got something to give' - matching typed_words 'crossed out a swear on the bench'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on spiral lined paper fully legible including struck words and interlinear correction."
+  },
+  {
+    "item_number": "1033",
+    "name_on_card": "I'm in love w/ myself",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094402.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/20260819_094412.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_094406__UPRIGHT.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Pos1 and pos2 both show blocks 1, 0, 3, 3 = 1033. Pos3 (UPRIGHT file) shows 0, 3 tiles partially visible but number confirmed from pos1 and pos2.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I'm in love w/ myself' visible in pos1 and pos3, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible across pos1 and pos3 on Dunkin' Donuts bagel bag (brown kraft paper): 'I'm in love w/ myself / what about you? / Do you love me too? / Are You in love w/yourself? / What about you? / Do you love me too?' - matching typed_words. Pos2 shows reverse of bag with Dunkin' Donuts 'Baked Freshly Bagels' printed branding.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Pos1 and pos2 upright. Pos3 (UPRIGHT file) appears upright with poem clearly readable.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on brown kraft paper (Dunkin' Donuts bagel bag) fully legible in all three photos."
+  },
+  {
+    "item_number": "1034",
+    "name_on_card": "I've been looking around for some inspiration",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094425.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_094432__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Pos1 shows blocks 1, 0, 3, 4 = 1034. Pos2 (UPRIGHT) also shows 1, 0, 3, 4.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I've been looking around for some inspiration' visible in pos1, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Pos1 shows handwritten poem front: 'I've been looking around for some inspiration / Something, anything that could give a reason for some celebration' matching typed_words first section. Pos2 shows reverse (Crutchfield Receiver Wiring Adaptor sheet) with handwritten 'SHAWN / Guitar center' and printed '120 70-5002 / Receiver Wiring Adaptor / Soldering Instructions / Strip wires back 1/2\"...' text visible - matching the latter portion of typed_words. However, the handwritten lines '4 / 3 / 0 / 1' listed in typed_words between the '---' separator and 'SHAWN / Guitar center' are NOT visually confirmed in either photo.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Pos1 upright. Pos2 (UPRIGHT file) - input stated website shows this sideways, this is the turned copy; appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on stained, folded aged printed paper (Crutchfield instruction sheet) fully legible in both photos."
+  },
+  {
+    "item_number": "1035",
+    "name_on_card": "If you ask them",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094445.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 3, S=5 = 1035.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'If you ask them' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in blue ink: 'If you ask them / They'll say they're doing fine / But if you ask me / I'll give you a piece of my mind / But before I go on / Ranting, Raving, Complaining and talking / Are you one of US? / Or should I keep on walking' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in blue ink on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1036",
+    "name_on_card": "Lately I've been getting paranoid",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094456.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 3, 6 = 1036.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Lately I've been getting paranoid' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Four lines visible: 'Lately I've been getting paranoid / Probably because I'm [above: currently] unemployed / Nah, I ain't got no money coming in / Waiting for' - matching typed_words with interlinear 'currently' above 'unemployed'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined paper fully legible."
+  },
+  {
+    "item_number": "1039",
+    "name_on_card": "One man searches for power and riches",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094601.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 3, 9 = 1039.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'One man searches for power and riches' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'One man searches for power and riches / While his brother would settle for fortune and Fame / Another Kind brother just wants some bling bling [above: and] bitches / And his cousin's a preacher Screaming out God's name' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on spiral-hole lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1042",
+    "name_on_card": "Daddy said son it's nice to see you",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094647.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 4, 2 = 1042.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Daddy said son it's nice to see you' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Daddy said son it's nice to see you / Just what brings you around this way? / Sonny boy answers likewise / Ah, I'm just passing through / I'm so sorry but I can't stay / Sonny boy' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on spiral-hole lined notebook paper fully legible."
+  }
+]

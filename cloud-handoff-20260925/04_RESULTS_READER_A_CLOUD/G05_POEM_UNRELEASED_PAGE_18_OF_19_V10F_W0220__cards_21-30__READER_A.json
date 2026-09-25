@@ -1,0 +1,232 @@
+[
+  {
+    "item_number": "1044",
+    "name_on_card": "Nuclear haulacost",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094704.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 4, 4 = 1044.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Nuclear haulacost' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Nuclear haulacost / The end of time is near / The missiles are approaching / As people tremble in fear' - matching typed_words (typed_words has 'approching', physical has correct spelling 'approaching'; 'haulacost' spelling matches in both).",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in pencil on stained lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1045",
+    "name_on_card": "The summer's here...",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094716.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 4, S=5 = 1045.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'The summer's here...' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in two stanzas: 'The summer's here... / That means blue skies and sunshine / Happy children... / Less work and more play time // The summer's here ... / Warmer weather and more vacations / Go grab a beer... / Barbeques and celebrations' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on spiral-hole lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1047",
+    "name_on_card": "I called up Caca Achiever",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094746.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 4, 7 = 1047.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I called up Caca Achiever' visible at top of sheet, matching card name (slight spelling difference on physical noted in WORDS).",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Physical first line reads 'I called up Caca Achievar' with what appears to be 'ar' at the end, while typed_words reads 'I called up Caca Achiever'. Remainder of poem matches typed_words: 'Said get up off your Ass! / I need a coffee / I need coffee fast // Cream and Sugar / A Large one will do / Captain coffee break... / You know I love you // Oh well, oh well, oh well'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined paper with some staining fully legible."
+  },
+  {
+    "item_number": "1048",
+    "name_on_card": "There's blood on the sheets",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094759.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 4, 8 = 1048.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'There's blood on the sheets' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Four lines visible: 'There's blood on the sheets / She was pure / we played doctor / And I had the cure' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined paper fully legible."
+  },
+  {
+    "item_number": "1049",
+    "name_on_card": "Stuck in a rut caught in a jam",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094812.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, 4, 9 = 1049.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Stuck in a rut caught in a jam' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in blue ink: 'Stuck in a rut caught in a jam / Up is down left is right / Hard to make it without your right hand man / You know he skipped town in the middle of / the night / He couldn't make it he couldn't take it' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in blue ink on three-hole punched lined paper fully legible."
+  },
+  {
+    "item_number": "1050",
+    "name_on_card": "Woke up half dead",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094833.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, S=5, 0 = 1050.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Woke up half dead' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Woke up half dead / So I just laid in bed / I find myself believing that the best days were left behind / Show me a sign of better days ahead / Tell me of a time / When I'm anxious to awake' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn-edge lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1055",
+    "name_on_card": "I know a man who lives by the book",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_094953.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, S=5, S=5 = 1055.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I Know a man who lives by the book' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full visible content: 'I Know a man who lives by the book / I Know a woman who never learned to cook / I Know that when life thows you a curve ball / you better duck / I Know that when' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in red ink on spiral-hole lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1056",
+    "name_on_card": "Drivin' down the street on the right side of the road",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095008.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, S=5, 6 = 1056.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Drivin' down the street on the right side of the road' visible at top of slip, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Drivin' down the street on the right side of the road / Followin' too many orders I won't do what I'm told / In the middle of winter my windows down / While frozen bustop people frown / I'd pick them up but I'm so busy / Need a car to get around in this city' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on a slip of lined notebook paper fully legible."
+  },
+  {
+    "item_number": "1057",
+    "name_on_card": "I gauge lost time through cigarette butts",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095020.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, S=5, 7 = 1057.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I gauge lost time through cigarette butts' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Three lines visible in cursive: 'I gauge lost time through cigarette butts / The more I find myself the more I think I'm going nuts / Simply inherited heredity's got the best of me' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in cursive on three-hole punched lined paper fully legible."
+  },
+  {
+    "item_number": "1058",
+    "name_on_card": "When you're not together",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_095032.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Four blocks show 1, 0, S=5, 8 = 1058.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'When you're not together' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in purple ink across four stanzas: 'When you're not together / You're only waiting for the break up // It's alright when I'm sleeping / It's only hard when I wake up // Now that I'm free / I've got some extra time to take up // After you see their true colors / There's no more need to wear make up' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in purple ink on lined notebook paper fully legible."
+  }
+]
