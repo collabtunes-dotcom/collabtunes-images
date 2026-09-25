@@ -1,0 +1,86 @@
+[
+  {
+    "item_number": "1657",
+    "name_on_card": "BRIAN RAINSTORM ARTICLES BOOK BY TOM JENSEN",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260808_215125.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-S-7 left-to-right (horizontal row at top; S=5) = 1657",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'BRIAN RAINSTORM ARTICLES / brianrainstorm.com / McGraw-Hill open-publishing'; matches name_on_card 'BRIAN RAINSTORM ARTICLES BOOK BY TOM JENSEN'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; book cover 'BRIAN RAINSTORM ARTICLES' with maze graphic, 'McGraw-Hill open-publishing' and 'brianrainstorm.com' clearly visible; typed_words describe cover text and disclaimer page content consistent with what is visible",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1654",
+    "name_on_card": "QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260808_214918.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-S-4 left-to-right (horizontal row at top; S=5) = 1654",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS / by Brian Rainstorm / brianrainstorm.com'; matches name_on_card exactly",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; book cover clearly shows full title 'QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS by Brian Rainstorm brianrainstorm.com'; typed_words describe this cover and note it is written under the pseudonym 'Brian Rainstorm'; cover content confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1655",
+    "name_on_card": "QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260808_215031.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-S-S left-to-right (horizontal row at top; S=5) = 1655",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS / by Brian Rainstorm / brianrainstorm.com'; matches name_on_card",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 1; book cover clearly shows full title 'QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS by Brian Rainstorm brianrainstorm.com'; typed_words field states 'Not typed up yet' — no transcription available for comparison",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1656",
+    "name_on_card": "QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260808_215052.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-S-6 left-to-right (horizontal row at top; S=5) = 1656",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS / by Brian Rainstorm / brianrainstorm.com'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; book cover clearly shows full title; typed_words describe this as 'Second copy of QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS by Brian Rainstorm, brianrainstorm.com. Identical to item 1655, shot separately with its own number card'; cover confirmed as second copy",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1584",
+    "name_on_card": "BOOK - FINISHED SONGS LYRICS BY TOM JENSEN",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_114513.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-8-4 left-to-right (horizontal row at top; S=5) = 1584; photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'FINISHED SONGS LYRICS / Lyrics to 43 songs with words written by Tom Jensen / READTOM.com'; matches name_on_card 'BOOK - FINISHED SONGS LYRICS BY TOM JENSEN'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover 'FINISHED SONGS LYRICS / Lyrics to 43 songs with words written by Tom Jensen / READTOM.com' on dark blue spiral-bound book; typed_words describe 'Spiral-bound book. Cover: FINISHED SONGS LYRICS - Lyrics to 43 songs with words written by Tom Jensen. Imprint READTOM.com'; confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1568",
+    "name_on_card": "Poems & Song Lyrics",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_112151.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-6-8 left-to-right (horizontal row at top; S=5) = 1568; photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'POEMS & SONG LYRICS by Tom Jensen'; matches name_on_card 'Poems & Song Lyrics'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; book cover 'POEMS & SONG LYRICS by Tom Jensen' with red rose design clearly visible; typed_words 'POEMS & SONG LYRICS by Tom Jensen' confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1084",
+    "name_on_card": "POETRY IS NOT DEAD YET",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "books/b16_poetry-is-not-dead-yet_1.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Photo is from the books/ folder and shows only the book cover with no number cards visible; cannot confirm item number 1084 from this photo",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads 'POETRY IS NOT DEAD YET / Brian Rainstorm' in yellow text on black background; matches name_on_card",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 1; book cover 'POETRY IS NOT DEAD YET / Brian Rainstorm' (yellow on black) with spiral binding partially visible on right; typed_words field states 'Not typed up yet' — no transcription available for comparison",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
