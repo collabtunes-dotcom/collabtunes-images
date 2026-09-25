@@ -1,0 +1,232 @@
+[
+  {
+    "item_number": "909",
+    "name_on_card": "Where did all of my friends go",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075602.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 0, 9 = 909.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Where did all of my friends go' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in cursive: 'Where did all of my friends go / When I was seven or eight? / Back when life was so simple... / And fantastically great / I bummed around bothering mom and dad / Looking back I must say' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in cursive on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "910",
+    "name_on_card": "A MASTER TO MANY",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075644.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 1, 0 = 910.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'A MASTER TO MANY' visible at top of torn white paper, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full content visible: 'A MASTER TO MANY / A SLAVE TO NO NE' - matching typed_words 'A MASTER TO MANY / A SLAVE TO NO NE'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Block lettering on torn white paper fully legible."
+  },
+  {
+    "item_number": "913",
+    "name_on_card": "Some people's presence is not a gift",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075734.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 1, 3 = 913.",
+    "NAME": "OK",
+    "NAME_NOTE": "Single line 'Some people's presence is not a gift' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Single line visible: 'Some people's presence is not a gift' - consistent with typed_words which contains only this line.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "914",
+    "name_on_card": "Refridgerator Poems",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075744.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 1, 4 = 914.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'Refridgerafor Poems' (decorative lettering) visible at top of sheet, matching card name 'Refridgerator Poems'.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'I've been wasting time like I'm gonna live forever / But they say what is here today is gone tomorrow / If I'm a shepherd then its time to lead the way / And if I'm a sheep I'll have to choose who to follow' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible; title in decorative lettering also legible."
+  },
+  {
+    "item_number": "915",
+    "name_on_card": "The Golden Rule",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075754.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 1, S=5 = 915.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'The Golden Rule' is NOT visible as a title on the physical item. Physical sheet starts directly with 'So many of my friends / like to play pretend' with no separate title heading.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: First stanza visible ('So many of my friends / like to play pretend / I swear I am not what you see / I am much closer to reality / Imagery disappears before your eyes / Truth is seduced by all lies') - matching first section of typed_words. Second stanza ('I'd like to meet myself / Through another set of eyes / Am I really who I think I am / or Am I wearing a disguise') is NOT visible on the physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "917",
+    "name_on_card": "Well. The circle has been completed.",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_082638.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 1, 7 = 917.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Well. The circle has been completed.' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Well. The circle has been completed. / You finally got everything that you needed.' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in black ink on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "918",
+    "name_on_card": "She knew what she was doing",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_082648.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 1, 8 = 918.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'She knew what she was doing' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'She knew what she was doing / Well I tried to be so strong / But my self-esteem is gone / That woman done me wrong' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible; some stain/discoloration visible on lower portion of sheet but does not affect the handwritten text."
+  },
+  {
+    "item_number": "921",
+    "name_on_card": "And if I was a color",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_082856.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 2, 1 = 921.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'And if I was a color' visible in red ink on sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: First section visible in red ink: 'And if I was a color / Then baby I'd be blue' - matching first section of typed_words. Second section ('She keeps watching out for someone / Though she knows not when he'll come / Standing holding an umbrella') is NOT visible on the physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in red ink on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "924",
+    "name_on_card": "When I got lost inside",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_083040.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 2, 4 = 924.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'When I got lost inside' visible at top of torn sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible with struck-out words: 'When I got lost inside / A MALL / WITH [struck] so many FLOORS [struck] and STORES / I [struck] had to take their bus to find my car / That's when I so swore I wouldn't go back there / was sure / anymore / And I never did...' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn lined notebook paper fully legible including struck-out words."
+  },
+  {
+    "item_number": "927",
+    "name_on_card": "I'm not sure if her first instinct is to be fantastic",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_083128.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 2, 7 = 927.",
+    "NAME": "OK",
+    "NAME_NOTE": "Single line 'I'm not sure if her first instinct is to be fantastic' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Single line visible in purple/pink cursive: 'I'm not sure if her first instinct is to be fantastic' - consistent with typed_words which contains only this line.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in purple/pink ink on lined three-hole punched paper fully legible."
+  }
+]

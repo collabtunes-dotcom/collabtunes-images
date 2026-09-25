@@ -1,0 +1,239 @@
+[
+  {
+    "item_number": "895",
+    "name_on_card": "Summer breeze, such a tease",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075238.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (40).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Pos1 shows 8, 9, S=5 = 895. Pos2 shows no number tiles.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Summer breeze, such a tease' visible at top of pos1 sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Pos1 content ('Summer breeze, such a tease / when it blows in the middle of winter / As I'm learning, books are burning / in the fireplace to keep me warm / The sun is felt, the ice will melt / Creating puddles I can not cross') matches typed_words. Pos2 shows content from a DIFFERENT sheet with no number tiles: multiple stanzas including 'There's a curtain of silence / Now draped over your island', 'Healing takes time / To mend a broken mind', 'As my luxuries have become necessities', 'I can't decide if this is a side effect', 'Positivity triggers mental agility', 'Every pauper's voice shall be equal to the president's' - none of this content appears in card 895 typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Pos1 handwriting in blue ink on three-hole punched lined paper fully legible. Pos2 handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "896",
+    "name_on_card": "Aeola, Lady of the Wind",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075249.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 8, 9, 6 = 896.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'Aeola, Lady of the Wind' visible in cursive at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Aeola, Lady of the Wind / Up on the tops of the mountains / Or down across the field to the streams / Foot prints [struck: steps] that lead to the ocean / Following a trail to her dreams / [blank] / Through the bright lights of the city' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined notebook paper fully legible."
+  },
+  {
+    "item_number": "897",
+    "name_on_card": "How many people know themselves that well",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075301.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 8, 9, 7 = 897.",
+    "NAME": "OK",
+    "NAME_NOTE": "Single line 'How many people know themselves that [struck] well' visible at top of white paper, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Single line visible: 'How many people know themselves that [struck] well' - matching typed_words '[crossed out] well'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on white paper fully legible."
+  },
+  {
+    "item_number": "898",
+    "name_on_card": "Well you know I'm gonna be a rock star",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075318.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 8, 9, 8 = 898.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Well you know I'm gonna be a rock star' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Well you know I'm gonna be a rock star / I'm gonna need a leader for my fan club / I've found one and you know who you are' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "899",
+    "name_on_card": "There is no laughing allowed",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075331.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 8, 9, 9 = 899.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'There is no laughing allowed' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'There is no laughing allowed / Until you go to Disney land' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "900",
+    "name_on_card": "What do you do when you're tired of waiting by",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075354.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 0, 0 = 900.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'What do you do when you're tired of waiting by your window?' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'What do you do when you're tired of waiting by your window? / Open it up and jump out? / That would make you now a widow / Hmm... was it really something you couldn't live without' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "901",
+    "name_on_card": "She said I'm just a piece of meat",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075406.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 0, 1 = 901.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'She said I'm just a piece of meat' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'She said I'm just a piece of meat / And she better leave me where she found me - back out on the street / She said I'm just a piece of meat' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined notebook paper with ragged edges fully legible."
+  },
+  {
+    "item_number": "903",
+    "name_on_card": "Life is one big competition",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075433.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 0, 3 = 903.",
+    "NAME": "OK",
+    "NAME_NOTE": "First poem line 'Life is one big competition' visible on physical sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full content visible: cloud shape containing '781 / 581 / 1327'; poem 'Life is one big competition, when's it gonna stop? / we all scale the mountain trying to reach the top / For ten dollars, you can buy my interpretation / But I'll give it back if you don't turn the station'; diagonal annotation 'But when you told me you loved me / were you wearing a mask' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined paper fully legible including diagonal annotation."
+  },
+  {
+    "item_number": "907",
+    "name_on_card": "I wandered into the bar following a sign that said Beer",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075535.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 0, 7 = 907.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I wandered into the bar following a sign that said Beer' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'I wandered into the bar following a sign that said Beer / Funny that four little letters can send a message loud and clear' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in blue ink on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "908",
+    "name_on_card": "Only in Kansas would you find the world's largest",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_075548.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 0, 8 = 908.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Only in Kansas Would you find the world's largest' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Only in Kansas Would you find the world's largest ball of twine / Only in Kansas would you find this broken heart of mine / Only in Kansas would you find the world largest ball & chain / Only in Kansas' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined notebook paper (stationary) fully legible."
+  }
+]
