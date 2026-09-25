@@ -1,0 +1,14 @@
+[
+  {
+    "item_number": "1944",
+    "name_on_card": "DISCIPLES OF DIRT",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1800-2045__20260817_212113__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-4-4 bottom-to-top (vertical column on right side, UPRIGHT_FIXED photo) = 1944",
+    "NAME": "OK", "NAME_NOTE": "Document header reads 'DISCIPLES OF DIRT'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 7; UPRIGHT_FIXED version; DISCIPLES OF DIRT track listing (30 tracks: pen and paper through the watcher) visible sideways on left sheet; right sheet shows 'ALBUM POSSIBILITIES' with rated songs including Packing the hole, Pressing My Palms - YES!!!, Melody of sorrow, Fallen clouds, Nothing at all, etc. with YES!/MAYBE/I THINK SO!! ratings; LET DOWN, UNITY, IN STUDIO/COFFEE, DEAD END entries also listed",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: DISCIPLES OF DIRT track listing document is rotated 90 degrees (sideways) within the photo; text runs vertically",
+    "READABLE": "OK", "READABLE_NOTE": "Track listing readable despite sideways orientation; ALBUM POSSIBILITIES sheet is right-side up"
+  }
+]
