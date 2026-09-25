@@ -1,0 +1,38 @@
+[
+    {
+        "item_number": "1599",
+        "name_on_card": "Quotes, Scary Truths",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_115654.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "rotated-photos/20260810_090723.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260810_090727.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260810_090731.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-b/20260810_090735.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-b/20260810_090738.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-b/20260810_090753.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1500-1799-b/20260810_090813.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1500-1799-b/20260810_090830.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1500-1799-b/20260810_090843.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 11, "repo_path": "gems-1500-1799-b/20260810_090851.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 12, "repo_path": "gems-1500-1799-b/20260810_090909.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 13, "repo_path": "gems-1500-1799-b/20260810_090919.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 14, "repo_path": "gems-1500-1799-b/20260810_090927.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 15, "repo_path": "gems-1500-1799-b/20260810_090943.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 16, "repo_path": "gems-1500-1799-b/20260810_090954.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 17, "repo_path": "gems-1500-1799-b/20260810_091009.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 18, "repo_path": "gems-1500-1799-b/20260810_091016.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 19, "repo_path": "gems-1500-1799-b/20260810_091026.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 20, "repo_path": "gems-1500-1799-b/20260810_091033.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,5,9,9 confirmed in photo 1 (horizontal arrangement at top, reading left-to-right = 1599). Shows black book 'QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS by Brian Rainstorm'.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 book cover reads 'QUOTES, SCARY TRUTHS, ACCRUED WISDOM AND FUNNY HAHAS' — matches card name 'Quotes, Scary Truths'.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photos 3-7, 9-15, 18-20 (gems-1500-1799-b/20260810_090727.jpg, 090731.jpg, 090735.jpg, 090738.jpg, 090753.jpg, 090830.jpg, 090843.jpg, 090851.jpg, 090909.jpg, 090919.jpg, 090927.jpg, 090943.jpg, 091016.jpg, 091026.jpg, 091033.jpg): the website shows these photos sideways per their UPRIGHT_FIXED notes. Photos 1, 2, 8, 16, 17 are right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
