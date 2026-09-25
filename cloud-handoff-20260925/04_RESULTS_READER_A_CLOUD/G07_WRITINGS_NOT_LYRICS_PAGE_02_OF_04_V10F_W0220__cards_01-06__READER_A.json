@@ -1,0 +1,127 @@
+[
+  {
+    "item_number": "1851",
+    "name_on_card": "Avoiding my old hobby",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_204334.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_204341.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_204345.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_204349.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_204353.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260816_204539.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 7, "repo_path": "gems-1800-2045/20260816_204511.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 8, "repo_path": "gems-1800-2045/20260816_204521.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-5-1 visible in photo 1; interior pages (photos 2-8) do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Handwritten 'Scanned' annotation in green ink on cover page, consistent with typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 8 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1852",
+    "name_on_card": "Conditional",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_204556.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_204612.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_204620.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_204633.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-5-2 visible in photo 1; interior pages do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Photo 1 shows handwritten instructor/grader feedback annotations in the right margin (e.g. 'Tom - I find your classification contradictory in places...') not described in typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 4 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1853",
+    "name_on_card": "MARRIED TO SOMETHING ELSE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_204713.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_204719.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_204724.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_204729.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_204739.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260816_204741.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-5-3 visible in photo 1; interior pages do not show blocks.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No title 'MARRIED TO SOMETHING ELSE' visible as a heading; card name derives from last line of poem visible in photo 6 ('And realize he's married to something else').",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Typed_words are truncated with '[...cut for the check]'; poem visible in photo 6 likely corresponds to typed_words beyond the cutoff. Main take-home exam content in photos 1-5 matches typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 6 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1854",
+    "name_on_card": "HEALTH ASSESSMENT",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_085915.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260817_085922.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260817_085928.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260817_085956.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-5-4 visible in photo 1; interior pages do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 4 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1855",
+    "name_on_card": "Disease of Alcoholism",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_090000.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-5-5 visible in photo 1.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1856",
+    "name_on_card": "MARIJUANA ADDICTION",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_090015.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260817_090019.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260817_090023.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260817_090026.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260817_090028.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260817_090032.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-5-6 visible in photo 1 (cover); interior pages (photos 2-6) do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 6 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
