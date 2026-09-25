@@ -1,0 +1,260 @@
+[
+  {
+    "item_number": "628",
+    "name_on_card": "My Love is one thousand days dead",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (66).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (67).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (69).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 4,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (70).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "FLAG"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "All four photos show number blocks 6, 2, 8 = 628.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'My Love is one thousand days dead' is NOT visible in any photo. Photo 1 shows the back cover of a spiral notebook. Photo 2 shows the blank front cover. Photo 3 shows an inside page with a different poem ('Cold slabbed and toe tagged / Going home to mama in a plastic bag / Here's your Flag! / Priest at your door / Go ahead and cry some more / Can't save the poor... Oh Lord! / Here comes more...'). Photo 4 shows an open notebook spread with text too small and blurry to read clearly.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED and WORDS_FROM_OTHER_SHEET: None of the typed_words content ('I Got Some Money / Maybe I'll SPEND IT on you...' or 'My Love is one thousand days dead / But she still lives as long as I have...') is visible in any photo. Photo 3 shows a different poem ('Cold slabbed and toe tagged...') not in typed_words. Photo 4 shows notebook text too blurry/small to read.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "FLAG",
+    "READABLE_NOTE": "Photo 4 shows notebook content too small and blurry to read. Photos 1 and 2 show covers with no poem content. Photo 3 shows a readable but unrelated poem."
+  },
+  {
+    "item_number": "648",
+    "name_on_card": "Sit back and relax and grab some snacks",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (91).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 4, 8 = 648.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Sit back and relax and grab some snacks' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Photo shows second section of typed_words: 'Sit back and relax and grab some snacks / Shit getting [?] I'm eating in / No risk it No Biscuit / That means you don't wanna miss it / life is coming at you fast / And it's trying to kick your ass / You can hide inside your room / But without the sun you won't bloom / Stand up and face facts see what you lack / What is needed to [?] complete it? / And Did you plant your seeds yet? / The only questions that matter are the ones you / ask yourself' - matching typed_words second section. First section before '---' ('don't marry opinions marry facts / That's what Jill said to Jack / Jack just smiled and widely grinned / When one thing ends another begins') is NOT visible on this physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper legible; some crossed-out lines present."
+  },
+  {
+    "item_number": "654",
+    "name_on_card": "People's word it ain't what it used to be",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_202534.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 5, 4 = 654.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line '1/2 People's word it ain't what it used to be' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: '1/2 People's word it ain't what it used to be / Oh No! / 3/4 Suddenly That's become crystal clear to me / How so? / The New party line... is [crossed out: dead] just don't get Killed and Don't / And don't lie... until you see the whites of their eyes! / But boy when you do... oh let 'em fly!!! / We'll build you a corporation behind which you can hide / 1/2 Just a little tax shelter to keep your money warm and dry / 3 While people somewhere are suffering / 4 In fact there are some right outside / They've been tapping at your window? / Remember when you put down the blinds? / Or did you forget already? / I guess I'll refresh your mind:' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible; some crossed-out words present."
+  },
+  {
+    "item_number": "670",
+    "name_on_card": "Down in Manchester Bay",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_202934.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 7, 0 = 670.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Down in Manchester Bay' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Down in Manchester Bay / A place where [crossed out] the seagulls / No longer fly / There's an old expression / That all the locals say: / Sometimes you shouldn't bother to wonder why / Here The shore is [crossed out: always] Soaking yet / Yet the water's always dry / Where faces are always smiling / Yet people still surely cry / Lines form to stare at the sunset / Falling over Great Misery Island / Yet people stand with their head down / And even the children are all silent' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "674",
+    "name_on_card": "I'm just a young kid who's goin to school",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_203021.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 7, 4 = 674.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I'm just a young kid who's goin to school.' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'I'm just a young kid who's goin to school. / A workin class stiff who's never been cool. / I'm twenty years old and I've made my mistakes, / life ain't easy but you do what it takes. / I've been blown out to sea and derailed from my track, / And life's gotten better once they cut me some slack. / My girlfriend is crazy but she don't get it from me. / I did all I could so I'll let her be. / I'm not too poetic for a shoot from the waist / When reality hits you like a slap in the face it leaves / Your mouth with a bitter taste / I don't have time to beat the bush, / When pullin' don't work it's time to push. / I have no respect' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "683",
+    "name_on_card": "HANDWRITTEN POEM - \"THE BIG DAY IS COMING\"",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_203229.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 8, 3 = 683. A stray '2' block is also visible in the top right corner but is not part of the number sequence.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'HANDWRITTEN POEM - \"THE BIG DAY IS COMING\"' has no separate title heading visible on sheet. Sheet begins directly with 'The big day is coming' as the first line of the poem without a distinct title above it.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'The big day is coming / One day bears your name / Year after year / The time is marked the same / And though people come and go / As the faces change / You know the year ahead / Is going to be strange / Your eyes grow large / You run from the candles / Another year towards responsibility / You're not ready to handle' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "690",
+    "name_on_card": "I KNEW HER TOO WELL",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_203357.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 9, 0 = 690.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Sheet title reads 'I KNoW HER TOO WELL' (present tense 'KNOW') but card name is 'I KNEW HER TOO WELL' (past tense 'KNEW'). Typed_words also states 'I KNOW HER TOO WELL'. Discrepancy between card name and what is written on the sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'I KNoW HER TOO WELL / [crossed out] She's crazy as Hell / Her brain's turned to Jell / Now Does that ring a bell? / She got nothing to sell / Too many stories too tell / [was/at going so well - margin annotation] / [blacked out line] / Now does that ring a bell? / Now she's gone clean / No more chasing the dream / and Acting so obscene / her Senses far from Keen / Decked out in punk and gleam' - matching typed_words (which show 'I KNOW HER TOO WELL / She's crazy as Hell...' etc.).",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo path was from rotated-photos folder but image appears correctly upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on ruled card stock fully legible."
+  },
+  {
+    "item_number": "691",
+    "name_on_card": "This is the train that'll lead me outta here",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_203414.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 9, 1 = 691.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'This is the train that'll lead me outta here' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'This is the train that'll lead me outta here / Gotta get when the gettin's good / And Now's my time the coast is clear / When you've gone too far and you can't turn back / When they don't know your name they don't cut you any slack / Get Back On Track / Can't call this home again / Don't come Back / Time to get on the train again / All of a sudden the world's gotten colder / When there's someone behind you you gotta look over your shoulder / They say there's a heaven but this sure ain't it / Just trying to get there is givin' me fits / It would be so easy to be like them' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "694",
+    "name_on_card": "If I could just learn to play this here damn Guitar",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_203500.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 9, 4 = 694.",
+    "NAME": "OK",
+    "NAME_NOTE": "First lines 'If I could just learn to play this / here damn guitar' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'If I could just learn to play this / here damn guitar / I'd go get up the stage and show 'em / I'm a star / And then one day maybe I could sing / Get my song on the radio / Make my money off [crossed out] royalties / Get treated like a king / And maybe I could go on tour, / Say hello, Hola, Priviet and bonjon / That'd be so much better / than what I'm doin' now (Oh yeah, oh yeah) / Just need [crossed out] believers in me baby / Someone to pull some strings / Someone who knows how' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "696",
+    "name_on_card": "I got nothing against you - kill or be killed",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_203536.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/20260818_203546.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Both photos show three blocks 6, 9, 6 = 696.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I got nothing against you - kill or be Killed' visible at top of photo 1, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All typed_words visible across two photos. Photo 1 shows first section: 'I got nothing against you - kill or be Killed / But they shouldn't have sent you - kill or be killed / Run back home - my sight is set on your head / Run back home - my chamber is full of lead / The hunter and the hunted / Is this what you wanted? / I don't know your birthday but I know the second date to be placed on your stone / So sorry for your mother, Although you'll be carried by six at least you're going home / You've died for your country and now you're a hero / I'm still fighting for mine and labelled a zero / You're only remembered when you're not around / After you're dismembered and only half of you's found' - matching typed_words first section. Photo 2 shows second section: 'Such a complicated subject this matter of war / Inspired / by saving / private / Ryan, / why so much / loss?' - matching typed_words second section.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 path was from rotated-photos folder but image appears correctly upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Both photos fully legible; photo 2 has additional faint text from underlying pages showing through but main text is readable."
+  }
+]
