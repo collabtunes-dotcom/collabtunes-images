@@ -1,0 +1,124 @@
+[
+    {
+        "item_number": "1595",
+        "name_on_card": "QUOTES ABOUT SONGS",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_114902.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260810_085147.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260810_085150.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260810_085154.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,5,9,5 confirmed in photo 1 (horizontal).",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Quotes about songs pages shown rotated 90 degrees in gems-1500-1799-b/20260810_085150.jpg and 20260810_085154.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "4",
+        "name_on_card": "Rain... it makes the flowers grow",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (12).jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 0,0,4 confirmed in photo 1 (horizontal, reading left to right = 004 = item 4).",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1724",
+        "name_on_card": "NATION OF Rebels",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_123548.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_125946.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_125950.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_125954.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-b/20260823_125956.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-b/20260823_125958.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,7,2,4 confirmed in photos 1 and 2.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Notebook pages shown rotated 90 degrees in gems-1500-1799-b/20260823_125954.jpg, 20260823_125956.jpg, and 20260823_125958.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1728",
+        "name_on_card": "Speak Early and Assertively",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_130507.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_130511.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_130513.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_130517.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-b/20260823_130520.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-b/20260823_130525.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-b/20260823_130527.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1500-1799-b/20260823_130529.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,7,2,8 confirmed in photo 1.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1950",
+        "name_on_card": "POET / LYRICIST",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260817_215104.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks stacked vertically at left side; reading bottom-to-top: 1,9,5,0 = 1950. Confirmed in photo 1.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "POET / LYRICIST flyer shown rotated 90 degrees in gems-1800-2045/20260817_215104.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1761",
+        "name_on_card": "READTOM.COM PLANNING SHEETS",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_172941.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_172946.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_172950.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_172953.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-b/20260823_172957.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-b/20260823_173000.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,7,6,1 confirmed in photo 1.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Planning sheet pages shown rotated 90 degrees in gems-1500-1799-b/20260823_172946.jpg, 20260823_172950.jpg, 20260823_172953.jpg, and 20260823_172957.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
