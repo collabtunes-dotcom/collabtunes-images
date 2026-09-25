@@ -1,0 +1,253 @@
+[
+  {
+    "item_number": "172",
+    "name_on_card": "I have known and lost someone",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (528).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (529).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "No formal title on sheet; card name is the opening line of the poem, which is visible.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SMALL_DIFF: (1) Sheet line reads 'Will you fight it?' where typed_words have 'Will you defy it?'; (2) Sheet line reads 'When all is said and done' where typed_words have 'Or do you and done'; (3) Sheet reads 'it returns to dust' where typed_words have 'it returns to just [?]'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "176",
+    "name_on_card": "Just heard such a laim band it makes",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (539).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "No formal title on sheet; card name is the opening line of the poem, which is visible.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "177",
+    "name_on_card": "ESCAPING THE DEMONS",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (540).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'ESCAPING THE DEMONS' not visible anywhere on sheet. Poem begins immediately with 'Everyone close to me I push away...' with no title heading.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "188",
+    "name_on_card": "OF THE DAZE",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (567).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Sheet has an extra line 'Has anyone had enough?' between 'Does anyone dare speak up?' and 'You say hello to someone' that is not in typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "193",
+    "name_on_card": "VISIONS",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (581).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (582).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (580).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Photo 3 (of 1348 HAND WRITTEN LYRICS (580).jpg) has no visible number blocks. Photos 1 and 2 both show blocks reading 193.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'VISIONS' not visible on any sheet. Sheets show 'I WOULD ARGUE THIS is my first... poem' slip and 'Tomorrow' poem only.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "239",
+    "name_on_card": "PANDORA'S BOX",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (697).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "241",
+    "name_on_card": "SECRET ROOM",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (701).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "244",
+    "name_on_card": "SUPER STAR",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (705).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "286",
+    "name_on_card": "If it wasn't such crappa",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (808).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "No formal title on sheet; card name is the opening line of the poem, which is visible.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "291",
+    "name_on_card": "When you forget than I forget",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (817).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "No formal title; card name is the opening line. Sheet reads 'When you forget then I forget' (using 'then'); card name uses 'than'.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SMALL_DIFF: Sheet first line reads 'When you forget then I forget' using 'then'; typed_words and card name use 'than'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
