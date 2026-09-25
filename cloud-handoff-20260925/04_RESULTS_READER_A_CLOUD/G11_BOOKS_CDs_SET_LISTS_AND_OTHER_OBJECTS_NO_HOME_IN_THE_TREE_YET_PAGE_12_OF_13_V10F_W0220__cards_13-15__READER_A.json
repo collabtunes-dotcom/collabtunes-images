@@ -1,0 +1,71 @@
+[
+    {
+        "item_number": "1940",
+        "name_on_card": "SONG LISTS",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260817_211528.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260817_211704.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1800-2045/20260817_211708.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1800-2045/20260817_211537.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1800-2045/20260817_211548.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1800-2045/20260817_211552.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1800-2045/20260817_211557.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1800-2045/20260817_211600.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1800-2045/20260817_211711.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1800-2045/20260817_211718.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 11, "repo_path": "gems-1800-2045/20260817_211722.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 12, "repo_path": "gems-1800-2045/20260817_211725.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,9,4,0 confirmed in photos 1 and 3 (stacked vertically on left, read bottom-to-top = 1940). Also confirmed in photos 2 and 8. Remaining photos are close-ups of song list sheets without number blocks clearly visible.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Song list sheets shown rotated 90 degrees in all 12 photos including overviews and close-ups of multiple song list pages (Disciples of Dirt albums, from Dec 16 2008 list, etc.)",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1759",
+        "name_on_card": "New",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_172608.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_172611.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_172613.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_172616.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-b/20260823_172643.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,7,5,9 confirmed in photo 1 (horizontal arrangement at top, reading left-to-right = 1759). Remaining photos are close-ups of song list sheets without number blocks visible.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1741",
+        "name_on_card": "34 SONG TITLES AND RUNNING ORDER",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_164548.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_164552.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_164554.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_164558.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,7,4,1 confirmed in photo 1 (stacked vertically on right side, read bottom-to-top = 1741). Remaining photos are close-ups of the two numbered song title pages (labeled '34') without number blocks visible.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Song title sheets shown rotated 90 degrees in gems-1500-1799-b/20260823_164548.jpg and 20260823_164552.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
