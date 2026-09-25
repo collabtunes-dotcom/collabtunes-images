@@ -1,0 +1,120 @@
+[
+  {
+    "item_number": "469",
+    "name_on_card": "JULY 2003 MUSIC SCHEDULE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1173).jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 4-6-9 bottom-to-top (vertical column on left side, photo rotated 90 degrees) = 469",
+    "NAME": "FLAG", "NAME_NOTE": "Photo 1 of 2 shows handwritten lyric side ('BROWNIES AND LOVE' / 'SEND IN THE DRONES...' etc.); 'JULY 2003 MUSIC SCHEDULE' printed header not visible in this photo; name may appear in photo 2",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; handwritten lyric text visible: 'BROWNIES AND LOVE / HMMM... / IF I WAS FAMOUS... / I'D BE DEAD / FOR ALL THE DANGEROUS THOUGHTS / I'D HAVE PUT INSIDE PEOPLE'S HEADS / SEND IN THE DRONES... / DO YOU KNOW WHAT WOULD HAPPEN / IF THIS GUY GOT CLONED? / INSTEAD OF MAKING (crossed-out word) WEAPONS AND MONEY / WE'D BE MAKING BROWNIES AND LOVE / AND GETTING STONED'; matches typed_words first section",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; handwritten document text runs vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "2003",
+    "name_on_card": "DODGE STREET BAR & GRILL APRIL 2002 MUSIC SCHEDULE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_121921.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-0-3 bottom-to-top (vertical column on left side, photo rotated 90 degrees) = 2003",
+    "NAME": "FLAG", "NAME_NOTE": "Photo 1 of 1 shows handwritten lyric/poem side ('Been there before / in solitary confinement...'); printed 'DODGE STREET BAR & GRILL APRIL 2002 MUSIC SCHEDULE' header not visible in this photo; this is the reverse side of the schedule document",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; handwritten text visible: 'Been there before / in solitary confinement / There is no use denying it / I have placed myself in my own self / I must first find before I start seeking anyone else / Cars drive up but the gate is closed...'; matches typed_words excerpt beginning 'Been there before'",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; handwritten document text runs vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1996",
+    "name_on_card": "DODGE STREET BAR & GRILL APRIL 2002 MUSIC SCHEDULE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_121221.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-9-6 top-to-bottom in rotated photo (= left-to-right in original orientation, photo rotated 90 degrees) = 1996",
+    "NAME": "OK", "NAME_NOTE": "Printed schedule shows 'DODGE STREET BAR & GRILL APRIL 2002 MUSIC SCHEDULE'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; full April 2002 schedule grid visible with acts; second document partially visible at edge; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; printed schedule text and calendar grid run vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Schedule text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1954",
+    "name_on_card": "AUGUST 2003 MUSIC SCHEDULE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_215936.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-5-4 bottom-to-top (vertical column on left side, photo rotated 90 degrees; typed_words also note 'NUMBER CARDS (top to bottom): 4, 5, 9, 1' confirming 1954 read bottom-to-top) = 1954",
+    "NAME": "OK", "NAME_NOTE": "Bright pink paper shows 'DODGE STREET BAR & GRILL AUGUST 2003 MUSIC SCHEDULE'; matches name_on_card 'AUGUST 2003 MUSIC SCHEDULE'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; pink paper schedule with full August 2003 calendar grid visible including acts (DIS 'N' DAT, VEIN, LOADED DICE, CATALINAS, KENNE HIGHLAND CLAN, etc.); matches typed_words schedule section",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; pink schedule text and grid run vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Schedule text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1888",
+    "name_on_card": "Domain Name Expiration Notice",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_100002.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-8-8-8 bottom-to-top (vertical column on left side, photo rotated 90 degrees) = 1888",
+    "NAME": "OK", "NAME_NOTE": "Printed document header reads 'Domain Name Expiration Notice' from IDNS (Internet Domain Name Services); matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; IDNS form visible showing: domain name brianrainstorm.com, Reply Requested By January 25, 2016, Expiration Date May 15, 2016; pricing table ($45 / $80 / $180); payment stub section; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; printed document text runs vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Document text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1999",
+    "name_on_card": "DUIL PROGRAM OVERVIEW",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_121341.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-9-9 bottom-to-top (vertical column on left side, photo rotated 90 degrees) = 1999",
+    "NAME": "OK", "NAME_NOTE": "Printed document shows bold header 'DUIL PROGRAM OVERVIEW'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; DUIL Program Overview page visible; text includes 'Established in April, 1985, The Middlesex County Driving Under the Influence of Liquor (DUIL) Program...', 14-day residential treatment, 16,200 clients, $812 total cost at $58/day, Rev. 1-97 at bottom; matches typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; printed document text runs vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1765",
+    "name_on_card": "GATOR",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260824_045530.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-6-5 left-to-right (horizontal row at top of photo) = 1765",
+    "NAME": "OK", "NAME_NOTE": "Black Stratocaster-style electric guitar in black hard GATOR-brand guitar case; matches name_on_card 'GATOR'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; black electric guitar (Stratocaster body style) with white pickguard, three single-coil pickups, TONE and VOLUME knobs, tremolo bridge, visible in open black hard case with black velvet lining; consistent with item_type 'ELECTRIC GUITAR IN CASE'",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1079",
+    "name_on_card": "A LIFETIME OF RHYME - EMPTY CD CASE",
+    "photos_checked": [],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "No photos provided; cannot verify item_number 1079 from photos",
+    "NAME": "FLAG", "NAME_NOTE": "No photos provided; cannot verify name_on_card from photos",
+    "WORDS": "FLAG", "WORDS_NOTE": "No photos provided; cannot verify typed_words from photos",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "No photos provided",
+    "READABLE": "FLAG", "READABLE_NOTE": "No photos provided"
+  },
+  {
+    "item_number": "1378",
+    "name_on_card": "FIRST DRAFT FINISHED SONGS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-2046-plus__20260824_050042__UPRIGHT.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "UPRIGHT_FIXED photo: 4 small white card squares visible on far right side of image; digits not legible from this camera angle/distance; cannot confirm item_number 1378",
+    "NAME": "OK", "NAME_NOTE": "Cover sheet at upper left of paper spread reads 'FIRST DRAFT / FINISHED / SONGS / by / Tom Jensen' in large handwritten letters; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; UPRIGHT_FIXED version; large spread of paper stacks/bundles laid out on surface; cover sheet clearly readable; multiple sub-stacks with individual song numbers visible (6, 7, 15, 45, 44, 56, 61, etc.) with category labels ('State of world', 'Detail', 'Love', etc.); consistent with 'FIRST DRAFT FINISHED SONGS' collection",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: cover sheet text and paper spread appear correctly oriented and readable",
+    "READABLE": "OK", "READABLE_NOTE": "Cover sheet readable; individual paper labels visible though small at this scale"
+  },
+  {
+    "item_number": "1912",
+    "name_on_card": "SONGS WITH LYRICS BY TOM JENSEN",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_103137.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-1-2 bottom-to-top (vertical column on left side; typed_words confirm '[Handwritten cards:] 2 / 1 / 9 / 1' top-to-bottom, bottom-to-top = 1912) = 1912",
+    "NAME": "OK", "NAME_NOTE": "Printed flyer shows 'SONGS WITH LYRICS BY TOM JENSEN' as section heading; Tom Jensen photo and bio visible; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; printed flyer shows all 21 songs (01 Maybe Someday through 21 We Are the Ones) with collaborator names matching typed_words; Tom Jensen photo, 'DON'T WORRY, I WILL SAVE THE WORLD FROM EVIL!!!' tagline, READTOM.COM, tomjensonlyrics@yahoo.com visible",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; cards and flyer text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
