@@ -1,0 +1,232 @@
+[
+  {
+    "item_number": "369",
+    "name_on_card": "Something or Something",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (963).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 3, 6, 9 = 369.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Something or Something' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Something or Something / Nothing is for nothing / Everything means something / Nothing is for free' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on loose sheet fully legible."
+  },
+  {
+    "item_number": "408",
+    "name_on_card": "You Planted in My Brain",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1048).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 4, 0, 8 = 408.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'You planted in my brain' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'You planted in my brain / a seed of thought / that grew into a tree / of pain / I nurtured it through / the rain / and drought / I watered it / with self doubt / now all I do is complain / You planted in my brain' - matching typed_words. Input listed this photo in rotated-photos folder; original folder version used and photo appears upright.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0001-0500-a) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "425",
+    "name_on_card": "Well I've found out",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1088).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 4, 2, 5 = 425. Third tile stylized as 'S' but reads as 5.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Well I've found out' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Well I've found out / That the things I care about / Are the things I can't live without / And the things I cannot live without / Are the things that I live for / And the things that I live for / Are what keeps me alive / And what keeps me alive / is what I care about' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on loose sheet fully legible."
+  },
+  {
+    "item_number": "458",
+    "name_on_card": "If you play fast and loose with the truth",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1151).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 4, 5, 8 = 458.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'If you play fast and loose with the truth' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Photo shows first section of typed_words: 'If you play fast and loose with the truth / Eventually it will catch up to you / When you've bent and twisted it / Beyond all recognition / It will straighten itself out' - matching. Typed_words second section 'Copious amount / A cornucopia of catnip / on the carpet' is NOT visible on the physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on loose sheet fully legible."
+  },
+  {
+    "item_number": "459",
+    "name_on_card": "It's so hard to go from being",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1153).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 4, 5, 9 = 459.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'It's so hard to go from being' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'It's so hard to go from being / everything to someone / to being nothing / It's so easy to go from being / nothing to someone / to being everything' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on loose sheet fully legible."
+  },
+  {
+    "item_number": "460",
+    "name_on_card": "She was very Trailor-ly when we first met",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1154).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 4, 6, 0 = 460.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'She was very Trailor-ly when we first met' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Photo shows first section of typed_words: 'She was very Trailor-ly when we first met / All she wore were spandex and a hair net / I knew from the start she wasn't finished yet / She still had some growing up to do' - matching. Typed_words second section 'I need a new color / I'm gettin sick and tired of white / I'm gettin sick and tired of right / I need a new color / I need to start in the middle' is NOT visible on the physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on loose sheet fully legible."
+  },
+  {
+    "item_number": "467",
+    "name_on_card": "I Make the Worst Girls Smile",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1169).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 4, 6, 7 = 467.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I Make the Worst Girls Smile' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible including main poem and number calculations: 'I Make the Worst Girls Smile / Even when they don't want to / It takes a while / But I know just what to do / I'll take the mile / If they let me get through' plus margin number calculations - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "476",
+    "name_on_card": "They say lightening never strikes...",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1189).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 4, 7, 6 = 476.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'They say lightening never strikes...' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'They say lightening never strikes / the same place twice / [struck: I] But I've been struck / by you so many times / I've lost count' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on loose sheet fully legible."
+  },
+  {
+    "item_number": "478",
+    "name_on_card": "ALL IN",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1191).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 4, 7, 8 = 478.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'ALL IN' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'ALL IN / I'm all in / I'm giving everything I've got / I'm all in / I'm putting it all on the line / I'm all in / Whatever it costs / Whatever it takes / I'm all in' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on loose sheet fully legible."
+  },
+  {
+    "item_number": "480",
+    "name_on_card": "You Thought You Gave In",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1193).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 4, 8, 0 = 480.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'You Thought You Gave In' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Physical sheet shows 5 stanzas but typed_words contain only the first stanza. Typed_words contain: 'You thought you gave in / But you gave up / You thought you were giving / But you were taking away'. Physical sheet shows 4 additional stanzas not in typed_words: 'You thought you were falling / But you were rising above / You thought you were hating / But you were showing love / You thought you were losing / But you were winning the game / You thought it was different / But it's all the same / You thought you were ending / But you were just starting again / You thought you were losing / But you were gaining a friend'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  }
+]
