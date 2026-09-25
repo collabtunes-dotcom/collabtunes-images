@@ -1,0 +1,239 @@
+[
+  {
+    "item_number": "631",
+    "name_on_card": "You can't believe a picture",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (74).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 3, 1 = 631.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'You can't believe a picture' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "644",
+    "name_on_card": "LAST SONG",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (87).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 4, 4 = 644.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'LAST SONG' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible including struck line, matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "646",
+    "name_on_card": "I'm becoming a big fan",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (89).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 4, 6 = 646.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I'm becoming a big fan' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "649",
+    "name_on_card": "You Better Lock Up the Henny",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (92).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 4, 9 = 649.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'You Better Lock Up the Henny' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Physical sheet shows the main poem 'You Better Lock Up the Henny / When I come around / You Better Lock Up the Henny / or I'll drink it all down' matching typed_words first section. Typed_words second section 'When it comes to the ladies... / you can go gaga over gaga / But I'll TAKE the weaver' is NOT visible on the physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "650",
+    "name_on_card": "Bird Bread",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (93).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0501-1000__501 to 787 part 2 (94)__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Pos1 shows 6, S=5, 0 = 650. Pos2 (upright-corrected) confirms same number.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'Bird Bread' visible at top right of pos1, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible across both photos matching typed_words. Pos1 shows first section; pos2 (upright-20260918 version) shows second section. Upright version confirmed valid (not a 404).",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Pos2 is upright-20260918 corrected version; confirms correct orientation.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Both photos legible. Handwriting on lined paper clear."
+  },
+  {
+    "item_number": "657",
+    "name_on_card": "Right Now... Is the time",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_202615.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, S=5, 7 = 657.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Right Now... Is the time' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "658",
+    "name_on_card": "Black cat's asleep in the box",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_202625.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, S=5, 8 = 658.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Black cat's asleep in the box' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "663",
+    "name_on_card": "The soul of a slave is filled with rage",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_202801.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 6, 3 = 663.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name says 'soul' but the physical sheet reads 'The SAGA of a slave is filled with rage'. Typed_words also uses 'saga' not 'soul'. The card name does not match what is physically written on the sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full spiral poem on paper plate visible matching typed_words (which correctly reads 'saga'): 'The SAGA of a slave is filled with rage / They took my chains but they still keep me / locked in a cage / It seems the only way to turn the page / Is to rise above and get up off the stage' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in spiral on paper plate fully legible."
+  },
+  {
+    "item_number": "664",
+    "name_on_card": "As trees become naked",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_202810.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 6, 4 = 664.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'As trees become naked' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "669",
+    "name_on_card": "There once was a girl and a guy and me",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_202917.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 6, 6, 9 = 669.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'There once was a girl and a guy and me' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Physical sheet shows first section matching typed_words: 'There once was a girl and a guy and me / They fell in love and I had to flee / But I knew a secret that they didn't know / And the only way to learn it was to go' - matching. Typed_words second section 'I've got good ones, bad ones / Happy ones, sad ones / Just tell me the mood that you're in' is NOT visible on the physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  }
+]
