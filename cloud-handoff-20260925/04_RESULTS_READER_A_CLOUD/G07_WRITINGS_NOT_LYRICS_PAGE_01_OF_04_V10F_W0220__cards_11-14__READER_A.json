@@ -1,0 +1,93 @@
+[
+  {
+    "item_number": "1827",
+    "name_on_card": "NOAH RETURNS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_201309.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_201317.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_201322.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_201330.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_201338.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260816_201345.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 7, "repo_path": "gems-1800-2045/20260816_201351.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 8, "repo_path": "gems-1800-2045/20260816_201355.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 9, "repo_path": "gems-1800-2045/20260816_201403.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 10, "repo_path": "gems-1800-2045/20260816_201409.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 10 photos rotated 90 degrees (document pages turned sideways, blocks visible on left side reading bottom-to-top as 1827).",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1828",
+    "name_on_card": "Close your eyes for a second, I promise this won't hurt",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_201446.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_201455.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_201501.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_201519.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_201509.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260816_201514.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-2-8 visible in photos 1-4; not visible in photos 5-6 (interior pages, blocks cut off at edge).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Handwritten annotations 'SO IGNORANT! Scanned' and 'concept / circle of theory' visible in photo 1 as described in typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 6 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1829",
+    "name_on_card": "THE CIRCLE THEORY",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_201542.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_201552.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_201619.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_201558.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_201605.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260816_201610.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-2-9 visible in photos 1-3; not visible in photos 4-6 (interior pages).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 6 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1830",
+    "name_on_card": "Movie Revue",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_202407.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_202422.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_202431.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_202444.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260810_080600.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-3-0 visible in photos 1-3; not visible in photos 4-5.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Photo 4 shows back of page with handwritten profanity ('Shit - shysa / Asshole - Areshlo / Fuck You - Ficken dear') not described in typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photos 1-4 rotated 90 degrees. Photo 5 is upright but shows overview of multiple sheets on carpet with no blocks visible.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
