@@ -1,0 +1,38 @@
+[
+  {
+    "item_number": "1641",
+    "name_on_card": "LYRIC WEAVER",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_212351.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-4-1 left-to-right (horizontal row at top) = 1641",
+    "NAME": "OK", "NAME_NOTE": "Hand-drawn website mockup shows 'LYRIC WEAVER' in large box at top; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 4; mockup shows menu buttons (MP3, PDF, Contact, LadyWeaver crossed out, Songs, Poems); cartoon face placeholder; 'Tom Jensen is...' text; '77 min video of song clips' box; left note reads '372 poems or songs. Broken down into 10 ALBUMS of music already made and 21 albums of lyrics waiting for music! 12 songs per album!'; right thought bubble 'A POEOM or Song every day for an entire year!'; 'Song albums (read) [1][2][3] etc..' and 'Waiting for music albums (need) [1][2][3][4] etc...'; matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1002",
+    "name_on_card": "I like early morning when its just the birds and I",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_085401.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-0-0-2 left-to-right (horizontal row at top) = 1002",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'I like early morning when its just the birds and I / The sun has just shown his face in the big blue sky'; first line matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; opening couplet visible: 'I like early morning when its just the birds and I / The sun has just shown his face in the big blue sky'; rest of page blank; marketing class notes appear in photos 2-3; consistent with typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1956",
+    "name_on_card": "ChallengingMedia",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_220050.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-5-6 left-to-right (horizontal row at top) = 1956",
+    "NAME": "OK", "NAME_NOTE": "Paper shows 'ChallengingMedia' as header; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 4; from rotated-photos source path but photo appears upright; media list visible: ChallengingMedia, IOR2, phubb, the real weekly news, We Roy, the RSA org, UC television, JoeFriendly, Chomskyan, Whitehouse, media grrl 9, representative press, the Real News, Henry Holt, Al Jazeera English, Russia Today; several entries circled in red pen; matches typed_words media list section",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
