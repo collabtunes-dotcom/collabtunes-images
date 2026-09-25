@@ -1,0 +1,24 @@
+[
+    {
+        "item_number": "1565",
+        "name_on_card": "Tom Jensen Poem Anthology",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "rotated-photos/20260808_111055.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_111108.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-a/20260808_111114.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-a/20260808_111123.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-a/20260808_111926.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-a/20260808_111049.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,5,6,5 confirmed in photo 1 (rotated-photos/20260808_111055.jpg), horizontal arrangement at top reading left-to-right = 1565. Shows interior dedication page of 'TOM JENSEN POEM ANTHOLOGY' with date March 29th, 2013 and contents listing.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows the interior of the Tom Jensen Poem Anthology — matches name on card. typed_words confirms 'TOM JENSEN POEM ANTHOLOGY, 734 pages of poems' on the spine/cover.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photos 2, 4, 5, 6 (gems-1500-1799-a/20260808_111108.jpg, 111123.jpg, 111926.jpg, 111049.jpg): the website shows these photos sideways per their UPRIGHT_FIXED notes. Photos 1 and 3 are right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
