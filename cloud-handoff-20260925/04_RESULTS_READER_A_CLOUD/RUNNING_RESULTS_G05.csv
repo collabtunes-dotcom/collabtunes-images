@@ -69,3 +69,13 @@ item_number,name_on_card,page,batch_from,batch_to,NUMBER,NUMBER_NOTE,NAME,NAME_N
 570,Those who use trickery,03,01,10,OK,"Blocks show 5, 7, 0 = 570.",OK,First line visible on torn brown paper sheet.,OK,,OK,,OK,
 571,It's Now 1:10 and I Let It Happen Again,03,01,10,OK,"Blocks show 5, 7, 1 = 571.",OK,First line visible at top.,OK,,OK,,OK,
 573,QUITTING,03,01,10,OK,"Blocks show 5, 7, 3 = 573.",OK,'QUITTING' title visible with decorative asterisks.,OK,All three stanzas match typed_words.,OK,,OK,
+579,Everything that was once important,03,11,20,OK,"Blocks show 5, 7, 9 = 579.",OK,First line visible at top.,OK,All five stanzas plus 'blind' closing word visible.,OK,,OK,
+580,Well my days of drugs are over,03,11,20,OK,"Blocks show 5, 8, 0 = 580.",OK,First line visible at top.,OK,,OK,,OK,
+582,SWIMMING COWS,03,11,20,OK,"Blocks show 5, 8, 2 = 582.",OK,'SWIMMING COWS' title visible at top.,OK,All three stanzas visible and matching.,OK,,OK,
+583,As I stand before the judge and see he licks his lips,03,11,20,OK,"Blocks show 5, 8, 3 = 583.",OK,First line visible at top.,OK,,OK,,OK,Food/liquid stains on lower blank portion; text area legible.
+589,I came inside and knocked off my boots,03,11,20,FLAG,"Blocks read 9, 8, 5 left to right = 985 not 589; may be reversed.",FLAG,Sheet shows 'I don't even know why I called you today' — does not match card name.,FLAG,"WORDS_FROM_OTHER_SHEET: photo shows only 2 lines not in typed_words for 589; appears to be wrong sheet.",OK,,OK,Only 2 lines of text visible then blank.
+594,SERVED,03,11,20,OK,"Blocks show 5, 9, 4 = 594 in both photos.",OK,'SERVED by Tom Jensen' with 'SECOND' label visible.,OK,All sections covered across 2 photos.,OK,,OK,
+595,SMACK DAB,03,11,20,OK,"Blocks show 5, 9, 5 = 595 in both photos.",OK,'SMACK DAB by Tom Jensen' visible in photo 1.,OK,All sections covered across 2 photos.,OK,Photo 2 is UPRIGHT corrected version.,OK,Photo 1 has crossings-out but legible.
+602,Little Sex Buddha,03,11,20,OK,"Photos 1 and 2 show 6, 0, 2 = 602; photo 3 has no blocks visible.",OK,'Little Sex Buddha by Tom Jensen' title visible.,OK,All sections covered across 3 photos.,OK,,OK,
+618,Thirst,03,11,20,OK,"Blocks show 6, 1, 8 = 618.",OK,'Thirst by Tom Jensen' title visible.,FLAG,"TYPED_NOT_PICTURED: 'Night falls its time to go to bed...' stanza in typed_words not on handwritten sheet (sheet note says 'more lyrics on comp').",OK,,OK,
+629,Turn all that negativity,03,11,20,OK,"Blocks show 6, 2, 9 = 629 in both photos.",OK,First line visible at top.,OK,"Photo 1 main poem; photo 2 shows 'My heart palpitates / The hands of time move / Yet still I wait' section.",OK,,OK,

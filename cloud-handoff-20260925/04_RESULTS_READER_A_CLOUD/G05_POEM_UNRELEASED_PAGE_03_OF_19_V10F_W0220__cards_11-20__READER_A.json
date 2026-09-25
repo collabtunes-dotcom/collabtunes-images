@@ -1,0 +1,267 @@
+[
+  {
+    "item_number": "579",
+    "name_on_card": "Everything that was once important",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_172556.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 7, 9 = 579.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Every thing that was once important' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All five stanzas plus 'blind' closing word visible and matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "580",
+    "name_on_card": "Well my days of drugs are over",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_172608.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 8, 0 = 580.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Well my days of drugs are over' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All stanzas visible and matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "582",
+    "name_on_card": "SWIMMING COWS",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_173211.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 8, 2 = 582.",
+    "NAME": "OK",
+    "NAME_NOTE": "'SWIMMING COWS' visible as title at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All three stanzas visible and matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "583",
+    "name_on_card": "As I stand before the judge and see he licks his lips",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_173225.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 8, 3 = 583.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'As I stand before the Judge... he licks his lips' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Food/liquid stains on lower blank portion of sheet; text area is fully legible."
+  },
+  {
+    "item_number": "589",
+    "name_on_card": "I came inside and knocked off my boots",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084816.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Blocks read 9, 8, 5 left to right = 985, not 589. The number is reversed; may have been placed right-to-left but result is ambiguous.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "First line on sheet is 'I don't even know why I called you today' — does not match card name 'I came inside and knocked off my boots'.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_FROM_OTHER_SHEET: Photo shows only 'I don't even know why I called you today / I knew I'd be hurt by all the words you would say' (2 lines) then blank sheet. This content does not appear in typed_words for card 589 ('I came inside and knocked off my boots...'). Photo appears to show a different card's sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Only 2 lines of text visible, rest of sheet is blank."
+  },
+  {
+    "item_number": "594",
+    "name_on_card": "SERVED",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (106).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (107).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 9, 4 = 594 in both photos.",
+    "NAME": "OK",
+    "NAME_NOTE": "'SERVED by Tom Jensen' with 'SECOND' margin label visible in photo 1.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo 1 shows first seven stanzas; photo 2 shows final two stanzas ('Like a dethroned King...' and 'When you treat the world like your servant...'). All sections covered.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "595",
+    "name_on_card": "SMACK DAB",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (108).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0501-1000__501 to 787 part 2 (109)__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 9, 5 = 595 in both photos.",
+    "NAME": "OK",
+    "NAME_NOTE": "'SMACK DAB by Tom Jensen' visible along right margin in photo 1 with 'FIRST' label.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo 1 shows FIRST section and main SMACK DAB poem through 'bong' stanza. Photo 2 (UPRIGHT corrected) shows later sections including 'I've been with too many bitches...' and 'Yeah, Time and a lack of proximity...'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 2 is the corrected upright version; text reads correctly right-side up.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Photo 1 has some crossings-out and crowded text but all lines legible."
+  },
+  {
+    "item_number": "602",
+    "name_on_card": "Little Sex Buddha",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (15).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (16).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (17).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Photos 1 and 2 show blocks 6, 0, 2 = 602. Photo 3 has no number blocks visible (frame shows mid-sheet text only).",
+    "NAME": "OK",
+    "NAME_NOTE": "'Little Sex Buddha by Tom Jensen' visible as title in photos 1 and 2.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photos 1/2 show first portion of poem; photo 3 shows continuation including 'My new girlfriend's name is Megan Rain' through final lines. All sections covered.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "618",
+    "name_on_card": "Thirst",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (53).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 6, 1, 8 = 618.",
+    "NAME": "OK",
+    "NAME_NOTE": "'Thirst by Tom Jensen' visible as title on sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: typed_words begin with 'Night falls its time to go to bed...' stanza not visible on the handwritten sheet. Sheet note '(more lyrics on comp.)' confirms this content exists only on computer. All handwritten content visible in the photo matches typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Some margin annotations but all main text lines legible."
+  },
+  {
+    "item_number": "629",
+    "name_on_card": "Turn all that negativity",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (71).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (72).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 6, 2, 9 = 629 in both photos.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Turn all that negativity' visible at top of sheet in photo 1.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo 1 shows main poem ('Turn all that negativity...' through final stanza). Photo 2 shows closing section 'My heart palpitates / The hands of time move / Yet still I wait' which matches typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
