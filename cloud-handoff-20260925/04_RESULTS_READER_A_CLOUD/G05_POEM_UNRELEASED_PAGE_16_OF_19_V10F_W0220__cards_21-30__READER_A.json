@@ -1,0 +1,239 @@
+[
+  {
+    "item_number": "960",
+    "name_on_card": "It's open mic night down at Dodge",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_084128__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/20260819_084133.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Pos1 shows tiles 9, 6, 0 = 960. Pos2 (reverse of same sheet) shows no number tiles.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'It's open mic night down at Dodge' visible in pos1, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Pos1 shows front of sheet: 'It's open mic night down at Dodge / Someone's playing but there's no one listening / But when he's finished there's no applause / He sounds a little outta tune but his sweat glistens' plus faint/illegible text below. Pos2 shows reverse of same sheet: 'File / Page setup / paper size / orientation / portrait / landscape / apply to / selected text' (and upside-down main poem text barely visible at top) - all consistent with typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Pos1 (UPRIGHT file, 89690 bytes) is upright and confirmed valid. Pos2 is upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Pos1 handwriting fully legible; faint secondary text partially illegible but consistent with typed_words. Pos2 fully legible."
+  },
+  {
+    "item_number": "961",
+    "name_on_card": "Now it's time for me to pretend to be a poet",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084152.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 6, 1 = 961.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Now it's time for me to pretend to be a poet' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Now it's time for me to pretend to be a poet / Tell me any lie and I'll pretend to [struck: believe] know it's true / But I couldn't never lie to you / IF I couldn't look you in the eyes / I wouldn't know what to do / So I never even try. / Is the only thing left to do' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on plain white paper fully legible."
+  },
+  {
+    "item_number": "962",
+    "name_on_card": "Everybody tells me I should go to church",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084201.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 6, 2 = 962.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Everybody tells me I should go to church' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Everybody tells me I should go to church / to find a girl / Someone to complete my life and give me / a reason to live in this world' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on three-hole punched lined paper fully legible."
+  },
+  {
+    "item_number": "963",
+    "name_on_card": "Something or Something",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084228.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 6, 3 = 963.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'Something or Something' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_PICTURED_NOT_TYPED: Physical sheet shows 'Something or Something / either making love to her husband or [plain] getting paid' where 'plain' appears as a small interlinear annotation above 'getting paid'. The word 'plain' is not present in typed_words which reads 'either making love to her husband or getting paid'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "965",
+    "name_on_card": "MAJOR BLUES",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084303.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 6, 5 = 965.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'MAJOR BLUES' is NOT visible as a title on the physical item. Physical sheet starts directly with 'What's wrong with getting swept away in a movie?' with no separate title heading.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Single line visible: 'What's wrong with getting swept away in a movie?' - matching typed_words which contains only this line.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn lined notebook paper fully legible."
+  },
+  {
+    "item_number": "966",
+    "name_on_card": "I've got good ones, bad ones",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084313.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 6, 6 = 966.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I've got good ones, bad ones' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'I've got good ones, bad ones / Happy ones, sad ones / Just tell me the mood that you're in' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "968",
+    "name_on_card": "You already know the reason why",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084339.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 6, 8 = 968.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'You already know the reason why' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in cursive: 'You already know the reason why / Why I left you high and dry / Or should I say I left you low and wet / That's okay because you get what you give / and you got what you get / It's just the price you have to pay / So why are you so upset? / Now I ask you to go away / Because you're someone whom / I wish I never met.' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in cursive on spiral notebook paper fully legible."
+  },
+  {
+    "item_number": "969",
+    "name_on_card": "WAVES...",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084349.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 6, 9 = 969.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'WAVES...' visible at top of pink paper, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'WAVES... They come so many ways / I'VE thought a lot about that today / Drown out sorrows / So they say / Crests and trophs' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn pink lined paper fully legible; some water staining/discoloration visible but text is unaffected."
+  },
+  {
+    "item_number": "970",
+    "name_on_card": "With god on my side",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084405.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 7, 0 = 970.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'With god on my side' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible in cursive: 'With god on my side / Who could ever be against me? / That's why I try / To make friends of all my enemies / As my friends become my family / I let them know just what they mean to me' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting in cursive on lined notebook paper fully legible."
+  },
+  {
+    "item_number": "972",
+    "name_on_card": "ANOTHER SONG",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_084429.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 9, 7, 2 = 972.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'ANOTHER SONG -' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full content visible: 'ANOTHER SONG - / I want Introduce / you to the Left Side of / my brain - the part that / is controlling every time / that I go strolling down / memory lane' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Input listed this in rotated-photos folder. Original folder version (gems-0501-1000) used; photo appears upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on white paper fully legible."
+  }
+]
