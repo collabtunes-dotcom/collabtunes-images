@@ -1,0 +1,267 @@
+[
+  {
+    "item_number": "468",
+    "name_on_card": "ALL IN",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1170).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1171).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 6, 8 = 468 in both photos.",
+    "NAME": "OK",
+    "NAME_NOTE": "'ALL IN' visible at top in both photos.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "typed_words marked '[cut for the check]'; visible content matches.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "472",
+    "name_on_card": "FRIENDS AND COUNTRYMEN",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1179).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1181).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 7, 2 = 472 in both photos.",
+    "NAME": "OK",
+    "NAME_NOTE": "'FRIENDS AND COUNTRYMEN' visible at top in photo 2. Photo 1 shows the 'TOAST' section which is the first part of this card's content.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "typed_words marked '[cut for the check]'; visible content matches.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "486",
+    "name_on_card": "GREATEST TO LEAST",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1205).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 8, 6 = 486.",
+    "NAME": "OK",
+    "NAME_NOTE": "'GREATEST TO LEAST' visible at top.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Some lines heavily crossed out but main text legible."
+  },
+  {
+    "item_number": "490",
+    "name_on_card": "RAINBOW",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1211).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 9, 0 = 490.",
+    "NAME": "OK",
+    "NAME_NOTE": "'RAINBOW' visible at top with 'J-CAT MUSE-IC' header.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "491",
+    "name_on_card": "Surviving the Stairs",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1213).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1214).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1215).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 4, 9, 1 = 491 in all photos.",
+    "NAME": "OK",
+    "NAME_NOTE": "No separate title visible; card name derives from text 'One that I call surviving the stairs' visible in photos 2 and 3.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "500",
+    "name_on_card": "WHAT I DO",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1235).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 0, 0 = 500.",
+    "NAME": "OK",
+    "NAME_NOTE": "'WHAT I DO' visible at top of sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SMALL_DIFF: Sheet title reads 'WHAT I DO' but typed_words begin with 'WHAT DO' (missing 'I').",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "502",
+    "name_on_card": "TWO SEASONS",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1240).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 0, 2 = 502.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No title 'TWO SEASONS' visible on sheet; sheet starts with 'I'm in a click...'.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Some lines crossed out but main text legible."
+  },
+  {
+    "item_number": "503",
+    "name_on_card": "Show me a liar once",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1241).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0001-0500-b__of 1348 HAND WRITTEN LYRICS (859)__UPRIGHT.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Photo 1 blocks show 5, 0, 3 = 503. Photo 2 (UPRIGHT version of 859) has no number blocks visible.",
+    "NAME": "OK",
+    "NAME_NOTE": "Card name is first line of poem 'Show me a liar once' visible in photo 1.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_FROM_OTHER_SHEET: Photo 2 (upright-20260918/gems-0001-0500-b__of 1348 HAND WRITTEN LYRICS (859)__UPRIGHT.jpg) shows text 'A MASTER TO MANY / A SLAVE TO NO NE' which does not appear in typed_words for this card and appears to belong to a different card.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 2 is the corrected upright version; text reads correctly right-side up.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "506",
+    "name_on_card": "The maid washes the floor",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1247).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 0, 6 = 506.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'The maid washes the floor' visible on sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: typed_words include multiple additional sections (Cigarettes look like pencils..., FIND MATCHING ITEM, THE TOM & TOM SONG, etc.) not visible in the single photo.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "507",
+    "name_on_card": "I got white washed and covered in snow",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1248).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 0, 7 = 507.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I got white washed... and Covered in Snow' visible on sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: typed_words include a BRIDGE section ('The invisible gap between sons and Fathers...') not visible in the single photo which shows only the first short stanza.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]

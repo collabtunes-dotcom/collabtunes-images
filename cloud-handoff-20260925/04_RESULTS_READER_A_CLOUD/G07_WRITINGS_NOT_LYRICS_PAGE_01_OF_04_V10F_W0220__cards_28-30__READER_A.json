@@ -1,0 +1,65 @@
+[
+  {
+    "item_number": "1848",
+    "name_on_card": "YEAH! ESSAY 1",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_204106.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_204111.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_204116.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_204123.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_204127.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1800-2045/20260816_204131.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-4-8 visible in photo 1 (cover); interior pages (photos 2-6) do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Handwritten 'Scanned' annotation in green ink on cover page, consistent with typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 6 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1849",
+    "name_on_card": "YEAH",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_204150.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_204200.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_204155.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_204207.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-4-9 visible in photo 1; interior pages (photos 2-4) do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "All 4 photos rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1850",
+    "name_on_card": "AVOIDING MY OLD HOBBY",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260816_204240.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1800-2045/20260816_204255.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1800-2045/20260816_204300.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1800-2045/20260816_204305.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1800-2045/20260816_204313.jpg", "NUMBER": "N/A", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-8-5-0 visible across top in photo 1 (upright orientation); interior pages (photos 2-5) do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 1 upright; photos 2-5 rotated 90 degrees.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
