@@ -1,0 +1,72 @@
+[
+    {
+        "item_number": "1755",
+        "name_on_card": "WEBSITE PLAN AND QUOTE SHEETS",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_171222.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_171226.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_171229.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_171233.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-b/20260823_171239.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-b/20260823_171523.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-b/20260823_171545.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1500-1799-b/20260823_171607.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1500-1799-b/20260823_171617.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1500-1799-b/20260823_171628.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 11, "repo_path": "gems-1500-1799-b/20260823_171646.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 12, "repo_path": "gems-1500-1799-b/20260823_171700.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 13, "repo_path": "gems-1500-1799-b/20260823_171715.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 14, "repo_path": "gems-1500-1799-b/20260823_171735.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 15, "repo_path": "gems-1500-1799-b/20260823_171738.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,7,5,5 confirmed in photo 1 (gems-1500-1799-b/20260823_171222.jpg), horizontal arrangement at top reading left-to-right = 1755. Shows website plan grid with two columns ('EVERYONE' and 'THE OTHERSIDE') listing content categories, plus quote pages.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows website plan/grid and quote sheets — matches WEBSITE PLAN AND QUOTE SHEETS.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photos 2, 3, 4, 5 (gems-1500-1799-b/20260823_171226.jpg, 171229.jpg, 171233.jpg, 171239.jpg): the website shows these photos sideways per their UPRIGHT_FIXED notes. Photos 1, 6-15 are right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1916",
+        "name_on_card": "YOUR AD HERE",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260817_103256.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 6,1,9,1 stacked vertically on left side in photo 1 (gems-1800-2045/20260817_103256.jpg), read bottom-to-top = 1916. Shows handmade 'YOUR AD HERE' sign on yellow-highlighted paper with smiley face, displayed rotated 90 degrees.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows handmade 'YOUR AD HERE' sign — matches name on card.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photo 1 (gems-1800-2045/20260817_103256.jpg): content shown rotated 90 degrees sideways.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1993",
+        "name_on_card": "SOCIAL BLADE YOUTUBE STATS",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "rotated-photos/20260818_120037.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260818_120045.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1800-2045/20260818_120049.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1800-2045/20260818_120306.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1800-2045/20260818_120326.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1800-2045/20260818_120354.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,9,9,3 confirmed in photo 1 (rotated-photos/20260818_120037.jpg), horizontal arrangement at top reading left-to-right = 1993. Shows 'Social Blade - YouTube Stats - User: readtomdotcom' Page 1 of 4, dated 9/21/2010 showing subscriber counts around 13477-13489.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows Social Blade YouTube stats printout for readtomdotcom — matches SOCIAL BLADE YOUTUBE STATS.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photo 5 (gems-1800-2045/20260818_120326.jpg): the website shows this photo sideways per its UPRIGHT_FIXED note. Photos 1, 2, 3, 4, 6 are right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
