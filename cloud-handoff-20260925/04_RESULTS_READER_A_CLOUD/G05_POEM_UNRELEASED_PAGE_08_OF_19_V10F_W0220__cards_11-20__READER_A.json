@@ -1,0 +1,274 @@
+[
+  {
+    "item_number": "725",
+    "name_on_card": "HIT THE ROAD",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_170735.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/20260818_170741.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-0501-1000/20260818_170752.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 4,
+        "repo_path": "gems-0501-1000/20260818_170817.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 5,
+        "repo_path": "gems-0501-1000/20260818_204238.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Photos 1-4 all show blocks 5, 2, 7 = 527, NOT 725. Only photo 5 shows blocks 7, 2, 5 = 725. Photos 1-4 appear to belong to a different card (527).",
+    "NAME": "FLAG",
+    "NAME_NOTE": "Card name 'HIT THE ROAD' is NOT visible in photos 1-4 which instead show 'TIM'S SONG' and related poems. Title 'HIT THE ROAD' IS visible in photo 5 in large block letters at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_FROM_OTHER_SHEET: Photos 1-4 show wrong poems. Photo 1 shows 'TIM'S SONG / How much money does it take? / For you to feel good about yourself?...' Photo 2 shows a continuation of a different poem 'Do you trust yourself enough? / To decide to be the judge and jury?...' Photos 3-4 show same poems as 2. None of this content matches typed_words for card 725. Photo 5 shows the correct 'HIT THE ROAD' poem: 'You've heard about who I'm talking about / The type of people who the clouds follow around / No warnings of thunder and lightening / Trouble comes in a flash and doesn't make a sound / It's calm before the storm is what they say / Hey hit the road so I can hit the hay / I don't need you anymore / It's time to pay up / It's time to even the score' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "All photos are readable. Photos 1-4 show content from a different card. Photo 5 shows HIT THE ROAD poem clearly legible."
+  },
+  {
+    "item_number": "726",
+    "name_on_card": "I, I dont want to lie to you",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204249.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/20260818_204255.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Both photos show blocks 7, 2, 6 = 726.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I, I don't want to lie to you' visible at top of cardboard in photo 1, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo 1 shows full poem on cardboard: 'I, I don't want to lie to you / I don't wanna be your friend / I, I want to confide in you / That I saved the best / For the very end.. / For the very end / I, I just had to tell someone / my dirty... little secret / I, I have barely just begun / to speak the truth / but now there's no use.. / but now there's no use' - matching typed_words. Photo 2 shows blank back of same cardboard.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Photo 1 fully legible on cardboard in black marker. Photo 2 is blank back of cardboard."
+  },
+  {
+    "item_number": "727",
+    "name_on_card": "I, I don't want to lie to you",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204307.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 7, 2, 7 = 727.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I, I don't want to lie to you' visible below the note annotation '(1) Merge with next poem' at top, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: annotation '(1) Merge with next poem' at top, then 'I, I don't want to lie to you / I don't wanna be your friend / I, I just want to confide in you / That I [scribbled: I've saved my] best... / For the very end / I, I'm not sure why I'm saying this / [scribbled out] glad things [scribbled out] went the way they did / Thought I was / I, I know I'm not the kinda guy / That keeps his feelings hid / Perhaps that's where the problem is...' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible; some scribbled-out lines present but main text readable."
+  },
+  {
+    "item_number": "729",
+    "name_on_card": "I don't know why they left it to me",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204328.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 7, 2, 9 = 729.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I don't know why they left it to me' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Photo shows main poem sections: 'I don't know why they left it to me / When you talk about I then you forget about / If you forget about we then you forget about u / Then everyone's boarding the same old bus / It's Driving [crossed out] into the ground wall / I don't know why they left it to me / Somethings must be told because you can not see / Just because you have a different mother / Doesn't mean I can't call you brother / We're all one big family / I don't know why they left it to me' - matching typed_words main section. The second section after '---' ('I'm not sure if her first instinct is to be fantastic') is NOT visible on this physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "738",
+    "name_on_card": "The invisible gap between our fathers",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204610.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 7, 3, 8 = 738.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title line 'The [superscripted: invisible] gap between our fathers' visible at top of sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Photo shows first section: 'The invisible gap between our fathers / After seems like Grand Canyon long / But what is the real reason that / It is Because of these men we are born / Why do they seem so far away? / For as long as we live / Divided like Night and day / No one's ever crossed the bridge / What the eye sees will change / Perspectives never meet / One sees long range One measures in miles long / one sees while the other only by feet / Is the way too narrow / Or the distance too high / That so few have ever tried / to get across while so much is lost / Not Knowing of the other side' - matching typed_words first section. Second section after '---' ('She falls in and out of love / About every other day / It's good and then it's bad / But what you've never had / Can never fade away') is NOT visible on this physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible; some crossed-out words with corrections visible."
+  },
+  {
+    "item_number": "741",
+    "name_on_card": "Second rate, Second best",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204702.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 7, 4, 1 = 741.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Second rate, Second best' visible at top of sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'Second rate, Second best / None's ever passed the test / Until I studied you / And you taught me / A lesson in love / Called chemistry / Talk about extra credit / I never would have believed it / Find myself asking if I really said it / Never before did I conceive it / I [crossed out: found out] I've been waiting for long / [crossed out: I was] too young to settle for second best / I began to wonder if I was wrong / I am too idealistic I will confess' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible; crossed-out words present but main text clear."
+  },
+  {
+    "item_number": "746",
+    "name_on_card": "I threw a pie at bill gates during the convention",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204810.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 7, 4, 6 = 746.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I threw a pie at bill gates during the convention,' visible at top of sheet, matching card name. Also has '21' notation in top right corner.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: '21 / I threw a pie at bill gates during the convention, / whip cream on the face, cherry off the head was my intention / But I missed and hit the Queen / Then she started getting mean / I, the joker, remained unseen / Therefore my hands were clean / I felt a hand grasping upon my shoulder / My brow began to sweat, temperature getting colder / Either an officer or a gentleman' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "749",
+    "name_on_card": "When you feel safe here there's no need to ask of your last residence",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204850.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 7, 4, 9 = 749.",
+    "NAME": "OK",
+    "NAME_NOTE": "First two lines 'When you feel safe here / There's no need to ask of your last residence' visible at top of torn sheet, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'When you feel safe here / There's no need to ask of your last residence / From quicksand to mud / Anything need to be known is evident / Waking up in morning / Pray it all fades away / Wake up in the evening / Pray it all fades away / Wake up in the afternoon / In the bed you lay / Wake up in the morning / And face another day' - matching typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on torn worn lined paper; text legible despite paper condition."
+  },
+  {
+    "item_number": "751",
+    "name_on_card": "f.vgly",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204913.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 7, 5, 1 = 751.",
+    "NAME": "OK",
+    "NAME_NOTE": "Title 'f.vgly' visible at top of sheet next to a number annotation, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Full poem visible: 'f.vgly / It's been three years since I saw my face / Every time I look the mirror breaks / I Don't know if I've aged / Not sure why some people are so cruel / I recall my first trip to the zoo / But I escaped that cage / Because I am fugly / (I AM F-U-G-L-Y fugly)' - matching typed_words. Left margin has various number annotations (9, 6, 9, etc.) and right margin has 'ce/ee' annotations.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on lined paper fully legible."
+  },
+  {
+    "item_number": "758",
+    "name_on_card": "I just got laid off and now I'm pretty pissed off",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_205108.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0501-1000__20260818_205118__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Both photos show blocks 7, 5, 8 = 758. Photo 1 path was from rotated-photos folder; photo 2 is from upright folder.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I just got laid off and now I'm pretty pissed off-you better run away.' visible at top of both sheets, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both typed_words versions visible across two photos. Photo 1 (first draft version): 'I just got laid off and now I'm pretty / pissed off-you better run away. / Workin here for twelve years bustin my / but [crossed out] again and I got nothin to say. / Except for [crossed out] \"hello\", and / good bye / I got nothin now and I got nothin to / lose. / With me holdin you hostage you don't / have many options to chose / you can try to run, try to hide. / But I'm already here inside. / With six bullets left and seven / of you / Not really sure what I'll do. / There's George, he's my boss / The one who fired me but I guess it's his loss.' Photo 2 (cleaner version of same poem) shows same content more legibly - matching typed_words second section after '---'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 path was from rotated-photos folder but image appears correctly upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Both photos legible. Photo 1 has some scribbled-out words but main text readable. Photo 2 is a cleaner copy fully legible."
+  }
+]
