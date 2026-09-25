@@ -1,0 +1,14 @@
+[
+  {
+    "item_number": "1562",
+    "name_on_card": "BINDER - 'NEW STUFF FOLDER'",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_105622.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-6-2 left-to-right (horizontal row at top; S=5) = 1562",
+    "NAME": "OK", "NAME_NOTE": "Clear-front presentation binder shows handwritten contents index header 'NEW STUFF FOLDER'; matches name_on_card 'BINDER - NEW STUFF FOLDER'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 65; binder cover sheet shows complete contents index: NEW STUFF FOLDER / ARTICLES 168 Pages / Baseball 40 Pages / Basketball 23 Pages / Huey Long 10 Pages / New Economy 15 Pages / SF Business Plan 8 Pages / My Favorite Quotes 13 Pages / Cheesy Pick-Up Lines 8 Pages / Movie List 7 Pages / My Musical Influences 4 Pages / New Poems 30 Pages / Brian Rainstorm Quotage; matches typed_words exactly",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; binder cover and index text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
