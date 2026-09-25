@@ -1,0 +1,122 @@
+[
+  {
+    "item_number": "1744",
+    "name_on_card": "COLLAB TO DO LIST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1500-1799-b__20260823_165515__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-4-4 left-to-right (horizontal row, upper right of UPRIGHT_FIXED photo) = 1744",
+    "NAME": "OK", "NAME_NOTE": "Center colorful panel reads 'COLLAB TO DO LIST' with checklist items; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 9; UPRIGHT_FIXED version; COLLAB TO DO LIST panel shows items: make links on title page current, put spoiler wordvideos on lyric pages on website, new 1-21 movie, who do I want to contact first, 1 or 2 sentence business plan, paragraph long business plan, 3 paragraph long business plan, business card make a few, read best to worse 1-10, double check read best towards pasts; surrounding pages show live music venues in Salem MA",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "UPRIGHT_FIXED photo overall orientation is correct but the center COLLAB TO DO LIST panel is rotated 90 degrees within the photo; text runs sideways; several surrounding pages also sideways",
+    "READABLE": "OK", "READABLE_NOTE": "COLLAB TO DO LIST panel readable despite sideways orientation; venue listing pages readable"
+  },
+  {
+    "item_number": "1637",
+    "name_on_card": "WHAT'S ON COLLABTUNES?",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_212002.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-3-7 bottom-to-top (vertical column on right side, photo rotated 90 degrees) = 1637",
+    "NAME": "OK", "NAME_NOTE": "Large planning sheet header reads 'WHAT'S ON COLLABTUNES!' (exclamation variant); matches name_on_card 'WHAT'S ON COLLABTUNES?'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; from rotated-photos input; large planning sheet shows left column (CONTACTS, MY BUSINESS CARD, Potential Revenue Streams, WHAT'S NEW?, CHAT GPT Reviews my idea, BE MY AGENT!, SET/SONG LIST THEMES, READ MY STUFF BEST-TO-WORST, Rolling Stone Magazine Article, ONE-SENTENCE SET/SONG LIST SUMMARIES, MY LYRICS ARE LIKE THESE SONGWRITERS) and right column (SONG LIST 1-10, SET LIST 1-21, YOUTUBE CHANNEL, BRIEF INTRO, PLACES I'M GOING, ALPHABETIZED INDEX, video links, BUSINESS PLAN, 50 of my best songs, FREE DOWNLOAD PDF my 398 page Book)",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; document text runs vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1645",
+    "name_on_card": "COLOR-CODED SONG INDEX / THEME CATALOG CARDS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1500-1799-a__20260808_212910__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-4-S bottom-to-top (vertical column on right side, S=5, UPRIGHT_FIXED photo) = 1645",
+    "NAME": "OK", "NAME_NOTE": "Documents show color-coded song index pages numbered 49 and 50 with entries; consistent with 'COLOR-CODED SONG INDEX / THEME CATALOG CARDS'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 7; UPRIGHT_FIXED version; pages numbered 49 and 50 show entries with song numbers and color/theme tags; entries include Intentional Anachronism (780), Horizon (781), What You Do To Yourself (782), Call Out (783), Like a Dog With a Limp (784), Another Epic Poem (785), This Is a New World (786), and many more",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: all documents visible are rotated 90 degrees within the photo; text runs sideways on all sheets",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1086",
+    "name_on_card": "USPS certified-mail copyright envelope",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "books/m01_copyright-envelope-2006_1.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "No item number cards visible in this photo; cannot verify item_number 1086 from photo",
+    "NAME": "OK", "NAME_NOTE": "Photo shows USPS Certified Mail Receipt on manila envelope, postmarked SALEM MA NOV 8 2006; 'TOM JENSEN' handwritten at bottom; matches 'USPS certified-mail copyright envelope'",
+    "WORDS": "OK", "WORDS_NOTE": "Certified Mail Receipt shows: Postage $5.00, Certified Fee, Return Receipt Fee, Postage & Fees; Salem MA 01970-9998 postmark; number visible top: 01? 07?; TOM JENSEN at bottom",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1942",
+    "name_on_card": "Major Country Problems",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_212020.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-4-2 left-to-right (horizontal) = 1942",
+    "NAME": "OK", "NAME_NOTE": "Document header reads 'Major [word crossed out] Country Problems'; matches name_on_card 'Major Country Problems'",
+    "WORDS": "OK", "WORDS_NOTE": "From rotated-photos input but photo is upright; document shows three grouped sections (D=depression/denial, T=Triggered, S=stress/self) with bulleted items including Lobbyists, Paid off Politicians, Big Corporations, Overpopulation, Immigrants, Media is controlled, Deforestation, Pollution, Global Warming, Lack of Universal health care, Bipartisanship, etc.",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo is from rotated-photos input but appears correctly upright; text is fully readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1630",
+    "name_on_card": "LYRIC STRIP LAYOUT",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_205922.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-3-0 left-to-right (horizontal) = 1630",
+    "NAME": "OK", "NAME_NOTE": "Photo shows cut lyric strips laid out on flat surface; consistent with 'LYRIC STRIP LAYOUT'",
+    "WORDS": "OK", "WORDS_NOTE": "Seven lyric strips visible: (211 six of eight) 'She had a gun in her pants'; 228 (index card) 'Are the pigs in their pen?'; SONG 61 'IT WILL GROW BACK'; 'WHEN I COME IN' (29 one of eight); 'I WILL KEEP MY' (25 one of eight) with 'Bi ride or die / Ywi cs>' annotation; 240 'Finding lots of people betting'; (468) 'TEARS LIKE NIAGRA'; blue ink circling visible",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1649",
+    "name_on_card": "THE SHIT SHOW",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_214036.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-4-9 left-to-right (horizontal) = 1649",
+    "NAME": "OK", "NAME_NOTE": "Document reads 'Well it's finally time to start the shit show...' confirming the title; 'DONUTS' written vertically on right side; matches 'THE SHIT SHOW'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; monologue text visible: 'Well it's finally time to start the shit show... Who's on the list tonight, soon everybody will know... Uvalde Police you certainly should have a lot to say for yourselves... Third graders certainly go around shooting themselves... A [Las] Rando guy in two rooms in Vegas Machine guns [500 crossed out] and 62 dead Smells even fishier than the Juan Valdez Building, Building Seven and Jeffrey Epstein combined!'; DONUTS written vertically",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1087",
+    "name_on_card": "SFAL 8th copy CD-R",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260809_185418.jpg", "NUMBER": "FLAG", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Cards read bottom-to-top (vertical column on left side): 1, S(=5), 7, S(=5) = 1575; does not match item_number 1087; photo is from non-rotated folder but disc is sideways",
+    "NAME": "OK", "NAME_NOTE": "Memorex CD-R reads 'Songs for a Lady First demo 8th copy'; 'SFAL' = Songs for a Lady; matches 'SFAL 8th copy CD-R'",
+    "WORDS": "OK", "WORDS_NOTE": "Disc shows Songs for a Lady, first demo, 8th copy, memorex CD-R",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; cards appear as vertical column on left; disc text runs sideways",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1640",
+    "name_on_card": "TOM'S TOP TWENTY / LADY WEAVER",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_212309.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-4-0 left-to-right (horizontal) = 1640",
+    "NAME": "FLAG", "NAME_NOTE": "Photo shows handwritten business/planning notes about 'create interactive song making platform'; no CD-R disc labeled 'Tom's Top Twenty' or 'Lady Weaver' visible in photo 1; cannot confirm name_on_card from this photo alone",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; planning notes read: 'Link / take online input / Add with real life people input / Add online musicians and/or / Add in person musicians / create interactive / song making platform / playing'; revenue column partially visible on right edge",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1943",
+    "name_on_card": "DISCIPLES OF DIRT",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1800-2045__20260817_212042__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-4-3 bottom-to-top (vertical column on right side, UPRIGHT_FIXED photo) = 1943",
+    "NAME": "OK", "NAME_NOTE": "Document header reads 'DISCIPLES OF DIRT'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 3; UPRIGHT_FIXED version; DISCIPLES OF DIRT track listing (30 tracks) visible upside-down on top sheet (pen and paper through the watcher); second sheet shows 'My perfect album based solely on lyrics' with 25 song entries; handwritten additions visible",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: main DISCIPLES OF DIRT track listing document is upside-down (inverted) within the photo; text reads bottom-to-top",
+    "READABLE": "OK", "READABLE_NOTE": "Track listing readable despite upside-down orientation; bottom sheet is right-side up"
+  }
+]
