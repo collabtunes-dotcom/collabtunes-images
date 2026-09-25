@@ -1,0 +1,54 @@
+[
+    {
+        "item_number": "1569",
+        "name_on_card": "SFAL 1st copy CD-R",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_112407.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_112418.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-a/20260808_112435.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260809_185020.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-a/20260808_112412.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-a/20260808_112423.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-a/20260808_112432.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,5,6,9 confirmed in photo 1 (horizontal arrangement, reading left-to-right = 1569). Also confirmed in photos 3 and 4.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 4 shows bare CD-R disc labeled 'SONGS for a Lady First Demo EVER!' — SFAL = Songs For A Lady, 1st copy CD-R matches.",
+        "WORDS": "FLAG",
+        "WORDS_NOTE": "typed_words describes 'Large wall-mounted display of cassette tapes, roughly 150+ tapes arranged in a grid on white board' — this does not match photos which show a blue book (POEMS & SONG LYRICS by TOM JENSEN) and a CD-R disc. typed_words content appears to belong to a different item.",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photos 2, 5, 6, 7 (gems-1500-1799-a/20260808_112418.jpg, 112412.jpg, 112423.jpg, 112432.jpg): the website shows these photos sideways per their UPRIGHT_FIXED notes (upright-corrected replacement files exist). Photos 1, 3, 4 are right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1570",
+        "name_on_card": "SONGS FOR A LADY - FIRST DEMO CD-R",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "rotated-photos/20260808_112510.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_112520.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260809_185220.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-a/20260808_112517.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-a/20260808_112526.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-a/20260808_112528.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-a/20260808_112533.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1500-1799-a/20260808_112536.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1500-1799-a/20260808_112541.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1500-1799-a/20260808_112545.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 11, "repo_path": "gems-1500-1799-a/20260808_112552.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 12, "repo_path": "gems-1500-1799-a/20260808_112622.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 13, "repo_path": "gems-1500-1799-b/20260809_185258.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,5,7,0 confirmed in photo 1 (horizontal arrangement, reading left-to-right = 1570). Also confirmed in photo 3.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 3 shows CD-R disc labeled 'SONGS for a Lady First demo 2nd copy' — matches SONGS FOR A LADY - FIRST DEMO CD-R.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photos 2, 4, 5, 6, 7, 8, 11, 12 (gems-1500-1799-a/20260808_112520.jpg, 112517.jpg, 112526.jpg, 112528.jpg, 112533.jpg, 112536.jpg, 112552.jpg, 112622.jpg): the website shows these photos sideways per their UPRIGHT_FIXED notes (upright-corrected replacement files exist). Photos 1, 3, 9, 10, 13 are right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
