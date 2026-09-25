@@ -1,0 +1,170 @@
+[
+  {
+    "item_number": "1547",
+    "name_on_card": "HANDWRITTEN NOTE - RESTORATION / GOOD MORNING",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_093736.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-5-4-7 visible across top in photo 1 (upright orientation).",
+    "NAME": "FLAG",
+    "NAME_NOTE": "SMALL_DIFF: No title 'RESTORATION / GOOD MORNING' visible as heading in photo 1; document is a short handwritten note beginning with 'hello [something] depressed [?] good / A good man i hard to find'.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1600",
+    "name_on_card": "Hello, This is Paul's second letter to the Corinthians",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_115721.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1500-1799-b/20260810_091203.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-6-0-0 visible in photo 1; photo 2 shows blocks again (N/A - same item confirmed).",
+    "NAME": "OK",
+    "NAME_NOTE": "Photo 1 shows binder cover 'SONG & POEM Summaries'; photo 2 shows text beginning 'Hello, / This is Paul's second letter to the Corinthians:' matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Both photos upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1603",
+    "name_on_card": "TOM-A-ROAKE POSTER",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260810_091337.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-6-0-3 visible across top in photo 1 (upright orientation).",
+    "NAME": "FLAG",
+    "NAME_NOTE": "SMALL_DIFF: Document shown is a typed love letter beginning 'Dear Rachel, Here it is, no more beating around the bush...'; no title 'TOM-A-ROAKE POSTER' visible.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1608",
+    "name_on_card": "STATS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_204047.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-6-0-8 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1616",
+    "name_on_card": "Fill in The missing word",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_204431.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_204438.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1500-1799-a/20260808_204441.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1500-1799-a/20260808_204443.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-6-1-6 visible in photo 1 (small but readable); interior pages do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "All 4 photos upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1617",
+    "name_on_card": "THE SAFE ZONE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_204522.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_204653.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-6-1-7 visible in photo 1; photo 2 does not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Photo 2 shows a separate CustomInk.com t-shirt order confirmation (Gildan Ultra Cotton T-shirt, black, 10 XL, $205.10, delivery 9/12/2014) not described in typed_words for THE SAFE ZONE.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Both photos upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1626",
+    "name_on_card": "The Quick Version",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_205221.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-6-2-6 visible across top in photo 1 (upright orientation).",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1727",
+    "name_on_card": "SCARED TO DEATH",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_130349.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_130356.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_130400.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_130404.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1500-1799-b/20260823_130408.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 6, "repo_path": "gems-1500-1799-b/20260823_130411.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 7, "repo_path": "gems-1500-1799-b/20260823_130414.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-7-2-7 visible in photo 1; interior pages do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Numerous handwritten annotations in orange ink throughout document in photo 1 (circled items, schedule notes 'SKYPE', 'Thurs 19th Fri 20th Monday 21st Yesterday', names 'Judy Corey Daddy Butt Boy', 'PAY DO NOW') not described in typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "All 7 photos upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1729",
+    "name_on_card": "STREET RHYMES STOP CRIME SIDE WALK SONGS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_130622.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_130624.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_130627.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_130630.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"},
+      {"pos": 5, "repo_path": "gems-1500-1799-b/20260823_130839.jpg", "NUMBER": "N/A", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks 1-7-2-9 visible in photo 1; interior pages do not show blocks.",
+    "NAME": "OK",
+    "NAME_NOTE": "",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_FROM_OTHER_SHEET: Photo 1 shows two additional sheets alongside STREET RHYMES STOP CRIME sheet — 'The picture bank' (homeless savings program notes) and San Francisco homeless questions checklist — not described in typed_words for this item.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "All 5 photos upright.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
