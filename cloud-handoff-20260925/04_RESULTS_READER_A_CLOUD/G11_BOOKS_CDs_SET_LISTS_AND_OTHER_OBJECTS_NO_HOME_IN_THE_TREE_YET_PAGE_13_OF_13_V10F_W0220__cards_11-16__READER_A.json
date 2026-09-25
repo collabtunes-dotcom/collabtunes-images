@@ -1,0 +1,128 @@
+[
+    {
+        "item_number": "1796",
+        "name_on_card": "TOM NOTE ASSIGNING 1796 1799",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260828_095023.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,7,9,6 confirmed in photo 1 (gems-1500-1799-b/20260828_095023.jpg), horizontal arrangement at bottom reading left-to-right = 1796. Shows handwritten note reading 'I'm assuming these Have NO Numbers so I will Take what I think Hasn't been done and make it 1796-1799'.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows Tom's handwritten note assigning the range 1796-1799 — matches name on card.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1797",
+        "name_on_card": "TOM NOTE ASSIGNING 1796 1799",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260828_095531.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,7,9,7 confirmed in photo 1 (gems-1500-1799-b/20260828_095531.jpg), horizontal arrangement at top reading left-to-right = 1797. Shows two pages of handwritten song lists titled 'IN SINCE PRINTOUT'.",
+        "NAME": "OK",
+        "NAME_NOTE": "Item is within the 1796-1799 administrative grouping. typed_words references the shot file (095023.jpg) from item 1796.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1928",
+        "name_on_card": "TOM'S OWN GREATEST HITS",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "rotated-photos/20260817_210225.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260817_210234.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,9,2,8 confirmed in photo 1 (rotated-photos/20260817_210225.jpg), horizontal arrangement at top reading left-to-right = 1928. Shows handwritten list headed 'TOM'S OWN GREATEST HITS' with 27+ numbered song titles.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows list headed 'TOM'S OWN GREATEST HITS' — matches name on card.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photo 2 (gems-1800-2045/20260817_210234.jpg): the website shows this photo sideways per its UPRIGHT_FIXED note. Photo 1 is right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1958",
+        "name_on_card": "UNITY",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260817_220152.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260818_084927.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1800-2045/20260818_084931.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1800-2045/20260818_085656.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1800-2045/20260817_220229.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1800-2045/20260817_220234.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1800-2045/20260817_220240.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1800-2045/20260817_220251.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1800-2045/20260818_084940.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1800-2045/20260818_084943.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 11, "repo_path": "gems-1800-2045/20260818_084946.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 12, "repo_path": "gems-1800-2045/20260818_084948.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 13, "repo_path": "gems-1800-2045/20260818_084951.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 14, "repo_path": "gems-1800-2045/20260818_084959.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 15, "repo_path": "gems-1800-2045/20260818_085002.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 16, "repo_path": "gems-1800-2045/20260818_085021.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 17, "repo_path": "gems-1800-2045/20260818_085029.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 18, "repo_path": "gems-1800-2045/20260818_085037.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 19, "repo_path": "gems-1800-2045/20260818_085151.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,9,5,8 stacked vertically on left side in photo 1 (gems-1800-2045/20260817_220152.jpg), read bottom-to-top = 1958. Shows UNITY CD/album insert with track listing (Justin JUSTICE music and vocals, Tom Jensen lyrics): 1 WaterFleshAndBone, 2 LetDown, 3 OneSlipOfTheKnife, etc.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows album insert titled 'UNITY' — matches name on card.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photo 1 (gems-1800-2045/20260817_220152.jpg): album insert content shown rotated 90 degrees. Photos 2, 5, 8, 10, 14, 15, 18, 19 (084927, 220229, 220251, 084943, 084959, 085002, 085037, 085151): the website shows these photos sideways per their UPRIGHT_FIXED notes. Photos 3, 4, 6, 7, 9, 11, 12, 13, 16, 17 are right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1924",
+        "name_on_card": "TRACK LIST WITH START TIMES",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "rotated-photos/20260817_210010.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,9,2,4 confirmed in photo 1 (rotated-photos/20260817_210010.jpg), horizontal arrangement at top reading left-to-right = 1924. Shows track list with start times: 0:01 TRAIN, 5:08 UNITY, 9:54 WATER FLESH BONE, 14:36 IN THE POURING RAIN, etc.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows a track list with start times — matches name on card.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1967",
+        "name_on_card": "TRACK LISTS AND SONG NOTES",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "rotated-photos/20260818_114631.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260818_114635.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1800-2045/20260818_114638.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1800-2045/20260818_114643.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1800-2045/20260818_114645.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1800-2045/20260818_114648.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,9,6,7 confirmed in photo 1 (rotated-photos/20260818_114631.jpg), horizontal arrangement reading left-to-right = 1967. Shows multiple papers with track lists and song notes including start times, song titles, and handwritten song notes.",
+        "NAME": "OK",
+        "NAME_NOTE": "Photo 1 shows multiple track lists and song notes laid out — matches name on card.",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Photos 2-6 (gems-1800-2045/20260818_114635.jpg, 114638.jpg, 114643.jpg, 114645.jpg, 114648.jpg): the website shows these photos sideways per their UPRIGHT_FIXED notes. Photo 1 is right-side up.",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
