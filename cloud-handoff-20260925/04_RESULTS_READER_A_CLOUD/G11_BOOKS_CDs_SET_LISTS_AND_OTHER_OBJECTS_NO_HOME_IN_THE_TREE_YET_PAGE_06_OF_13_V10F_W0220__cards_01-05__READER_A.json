@@ -1,0 +1,62 @@
+[
+  {
+    "item_number": "1726",
+    "name_on_card": "Anything that makes you more undesirable to others makes",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_130154.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-2-6 left-to-right (horizontal row at top) = 1726",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'Anything that makes you more undesireable to others makes you more desirable to me because I love you and want you all to myself... No matter what shape you're in.'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 5; opening love-line visible in full: 'Anything that makes you more undesireable to others makes you more desirable to me because I love you and want you all to myself... No matter what shape you're in.'; matches typed_words opening paragraph",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1647",
+    "name_on_card": "SONGS ONE THROUGH THIRTEEN NUMBERED",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1500-1799-a__20260808_213526__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-4-7 top-to-bottom (vertical column on right side, UPRIGHT_FIXED photo) = 1647",
+    "NAME": "FLAG", "NAME_NOTE": "Photo 1 of 15; UPRIGHT_FIXED version shows page 33 at top of large stack of numbered lyric/index sheets with colored marker annotations; the specific working index title 'SONGS ONE THROUGH THIRTEEN NUMBERED' is not visible in this first photo; may appear on cover sheet in a later photo",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 15; UPRIGHT_FIXED version; large stacks of numbered lyric sheets with colored-marker circles visible; color-coded index strip visible at bottom; green 'Rest' and 'maybe?' annotations on sheet margins; visible text includes 'RADIO OFF #94...' and 'WHAT HAPPENS WHEN YOU...' fragments; consistent with typed_words description of 'typed index sheets with hundreds of numbered/titled one-line lyric excerpts, individually circled in colored marker'",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: paper stacks and text now readable in standard orientation (corrected from original sideways); sheets fanned out diagonally but text is legible",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1071",
+    "name_on_card": "But things aren't always what they seem",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_095410.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-0-7-1 left-to-right (horizontal row at top) = 1071",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'But things aren't always what they seem / Everybody wants to live somebody else's dream / Never ever happy with what they call their own / Always wanting to roam when they're sitting at home'; first line matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 5; from rotated-photos source path but photo appears upright; opening quatrain fully visible and matches typed_words; rest of page blank in this photo (rhyme bank content appears in later photos)",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite being in rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "911",
+    "name_on_card": "Never be afraid when your opinion is based on fact",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_075704.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 9-1-1 left-to-right (horizontal row at top) = 911",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'Never be afraid when your opinion is based on fact / Let someone know that their own decision [to, not be told] how to act'; first line matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 2; from rotated-photos source path but photo appears upright; lyric stanza visible: 'Never be afraid when your opinion is based on fact / Let someone know that their own decision [to, not be told how to act] / Every day I become a little bit stronger / Every day my story gets to be a little longer / And I'm not afraid of that'; (207) 284-9816 written vertically on right side; printed baseball essay (Jensen 2) visible behind/below; matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "971",
+    "name_on_card": "And though I get my A's",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-0501-1000/20260819_084415.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 9-7-1 left-to-right (horizontal row at top) = 971",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'And though I get my A's / I really pay my dues / With everything I gain / There's still something that I lose'; first line matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source path but photo appears upright; full page visible including opening quatrain and Hemingway quotation 'Luz stayed on duty for threemonths...' from A Very Short Story, followed by Hemingway commentary ending '...Papa is plain (in his delivery) but the subject is always pretty good and sometimes you even get enema jokes... bonus!'; matches typed_words exactly",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  }
+]
