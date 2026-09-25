@@ -1,0 +1,80 @@
+[
+    {
+        "item_number": "1742",
+        "name_on_card": "SET LISTS 3 TO 24",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-b/20260823_164750.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-b/20260823_164755.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-b/20260823_164757.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-b/20260823_164800.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-b/20260823_164802.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-b/20260823_164810.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-b/20260823_164814.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1500-1799-b/20260823_164818.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1500-1799-b/20260823_164821.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1500-1799-b/20260823_165232.jpg", "NUMBER": "DATA_ERROR", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "FLAG",
+        "NUMBER_NOTE": "Blocks 1,7,4,2 confirmed in photos 1 and 2. Photo 10 (wide overview of set lists) shows blocks reading 1,7,4,3 rather than 1,7,4,2 - likely blocks were changed for the next item during this shoot.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Set list pages shown upside down in gems-1500-1799-b/20260823_164814.jpg and 20260823_164818.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1930",
+        "name_on_card": "blurb done = page circled",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1800-2045/20260817_210452.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1800-2045/20260817_210637.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1800-2045/20260817_210505.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1800-2045/20260817_210510.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1800-2045/20260817_210513.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1800-2045/20260817_210517.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1800-2045/20260817_210521.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1800-2045/20260817_210523.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,9,3,0 confirmed in photo 1 (horizontal layout); photo 2 confirms vertically stacked blocks reading bottom-to-top 1,9,3,0.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Song index pages shown rotated 90 degrees in gems-1800-2045/20260817_210637.jpg, 20260817_210505.jpg, 20260817_210510.jpg, 20260817_210513.jpg, 20260817_210517.jpg, and 20260817_210523.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1635",
+        "name_on_card": "MASTER SONG CATALOG INDEX CARDS",
+        "photos_checked": [
+            {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_211642.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 2, "repo_path": "gems-1500-1799-a/20260808_211646.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 3, "repo_path": "gems-1500-1799-a/20260808_211649.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 4, "repo_path": "gems-1500-1799-a/20260808_211652.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 5, "repo_path": "gems-1500-1799-a/20260808_211655.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 6, "repo_path": "gems-1500-1799-a/20260808_211707.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 7, "repo_path": "gems-1500-1799-a/20260808_211709.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 8, "repo_path": "gems-1500-1799-a/20260808_211714.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 9, "repo_path": "gems-1500-1799-a/20260808_211723.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 10, "repo_path": "gems-1500-1799-a/20260808_211727.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 11, "repo_path": "gems-1500-1799-a/20260808_211730.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"},
+            {"pos": 12, "repo_path": "gems-1500-1799-a/20260808_211733.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "Blocks 1,6,3,5 confirmed in photo 1.",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    }
+]
