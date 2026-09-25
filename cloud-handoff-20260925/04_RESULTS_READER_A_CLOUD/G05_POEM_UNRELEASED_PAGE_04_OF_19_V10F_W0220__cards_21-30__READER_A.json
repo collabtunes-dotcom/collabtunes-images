@@ -1,0 +1,239 @@
+[
+  {
+    "item_number": "753",
+    "name_on_card": "Welcome to my new life",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_204943.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 5, 3 = 753.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'Welcome to my new life' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Both stanzas visible and matching typed_words through final 'Because of course nothing ever bothered me'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "757",
+    "name_on_card": "When there's nothing left to do because everything's been done",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_205044.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0501-1000__20260818_205054__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Photo 1 shows blocks 7, 5, 7 = 757. Photo 2 (UPRIGHT corrected) shows same blocks on left side of landscape sheet.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'When there's nothing left to do because everything's been done' visible in both photos.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo 1 shows first section of poem with alphabet header. Photo 2 (UPRIGHT corrected, landscape) shows second version of same poem matching typed_words second section after '---'. Both sections covered.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 2 is the UPRIGHT corrected version; text reads correctly left to right. Sheet is landscape orientation in this photo.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "759",
+    "name_on_card": "The truth about turtles",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_205130.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 5, 9 = 759.",
+    "NAME": "OK",
+    "NAME_NOTE": "'The truth about turtles' visible as title at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final 'for my sons and daughter and family I miss'. One crossed-out line ('To big cat sitting close I appear as a meal') visible with correction below.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "One line crossed out but surrounding text fully legible."
+  },
+  {
+    "item_number": "761",
+    "name_on_card": "The path is twistin', the path is turnin'",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_205156.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 6, 1 = 761.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'The path is twistin', the path is turnin'' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final 'But the harder I try the bigger the gain'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "763",
+    "name_on_card": "You don't know what it's like",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_205226.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 6, 3 = 763.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'You don't know what it's like' visible at top of sheet (written in red ink).",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final 'That your allowance just isn't enough'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Written in red ink; fully legible."
+  },
+  {
+    "item_number": "765",
+    "name_on_card": "The Gambler",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_205250.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 6, 5 = 765.",
+    "NAME": "OK",
+    "NAME_NOTE": "'The Gambler' visible as decorative title at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All three stanzas visible and matching typed_words through final 'That someday he'll have it made'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "766",
+    "name_on_card": "MOURNING IN THE MORNING",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_205301.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 6, 6 = 766.",
+    "NAME": "OK",
+    "NAME_NOTE": "'MOURNING IN THE MORNING' visible as title at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final 'Just as another one starts'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "772",
+    "name_on_card": "AUG 14",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_205443.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 7, 2 = 772.",
+    "NAME": "OK",
+    "NAME_NOTE": "'AUG 14' visible as title at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All lines visible and matching typed_words through final 'Happy Birthday'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "776",
+    "name_on_card": "I do what I do / But at least I do it well",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_205523.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 7, 6 = 776.",
+    "NAME": "OK",
+    "NAME_NOTE": "First two lines 'I do what I do / But at least I do it well' visible at top of yellow paper sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: typed_words begin with two Shakespeare 'AS YOU LIKE IT' questions (first section before '---') not present on this handwritten sheet. Only the poem portion ('I do what I do...') is visible on the yellow paper. All poem lines visible and match typed_words second section.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Written on yellow lined paper; fully legible."
+  },
+  {
+    "item_number": "789",
+    "name_on_card": "FROM A DISTANCE",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_071900.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 7, 8, 9 = 789.",
+    "NAME": "OK",
+    "NAME_NOTE": "'FROM A DISTANCE' visible as title at top of sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: typed_words include three sections; photo shows only the first section ('FROM A DISTANCE' main poem through 'The sun is quite revealing'). Second section (last will and testament poem) and third section (brand new method poem) not visible on this physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Many crossings-out and corrections throughout but all lines identifiable and legible."
+  }
+]
