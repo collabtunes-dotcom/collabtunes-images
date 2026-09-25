@@ -1,0 +1,122 @@
+[
+  {
+    "item_number": "1610",
+    "name_on_card": "Black People Have White Souls",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1500-1799-a__20260808_204142__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-6-1-0 top-to-bottom on left side in UPRIGHT_FIXED photo = 1610",
+    "NAME": "OK", "NAME_NOTE": "Placard text reads 'Black People Have White Souls' (sideways within frame); red Curt Schilling racial slur quote visible; yellow smiley face and baseball bat doodle also visible; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; UPRIGHT_FIXED version; placard shows 'Black People Have White Souls' with Curt Schilling quote in red marker and smiley face/baseball bat doodles; consistent with typed_words description of placard content",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: main placard text still rotated 90 degrees (sideways) within the corrected frame; text runs vertically",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "2012",
+    "name_on_card": "ZIONATION SET LIST 23",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_154545.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-1-2 top-to-bottom on right side in rotated photo (original left-to-right horizontal row) = 2012",
+    "NAME": "OK", "NAME_NOTE": "Rolled scroll labeled 'ZIONATION / SET LIST 23' visible; torn paper '34 / Scrolls' also present; matches name_on_card 'ZIONATION SET LIST 23'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; rolled scroll shows 'ZIONATION / SET LIST 23 / (1) KAYFABE / (2) NOBLE PLACE HATE / (3) BRIBE THE POOR BLACKMAIL THE RICH / (4) BEFORE NOAH / (5) SUN, MOON AND TRUTH...' visible; matches typed_words set list content",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; scroll and paper text runs vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "2040",
+    "name_on_card": "SET LIST THREE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_160300.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-4-0 top-to-bottom on right side in rotated photo (original left-to-right horizontal row) = 2040",
+    "NAME": "OK", "NAME_NOTE": "Rolled scroll reads 'SET LIST THREE (3)'; torn paper '34 / Scrolls' and Sharpie marker also visible; matches name_on_card 'SET LIST THREE'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; scroll shows 'On what to do / With you know who / SET LIST THREE (3) / 1 Advice / 2 F the W / 3 Another / 4 the Spot / 5 Night Light / 6 the Watcher / 7 Dance Floor / 8 Fences'; matches typed_words set list content",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; scroll text runs vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1927",
+    "name_on_card": "SONG INDEX A1 TO W13",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1800-2045__20260817_210152__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-2-7 left-to-right (horizontal row at top of UPRIGHT_FIXED photo) = 1927",
+    "NAME": "OK", "NAME_NOTE": "Notebook page '38' at top right shows alphabetical song index from A1 (A Perfect World) through W13 entries; consistent with 'SONG INDEX A1 TO W13'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; UPRIGHT_FIXED version; full alphabetical index visible including A1=A Perfect World, A2=ALCOHOL, A4=AROUND THE KING'S TABLE, A8=ADAM & EVE, A9=A prayer for life's meaning, A16=All I Got, A17=Alison's airplane, B5=Boardwalk, B9=Blank Pages, B33=BRAVEHEART, C18=Closer to God, C21=The color of love, D1=Daddy Taught Me, D10=The defenseless, F2=Foot Prints of love, F21=Feel safe here, G7=The game, G8=Get Outta my house, I1=In the Shape of an Angel, I2=Its all about love, I11=In the pouring rain, K1=Karen, L1=Let Down, L7=The Light, L13=Live it Breathe IT, M25=My Best Friend, O2=ODE TO 1918, P11=Perching on powerlines; consistent with typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: notebook page and cards appear correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1929",
+    "name_on_card": "SONG TITLE LIST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_210316.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-2-9 bottom-to-top (vertical column, photo rotated 90 degrees) = 1929",
+    "NAME": "OK", "NAME_NOTE": "Four sheets of paper with long handwritten song title lists visible; content consistent with 'SONG TITLE LIST'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; four sheets of paper laid out with alphabetical/numbered song title lists; multiple columns of handwritten song titles visible; matches typed_words description of song title list content",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; all document text runs vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1926",
+    "name_on_card": "SONG TITLE INDEX LIST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_210114.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-2-6 left-to-right (horizontal row at top of photo) = 1926",
+    "NAME": "OK", "NAME_NOTE": "Large paper shows numbered song index with timecodes; small card at upper right shows alphabetical god-themed index; consistent with 'SONG TITLE INDEX LIST'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos input but photo appears upright; large index sheet shows timecodes: UNITY 0:00, MAYBE SOMEDAY 4:40, OVERRATED 7:05, ROCKING THE WORLD 10:17, BREAKING THE CHAINS 13:50, THE WATCHER 17:11, LET DOWN 20:43, TONIGHT'S MOONLIGHT 25:19, SMELL THE FLOWERS 29:21, HOW CAN YOU 33:31, FRESCO 35:52, WE ARE THE ONES 40:12, IN THE POURING RAIN 45:21, WATER FLESH & BONE 49:30, CLEAN WIPE TO TH SLATE 53:59, NATURE OF MAN 57:35, SEE THIS THRU 101:31, RIGHT BETWEEN THE EYES 1:06:39, WORTH THE WAIT 1:12:12; small index card shows A8=Adam & Eve, A17=Allison's Airplane, C18=Closer to God etc. with 'GOD 22' circled; matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo is from rotated-photos input but appears correctly upright; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1555",
+    "name_on_card": "Lynnfield High ID Card, Plane Ticket Stub, And San Francisco Visitor Map",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1500-1799-a__20260808_100251__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-S-S top-to-bottom on right side in UPRIGHT_FIXED photo (S=5) = 1555",
+    "NAME": "OK", "NAME_NOTE": "San Francisco Visitor Map prominently unfolded showing 'SAN FRANCISCO VISITOR MAP / A Smart Phone Friendly Interactive Map'; United Airlines ticket stub visible at upper area showing 'SAN FRANCISCO / DEP. 0825' flight details; matches 'Lynnfield High ID Card, Plane Ticket Stub, And San Francisco Visitor Map'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; UPRIGHT_FIXED version; SF map fully open showing map of San Francisco; ticket stub visible with flight details; Lynnfield High ID card may be behind map or not visible at this scale; matches typed_words description of these items",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: map and ticket stub documents are rotated 90 degrees (sideways) within the corrected frame",
+    "READABLE": "OK", "READABLE_NOTE": "Map and ticket text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1917",
+    "name_on_card": "I NEED $$",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_103308.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-1-7 bottom-to-top (vertical column on left side of photo) = 1917",
+    "NAME": "OK", "NAME_NOTE": "Paper reads 'I NEED $$' in black letters with heavy green marker scribbling across it; matches name_on_card 'I NEED $$'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; paper shows 'I NEED $$' text with large green marker scribble overlay; consistent with typed_words description",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1913",
+    "name_on_card": "JENSEN4PRESIDENT2020",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_103153.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-1-3 bottom-to-top (vertical column on left side, photo rotated 90 degrees) = 1913",
+    "NAME": "OK", "NAME_NOTE": "Campaign flyer shows 'JENSEN4PRESIDENT2020' text; Tom Jensen photo and bio 'Thinker, Writer, Post, Songwriter and Activist' visible; 'DON'T WORRY, I WILL SAVE THE WORLD FROM EVIL!!!' tagline; SEAL OF THE PRESIDENT OF THE UNITED STATES; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; rotated 90 degrees; full 23-point campaign platform visible (1 surface dwellers diggers and coverers through 23 new rule and a new jail); READTOM.COM; all content consistent with typed_words",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90 degrees; campaign flyer text runs vertically (sideways) in the photo",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1553",
+    "name_on_card": "LETTER TO MARTIN BARON",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1500-1799-a__20260808_095747__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-S-3 top-to-bottom on left side in UPRIGHT_FIXED photo (S=5) = 1553",
+    "NAME": "OK", "NAME_NOTE": "Envelope addressed to 'Martin Baron / 135 Morrison Boulevard / P.O. Box 2378 / Dorchester Ma 02107-2378'; return address 'Tom Jensen / 25 Island Rd / Lynnfield Ma / 01940'; MIDDLESEX-ESSEX MA NOV 13 2002 postmark; RETURN TO SENDER stamp visible; matches name_on_card 'LETTER TO MARTIN BARON'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; UPRIGHT_FIXED version; mailed envelope shown with full addressing details; orange postage stamp; RETURN TO SENDER / SUCH BOX NUMBER red stamp at lower right; letter opener/bookmark leaning against envelope; consistent with typed_words description of letter to Martin Baron",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "UPRIGHT_FIXED photo: envelope is rotated 90 degrees (sideways) within the corrected frame; address text runs vertically",
+    "READABLE": "OK", "READABLE_NOTE": "Address text readable despite sideways orientation"
+  }
+]
