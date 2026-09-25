@@ -1,0 +1,50 @@
+[
+  {
+    "item_number": "1088",
+    "name_on_card": "180 GOOD POEMS FOR SONGS",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "books/b09_180-good-poems_1.jpg", "NUMBER": "FLAG", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Photo is from the books/ folder and shows only the book cover with no number cards visible; cannot confirm item number 1088 from this photo",
+    "NAME": "OK", "NAME_NOTE": "Book cover reads '180 GOOD POEMS FOR SONGS / by tom jensen' with red roses design; matches name_on_card",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 1; book cover '180 GOOD POEMS FOR SONGS / by tom jensen' with three red roses on black background clearly visible; typed_words field states 'Not typed up yet' — no transcription available for comparison",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2005",
+    "name_on_card": "ONLY THE BEST",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_153552.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Four handwritten squares visible in horizontal row above book reading left-to-right as 2-0-0-S (S=5) = 2005; typed_words note 'NUMBER CARD: NONE' (possibly referring to absence of a standard card system) but also list the squares as 's/o/o/a' (= S,0,0,2 reversed = 2005); photo appears upright despite rotated-photos source path",
+    "NAME": "OK", "NAME_NOTE": "Book front cover reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; back cover reads '\"Everyone who has read this book has told me that they love me.\" - Tom Jensen readtom.com'; matches name_on_card 'ONLY THE BEST'",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; from rotated-photos source but photo appears upright; front and back covers both visible; typed_words describe both covers including the quote 'Everyone who has read this book has told me that they love me. - Tom Jensen readtom.com' and ISBN; confirmed",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented despite rotated-photos source folder; book cover text readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "2006",
+    "name_on_card": "ONLY THE BEST poems & song lyrics",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260818_153814.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Photo rotated 90°; four cards visible on right side, read top-to-bottom = 2-0-0-6 = 2006; typed_words confirm '[2] [0] [0] [6]' as the card digits",
+    "NAME": "OK", "NAME_NOTE": "Book cover (rotated 90° in frame) reads 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 1; rotated 90°; front cover 'ONLY THE BEST poems & song lyrics by Tom Jensen READTOM.COM' and back cover with '\"Everyone who has read this book has told me that they love me.\" - Tom Jensen readtom.com' and barcode visible; typed_words confirm all these details plus ISBN 978-1-387-89264-8; confirmed",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo rotated 90°; book covers text runs vertically sideways in frame",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1564",
+    "name_on_card": "SONGS BY TOM",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_110644.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-6-4 left-to-right (horizontal row at top; S=5) = 1564",
+    "NAME": "FLAG", "NAME_NOTE": "Photo 1 shows a purple/violet hard-cover book with a masquerade mask design; no title text visible on the cover in this photo; 'SONGS BY TOM' name cannot be confirmed from photo 1 alone",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 1; purple hard-cover book with masquerade mask graphic and no visible text on cover; typed_words field states 'Not typed up yet' — no transcription available for comparison",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "Photo appears correctly oriented; book cover readable in standard orientation",
+    "READABLE": "OK", "READABLE_NOTE": "Book cover clearly visible; no text present to evaluate"
+  }
+]
