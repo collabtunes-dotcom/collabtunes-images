@@ -1,0 +1,278 @@
+[
+  {
+    "item_number": "1072",
+    "name_on_card": "WHEN YOU'RE GONE",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_100510.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_100541__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_100518__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 4,
+        "repo_path": "gems-0501-1000/20260819_100529.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 5,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_100535__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 6,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_100539__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Photos 1, 2, 5, 6 show four blocks 1, 0, 7, 2 = 1072. Photo 4 is a close-up without blocks visible; photo 3 is a rotated close-up without blocks visible.",
+    "NAME": "OK",
+    "NAME_NOTE": "'WHEN YOU'RE GONE' visible as title on printed sheets in photos 2 and 5.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photos 5 and 6 (UPRIGHT) show printed sheet 1 and sheet 2 respectively with all WHEN YOU'RE GONE lyrics and annotations matching typed_words printed sheet content. Photos 1 and 2 show both sheets together. Photos 3 and 4 show the notebook page with 'NOTE: ORIGINAL LYRICS BY Justin Justice / YOU CANNOT USE THESE LYRICS TO MAKE MUSIC! / Just showing off...' which matches typed_words notebook page section. All typed_words content covered.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photos 3 and 4 show the spiral notebook page content rotated 90 degrees (text runs bottom to top). These are UPRIGHT-labeled but the physical notebook text itself is oriented sideways. Photos 1, 2, 5, 6 are correctly oriented.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Printed sheet text fully legible; notebook text legible despite sideways orientation."
+  },
+  {
+    "item_number": "1073",
+    "name_on_card": "FIELD OF STONE",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_100606.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/20260819_100911.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_100924__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 4,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_100916__UPRIGHT.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 5,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_100920__UPRIGHT.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 6,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_100928__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Photos 1, 2, 3, 6 show four blocks 1, 0, 7, 3 = 1073. Photos 4 and 5 are close-ups of notebook pages without number blocks visible.",
+    "NAME": "OK",
+    "NAME_NOTE": "'FIELD OF STONE' visible as title on the printed 'FIELD OF STONE - edit' sheet in photos 2, 3, and 6.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo 1 shows handwritten first section ('If it wasn't such crappa crappa / Then I'd've been a rappa rappa...') matching typed_words first section. Photos 3 and 6 show the typed 'FIELD OF STONE - edit' sheet (first and remaining stanzas respectively) matching typed_words second section through final 'By: Tyler Wayne Thompson'. Photos 4 and 5 show the notebook cover 'ORIGINAL SONGS & LYRICS BY Tyler Thompson / NOTE: YOU CANNOT USE THESE LYRICS TO MAKE MUSIC' which is referenced in typed_words. All sections covered.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photos 4 and 5 show the spiral notebook pages rotated 90 degrees (text runs sideways). These are UPRIGHT-labeled but the physical notebook text is oriented sideways. Photos 1, 2, 3, 6 are correctly oriented.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwritten and typed sheets fully legible; notebook text legible despite sideways orientation."
+  },
+  {
+    "item_number": "1074",
+    "name_on_card": "CHANGING",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260819_100959.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101012__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101205__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 4,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101003__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 5,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101006__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 6,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101017__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 7,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101145__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 8,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101152__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 9,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101153__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 10,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101157__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 11,
+        "repo_path": "upright-20260918/gems-0501-1000__20260819_101200__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Photos 1 and 2 show four blocks 1, 0, 7, 4 = 1074 clearly.",
+    "NAME": "OK",
+    "NAME_NOTE": "'CHANGING' visible as title on printed typed sheet in photos 1 and 2.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo 2 (UPRIGHT) shows the typed 'CHANGING' sheet page 1 with all stanzas through 'To start to live again.' and 'And if I could do just that / I lose and never win.' matching typed_words. Additional photos cover further pages (repeat stanza and other sections) of the CHANGING poem. The spiral notebook (Tyler Thompson) is also visible in photos and its content is referenced in typed_words. All typed_words content covered across 11 photos.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photo 1 shows notebook at correct orientation. Photo 2 and UPRIGHT corrected photos are correctly oriented.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Typed sheets fully legible."
+  },
+  {
+    "item_number": "1083",
+    "name_on_card": "Here I Am, Back Where It All Started",
+    "photos_checked": [],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "No photos provided for this card. Cannot verify number blocks.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No photos provided. Cannot verify name on card. Typed_words describe a handwritten lyric on a plain folded sheet with a brown stain containing the text 'Here I am... back where it all started...'",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "No photos provided. Cannot verify words on physical sheet against typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "No photos provided.",
+    "READABLE": "FLAG",
+    "READABLE_NOTE": "No photos provided."
+  },
+  {
+    "item_number": "1095",
+    "name_on_card": "Candy Rapper Superstar",
+    "photos_checked": [],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "No photos provided in photos array. Typed_words reference 'SHOT FILE: 20260810_085826.jpg' with 'NUMBER CARD: 1, 5, 9, 8' (= 1598, not 1095), suggesting a photo of card 1598 was used to document this card's content.",
+    "NAME": "FLAG",
+    "NAME_NOTE": "No photos in photos array. Cannot verify card name on physical sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "No photos in photos array. Typed_words contain the 'CANDY RAPPER SUPERSTAR' lyrics attributed to Brian Rainstorm, but the referenced shot file (20260810_085826.jpg) shows NUMBER CARD 1598 not 1095.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "No photos provided.",
+    "READABLE": "FLAG",
+    "READABLE_NOTE": "No photos provided."
+  },
+  {
+    "item_number": "1102",
+    "name_on_card": "50 WAYS TO FUCK YOUR LOVER",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1103).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1115).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1127).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "All three photos show blocks 4, 3, 1 = 431, not 1102. Content on sheets matches card 1102 typed_words ('50 WAYS TO FUCK YOUR LOVER') confirming this is card 1102's content, but number blocks do not read 1102.",
+    "NAME": "OK",
+    "NAME_NOTE": "'50 WAYS TO FUCK YOUR LOVER' visible as title on handwritten sheet in photo 1.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All three photos together cover the full 50-item poem: photo 1 covers stanzas 1-5 through 'Look out for puss Russ'; photo 2 covers middle stanzas through 'Ask her to see the movie Free Willy Billy'; photo 3 covers final stanzas through 'Just give her a good fuck Chuck'. All match typed_words.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]

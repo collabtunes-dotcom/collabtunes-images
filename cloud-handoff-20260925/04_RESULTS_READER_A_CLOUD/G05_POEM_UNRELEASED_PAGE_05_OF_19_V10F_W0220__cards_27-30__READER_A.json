@@ -1,0 +1,101 @@
+[
+  {
+    "item_number": "1",
+    "name_on_card": "I, I dont want to lie to",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (2).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 0, 0, 1 = 001 = 1.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I, I don't want to lie to you' visible at top of cardboard sheet, matching card name.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Photo shows the cardboard sheet with first section 'I, I don't want to lie to you / I don't wanna be your friend / I, I want to confide in you / That I saved the best / For the very end... / For the very end' (horizontal dividing line) 'I, I just had to tell some one / My dirty... little secret / I, I have barely just begun / to speak the truth / but now there's no use... / but now there's no use' - matching typed_words first section. Second section after '---' ('Today I won't lose my way like last time / Audio swapped / to the road / have a drink 14k / morning sex / DEAD') not visible on this cardboard sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on cardboard fully legible."
+  },
+  {
+    "item_number": "5",
+    "name_on_card": "I was Waiting... Searching... For the love of my life",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (15).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 0, 0, 5 = 005 = 5.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I was Waiting... Searching... / For the love of my life' visible in second (clean) version of poem on the sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Sheet shows two versions: a crossed-out first draft at top (circled/struck through heavily) and a clean second version below numbered stanzas 3 and 4 with 'I was Waiting... Searching... / For the love of my life / But then Haunting... Fleeting / Memories of my ex-wife' and further stanzas matching typed_words. Bottom of sheet shows 'Now I'm Slowly learning / There's more than emptiness inside / And I'd [?] give anything / But Laws of science don't apply...' matching typed_words section after '---'.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Many crossings-out in first draft but the clean version and bottom section are legible."
+  },
+  {
+    "item_number": "8",
+    "name_on_card": "I'm here, I'm there",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (22).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Three blocks show 0, 0, 8 = 008 = 8.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I'm here, I'm there' visible at top of handwritten lined sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "TYPED_NOT_PICTURED: Photo shows first stanza 'I'm here, I'm there / I'm everywhere / Building bridges across the world / Well my boat floats / But everybody gets soaked / The captain's floored / Just ignore it / Throw away your rain coats / And hop on board' and chorus repeat 'I'm here, I'm there / I'm everywhere / Building bridges across the world' matching typed_words first two sections. Additional sections in typed_words ('I used to be just like you / Angry and loud with something to prove / I spent my days confused---' and 'I picked up a piece of trash in...') not visible on this physical sheet.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwritten lined sheet fully legible."
+  },
+  {
+    "item_number": "13",
+    "name_on_card": "I won't be fixying houses for ever.",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (39).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (40).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Both photos show three blocks 0, 1, 3 = 013 = 13.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I won't be fixxing houses for ever...' visible at top of pink sheet in photo 1, matching card name.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo 1 shows the pink sheet with poem 'I won't be fixxing houses for ever... / We all know that I can do better / People and their lives can change like the weather / Just look at my wife and the fact I haven't met her... yet / I just do the best I can / I'm a simple man / But I got big plans / Someday I'll start a band... / And someday we'll play a set / I won't be going to school [crossed out text] until I'm almost dead / for if I got too smart my brain might get too big for my head / I finally dropped all the deadweight cause I was sinking [was made of / like Led]' - all matching typed_words. Photo 2 shows the back of the same pink sheet (which is a printed 'Dodge Street Bar & Grill - August 2003 Music Schedule' flyer); the poem was written on the reverse side of this flyer.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Handwriting on pink paper fully legible; some crossings-out but main text identifiable."
+  }
+]
