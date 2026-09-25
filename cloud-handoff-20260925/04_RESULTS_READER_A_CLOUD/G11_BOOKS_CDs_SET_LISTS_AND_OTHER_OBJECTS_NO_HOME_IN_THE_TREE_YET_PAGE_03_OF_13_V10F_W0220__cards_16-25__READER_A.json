@@ -1,0 +1,120 @@
+[
+  {
+    "item_number": "2002",
+    "name_on_card": "SURE LINES",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "upright-20260918/gems-1800-2045__20260818_121805__UPRIGHT.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 2-0-0-2 bottom-to-top (vertical column) = 2002; UPRIGHT_FIXED photo",
+    "NAME": "OK", "NAME_NOTE": "Photo shows multiple CD inserts; bottom-left card reads 'SURE LINES' header with MUSIC & VOCALS by Klaus Bluetner / LYRICS by Tom Jensen and track listing",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 7; multiple inserts visible: SONGS FOR A LADY tree insert, A LIFETIME OF RHYME purple insert, SURE LINES colorful dots card, Justin Justice UNITY card, Tom Jensen card",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "UPRIGHT_FIXED version; overall photo orientation correct",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1766",
+    "name_on_card": "JUSTIN JUSTICE 18 SONGS DISC",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-b/20260828_093021.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-6-6 left-to-right (horizontal) = 1766",
+    "NAME": "OK", "NAME_NOTE": "CD in clear case shows 'JUSTIN JUSTICE' / 'TOM JENSEN' with 18-song track list",
+    "WORDS": "OK", "WORDS_NOTE": "Full 18-song listing visible including Alison's Airplane through The Train",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1767",
+    "name_on_card": "JUSTIN JUSTICE 18 SONGS DISC PURPLE CASE",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093052.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-6-7 bottom-to-top (vertical column) = 1767",
+    "NAME": "OK", "NAME_NOTE": "CD in purple case shows 'JUSTIN JUSTICE' / 'TOM JENSEN' / 'lyrics by TOM JENSEN Visit: readtom.com'; purple case matches name",
+    "WORDS": "OK", "WORDS_NOTE": "18-song track list visible; justinjustice.com / readtom.com visible",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1768",
+    "name_on_card": "JUSTIN JUSTICE 18 SONGS DISC",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093116.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-6-8 bottom-to-top (vertical column) = 1768",
+    "NAME": "OK", "NAME_NOTE": "CD in purple case shows 'JUSTIN JUSTICE' / 'TOM JENSEN' insert with 18-song list",
+    "WORDS": "OK", "WORDS_NOTE": "18-song list visible; readtom.com / justinjustice.com visible",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1945",
+    "name_on_card": "Assorted musicians CD",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1800-2045/20260817_212657.jpg", "NUMBER": "OK", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-9-4-5 bottom-to-top (vertical column) = 1945",
+    "NAME": "OK", "NAME_NOTE": "Document header reads 'Assorted musicians CD'; matches name_on_card",
+    "WORDS": "OK", "WORDS_NOTE": "Photo 1 of 5; track listings visible (sideways) on two sheets; includes Maybe Someday (Bryan Magsayo), Rocking the World (Lai Youtithem), Fight For Peace (Lynette) etc.",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Document text is rotated 90 degrees in photo; text runs vertically",
+    "READABLE": "OK", "READABLE_NOTE": "Text readable despite sideways orientation"
+  },
+  {
+    "item_number": "1784",
+    "name_on_card": "100 POEMS FOR BOOK NOV 15 07 GOLD CDR",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093733.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-8-4 bottom-to-top (vertical column) = 1784",
+    "NAME": "OK", "NAME_NOTE": "Gold Staples CD-R reads '100 poems for book / Nov 15th '07 / CD-R / done w/comm.'; matches name_on_card '100 POEMS FOR BOOK NOV 15 07 GOLD CDR'",
+    "WORDS": "OK", "WORDS_NOTE": "Disc shows 'STAPLES CONTENTS: 100 poems for book Nov. 15th '07 done done CD-R w/comm.'",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1769",
+    "name_on_card": "A Lifetime of Rhyme",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093143.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-7-6-9 bottom-to-top (vertical column) = 1769",
+    "NAME": "OK", "NAME_NOTE": "Memorex CD-R reads 'A Lifetime of Rhyme first demo 26th copy'; Tom Jensen business card also visible",
+    "WORDS": "OK", "WORDS_NOTE": "Disc and business card content matches typed_words",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1770",
+    "name_on_card": "A LIFETIME OF RHYME 16TH COPY",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799/20260828_093204.jpg", "NUMBER": "FLAG", "WAY_UP": "FLAG", "READABLE": "OK"}
+    ],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "Cards visible bottom-to-top: 1, then a card drawn as curved '7' or loop, then a card appearing as '0', then top card appears as '0'; reading bottom-to-top gives 1-7-0-0 = 1700 or possibly 1-7-7-0 = 1770 if third card is 7; cannot confirm second digit is 7 not 0; disc reads 'A LIFETIME of RHYME 16th copy' consistent with item but number ambiguous",
+    "NAME": "OK", "NAME_NOTE": "Disc reads 'A LIFETIME of RHYME' with '16th copy' visible; matches name_on_card 'A LIFETIME OF RHYME 16TH COPY'",
+    "WORDS": "OK", "WORDS_NOTE": "Disc and Tom Jensen business card (DON'T WORRY, I WILL SAVE THE WORLD FROM EVIL; READTOM.COM) visible",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "Photo appears rotated; disc text reads upside-down relative to number cards",
+    "READABLE": "OK", "READABLE_NOTE": "Disc label readable despite orientation"
+  },
+  {
+    "item_number": "1571",
+    "name_on_card": "CD-R COLLECTION",
+    "photos_checked": [
+      {"pos": 1, "repo_path": "gems-1500-1799-a/20260808_112648.jpg", "NUMBER": "OK", "WAY_UP": "OK", "READABLE": "OK"}
+    ],
+    "NUMBER": "OK", "NUMBER_NOTE": "Cards read 1-S-7-1 left-to-right (horizontal, S=5) = 1571",
+    "NAME": "FLAG", "NAME_NOTE": "Photo shows book titled 'POETRY IS NOT DEAD YET by Brian Rainstorm'; does not match name_on_card 'CD-R COLLECTION'",
+    "WORDS": "FLAG", "WORDS_NOTE": "Photo 1 of 5; shows book cover only; item description says CD-R and cassette collection but photo shows a book",
+    "WAY_UP": "OK", "WAY_UP_NOTE": "",
+    "READABLE": "OK", "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "1573",
+    "name_on_card": "CD-R COLLECTION",
+    "photos_checked": [],
+    "NUMBER": "FLAG", "NUMBER_NOTE": "No photos in this card entry; cannot verify number from photos",
+    "NAME": "FLAG", "NAME_NOTE": "No photos available to verify name",
+    "WORDS": "FLAG", "WORDS_NOTE": "No photos available",
+    "WAY_UP": "FLAG", "WAY_UP_NOTE": "No photos available",
+    "READABLE": "FLAG", "READABLE_NOTE": "No photos available"
+  }
+]
