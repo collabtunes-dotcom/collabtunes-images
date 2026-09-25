@@ -1,0 +1,286 @@
+[
+    {
+        "item_number": "904",
+        "name_on_card": "I don't know why I even try to get through to you",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-0501-1000/20260819_075450.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 2,
+                "repo_path": "gems-0501-1000/20260819_075457.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1589",
+        "name_on_card": "Only The Best: Poems & Song Lyrics",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1500-1799-a/20260808_114608.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "FLAG",
+        "WORDS_NOTE": "typed_words says 'Not typed up yet.'",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1590",
+        "name_on_card": "Only The Best: Poems & Song Lyrics",
+        "photos_checked": [],
+        "NUMBER": "NO PHOTOS",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "FLAG",
+        "WORDS_NOTE": "typed_words says 'Not typed up yet.'",
+        "WAY_UP": "NO PHOTOS",
+        "WAY_UP_NOTE": "",
+        "READABLE": "NO PHOTOS",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1575",
+        "name_on_card": "POEMS BY TOM - 2nd best copy",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1500-1799-a/20260808_113506.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "FLAG",
+        "WORDS_NOTE": "typed_words says 'Not typed up yet.'",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Book shown rotated 90 degrees (on its side) in gems-1500-1799-a/20260808_113506.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1566",
+        "name_on_card": "Song Lyrics & Poems",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1500-1799-a/20260808_111932.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 2,
+                "repo_path": "gems-1500-1799-a/20260808_111938.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 3,
+                "repo_path": "gems-1500-1799-a/20260808_111950.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 4,
+                "repo_path": "gems-1500-1799-a/20260808_112032.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 5,
+                "repo_path": "gems-1500-1799-a/20260808_112033.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Book/pages shown rotated 90 degrees in gems-1500-1799-a/20260808_111950.jpg, 20260808_112032.jpg, 20260808_112033.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1897",
+        "name_on_card": "YOU ROCK!!",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260817_100506.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 2,
+                "repo_path": "gems-1800-2045/20260817_100515.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 3,
+                "repo_path": "gems-1800-2045/20260810_080917.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Document shown rotated 90 degrees in gems-1800-2045/20260817_100506.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "324",
+        "name_on_card": "YouTube - Broadcast Yourself",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-0001-0500-b/of 1348 HAND WRITTEN LYRICS (890).jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "OK",
+        "WAY_UP_NOTE": "",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1941",
+        "name_on_card": "INDEX",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260817_211810.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 2,
+                "repo_path": "gems-1800-2045/20260817_211815.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 3,
+                "repo_path": "gems-1800-2045/20260817_211819.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            },
+            {
+                "pos": 4,
+                "repo_path": "gems-1800-2045/20260817_211823.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "OK",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Document shown rotated 90 degrees in gems-1800-2045/20260817_211810.jpg and 20260817_211815.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1903",
+        "name_on_card": "MUSICIANS TURN MY WORDS INTO SONGS",
+        "photos_checked": [
+            {
+                "pos": 1,
+                "repo_path": "gems-1800-2045/20260817_102833.jpg",
+                "NUMBER": "OK",
+                "WAY_UP": "FLAG",
+                "READABLE": "OK"
+            }
+        ],
+        "NUMBER": "OK",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "FLAG",
+        "WAY_UP_NOTE": "Document shown rotated 90 degrees in gems-1800-2045/20260817_102833.jpg",
+        "READABLE": "OK",
+        "READABLE_NOTE": ""
+    },
+    {
+        "item_number": "1359",
+        "name_on_card": "POEMS",
+        "photos_checked": [],
+        "NUMBER": "NO PHOTOS",
+        "NUMBER_NOTE": "",
+        "NAME": "OK",
+        "NAME_NOTE": "",
+        "WORDS": "OK",
+        "WORDS_NOTE": "",
+        "WAY_UP": "NO PHOTOS",
+        "WAY_UP_NOTE": "",
+        "READABLE": "NO PHOTOS",
+        "READABLE_NOTE": ""
+    }
+]
