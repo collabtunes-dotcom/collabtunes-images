@@ -1,0 +1,302 @@
+[
+  {
+    "item_number": "513",
+    "name_on_card": "I won't make you rich but I can",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1262).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/20260818_170239.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 1, 3 = 513 in both photos.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I won't make you rich but I can' visible in photo 1.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "Photo 1 shows first section (Lesson One poem); photo 2 shows second section ('I wake up in the early morning...'). Both typed sections covered.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "514",
+    "name_on_card": "have you ever bought",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1263).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1264).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "upright-20260918/gems-0001-0500-a__of 1348 HAND WRITTEN LYRICS (1265)__UPRIGHT.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 4,
+        "repo_path": "upright-20260918/gems-0001-0500-a__of 1348 HAND WRITTEN LYRICS (1266)__UPRIGHT.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 5,
+        "repo_path": "gems-0501-1000/20260818_170302.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Photos 1 and 5 show blocks 5, 1, 4 = 514. Photos 2, 3, 4 have no number blocks visible.",
+    "NAME": "OK",
+    "NAME_NOTE": "First lines 'have you ever bought / a picture / just because you liked the frame?' visible in photo 1.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "All five typed sections covered across the five photos: 'have you ever bought' (photo 1), Molly poem (photo 2), 'It's a good way to die' + 'Some may say' (photo 3), 'The fog is fading' (photo 4), 'It's now proven' (photo 5).",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "Photos 3 and 4 are UPRIGHT corrected versions; text reads correctly right-side up.",
+    "READABLE": "OK",
+    "READABLE_NOTE": "Photo 2 has some lines heavily crossed out but main text legible."
+  },
+  {
+    "item_number": "521",
+    "name_on_card": "Reincarnation",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_170519.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "upright-20260918/gems-0001-0500-a__of 1348 HAND WRITTEN LYRICS (1276)__UPRIGHT.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-0501-1000/20260818_170543.jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Photos 1 and 2 show blocks 5, 2, 1 = 521. Photo 3 shows blocks 5, 2, 2 = 522, not 521.",
+    "NAME": "OK",
+    "NAME_NOTE": "'Reincarnation' visible as title in photo 1.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "WORDS_FROM_OTHER_SHEET: Photo 3 (170543.jpg, NUMBER 522) shows 'You Never Know what kind of fruit...' / 'Man in the sky lookin' down...' which does not appear in typed_words for this card and appears to belong to card 522.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "526",
+    "name_on_card": "Tim's Song",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_170709.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 2,
+        "repo_path": "gems-0501-1000/501 to 787 part 2 (63).jpg",
+        "NUMBER": "FLAG",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 3,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1281).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      },
+      {
+        "pos": 4,
+        "repo_path": "gems-0501-1000/20260818_170837.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "FLAG",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "FLAG",
+    "NUMBER_NOTE": "Photos 1, 3 show 5, 2, 6 = 526. Photo 4 shows 5, 2, 6 (sideways but visible). Photo 2 shows blocks 6, 2, 5 = 625, not 526.",
+    "NAME": "OK",
+    "NAME_NOTE": "'Tim's Song' visible as decorative title in photo 1.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SHEET_NOT_TYPED: Photo 1 shows 'Tim's Song / How much money does it take?' poem not in typed_words. Photo 2 (NUMBER 625) shows 'When she calls you up you drop everything...' not in typed_words. Photo 3 shows 'Dust-to-Dust / When you don't wanna remember...' not in typed_words. Photo 4 shows TOTEM POLE poem which IS in typed_words.",
+    "WAY_UP": "FLAG",
+    "WAY_UP_NOTE": "Photo 4 (170837.jpg) is rotated 90 degrees; sheet and text are sideways.",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "527",
+    "name_on_card": "FEEDING TIME",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0001-0500-a/of 1348 HAND WRITTEN LYRICS (1283).jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 2, 7 = 527.",
+    "NAME": "OK",
+    "NAME_NOTE": "'FEEDING TIME' visible as title at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "536",
+    "name_on_card": "Last Thoughts on life...",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_171221.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 3, 6 = 536.",
+    "NAME": "OK",
+    "NAME_NOTE": "'Last Thoughts on life...' visible as title at top of sheet.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SMALL_DIFF: Photo shows additional lines not in typed_words: 'Smile then frown' (between 'Up then down' and 'Lefts and rights'), 'Thoughts then words' (before 'then poems then songs'), and 'To say and do' (between 'To know and tell' and 'To lie to be true').",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "537",
+    "name_on_card": "I've been waiting for my baby",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_171244.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 3, 7 = 537.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'I've been waiting for my baby' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "541",
+    "name_on_card": "So many things I long to tell you",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_171356.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 4, 1 = 541.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'So many things I long to tell you' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "545",
+    "name_on_card": "After you're dragged by a car",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_171452.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 4, 5 = 545.",
+    "NAME": "OK",
+    "NAME_NOTE": "First line 'After you're dragged by a car' visible at top of sheet.",
+    "WORDS": "OK",
+    "WORDS_NOTE": "",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  },
+  {
+    "item_number": "547",
+    "name_on_card": "Go Away, Don't Go Away, I Don't Need You Any More",
+    "photos_checked": [
+      {
+        "pos": 1,
+        "repo_path": "gems-0501-1000/20260818_171522.jpg",
+        "NUMBER": "OK",
+        "WAY_UP": "OK",
+        "READABLE": "OK"
+      }
+    ],
+    "NUMBER": "OK",
+    "NUMBER_NOTE": "Blocks show 5, 4, 7 = 547.",
+    "NAME": "OK",
+    "NAME_NOTE": "Card name derived from opening lines 'go away / don't go away / I don't need you any more' visible on sheet. Also '38 dear guitar' note visible.",
+    "WORDS": "FLAG",
+    "WORDS_NOTE": "SMALL_DIFF: Final lines differ slightly — photo shows 'Don't go away wasted / Won't waste tomorrow like I [crossed out] yesterday' while typed_words has 'Go away / I don't go away / Won't waste tomorrow like I have spent yesterday / I love you -'. Last line 'I love you -' not clearly visible in photo.",
+    "WAY_UP": "OK",
+    "WAY_UP_NOTE": "",
+    "READABLE": "OK",
+    "READABLE_NOTE": ""
+  }
+]
